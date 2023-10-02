@@ -1,0 +1,1029 @@
+Document: ID=Paint Scare!_Transcript | The Owl House Wiki | Fandom.html.txt.txt (24 sentences, 360 tokens)
+
+Sentence #1 (10 tokens):
+Open on Luz and King painting in the woods.
+
+Tokens:
+[Text=Open CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=VB Lemma=open NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=5 CharacterOffsetEnd=7 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=8 CharacterOffsetEnd=11 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=12 CharacterOffsetEnd=15 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=King CharacterOffsetBegin=16 CharacterOffsetEnd=20 PartOfSpeech=NNP Lemma=King NamedEntityTag=TITLE]
+[Text=painting CharacterOffsetBegin=21 CharacterOffsetEnd=29 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=30 CharacterOffsetEnd=32 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=33 CharacterOffsetEnd=36 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=woods CharacterOffsetBegin=37 CharacterOffsetEnd=42 PartOfSpeech=NNS Lemma=wood NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=42 CharacterOffsetEnd=43 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Open-1)
+case(Luz-3, on-2)
+obl:on(Open-1, Luz-3)
+cc(painting-6, and-4)
+compound(painting-6, King-5)
+obl:on(Open-1, painting-6)
+conj:and(Luz-3, painting-6)
+case(woods-9, in-7)
+det(woods-9, the-8)
+obl:in(Open-1, woods-9)
+punct(Open-1, .-10)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.5390415356042341
+King	TITLE	-
+
+Sentence #2 (20 tokens):
+Luz says: "When I first got here I thought everything was scary or stinky or both."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=44 CharacterOffsetEnd=47 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=48 CharacterOffsetEnd=52 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=52 CharacterOffsetEnd=53 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=54 CharacterOffsetEnd=55 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=When CharacterOffsetBegin=55 CharacterOffsetEnd=59 PartOfSpeech=WRB Lemma=when NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=60 CharacterOffsetEnd=61 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=first CharacterOffsetBegin=62 CharacterOffsetEnd=67 PartOfSpeech=RB Lemma=first NamedEntityTag=ORDINAL NormalizedNamedEntityTag=1.0]
+[Text=got CharacterOffsetBegin=68 CharacterOffsetEnd=71 PartOfSpeech=VBD Lemma=get NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=72 CharacterOffsetEnd=76 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=77 CharacterOffsetEnd=78 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=thought CharacterOffsetBegin=79 CharacterOffsetEnd=86 PartOfSpeech=VBD Lemma=think NamedEntityTag=O]
+[Text=everything CharacterOffsetBegin=87 CharacterOffsetEnd=97 PartOfSpeech=NN Lemma=everything NamedEntityTag=O]
+[Text=was CharacterOffsetBegin=98 CharacterOffsetEnd=101 PartOfSpeech=VBD Lemma=be NamedEntityTag=O]
+[Text=scary CharacterOffsetBegin=102 CharacterOffsetEnd=107 PartOfSpeech=JJ Lemma=scary NamedEntityTag=O]
+[Text=or CharacterOffsetBegin=108 CharacterOffsetEnd=110 PartOfSpeech=CC Lemma=or NamedEntityTag=O]
+[Text=stinky CharacterOffsetBegin=111 CharacterOffsetEnd=117 PartOfSpeech=JJ Lemma=stinky NamedEntityTag=O]
+[Text=or CharacterOffsetBegin=118 CharacterOffsetEnd=120 PartOfSpeech=CC Lemma=or NamedEntityTag=O]
+[Text=both CharacterOffsetBegin=121 CharacterOffsetEnd=125 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=125 CharacterOffsetEnd=126 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=126 CharacterOffsetEnd=127 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(got-8, When-5)
+nsubj(got-8, I-6)
+advmod(got-8, first-7)
+advcl(thought-11, got-8)
+advmod(got-8, here-9)
+nsubj(thought-11, I-10)
+ccomp(says-2, thought-11)
+nsubj(scary-14, everything-12)
+nsubj(stinky-16, everything-12)
+cop(scary-14, was-13)
+ccomp(thought-11, scary-14)
+cc(stinky-16, or-15)
+ccomp(thought-11, stinky-16)
+conj:or(scary-14, stinky-16)
+cc(both-18, or-17)
+ccomp(thought-11, both-18)
+conj:or(scary-14, both-18)
+punct(says-2, .-19)
+punct(says-2, "-20)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9829392984312474
+first	ORDINAL	ORDINAL:-1.0
+
+Sentence #3 (23 tokens):
+Luz says: "But I've learned to see the beauty in everything by getting outside and painting in nature."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=128 CharacterOffsetEnd=131 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=132 CharacterOffsetEnd=136 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=136 CharacterOffsetEnd=137 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=138 CharacterOffsetEnd=139 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=But CharacterOffsetBegin=139 CharacterOffsetEnd=142 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=143 CharacterOffsetEnd=144 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='ve CharacterOffsetBegin=144 CharacterOffsetEnd=147 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=learned CharacterOffsetBegin=148 CharacterOffsetEnd=155 PartOfSpeech=VBN Lemma=learn NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=156 CharacterOffsetEnd=158 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=see CharacterOffsetBegin=159 CharacterOffsetEnd=162 PartOfSpeech=VB Lemma=see NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=163 CharacterOffsetEnd=166 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=beauty CharacterOffsetBegin=167 CharacterOffsetEnd=173 PartOfSpeech=NN Lemma=beauty NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=174 CharacterOffsetEnd=176 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=everything CharacterOffsetBegin=177 CharacterOffsetEnd=187 PartOfSpeech=NN Lemma=everything NamedEntityTag=O]
+[Text=by CharacterOffsetBegin=188 CharacterOffsetEnd=190 PartOfSpeech=IN Lemma=by NamedEntityTag=O]
+[Text=getting CharacterOffsetBegin=191 CharacterOffsetEnd=198 PartOfSpeech=VBG Lemma=get NamedEntityTag=O]
+[Text=outside CharacterOffsetBegin=199 CharacterOffsetEnd=206 PartOfSpeech=JJ Lemma=outside NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=207 CharacterOffsetEnd=210 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=211 CharacterOffsetEnd=219 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=220 CharacterOffsetEnd=222 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=nature CharacterOffsetBegin=223 CharacterOffsetEnd=229 PartOfSpeech=NN Lemma=nature NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=229 CharacterOffsetEnd=230 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=230 CharacterOffsetEnd=231 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(learned-8, But-5)
+nsubj(learned-8, I-6)
+nsubj:xsubj(see-10, I-6)
+aux(learned-8, 've-7)
+conj:but(says-2, learned-8)
+mark(see-10, to-9)
+xcomp(learned-8, see-10)
+det(beauty-12, the-11)
+obj(see-10, beauty-12)
+case(everything-14, in-13)
+obl:in(see-10, everything-14)
+advmod(see-10, by-15)
+dep(by-15, getting-16)
+advmod(getting-16, outside-17)
+cc(painting-19, and-18)
+advmod(getting-16, painting-19)
+conj:and(outside-17, painting-19)
+case(nature-21, in-20)
+obl:in(outside-17, nature-21)
+punct(says-2, .-22)
+punct(says-2, "-23)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9664764028649099
+
+Sentence #4 (9 tokens):
+King says: "Who's that?"
+
+Tokens:
+[Text=King CharacterOffsetBegin=232 CharacterOffsetEnd=236 PartOfSpeech=NNP Lemma=King NamedEntityTag=TITLE]
+[Text=says CharacterOffsetBegin=237 CharacterOffsetEnd=241 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=241 CharacterOffsetEnd=242 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=243 CharacterOffsetEnd=244 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Who CharacterOffsetBegin=244 CharacterOffsetEnd=247 PartOfSpeech=WP Lemma=who NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=247 CharacterOffsetEnd=249 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=250 CharacterOffsetEnd=254 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=254 CharacterOffsetEnd=255 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=255 CharacterOffsetEnd=256 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, King-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+ccomp(says-2, Who-5)
+cop(Who-5, 's-6)
+nsubj(Who-5, that-7)
+punct(says-2, ?-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+King	TITLE	-
+
+Sentence #5 (25 tokens):
+Focus on Luz's painting, which is the view in front of her but with a dark, mysterious figure behind a tree.
+
+Tokens:
+[Text=Focus CharacterOffsetBegin=257 CharacterOffsetEnd=262 PartOfSpeech=NN Lemma=focus NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=263 CharacterOffsetEnd=265 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=266 CharacterOffsetEnd=269 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=CITY]
+[Text='s CharacterOffsetBegin=269 CharacterOffsetEnd=271 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=272 CharacterOffsetEnd=280 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=280 CharacterOffsetEnd=281 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=which CharacterOffsetBegin=282 CharacterOffsetEnd=287 PartOfSpeech=WDT Lemma=which NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=288 CharacterOffsetEnd=290 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=291 CharacterOffsetEnd=294 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=view CharacterOffsetBegin=295 CharacterOffsetEnd=299 PartOfSpeech=NN Lemma=view NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=300 CharacterOffsetEnd=302 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=front CharacterOffsetBegin=303 CharacterOffsetEnd=308 PartOfSpeech=NN Lemma=front NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=309 CharacterOffsetEnd=311 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=312 CharacterOffsetEnd=315 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=but CharacterOffsetBegin=316 CharacterOffsetEnd=319 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=320 CharacterOffsetEnd=324 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=325 CharacterOffsetEnd=326 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=dark CharacterOffsetBegin=327 CharacterOffsetEnd=331 PartOfSpeech=NN Lemma=dark NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=331 CharacterOffsetEnd=332 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=mysterious CharacterOffsetBegin=333 CharacterOffsetEnd=343 PartOfSpeech=JJ Lemma=mysterious NamedEntityTag=O]
+[Text=figure CharacterOffsetBegin=344 CharacterOffsetEnd=350 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=behind CharacterOffsetBegin=351 CharacterOffsetEnd=357 PartOfSpeech=IN Lemma=behind NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=358 CharacterOffsetEnd=359 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=tree CharacterOffsetBegin=360 CharacterOffsetEnd=364 PartOfSpeech=NN Lemma=tree NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=364 CharacterOffsetEnd=365 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Focus-1)
+case(painting-5, on-2)
+nmod:poss(painting-5, Luz-3)
+case(Luz-3, 's-4)
+nmod:on(Focus-1, painting-5)
+nsubj(view-10, painting-5)
+punct(painting-5, ,-6)
+ref(painting-5, which-7)
+cop(view-10, is-8)
+det(view-10, the-9)
+acl:relcl(painting-5, view-10)
+case(her-14, in-11)
+fixed(in-11, front-12)
+fixed(in-11, of-13)
+obl:in_front_of(view-10, her-14)
+dep(view-10, but-15)
+case(figure-21, with-16)
+det(figure-21, a-17)
+compound(figure-21, dark-18)
+punct(figure-21, ,-19)
+amod(figure-21, mysterious-20)
+obl:with(but-15, figure-21)
+case(tree-24, behind-22)
+det(tree-24, a-23)
+nmod:behind(figure-21, tree-24)
+punct(Focus-1, .-25)
+
+Extracted the following NER entity mentions:
+Luz	CITY	LOCATION:0.3370557206772855
+her	PERSON	-
+
+Sentence #6 (23 tokens):
+Luz says: "Oh, that's just some bushes that looked like a dark, mysterious figure, right?"
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=366 CharacterOffsetEnd=369 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=370 CharacterOffsetEnd=374 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=374 CharacterOffsetEnd=375 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=376 CharacterOffsetEnd=377 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=377 CharacterOffsetEnd=379 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=379 CharacterOffsetEnd=380 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=381 CharacterOffsetEnd=385 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=385 CharacterOffsetEnd=387 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=388 CharacterOffsetEnd=392 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=some CharacterOffsetBegin=393 CharacterOffsetEnd=397 PartOfSpeech=DT Lemma=some NamedEntityTag=O]
+[Text=bushes CharacterOffsetBegin=398 CharacterOffsetEnd=404 PartOfSpeech=NNS Lemma=bush NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=405 CharacterOffsetEnd=409 PartOfSpeech=WDT Lemma=that NamedEntityTag=O]
+[Text=looked CharacterOffsetBegin=410 CharacterOffsetEnd=416 PartOfSpeech=VBD Lemma=look NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=417 CharacterOffsetEnd=421 PartOfSpeech=IN Lemma=like NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=422 CharacterOffsetEnd=423 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=dark CharacterOffsetBegin=424 CharacterOffsetEnd=428 PartOfSpeech=NN Lemma=dark NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=428 CharacterOffsetEnd=429 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=mysterious CharacterOffsetBegin=430 CharacterOffsetEnd=440 PartOfSpeech=JJ Lemma=mysterious NamedEntityTag=O]
+[Text=figure CharacterOffsetBegin=441 CharacterOffsetEnd=447 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=447 CharacterOffsetEnd=448 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=right CharacterOffsetBegin=449 CharacterOffsetEnd=454 PartOfSpeech=NN Lemma=right NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=454 CharacterOffsetEnd=455 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=455 CharacterOffsetEnd=456 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(bushes-11, Oh-5)
+punct(bushes-11, ,-6)
+nsubj(bushes-11, that-7)
+cop(bushes-11, 's-8)
+advmod(bushes-11, just-9)
+det(bushes-11, some-10)
+ccomp(says-2, bushes-11)
+nsubj(looked-13, bushes-11)
+ref(bushes-11, that-12)
+acl:relcl(bushes-11, looked-13)
+case(figure-19, like-14)
+det(figure-19, a-15)
+compound(figure-19, dark-16)
+punct(figure-19, ,-17)
+amod(figure-19, mysterious-18)
+obl:like(looked-13, figure-19)
+punct(looked-13, ,-20)
+dep(looked-13, right-21)
+punct(says-2, ?-22)
+punct(says-2, "-23)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9634611840339766
+
+Sentence #7 (20 tokens):
+Takes her painting off the easel to reveal exactly what looks like her painting, but without the figure.
+
+Tokens:
+[Text=Takes CharacterOffsetBegin=457 CharacterOffsetEnd=462 PartOfSpeech=VBZ Lemma=take NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=463 CharacterOffsetEnd=466 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=467 CharacterOffsetEnd=475 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=476 CharacterOffsetEnd=479 PartOfSpeech=IN Lemma=off NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=480 CharacterOffsetEnd=483 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=easel CharacterOffsetBegin=484 CharacterOffsetEnd=489 PartOfSpeech=NN Lemma=easel NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=490 CharacterOffsetEnd=492 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=reveal CharacterOffsetBegin=493 CharacterOffsetEnd=499 PartOfSpeech=VB Lemma=reveal NamedEntityTag=O]
+[Text=exactly CharacterOffsetBegin=500 CharacterOffsetEnd=507 PartOfSpeech=RB Lemma=exactly NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=508 CharacterOffsetEnd=512 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=looks CharacterOffsetBegin=513 CharacterOffsetEnd=518 PartOfSpeech=VBZ Lemma=look NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=519 CharacterOffsetEnd=523 PartOfSpeech=IN Lemma=like NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=524 CharacterOffsetEnd=527 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=528 CharacterOffsetEnd=536 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=536 CharacterOffsetEnd=537 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=but CharacterOffsetBegin=538 CharacterOffsetEnd=541 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=without CharacterOffsetBegin=542 CharacterOffsetEnd=549 PartOfSpeech=IN Lemma=without NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=550 CharacterOffsetEnd=553 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=figure CharacterOffsetBegin=554 CharacterOffsetEnd=560 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=560 CharacterOffsetEnd=561 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Takes-1)
+nmod:poss(painting-3, her-2)
+obj(Takes-1, painting-3)
+case(easel-6, off-4)
+det(easel-6, the-5)
+obl:off(Takes-1, easel-6)
+mark(reveal-8, to-7)
+advcl:to(Takes-1, reveal-8)
+advmod(what-10, exactly-9)
+obj(reveal-8, what-10)
+dep(what-10, looks-11)
+case(painting-14, like-12)
+nmod:poss(painting-14, her-13)
+dep(what-10, painting-14)
+punct(what-10, ,-15)
+cc(figure-19, but-16)
+case(figure-19, without-17)
+det(figure-19, the-18)
+obj(reveal-8, figure-19)
+conj:but(what-10, figure-19)
+punct(Takes-1, .-20)
+
+Extracted the following NER entity mentions:
+her	PERSON	-
+her	PERSON	-
+
+Sentence #8 (9 tokens):
+Luz says: "That's funny."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=562 CharacterOffsetEnd=565 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=566 CharacterOffsetEnd=570 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=570 CharacterOffsetEnd=571 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=572 CharacterOffsetEnd=573 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=That CharacterOffsetBegin=573 CharacterOffsetEnd=577 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=577 CharacterOffsetEnd=579 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=funny CharacterOffsetBegin=580 CharacterOffsetEnd=585 PartOfSpeech=JJ Lemma=funny NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=585 CharacterOffsetEnd=586 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=586 CharacterOffsetEnd=587 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(funny-7, That-5)
+cop(funny-7, 's-6)
+ccomp(says-2, funny-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9797060947527563
+
+Sentence #9 (15 tokens):
+Luz says: "Wasn't there..."
+Luz says: "."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=588 CharacterOffsetEnd=591 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=592 CharacterOffsetEnd=596 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=596 CharacterOffsetEnd=597 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=598 CharacterOffsetEnd=599 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Was CharacterOffsetBegin=599 CharacterOffsetEnd=602 PartOfSpeech=VBD Lemma=be NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=602 CharacterOffsetEnd=605 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=there CharacterOffsetBegin=606 CharacterOffsetEnd=611 PartOfSpeech=RB Lemma=there NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=611 CharacterOffsetEnd=614 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=614 CharacterOffsetEnd=615 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=616 CharacterOffsetEnd=619 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=620 CharacterOffsetEnd=624 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=624 CharacterOffsetEnd=625 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=626 CharacterOffsetEnd=627 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=627 CharacterOffsetEnd=628 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=628 CharacterOffsetEnd=629 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cop(there-7, Was-5)
+advmod(there-7, n't-6)
+advmod(says-11, there-7)
+punct(says-11, ...-8)
+punct(says-11, "-9)
+nsubj(says-11, Luz-10)
+ccomp(says-2, says-11)
+punct(says-11, :-12)
+punct(says-11, "-13)
+punct(says-2, .-14)
+punct(says-2, "-15)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9649555638168111
+Luz	PERSON	PERSON:0.8784278308430339
+
+Sentence #10 (6 tokens):
+Luz says: "?"
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=630 CharacterOffsetEnd=633 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=634 CharacterOffsetEnd=638 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=638 CharacterOffsetEnd=639 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=640 CharacterOffsetEnd=641 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=641 CharacterOffsetEnd=642 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=642 CharacterOffsetEnd=643 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+punct(says-2, ?-5)
+punct(says-2, "-6)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9642988821205757
+
+Sentence #11 (9 tokens):
+She puts the painting back on the easel.
+
+Tokens:
+[Text=She CharacterOffsetBegin=644 CharacterOffsetEnd=647 PartOfSpeech=PRP Lemma=she NamedEntityTag=O]
+[Text=puts CharacterOffsetBegin=648 CharacterOffsetEnd=652 PartOfSpeech=VBZ Lemma=put NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=653 CharacterOffsetEnd=656 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=657 CharacterOffsetEnd=665 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=666 CharacterOffsetEnd=670 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=671 CharacterOffsetEnd=673 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=674 CharacterOffsetEnd=677 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=easel CharacterOffsetBegin=678 CharacterOffsetEnd=683 PartOfSpeech=NN Lemma=easel NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=683 CharacterOffsetEnd=684 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, puts-2)
+nsubj(puts-2, She-1)
+det(painting-4, the-3)
+obj(puts-2, painting-4)
+advmod(puts-2, back-5)
+case(easel-8, on-6)
+det(easel-8, the-7)
+obl:on(back-5, easel-8)
+punct(puts-2, .-9)
+
+Extracted the following NER entity mentions:
+She	PERSON	-
+
+Sentence #12 (12 tokens):
+The figure has moved to the foreground, now much larger.
+
+Tokens:
+[Text=The CharacterOffsetBegin=685 CharacterOffsetEnd=688 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=figure CharacterOffsetBegin=689 CharacterOffsetEnd=695 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=has CharacterOffsetBegin=696 CharacterOffsetEnd=699 PartOfSpeech=VBZ Lemma=have NamedEntityTag=O]
+[Text=moved CharacterOffsetBegin=700 CharacterOffsetEnd=705 PartOfSpeech=VBN Lemma=move NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=706 CharacterOffsetEnd=708 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=709 CharacterOffsetEnd=712 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=foreground CharacterOffsetBegin=713 CharacterOffsetEnd=723 PartOfSpeech=NN Lemma=foreground NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=723 CharacterOffsetEnd=724 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=now CharacterOffsetBegin=725 CharacterOffsetEnd=728 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>]
+[Text=much CharacterOffsetBegin=729 CharacterOffsetEnd=733 PartOfSpeech=RB Lemma=much NamedEntityTag=O]
+[Text=larger CharacterOffsetBegin=734 CharacterOffsetEnd=740 PartOfSpeech=JJR Lemma=larger NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=740 CharacterOffsetEnd=741 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, moved-4)
+det(figure-2, The-1)
+nsubj(moved-4, figure-2)
+aux(moved-4, has-3)
+case(foreground-7, to-5)
+det(foreground-7, the-6)
+obl:to(moved-4, foreground-7)
+punct(moved-4, ,-8)
+advmod(larger-11, now-9)
+advmod(larger-11, much-10)
+xcomp(moved-4, larger-11)
+punct(moved-4, .-12)
+
+Extracted the following NER entity mentions:
+now	DATE	DATE:-1.0
+
+Sentence #13 (19 tokens):
+She backs away from the painting before peering over it nervously, seeing the still-empty forest.
+
+Tokens:
+[Text=She CharacterOffsetBegin=742 CharacterOffsetEnd=745 PartOfSpeech=PRP Lemma=she NamedEntityTag=O]
+[Text=backs CharacterOffsetBegin=746 CharacterOffsetEnd=751 PartOfSpeech=VBZ Lemma=back NamedEntityTag=O]
+[Text=away CharacterOffsetBegin=752 CharacterOffsetEnd=756 PartOfSpeech=RB Lemma=away NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=757 CharacterOffsetEnd=761 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=762 CharacterOffsetEnd=765 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=766 CharacterOffsetEnd=774 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=before CharacterOffsetBegin=775 CharacterOffsetEnd=781 PartOfSpeech=IN Lemma=before NamedEntityTag=O]
+[Text=peering CharacterOffsetBegin=782 CharacterOffsetEnd=789 PartOfSpeech=VBG Lemma=peer NamedEntityTag=O]
+[Text=over CharacterOffsetBegin=790 CharacterOffsetEnd=794 PartOfSpeech=IN Lemma=over NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=795 CharacterOffsetEnd=797 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=nervously CharacterOffsetBegin=798 CharacterOffsetEnd=807 PartOfSpeech=RB Lemma=nervously NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=807 CharacterOffsetEnd=808 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=seeing CharacterOffsetBegin=809 CharacterOffsetEnd=815 PartOfSpeech=VBG Lemma=see NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=816 CharacterOffsetEnd=819 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=still CharacterOffsetBegin=820 CharacterOffsetEnd=825 PartOfSpeech=RB Lemma=still NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=825 CharacterOffsetEnd=826 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=empty CharacterOffsetBegin=826 CharacterOffsetEnd=831 PartOfSpeech=JJ Lemma=empty NamedEntityTag=O]
+[Text=forest CharacterOffsetBegin=832 CharacterOffsetEnd=838 PartOfSpeech=NN Lemma=forest NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=838 CharacterOffsetEnd=839 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, backs-2)
+nsubj(backs-2, She-1)
+case(painting-6, away-3)
+fixed(away-3, from-4)
+det(painting-6, the-5)
+obl:away_from(backs-2, painting-6)
+mark(peering-8, before-7)
+advcl:before(backs-2, peering-8)
+case(it-10, over-9)
+obl:over(peering-8, it-10)
+advmod(peering-8, nervously-11)
+punct(peering-8, ,-12)
+dep(peering-8, seeing-13)
+det(forest-18, the-14)
+advmod(empty-17, still-15)
+punct(empty-17, --16)
+amod(forest-18, empty-17)
+obj(seeing-13, forest-18)
+punct(backs-2, .-19)
+
+Extracted the following NER entity mentions:
+She	PERSON	-
+
+Sentence #14 (13 tokens):
+Luz says: "Sometimes my imagination gets away from me."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=840 CharacterOffsetEnd=843 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=844 CharacterOffsetEnd=848 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=848 CharacterOffsetEnd=849 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=850 CharacterOffsetEnd=851 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Sometimes CharacterOffsetBegin=851 CharacterOffsetEnd=860 PartOfSpeech=RB Lemma=sometimes NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=861 CharacterOffsetEnd=863 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=imagination CharacterOffsetBegin=864 CharacterOffsetEnd=875 PartOfSpeech=NN Lemma=imagination NamedEntityTag=O]
+[Text=gets CharacterOffsetBegin=876 CharacterOffsetEnd=880 PartOfSpeech=VBZ Lemma=get NamedEntityTag=O]
+[Text=away CharacterOffsetBegin=881 CharacterOffsetEnd=885 PartOfSpeech=RB Lemma=away NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=886 CharacterOffsetEnd=890 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=me CharacterOffsetBegin=891 CharacterOffsetEnd=893 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=893 CharacterOffsetEnd=894 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=894 CharacterOffsetEnd=895 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(gets-8, Sometimes-5)
+nmod:poss(imagination-7, my-6)
+nsubj(gets-8, imagination-7)
+ccomp(says-2, gets-8)
+case(me-11, away-9)
+fixed(away-9, from-10)
+obl:away_from(gets-8, me-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9642172134521307
+
+Sentence #15 (13 tokens):
+Luz says: "Only paint what you see, Luz."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=896 CharacterOffsetEnd=899 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=900 CharacterOffsetEnd=904 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=904 CharacterOffsetEnd=905 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=906 CharacterOffsetEnd=907 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Only CharacterOffsetBegin=907 CharacterOffsetEnd=911 PartOfSpeech=JJ Lemma=only NamedEntityTag=O]
+[Text=paint CharacterOffsetBegin=912 CharacterOffsetEnd=917 PartOfSpeech=NN Lemma=paint NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=918 CharacterOffsetEnd=922 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=923 CharacterOffsetEnd=926 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=see CharacterOffsetBegin=927 CharacterOffsetEnd=930 PartOfSpeech=VBP Lemma=see NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=930 CharacterOffsetEnd=931 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=932 CharacterOffsetEnd=935 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=935 CharacterOffsetEnd=936 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=936 CharacterOffsetEnd=937 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+amod(paint-6, Only-5)
+obj(says-2, paint-6)
+obj(see-9, paint-6)
+ref(paint-6, what-7)
+nsubj(see-9, you-8)
+acl:relcl(paint-6, see-9)
+punct(see-9, ,-10)
+obj(see-9, Luz-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9674827821329789
+Luz	PERSON	PERSON:0.5656928520756329
+
+Sentence #16 (11 tokens):
+King says: "L-L-Luz?"
+
+Tokens:
+[Text=King CharacterOffsetBegin=938 CharacterOffsetEnd=942 PartOfSpeech=NNP Lemma=King NamedEntityTag=TITLE]
+[Text=says CharacterOffsetBegin=943 CharacterOffsetEnd=947 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=947 CharacterOffsetEnd=948 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=949 CharacterOffsetEnd=950 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=L CharacterOffsetBegin=950 CharacterOffsetEnd=951 PartOfSpeech=NN Lemma=l NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=951 CharacterOffsetEnd=952 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=L CharacterOffsetBegin=952 CharacterOffsetEnd=953 PartOfSpeech=NN Lemma=l NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=953 CharacterOffsetEnd=954 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=954 CharacterOffsetEnd=957 PartOfSpeech=NN Lemma=luz NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=957 CharacterOffsetEnd=958 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=958 CharacterOffsetEnd=959 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, King-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+compound(Luz-9, L-5)
+punct(Luz-9, --6)
+compound(Luz-9, L-7)
+punct(Luz-9, --8)
+dep(says-2, Luz-9)
+punct(says-2, ?-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+King	TITLE	-
+
+Sentence #17 (18 tokens):
+The figure in the painting is now holding a sign reading "I'M BEHIND YOU".
+
+Tokens:
+[Text=The CharacterOffsetBegin=960 CharacterOffsetEnd=963 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=figure CharacterOffsetBegin=964 CharacterOffsetEnd=970 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=971 CharacterOffsetEnd=973 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=974 CharacterOffsetEnd=977 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=978 CharacterOffsetEnd=986 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=987 CharacterOffsetEnd=989 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=now CharacterOffsetBegin=990 CharacterOffsetEnd=993 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>]
+[Text=holding CharacterOffsetBegin=994 CharacterOffsetEnd=1001 PartOfSpeech=VBG Lemma=hold NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1002 CharacterOffsetEnd=1003 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=sign CharacterOffsetBegin=1004 CharacterOffsetEnd=1008 PartOfSpeech=NN Lemma=sign NamedEntityTag=O]
+[Text=reading CharacterOffsetBegin=1009 CharacterOffsetEnd=1016 PartOfSpeech=VBG Lemma=read NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1017 CharacterOffsetEnd=1018 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1018 CharacterOffsetEnd=1019 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='M CharacterOffsetBegin=1019 CharacterOffsetEnd=1021 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=BEHIND CharacterOffsetBegin=1022 CharacterOffsetEnd=1028 PartOfSpeech=IN Lemma=behind NamedEntityTag=O]
+[Text=YOU CharacterOffsetBegin=1029 CharacterOffsetEnd=1032 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1032 CharacterOffsetEnd=1033 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1033 CharacterOffsetEnd=1034 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, holding-8)
+det(figure-2, The-1)
+nsubj(holding-8, figure-2)
+case(painting-5, in-3)
+det(painting-5, the-4)
+nmod:in(figure-2, painting-5)
+aux(holding-8, is-6)
+advmod(holding-8, now-7)
+det(sign-10, a-9)
+obj(holding-8, sign-10)
+acl(sign-10, reading-11)
+punct('M-14, "-12)
+nsubj('M-14, I-13)
+ccomp(reading-11, 'M-14)
+case(YOU-16, BEHIND-15)
+obl:behind('M-14, YOU-16)
+punct('M-14, "-17)
+punct(holding-8, .-18)
+
+Extracted the following NER entity mentions:
+now	DATE	DATE:-1.0
+
+Sentence #18 (6 tokens):
+A shadow falls over them.
+
+Tokens:
+[Text=A CharacterOffsetBegin=1035 CharacterOffsetEnd=1036 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=shadow CharacterOffsetBegin=1037 CharacterOffsetEnd=1043 PartOfSpeech=NN Lemma=shadow NamedEntityTag=O]
+[Text=falls CharacterOffsetBegin=1044 CharacterOffsetEnd=1049 PartOfSpeech=VBZ Lemma=fall NamedEntityTag=O]
+[Text=over CharacterOffsetBegin=1050 CharacterOffsetEnd=1054 PartOfSpeech=IN Lemma=over NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1055 CharacterOffsetEnd=1059 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1059 CharacterOffsetEnd=1060 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, falls-3)
+det(shadow-2, A-1)
+nsubj(falls-3, shadow-2)
+case(them-5, over-4)
+obl:over(falls-3, them-5)
+punct(falls-3, .-6)
+
+Extracted the following NER entity mentions:
+
+Sentence #19 (4 tokens):
+Cut to black.
+
+Tokens:
+[Text=Cut CharacterOffsetBegin=1061 CharacterOffsetEnd=1064 PartOfSpeech=VB Lemma=cut NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1065 CharacterOffsetEnd=1067 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=black CharacterOffsetBegin=1068 CharacterOffsetEnd=1073 PartOfSpeech=JJ Lemma=black NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1073 CharacterOffsetEnd=1074 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Cut-1)
+case(black-3, to-2)
+obl:to(Cut-1, black-3)
+punct(Cut-1, .-4)
+
+Extracted the following NER entity mentions:
+
+Sentence #20 (20 tokens):
+A light spell is activated, showing a terrified Luz and King under what appears to be a blanket.
+
+Tokens:
+[Text=A CharacterOffsetBegin=1075 CharacterOffsetEnd=1076 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=light CharacterOffsetBegin=1077 CharacterOffsetEnd=1082 PartOfSpeech=JJ Lemma=light NamedEntityTag=O]
+[Text=spell CharacterOffsetBegin=1083 CharacterOffsetEnd=1088 PartOfSpeech=NN Lemma=spell NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=1089 CharacterOffsetEnd=1091 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=activated CharacterOffsetBegin=1092 CharacterOffsetEnd=1101 PartOfSpeech=VBN Lemma=activate NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1101 CharacterOffsetEnd=1102 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=showing CharacterOffsetBegin=1103 CharacterOffsetEnd=1110 PartOfSpeech=VBG Lemma=show NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1111 CharacterOffsetEnd=1112 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=terrified CharacterOffsetBegin=1113 CharacterOffsetEnd=1122 PartOfSpeech=JJ Lemma=terrified NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=1123 CharacterOffsetEnd=1126 PartOfSpeech=NN Lemma=luz NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=1127 CharacterOffsetEnd=1130 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=King CharacterOffsetBegin=1131 CharacterOffsetEnd=1135 PartOfSpeech=NNP Lemma=King NamedEntityTag=TITLE]
+[Text=under CharacterOffsetBegin=1136 CharacterOffsetEnd=1141 PartOfSpeech=IN Lemma=under NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=1142 CharacterOffsetEnd=1146 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=appears CharacterOffsetBegin=1147 CharacterOffsetEnd=1154 PartOfSpeech=VBZ Lemma=appear NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1155 CharacterOffsetEnd=1157 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=1158 CharacterOffsetEnd=1160 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1161 CharacterOffsetEnd=1162 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=blanket CharacterOffsetBegin=1163 CharacterOffsetEnd=1170 PartOfSpeech=NN Lemma=blanket NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1170 CharacterOffsetEnd=1171 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, activated-5)
+det(spell-3, A-1)
+amod(spell-3, light-2)
+nsubj:pass(activated-5, spell-3)
+aux:pass(activated-5, is-4)
+punct(activated-5, ,-6)
+dep(activated-5, showing-7)
+det(Luz-10, a-8)
+amod(Luz-10, terrified-9)
+obj(showing-7, Luz-10)
+cc(King-12, and-11)
+obj(showing-7, King-12)
+conj:and(Luz-10, King-12)
+mark(appears-15, under-13)
+nsubj(appears-15, what-14)
+nsubj:xsubj(blanket-19, what-14)
+advcl:under(showing-7, appears-15)
+mark(blanket-19, to-16)
+cop(blanket-19, be-17)
+det(blanket-19, a-18)
+xcomp(appears-15, blanket-19)
+punct(activated-5, .-20)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.772983582773505
+King	TITLE	-
+
+Sentence #21 (27 tokens):
+Luz says: "And you know, sometimes you can find beauty and grow as an artist from the safety of your own bed."
+
+Tokens:
+[Text=Luz CharacterOffsetBegin=1172 CharacterOffsetEnd=1175 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1176 CharacterOffsetEnd=1180 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1180 CharacterOffsetEnd=1181 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1182 CharacterOffsetEnd=1183 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=And CharacterOffsetBegin=1183 CharacterOffsetEnd=1186 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1187 CharacterOffsetEnd=1190 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=1191 CharacterOffsetEnd=1195 PartOfSpeech=VBP Lemma=know NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1195 CharacterOffsetEnd=1196 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=sometimes CharacterOffsetBegin=1197 CharacterOffsetEnd=1206 PartOfSpeech=RB Lemma=sometimes NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1207 CharacterOffsetEnd=1210 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=1211 CharacterOffsetEnd=1214 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=find CharacterOffsetBegin=1215 CharacterOffsetEnd=1219 PartOfSpeech=VB Lemma=find NamedEntityTag=O]
+[Text=beauty CharacterOffsetBegin=1220 CharacterOffsetEnd=1226 PartOfSpeech=NN Lemma=beauty NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1227 CharacterOffsetEnd=1230 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=grow CharacterOffsetBegin=1231 CharacterOffsetEnd=1235 PartOfSpeech=VB Lemma=grow NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1236 CharacterOffsetEnd=1238 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=an CharacterOffsetBegin=1239 CharacterOffsetEnd=1241 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=artist CharacterOffsetBegin=1242 CharacterOffsetEnd=1248 PartOfSpeech=NN Lemma=artist NamedEntityTag=TITLE]
+[Text=from CharacterOffsetBegin=1249 CharacterOffsetEnd=1253 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1254 CharacterOffsetEnd=1257 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=safety CharacterOffsetBegin=1258 CharacterOffsetEnd=1264 PartOfSpeech=NN Lemma=safety NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1265 CharacterOffsetEnd=1267 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=your CharacterOffsetBegin=1268 CharacterOffsetEnd=1272 PartOfSpeech=PRP$ Lemma=you NamedEntityTag=O]
+[Text=own CharacterOffsetBegin=1273 CharacterOffsetEnd=1276 PartOfSpeech=JJ Lemma=own NamedEntityTag=O]
+[Text=bed CharacterOffsetBegin=1277 CharacterOffsetEnd=1280 PartOfSpeech=NN Lemma=bed NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1280 CharacterOffsetEnd=1281 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1281 CharacterOffsetEnd=1282 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Luz-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(know-7, And-5)
+nsubj(know-7, you-6)
+ccomp(says-2, know-7)
+punct(know-7, ,-8)
+advmod(find-12, sometimes-9)
+nsubj(find-12, you-10)
+nsubj(grow-15, you-10)
+aux(find-12, can-11)
+ccomp(know-7, find-12)
+obj(find-12, beauty-13)
+cc(grow-15, and-14)
+ccomp(know-7, grow-15)
+conj:and(find-12, grow-15)
+case(artist-18, as-16)
+det(artist-18, an-17)
+obl:as(grow-15, artist-18)
+case(safety-21, from-19)
+det(safety-21, the-20)
+nmod:from(artist-18, safety-21)
+case(bed-25, of-22)
+nmod:poss(bed-25, your-23)
+amod(bed-25, own-24)
+nmod:of(safety-21, bed-25)
+punct(says-2, .-26)
+punct(says-2, "-27)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.9768248433536623
+artist	TITLE	-
+
+Sentence #22 (19 tokens):
+Zooms out to reveal that they're in Luz's room, the window behind them boarded up.
+
+Tokens:
+[Text=Zooms CharacterOffsetBegin=1283 CharacterOffsetEnd=1288 PartOfSpeech=VBZ Lemma=zoom NamedEntityTag=O]
+[Text=out CharacterOffsetBegin=1289 CharacterOffsetEnd=1292 PartOfSpeech=RP Lemma=out NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1293 CharacterOffsetEnd=1295 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=reveal CharacterOffsetBegin=1296 CharacterOffsetEnd=1302 PartOfSpeech=VB Lemma=reveal NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=1303 CharacterOffsetEnd=1307 PartOfSpeech=IN Lemma=that NamedEntityTag=O]
+[Text=they CharacterOffsetBegin=1308 CharacterOffsetEnd=1312 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=1312 CharacterOffsetEnd=1315 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1316 CharacterOffsetEnd=1318 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=Luz CharacterOffsetBegin=1319 CharacterOffsetEnd=1322 PartOfSpeech=NNP Lemma=Luz NamedEntityTag=PERSON]
+[Text='s CharacterOffsetBegin=1322 CharacterOffsetEnd=1324 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=room CharacterOffsetBegin=1325 CharacterOffsetEnd=1329 PartOfSpeech=NN Lemma=room NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1329 CharacterOffsetEnd=1330 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1331 CharacterOffsetEnd=1334 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=window CharacterOffsetBegin=1335 CharacterOffsetEnd=1341 PartOfSpeech=NN Lemma=window NamedEntityTag=O]
+[Text=behind CharacterOffsetBegin=1342 CharacterOffsetEnd=1348 PartOfSpeech=IN Lemma=behind NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1349 CharacterOffsetEnd=1353 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=boarded CharacterOffsetBegin=1354 CharacterOffsetEnd=1361 PartOfSpeech=VBD Lemma=board NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=1362 CharacterOffsetEnd=1364 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1364 CharacterOffsetEnd=1365 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Zooms-1)
+dep(reveal-4, out-2)
+mark(reveal-4, to-3)
+dep(Zooms-1, reveal-4)
+mark(room-11, that-5)
+nsubj(room-11, they-6)
+cop(room-11, 're-7)
+case(room-11, in-8)
+nmod:poss(room-11, Luz-9)
+case(Luz-9, 's-10)
+ccomp(reveal-4, room-11)
+punct(reveal-4, ,-12)
+det(window-14, the-13)
+nsubj(boarded-17, window-14)
+case(them-16, behind-15)
+nmod:behind(window-14, them-16)
+parataxis(reveal-4, boarded-17)
+compound:prt(boarded-17, up-18)
+punct(Zooms-1, .-19)
+
+Extracted the following NER entity mentions:
+Luz	PERSON	PERSON:0.5598015348190573
+
+Sentence #23 (20 tokens):
+Continue zooming out to reveal that the scene is a painting, made by the dark figure from before.
+
+Tokens:
+[Text=Continue CharacterOffsetBegin=1366 CharacterOffsetEnd=1374 PartOfSpeech=VB Lemma=continue NamedEntityTag=O]
+[Text=zooming CharacterOffsetBegin=1375 CharacterOffsetEnd=1382 PartOfSpeech=VBG Lemma=zoom NamedEntityTag=O]
+[Text=out CharacterOffsetBegin=1383 CharacterOffsetEnd=1386 PartOfSpeech=RP Lemma=out NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1387 CharacterOffsetEnd=1389 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=reveal CharacterOffsetBegin=1390 CharacterOffsetEnd=1396 PartOfSpeech=VB Lemma=reveal NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=1397 CharacterOffsetEnd=1401 PartOfSpeech=IN Lemma=that NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1402 CharacterOffsetEnd=1405 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=scene CharacterOffsetBegin=1406 CharacterOffsetEnd=1411 PartOfSpeech=NN Lemma=scene NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=1412 CharacterOffsetEnd=1414 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1415 CharacterOffsetEnd=1416 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=painting CharacterOffsetBegin=1417 CharacterOffsetEnd=1425 PartOfSpeech=NN Lemma=painting NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1425 CharacterOffsetEnd=1426 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=made CharacterOffsetBegin=1427 CharacterOffsetEnd=1431 PartOfSpeech=VBN Lemma=make NamedEntityTag=O]
+[Text=by CharacterOffsetBegin=1432 CharacterOffsetEnd=1434 PartOfSpeech=IN Lemma=by NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1435 CharacterOffsetEnd=1438 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=dark CharacterOffsetBegin=1439 CharacterOffsetEnd=1443 PartOfSpeech=JJ Lemma=dark NamedEntityTag=O]
+[Text=figure CharacterOffsetBegin=1444 CharacterOffsetEnd=1450 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=1451 CharacterOffsetEnd=1455 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=before CharacterOffsetBegin=1456 CharacterOffsetEnd=1462 PartOfSpeech=RB Lemma=before NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1462 CharacterOffsetEnd=1463 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Continue-1)
+dep(Continue-1, zooming-2)
+compound:prt(zooming-2, out-3)
+mark(reveal-5, to-4)
+xcomp(zooming-2, reveal-5)
+mark(painting-11, that-6)
+det(scene-8, the-7)
+nsubj(painting-11, scene-8)
+cop(painting-11, is-9)
+det(painting-11, a-10)
+ccomp(reveal-5, painting-11)
+punct(painting-11, ,-12)
+acl(painting-11, made-13)
+case(figure-17, by-14)
+det(figure-17, the-15)
+amod(figure-17, dark-16)
+obl:by(made-13, figure-17)
+case(before-19, from-18)
+advcl:from(made-13, before-19)
+punct(Continue-1, .-20)
+
+Extracted the following NER entity mentions:
+
+Sentence #24 (9 tokens):
+Dark Figure says: "So true."
+
+Tokens:
+[Text=Dark CharacterOffsetBegin=1464 CharacterOffsetEnd=1468 PartOfSpeech=JJ Lemma=dark NamedEntityTag=O]
+[Text=Figure CharacterOffsetBegin=1469 CharacterOffsetEnd=1475 PartOfSpeech=NN Lemma=figure NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1476 CharacterOffsetEnd=1480 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1480 CharacterOffsetEnd=1481 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1482 CharacterOffsetEnd=1483 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=So CharacterOffsetBegin=1483 CharacterOffsetEnd=1485 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=true CharacterOffsetBegin=1486 CharacterOffsetEnd=1490 PartOfSpeech=JJ Lemma=true NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1490 CharacterOffsetEnd=1491 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1491 CharacterOffsetEnd=1492 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+amod(Figure-2, Dark-1)
+nsubj(says-3, Figure-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+advmod(true-7, So-6)
+xcomp(says-3, true-7)
+punct(says-3, .-8)
+punct(says-3, "-9)
+
+Extracted the following NER entity mentions:
+
+Coreference set:
+	(7,3,[2,4]) -> (5,5,[3,25]), that is: "her painting" -> "Luz 's painting , which is the view in front of her but with a dark , mysterious figure behind a tree"
+	(7,14,[13,15]) -> (5,5,[3,25]), that is: "her painting" -> "Luz 's painting , which is the view in front of her but with a dark , mysterious figure behind a tree"
+	(11,4,[3,5]) -> (5,5,[3,25]), that is: "the painting" -> "Luz 's painting , which is the view in front of her but with a dark , mysterious figure behind a tree"
+	(13,6,[5,7]) -> (5,5,[3,25]), that is: "the painting" -> "Luz 's painting , which is the view in front of her but with a dark , mysterious figure behind a tree"
+	(13,10,[10,11]) -> (5,5,[3,25]), that is: "it" -> "Luz 's painting , which is the view in front of her but with a dark , mysterious figure behind a tree"
+	(17,5,[4,6]) -> (5,5,[3,25]), that is: "the painting" -> "Luz 's painting , which is the view in front of her but with a dark , mysterious figure behind a tree"
+
+Coreference set:
+	(1,3,[3,4]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(2,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(2,6,[6,7]) -> (5,3,[3,5]), that is: "I" -> "Luz 's"
+	(2,10,[10,11]) -> (5,3,[3,5]), that is: "I" -> "Luz 's"
+	(3,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(3,6,[6,7]) -> (5,3,[3,5]), that is: "I" -> "Luz 's"
+	(6,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(7,2,[2,3]) -> (5,3,[3,5]), that is: "her" -> "Luz 's"
+	(7,13,[13,14]) -> (5,3,[3,5]), that is: "her" -> "Luz 's"
+	(8,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(9,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(9,10,[10,11]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(10,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(11,1,[1,2]) -> (5,3,[3,5]), that is: "She" -> "Luz 's"
+	(13,1,[1,2]) -> (5,3,[3,5]), that is: "She" -> "Luz 's"
+	(14,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(14,6,[6,7]) -> (5,3,[3,5]), that is: "my" -> "Luz 's"
+	(14,11,[11,12]) -> (5,3,[3,5]), that is: "me" -> "Luz 's"
+	(15,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(15,11,[11,12]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(21,1,[1,2]) -> (5,3,[3,5]), that is: "Luz" -> "Luz 's"
+	(22,9,[9,11]) -> (5,3,[3,5]), that is: "Luz 's" -> "Luz 's"
+
+Coreference set:
+	(22,16,[16,17]) -> (22,6,[6,7]), that is: "them" -> "they"
+
+Coreference set:
+	(11,8,[7,9]) -> (7,6,[5,7]), that is: "the easel" -> "the easel"
+
+Coreference set:
+	(16,1,[1,2]) -> (4,1,[1,2]), that is: "King" -> "King"
+
+Coreference set:
+	(21,10,[10,11]) -> (21,6,[6,7]), that is: "you" -> "you"
+	(21,23,[23,24]) -> (21,6,[6,7]), that is: "your" -> "you"
+
+Coreference set:
+	(12,2,[1,3]) -> (7,19,[16,20]), that is: "The figure" -> "but without the figure"
+	(17,2,[1,6]) -> (7,19,[16,20]), that is: "The figure in the painting" -> "but without the figure"

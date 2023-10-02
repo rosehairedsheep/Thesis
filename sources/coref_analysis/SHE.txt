@@ -1,0 +1,2140 @@
+STATS:
+[12, 117, 54, 529]
+
+
+
+speaker: YOUNG ADORA
+addressee: MARA
+
+speaker: SCORPIA
+addressee: MERMISTA
+
+speaker: SPINNERELLA
+addressee: NETOSSA
+
+speaker: SPINNERELLA
+addressee: NETOSSA
+
+speaker: PERFUMA
+addressee: SCORPIA
+
+speaker: PERFUMA
+addressee: SCORPIA
+
+speaker: PERFUMA
+addressee: SCORPIA
+
+speaker: PERFUMA
+addressee: SCORPIA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: CASTA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: CASTA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: MICAH
+addressee: SHADOW WEAVER
+
+speaker: MICAH
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: CASTASPELLA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: WRONG HORDAK
+addressee: ADORA
+
+speaker: WRONG HORDAK
+addressee: ADORA
+
+speaker: WRONG HORDAK
+addressee: ADORA
+
+speaker: QUEEN ANGELLA
+addressee: ADORA
+
+speaker: RAZZ
+addressee: ADORA
+
+speaker: RAZZ
+addressee: ADORA
+
+speaker: RAZZ
+addressee: ADORA
+
+speaker: QUEEN ANGELLA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: QUEEN ANGELLA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: LONNIE
+addressee: ANGELLA
+
+speaker: LONNIE
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: ANGELLA
+
+speaker: YOUNG ADORA
+addressee: ANGELLA
+
+speaker: YOUNG ADORA
+addressee: ANGELLA
+
+speaker: YOUNG ADORA
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: SHADOW WEAVER
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: RAZZ
+addressee: MARA
+
+speaker: RAZZ
+addressee: MARA
+
+speaker: RAZZ
+addressee: MARA
+
+speaker: RAZZ
+addressee: MARA
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: MARA
+addressee: RAZZ
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: RAZZ
+addressee: ADORA
+
+speaker: RAZZ
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: LONNIE
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: YOUNG CATRA
+
+speaker: YOUNG ADORA
+addressee: YOUNG CATRA
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: YOUNG ADORA
+addressee: SCORPIA
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: YOUNG ADORA
+addressee: RAZZ
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: FROSTA
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: QUEEN ANGELLA
+addressee: SHADOW WEAVER
+
+speaker: QUEEN ANGELLA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: FLUTTERINA
+
+speaker: BOW
+addressee: FLUTTERINA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: FLUTTERINA
+addressee: ADORA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: WRONG HORDAK
+addressee: ENTRAPTA
+
+speaker: WRONG HORDAK
+addressee: ENTRAPTA
+
+speaker: WRONG HORDAK
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: FROSTA
+addressee: MICAH
+
+speaker: FROSTA
+addressee: MICAH
+
+speaker: FROSTA
+addressee: MICAH
+
+speaker: FROSTA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: NETOSSA
+addressee: CATRA
+
+speaker: MICAH
+addressee: CATRA
+
+speaker: NETOSSA
+addressee: SPINNERELLA
+
+speaker: BOW
+addressee: ENTRAPTA
+
+speaker: BOW
+addressee: LANCE
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: MERMISTA
+addressee: FROSTA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: MICAH
+addressee: ADORA
+
+speaker: FROSTA
+addressee: MERMISTA
+
+speaker: GLIMMER
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: QUEEN ANGELLA
+addressee: FROSTA
+
+speaker: GLIMMER
+addressee: FROSTA
+
+speaker: GLIMMER
+addressee: FROSTA
+
+speaker: QUEEN ANGELLA
+addressee: FROSTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: CASTA
+addressee: SHADOW WEAVER
+
+speaker: CASTA
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: CASTA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: SCORPIA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: SCORPIA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: BOW
+addressee: MERMISTA
+
+speaker: GLIMMER
+addressee: MERMISTA
+
+speaker: YOUNG ADORA
+addressee: SEA HAWK
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: MICAH
+addressee: ANGELLA
+
+speaker: YOUNG ADORA
+addressee: ANGELLA
+
+speaker: MICAH
+addressee: ANGELLA
+
+speaker: BOW
+addressee: MICAH
+
+speaker: BOW
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: MICAH
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: PERFUMA
+
+speaker: YOUNG CATRA
+addressee: PERFUMA
+
+speaker: YOUNG CATRA
+addressee: PERFUMA
+
+speaker: GLIMMER
+addressee: PERFUMA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: ENTRAPTA
+addressee: ADORA
+
+speaker: FROSTA
+addressee: ADORA
+
+speaker: FROSTA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: FROSTA
+addressee: ADORA
+
+speaker: FROSTA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: PERFUMA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: KYLE
+addressee: ADORA
+
+speaker: KYLE
+addressee: ADORA
+
+speaker: LONNIE
+addressee: ADORA
+
+speaker: KYLE
+addressee: ADORA
+
+speaker: LONNIE
+addressee: ADORA
+
+speaker: KYLE
+addressee: LONNIE
+
+speaker: KYLE
+addressee: LONNIE
+
+speaker: LONNIE
+addressee: KYLE
+
+speaker: LONNIE
+addressee: KYLE
+
+speaker: LONNIE
+addressee: KYLE
+
+speaker: YOUNG CATRA
+addressee: KYLE
+
+speaker: YOUNG CATRA
+addressee: KYLE
+
+speaker: YOUNG CATRA
+addressee: KYLE
+
+speaker: YOUNG CATRA
+addressee: KYLE
+
+speaker: YOUNG ADORA
+addressee: KYLE
+
+speaker: PRIME
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: PRIME
+addressee: CATRA
+
+speaker: PRIME
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: MERMISTA
+addressee: FLUTTERINA
+
+speaker: MERMISTA
+addressee: FLUTTERINA
+
+speaker: MERMISTA
+addressee: FLUTTERINA
+
+speaker: FROSTA
+addressee: MERMISTA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: GLIMMER
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: GLIMMER
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: ANGELLA
+
+speaker: GLIMMER
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: ANGELLA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: KYLE
+
+speaker: YOUNG ADORA
+addressee: KYLE
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: ENTRAPTA
+addressee: PERFUMA
+
+speaker: SCORPIA
+addressee: ADORA
+
+speaker: ENTRAPTA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: MERMISTA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: ENTRAPTA
+
+speaker: GLIMMER
+addressee: ENTRAPTA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: HUNTARA
+addressee: ADORA
+
+speaker: HUNTARA
+addressee: ADORA
+
+speaker: PERFUMA
+addressee: HUNTARA
+
+speaker: YOUNG ADORA
+addressee: HUNTARA
+
+speaker: YOUNG ADORA
+addressee: HUNTARA
+
+speaker: BOW
+addressee: HUNTARA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: BOW
+addressee: PERFUMA
+
+speaker: HUNTARA
+addressee: PERFUMA
+
+speaker: HUNTARA
+addressee: PERFUMA
+
+speaker: HUNTARA
+addressee: PERFUMA
+
+speaker: YOUNG ADORA
+addressee: PERFUMA
+
+speaker: HUNTARA
+addressee: PERFUMA
+
+speaker: YOUNG ADORA
+addressee: GLIMMER
+
+speaker: STARLA
+addressee: JEWELSTAR
+
+speaker: STARLA
+addressee: JEWELSTAR
+
+speaker: STARLA
+addressee: JEWELSTAR
+
+speaker: YOUNG ADORA
+addressee: STARLA
+
+speaker: YOUNG ADORA
+addressee: STARLA
+
+speaker: JEWELSTAR
+addressee: TALLSTAR
+
+speaker: JEWELSTAR
+addressee: TALLSTAR
+
+speaker: YOUNG ADORA
+addressee: TALLSTAR
+
+speaker: YOUNG ADORA
+addressee: TALLSTAR
+
+speaker: YOUNG ADORA
+addressee: TALLSTAR
+
+speaker: JEWELSTAR
+addressee: TALLSTAR
+
+speaker: YOUNG ADORA
+addressee: TALLSTAR
+
+speaker: BOW
+addressee: TALLSTAR
+
+speaker: YOUNG ADORA
+addressee: TALLSTAR
+
+speaker: STARLA
+addressee: MARA
+
+speaker: TALLSTAR
+addressee: MARA
+
+speaker: JEWELSTAR
+addressee: MARA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: LONNIE
+addressee: SCORPIA
+
+speaker: LONNIE
+addressee: SCORPIA
+
+speaker: LONNIE
+addressee: SCORPIA
+
+speaker: LONNIE
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: SCORPIA
+
+speaker: GLIMMER
+addressee: SCORPIA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: BOW
+addressee: SWIFT WIND
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: SCORPIA
+addressee: TUNG LASHOR
+
+speaker: YOUNG ADORA
+addressee: MARA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: HUNTARA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SCORPIA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: MICAH
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GEORGE
+addressee: LANCE
+
+speaker: GEORGE
+addressee: LANCE
+
+speaker: NETOSSA
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: NETOSSA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: LANCE
+addressee: CATRA
+
+speaker: GEORGE
+addressee: CATRA
+
+speaker: LANCE
+addressee: CATRA
+
+speaker: GEORGE
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: GEORGE
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: PERFUMA
+
+speaker: YOUNG CATRA
+addressee: NETOSSA
+
+speaker: YOUNG CATRA
+addressee: NETOSSA
+
+speaker: YOUNG CATRA
+addressee: NETOSSA
+
+speaker: YOUNG CATRA
+addressee: NETOSSA
+
+speaker: PERFUMA
+addressee: NETOSSA
+
+speaker: PERFUMA
+addressee: NETOSSA
+
+speaker: PERFUMA
+addressee: NETOSSA
+
+speaker: HUNTARA
+addressee: ADORA
+
+speaker: HUNTARA
+addressee: ADORA
+
+speaker: ENTRAPTA
+addressee: HUNTARA
+
+speaker: ENTRAPTA
+addressee: HUNTARA
+
+speaker: YOUNG ADORA
+addressee: HUNTARA
+
+speaker: GLIMMER
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: QUEEN ANGELLA
+addressee: MICAH
+
+speaker: QUEEN ANGELLA
+addressee: MICAH
+
+speaker: YOUNG ADORA
+addressee: MICAH
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: MICAH
+addressee: ANGELLA
+
+speaker: QUEEN ANGELLA
+addressee: ANGELLA
+
+speaker: MICAH
+addressee: ANGELLA
+
+speaker: GLIMMER
+addressee: ANGELLA
+
+speaker: GLIMMER
+addressee: QUEEN ANGELLA
+
+speaker: MERMISTA
+addressee: QUEEN ANGELLA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: ENTRAPTA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: SCORPIA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: MERMISTA
+
+speaker: YOUNG CATRA
+addressee: MERMISTA
+
+speaker: YOUNG CATRA
+addressee: HORDAK
+
+speaker: YOUNG CATRA
+addressee: HORDAK
+
+speaker: YOUNG CATRA
+addressee: HORDAK
+
+speaker: YOUNG CATRA
+addressee: HORDAK
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: HORDAK
+
+speaker: YOUNG ADORA
+addressee: HORDAK
+
+speaker: ENTRAPTA
+addressee: HORDAK
+
+speaker: BOW
+addressee: HORDAK
+
+speaker: ENTRAPTA
+addressee: HORDAK
+
+speaker: BOW
+addressee: HORDAK
+
+speaker: BOW
+addressee: HORDAK
+
+speaker: BOW
+addressee: HORDAK
+
+speaker: BOW
+addressee: HORDAK
+
+speaker: YOUNG ADORA
+addressee: HORDAK
+
+speaker: SCORPIA
+addressee: SHADOW WEAVER
+
+speaker: SCORPIA
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: SCORPIA
+
+speaker: KYLE
+addressee: CATRA
+
+speaker: BOW
+addressee: NETOSSA
+
+speaker: BOW
+addressee: ANGELLA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: MERMISTA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: QUEEN ANGELLA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: MARA
+addressee: ADORA
+
+speaker: PERFUMA
+addressee: WRONG HORDAK
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: BOW
+addressee: ENTRAPTA
+
+speaker: GLIMMER
+addressee: ENTRAPTA
+
+speaker: BOW
+addressee: ENTRAPTA
+
+speaker: MERMISTA
+addressee: SEA HAWK
+
+speaker: BOW
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: BOW
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: PERFUMA
+
+speaker: FROSTA
+addressee: PERFUMA
+
+speaker: GLIMMER
+addressee: PERFUMA
+
+speaker: SCORPIA
+addressee: PERFUMA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: SCORPIA
+addressee: KYLE
+
+speaker: SCORPIA
+addressee: CATRA
+
+speaker: LONNIE
+addressee: CATRA
+
+speaker: NETOSSA
+addressee: SPINNERELLA
+
+speaker: PERFUMA
+addressee: FROSTA
+
+speaker: YOUNG ADORA
+addressee: WRONG HORDAK
+
+speaker: YOUNG ADORA
+addressee: WRONG HORDAK
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: YOUNG ADORA
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: GLIMMER
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: YOUNG CATRA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: CASTA
+addressee: ADORA
+
+speaker: CASTA
+addressee: ADORA
+
+speaker: FROSTA
+addressee: HORDAK
+
+speaker: GLIMMER
+addressee: HORDAK
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: WRONG HORDAK
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: CATRA
+
+speaker: YOUNG CATRA
+addressee: MERMISTA
+
+speaker: YOUNG CATRA
+addressee: MERMISTA
+
+speaker: SCORPIA
+addressee: MERMISTA
+
+speaker: GLIMMER
+addressee: CASTA
+
+speaker: FROSTA
+addressee: ANGELLA
+
+speaker: YOUNG CATRA
+addressee: MERMISTA
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: LONNIE
+addressee: ENTRAPTA
+
+speaker: WRONG HORDAK
+addressee: ENTRAPTA
+
+speaker: WRONG HORDAK
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: FROSTA
+
+speaker: YOUNG CATRA
+addressee: FROSTA
+
+speaker: YOUNG CATRA
+addressee: FROSTA
+
+speaker: YOUNG ADORA
+addressee: FROSTA
+
+speaker: GLIMMER
+addressee: FROSTA
+
+speaker: FROSTA
+addressee: ADORA
+
+speaker: ENTRAPTA
+addressee: HORDAK
+
+speaker: WRONG HORDAK
+addressee: HORDAK
+
+speaker: SCORPIA
+addressee: HORDAK
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: ENTRAPTA
+
+speaker: YOUNG ADORA
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: ENTRAPTA
+addressee: HORDAK
+
+speaker: ENTRAPTA
+addressee: HORDAK
+
+speaker: CASTA
+addressee: HORDAK
+
+speaker: YOUNG ADORA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: SHADOW WEAVER
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: CASTA
+addressee: ADORA
+
+speaker: CASTA
+addressee: ADORA
+
+speaker: CASTA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: CASTA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ENTRAPTA
+
+speaker: GLIMMER
+addressee: ENTRAPTA
+
+speaker: YOUNG CATRA
+addressee: SHADOW WEAVER
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: WRONG HORDAK
+addressee: SHADOW WEAVER
+
+speaker: PERFUMA
+addressee: SHADOW WEAVER
+
+speaker: YOUNG ADORA
+addressee: QUEEN ANGELLA
+
+speaker: GLIMMER
+addressee: QUEEN ANGELLA
+
+speaker: YOUNG ADORA
+addressee: QUEEN ANGELLA
+
+speaker: GLIMMER
+addressee: QUEEN ANGELLA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: QUEEN ANGELLA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: PERFUMA
+
+speaker: GLIMMER
+addressee: PERFUMA
+
+speaker: GLIMMER
+addressee: PERFUMA
+
+speaker: BOW
+addressee: PERFUMA
+
+speaker: BOW
+addressee: PERFUMA
+
+speaker: LONNIE
+addressee: HORDAK
+
+speaker: YOUNG CATRA
+addressee: HORDAK
+
+speaker: GLIMMER
+addressee: HORDAK
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: PERFUMA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: YOUNG ADORA
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA
+
+speaker: BOW
+addressee: ADORA
+
+speaker: GLIMMER
+addressee: ADORA

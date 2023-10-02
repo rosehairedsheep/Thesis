@@ -1,0 +1,5383 @@
+STATS:
+[813, 588, 197, 195]
+
+
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: CLARE
+
+speaker: DARWIN
+addressee: CLARE
+
+speaker: GUMBALL
+addressee: CLARE
+
+speaker: GUMBALL
+addressee: CLARE
+
+speaker: GUMBALL
+addressee: CLARE
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: CLARE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: GUMBALL
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: DANIEL
+
+speaker: NICOLE
+addressee: DANIEL
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: DANIEL
+addressee: NICOLE
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DANIEL
+addressee: RICHARD
+
+speaker: WOMAN
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: JOAN
+
+speaker: GUMBALL
+addressee: JOAN
+
+speaker: GEORGE
+addressee: HANK
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GAYLORD
+addressee: NICOLE
+
+speaker: GAYLORD
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: OCHO
+
+speaker: GUMBALL
+addressee: OCHO
+
+speaker: GUMBALL
+addressee: OCHO
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: ANTON
+
+speaker: GUMBALL
+addressee: ANTON
+
+speaker: GUMBALL
+addressee: ANTON
+
+speaker: GUMBALL
+addressee: ANTON
+
+speaker: DARWIN
+addressee: ANTON
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DONUT SHERIFF
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: GRANNY JOJO
+
+speaker: LARRY
+addressee: BILLY
+
+speaker: DARWIN
+addressee: WOMAN
+
+speaker: GUMBALL
+addressee: WOMAN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: LARRY
+addressee: MASAMI
+
+speaker: PENNY
+addressee: POLLY
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: VAN SHOPKEEPER
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: ROCKY
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BOBERT​
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BOBERT​
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: DARWIN
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: FELICITY
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: HECTOR
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: DARWIN
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: HECTOR
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: HECTOR
+
+speaker: DARWIN
+addressee: TONY
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: TONY
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: MAN
+addressee: LARRY
+
+speaker: MAN
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: DARWIN
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: MAN
+addressee: LARRY
+
+speaker: MAN
+addressee: LARRY
+
+speaker: MAN
+addressee: LARRY
+
+speaker: MAN
+addressee: LARRY
+
+speaker: DARWIN
+addressee: LARRY
+
+speaker: DARWIN
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: MASAMI
+addressee: DARWIN
+
+speaker: MASAMI
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: LARRY
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: SAMANTHA
+
+speaker: MARIA
+addressee: SAMANTHA
+
+speaker: ANGELA
+addressee: SAMANTHA
+
+speaker: MARIA
+addressee: SAMANTHA
+
+speaker: GUMBALL
+addressee: SAMANTHA
+
+speaker: MARIA
+addressee: SAMANTHA
+
+speaker: ANGELA
+addressee: SAMANTHA
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: ANGELA
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: MARVIN
+
+speaker: DARWIN
+addressee: MARVIN
+
+speaker: RICHARD
+addressee: GARY
+
+speaker: RICHARD
+addressee: LOUIE
+
+speaker: RICHARD
+addressee: LOUIE
+
+speaker: GUMBALL
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: RICHARD
+
+speaker: LOUIE
+addressee: RICHARD
+
+speaker: FRANKIE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: LOUIE
+addressee: NICOLE
+
+speaker: LOUIE
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: CARRIE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: CARRIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: SAL LEFT THUMB
+
+speaker: OCHO
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: MAN
+
+speaker: MASAMI
+addressee: TERI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: LOUIE
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: DARWIN
+addressee: GRANNY JOJO
+
+speaker: DARWIN
+addressee: GRANNY JOJO
+
+speaker: LOUIE
+addressee: GRANNY JOJO
+
+speaker: DARWIN
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: LOUIE
+addressee: GRANNY JOJO
+
+speaker: LOUIE
+addressee: GRANNY JOJO
+
+speaker: LOUIE
+addressee: GRANNY JOJO
+
+speaker: LOUIE
+addressee: GRANNY JOJO
+
+speaker: DARWIN
+addressee: LOUIE
+
+speaker: GUMBALL
+addressee: LOUIE
+
+speaker: DARWIN
+addressee: LOUIE
+
+speaker: GUMBALL
+addressee: LOUIE
+
+speaker: GUMBALL
+addressee: LOUIE
+
+speaker: NICOLE
+addressee: PAPERBALL
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: PAPERBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: PATRICK
+
+speaker: GUMBALL
+addressee: PATRICK
+
+speaker: GUMBALL
+addressee: PATRICK
+
+speaker: PATRICK
+addressee: KAREN
+
+speaker: GUMBALL
+addressee: KAREN
+
+speaker: TERI
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: DARWIN
+addressee: TERI
+
+speaker: VIRUS
+addressee: TERI
+
+speaker: DARWIN
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: ANAIS
+addressee: LARRY
+
+speaker: NICOLE
+addressee: LARRY
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: LARRY
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: SAL LEFT THUMB
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: HANK
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: ROCKY
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: LARRY
+
+speaker: RICHARD
+addressee: MRS. JÖTUNHEIM
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: PATRICK
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: LARRY
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: MARTHA
+
+speaker: RICHARD
+addressee: HECTOR
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GARY
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BOBERT​
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: MASAMI
+addressee: PENNY
+
+speaker: MOLLY
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: MASAMI
+addressee: MOLLY
+
+speaker: MASAMI
+addressee: MOLLY
+
+speaker: MASAMI
+addressee: MOLLY
+
+speaker: MASAMI
+addressee: MOLLY
+
+speaker: MASAMI
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: GUMBALL
+
+speaker: ANAIS
+addressee: BILLY
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: BILLY
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: FELICITY
+addressee: NICOLE
+
+speaker: FELICITY
+addressee: NICOLE
+
+speaker: FELICITY
+addressee: NICOLE
+
+speaker: FELICITY
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: HANK
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: OCHO
+
+speaker: NICOLE
+addressee: OCHO
+
+speaker: ANAIS
+addressee: OCHO
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: MIKE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: MIKE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: MIKE
+addressee: DARWIN
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: MARVIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: LUCY SIMIAN
+
+speaker: DARWIN
+addressee: LUCY SIMIAN
+
+speaker: ANAIS
+addressee: LUCY SIMIAN
+
+speaker: RICHARD
+addressee: LUCY SIMIAN
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: DARWIN
+addressee: NIGEL BROWN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: LOUIE
+addressee: RICHARD
+
+speaker: LOUIE
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: LOUIE
+
+speaker: RICHARD
+addressee: LOUIE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: JOSH
+addressee: ANAIS
+
+speaker: JOSH
+addressee: ANAIS
+
+speaker: JOSH
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: DARWIN
+addressee: JOSH
+
+speaker: ANAIS
+addressee: JOSH
+
+speaker: ANAIS
+addressee: JOSH
+
+speaker: GUMBALL
+addressee: JOSH
+
+speaker: ANAIS
+addressee: JOSH
+
+speaker: NICOLE
+addressee: NIGEL BROWN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: ROCKY
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: MOLLY
+
+speaker: CARRIE
+addressee: MOLLY
+
+speaker: GUMBALL
+addressee: MOLLY
+
+speaker: DARWIN
+addressee: MOLLY
+
+speaker: DARWIN
+addressee: MOLLY
+
+speaker: DARWIN
+addressee: MOLLY
+
+speaker: GUMBALL
+addressee: MOLLY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ZACH
+addressee: HANK
+
+speaker: DARWIN
+addressee: HANK
+
+speaker: ZACH
+addressee: HANK
+
+speaker: ALISON
+addressee: HANK
+
+speaker: MARVIN
+addressee: HANK
+
+speaker: FELICITY
+addressee: HANK
+
+speaker: DARWIN
+addressee: HANK
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ZACH
+
+speaker: DARWIN
+addressee: ZACH
+
+speaker: DARWIN
+addressee: ZACH
+
+speaker: DARWIN
+addressee: ZACH
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: DARWIN
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: TIMMY
+
+speaker: GUMBALL
+addressee: TIMMY
+
+speaker: DARWIN
+addressee: TIMMY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: HECTOR
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: PENNY
+addressee: TINA
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: GUMBALL
+
+speaker: NICOLE
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: MASAMI
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: LUCY SIMIAN
+
+speaker: DARWIN
+addressee: LUCY SIMIAN
+
+speaker: BOBERT​
+addressee: JOAN
+
+speaker: BOBERT​
+addressee: JOAN
+
+speaker: DARWIN
+addressee: JOAN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BOBERT​
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: JOAN
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ROCKY
+addressee: DARWIN
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: LARRY
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: TERI
+
+speaker: QUATTRO
+addressee: TONY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: DARWIN
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: MAN
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: FRANKIE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: LESLIE
+
+speaker: GUMBALL
+addressee: LESLIE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: DARWIN
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: SARAH
+addressee: FRANK
+
+speaker: DARWIN
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: SARAH
+addressee: FRANK
+
+speaker: CARLTON
+addressee: FRANK
+
+speaker: CARLTON
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: CARLTON
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: CARLTON
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: CARLTON
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: SARAH
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: DARWIN
+addressee: CARLTON
+
+speaker: GUMBALL
+addressee: CARLTON
+
+speaker: GUMBALL
+addressee: CARLTON
+
+speaker: GUMBALL
+addressee: CARLTON
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: CARLTON
+addressee: GUMBALL
+
+speaker: CARLTON
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: IDAHO
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: IDAHO
+addressee: DARWIN
+
+speaker: IDAHO
+addressee: DARWIN
+
+speaker: IDAHO
+addressee: TERI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: PENNY
+addressee: SUSSIE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: GUMBALL
+
+speaker: RICHARD
+addressee: GUMBALL
+
+speaker: RICHARD
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: PATRICK
+
+speaker: DARWIN
+addressee: PATRICK
+
+speaker: RICHARD
+addressee: PATRICK
+
+speaker: NICOLE
+addressee: PATRICK
+
+speaker: NICOLE
+addressee: PATRICK
+
+speaker: NICOLE
+addressee: PATRICK
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: JAMIE
+addressee: ANAIS
+
+speaker: JAMIE
+addressee: ANAIS
+
+speaker: JAMIE
+addressee: ANAIS
+
+speaker: JAMIE
+addressee: ANAIS
+
+speaker: BOBERT​
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: TREE LIBRARIAN
+
+speaker: ANAIS
+addressee: TREE LIBRARIAN
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: ANAIS
+addressee: JAMIE
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: SUSSIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: DARWIN
+addressee: GARY
+
+speaker: DARWIN
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: PENNY
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: PENNY
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: MARY
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: TINA
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: GUMBALL
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: JOAN
+addressee: TERI
+
+speaker: JOAN
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: DARWIN
+addressee: CLAYTON
+
+speaker: GUMBALL
+addressee: CLAYTON
+
+speaker: DONALD
+addressee: MARVIN
+
+speaker: GUMBALL
+addressee: MARVIN
+
+speaker: GUMBALL
+addressee: MARVIN
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: MARVIN
+addressee: DARWIN
+
+speaker: MARVIN
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: MR. GRUBER
+
+speaker: RICHARD
+addressee: MR. GRUBER
+
+speaker: RICHARD
+addressee: MR. GRUBER
+
+speaker: RICHARD
+addressee: MR. GRUBER
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: TIMMY
+
+speaker: GUMBALL
+addressee: TIMMY
+
+speaker: GUMBALL
+addressee: TIMMY
+
+speaker: GUMBALL
+addressee: TIMMY
+
+speaker: GUMBALL
+addressee: JEFF
+
+speaker: DARWIN
+addressee: JEFF
+
+speaker: DARWIN
+addressee: JEFF
+
+speaker: DARWIN
+addressee: JEFF
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: JOAN
+
+speaker: GUMBALL
+addressee: JOAN
+
+speaker: GUMBALL
+addressee: JOAN
+
+speaker: GUMBALL
+addressee: JOAN
+
+speaker: GUMBALL
+addressee: JAMIE
+
+speaker: SUSSIE
+addressee: DARWIN
+
+speaker: SUSSIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: LESLIE
+
+speaker: DARWIN
+addressee: LESLIE
+
+speaker: GUMBALL
+addressee: LESLIE
+
+speaker: JEALOUSY
+addressee: LESLIE
+
+speaker: JEALOUSY
+addressee: LESLIE
+
+speaker: PENNY
+addressee: LESLIE
+
+speaker: JEALOUSY
+addressee: LESLIE
+
+speaker: JEALOUSY
+addressee: LESLIE
+
+speaker: JEALOUSY
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: JULIUS
+
+speaker: DARWIN
+addressee: JULIUS
+
+speaker: DARWIN
+addressee: JULIUS
+
+speaker: DARWIN
+addressee: JULIUS
+
+speaker: JULIUS
+addressee: DARWIN
+
+speaker: JULIUS
+addressee: DARWIN
+
+speaker: JULIUS
+addressee: DARWIN
+
+speaker: JULIUS
+addressee: DARWIN
+
+speaker: JULIUS
+addressee: DARWIN
+
+speaker: JULIUS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: OCHO
+
+speaker: DARWIN
+addressee: OCHO
+
+speaker: DARWIN
+addressee: OCHO
+
+speaker: DARWIN
+addressee: OCHO
+
+speaker: DARWIN
+addressee: OCHO
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MRS. JÖTUNHEIM
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: FRANKIE
+
+speaker: ANAIS
+addressee: FRANKIE
+
+speaker: ANAIS
+addressee: FRANKIE
+
+speaker: ANAIS
+addressee: FRANKIE
+
+speaker: RICHARD
+addressee: FRANKIE
+
+speaker: RICHARD
+addressee: FRANKIE
+
+speaker: NICOLE
+addressee: FRANKIE
+
+speaker: ANAIS
+addressee: FRANKIE
+
+speaker: ANAIS
+addressee: FRANKIE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: FRANKIE
+addressee: NICOLE
+
+speaker: FRANKIE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GOBLIN
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GOBLIN
+addressee: RICHARD
+
+speaker: GOBLIN
+addressee: RICHARD
+
+speaker: GOBLIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: COLIN
+
+speaker: PANTSBULLY
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: PANTSBULLY
+
+speaker: ANAIS
+addressee: PANTSBULLY
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: RICHARD
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: TERI
+addressee: MRS. JÖTUNHEIM
+
+speaker: IDAHO
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: DARWIN
+addressee: LARRY
+
+speaker: DARWIN
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: JAMIE
+addressee: LARRY
+
+speaker: JAMIE
+addressee: SARAH
+
+speaker: JAMIE
+addressee: SARAH
+
+speaker: JAMIE
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: GUMBALL
+addressee: SARAH
+
+speaker: ANTON
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: DARWIN
+
+speaker: JAMIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: NIGEL BROWN
+
+speaker: GUMBALL
+addressee: NIGEL BROWN
+
+speaker: GUMBALL
+addressee: NIGEL BROWN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: HANK
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: LUCY SIMIAN
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: ALISON
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: MIKE
+addressee: KIP SCHLEZINGER
+
+speaker: MIKE
+addressee: KIP SCHLEZINGER
+
+speaker: MIKE
+addressee: KIP SCHLEZINGER
+
+speaker: MIKE
+addressee: KIP SCHLEZINGER
+
+speaker: GARY
+addressee: KIP SCHLEZINGER
+
+speaker: MIKE
+addressee: KIP SCHLEZINGER
+
+speaker: RICHARD
+addressee: MRS. JÖTUNHEIM
+
+speaker: RICHARD
+addressee: MRS. JÖTUNHEIM
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GAYLORD
+addressee: RICHARD
+
+speaker: LARRY
+addressee: RICHARD
+
+speaker: CARMEN
+addressee: DARWIN
+
+speaker: MASAMI
+addressee: CARRIE
+
+speaker: ALAN​​​​​​
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: DARWIN
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: ANTON
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: JAMIE
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: MASAMI
+addressee: CARMEN
+
+speaker: MASAMI
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: CARMEN
+addressee: MASAMI
+
+speaker: DARWIN
+addressee: MASAMI
+
+speaker: DARWIN
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: ROB​​​​​​​​​​​​​​​​​​​​​​
+addressee: BANANA JOE
+
+speaker: ROB​​​​​​​​​​​​​​​​​​​​​​
+addressee: BANANA JOE
+
+speaker: ROB​​​​​​​​​​​​​​​​​​​​​​
+addressee: BANANA JOE
+
+speaker: ROB​​​​​​​​​​​​​​​​​​​​​​
+addressee: BANANA JOE
+
+speaker: BOBERT​
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: WILLIAM
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BOBERT​
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: MARVIN
+
+speaker: DARWIN
+addressee: MARVIN
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: KAREN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: LARRY
+
+speaker: QUATTRO
+addressee: DONUT SHERIFF
+
+speaker: QUATTRO
+addressee: DONUT SHERIFF
+
+speaker: DARWIN
+addressee: PETER
+
+speaker: DARWIN
+addressee: PETER
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: PENNY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: PENNY
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: ZACH
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: SARAH
+addressee: GUMBALL
+
+speaker: GAYLORD
+addressee: GOBLIN
+
+speaker: ROCKY
+addressee: GOBLIN
+
+speaker: ROCKY
+addressee: GOBLIN
+
+speaker: ROCKY
+addressee: GOBLIN
+
+speaker: GUMBALL
+addressee: GOBLIN
+
+speaker: GUMBALL
+addressee: GOBLIN
+
+speaker: GUMBALL
+addressee: GOBLIN
+
+speaker: DARWIN
+addressee: ROCKY
+
+speaker: GUMBALL
+addressee: ROCKY
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: LARRY
+addressee: ANAIS
+
+speaker: QUATTRO
+addressee: SICILIANA
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: PENNY
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: JAMIE
+
+speaker: DARWIN
+addressee: JAMIE
+
+speaker: GUMBALL
+addressee: JAMIE
+
+speaker: GUMBALL
+addressee: JAMIE
+
+speaker: GUMBALL
+addressee: JAMIE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: LARRY
+
+speaker: ANAIS
+addressee: LARRY
+
+speaker: ANAIS
+addressee: LARRY
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: HOWDY
+addressee: FRANK
+
+speaker: DARWIN
+addressee: FRANK
+
+speaker: HOWDY
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: GUMBALL
+addressee: FRANK
+
+speaker: GRADY
+addressee: FRANK
+
+speaker: HOWDY
+addressee: FRANK
+
+speaker: GRADY
+addressee: FRANK
+
+speaker: FRANKIE
+addressee: FRANK
+
+speaker: GRADY
+addressee: FRANK
+
+speaker: HOWDY
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: LESLIE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: NICOLE
+addressee: MISTER SMALL
+
+speaker: ANAIS
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: MISTER SMALL
+
+speaker: ANAIS
+addressee: MISTER SMALL
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GAYLORD
+addressee: KAREN
+
+speaker: DARWIN
+addressee: MOLLY
+
+speaker: DARWIN
+addressee: MOLLY
+
+speaker: GUMBALL
+addressee: COLIN
+
+speaker: NICOLE
+addressee: YUKI
+
+speaker: ANAIS
+addressee: YUKI
+
+speaker: NICOLE
+addressee: YUKI
+
+speaker: GUMBALL
+addressee: MASAMI
+
+speaker: YUKI
+addressee: MASAMI
+
+speaker: YUKI
+addressee: MASAMI
+
+speaker: YUKI
+addressee: MASAMI
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: YUKI
+addressee: NICOLE
+
+speaker: YUKI
+addressee: NICOLE
+
+speaker: RICHARD
+addressee: NICOLE
+
+speaker: YUKI
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: NICOLE
+addressee: GRANNY JOJO
+
+speaker: ANAIS
+addressee: GRANNY JOJO
+
+speaker: GUMBALL
+addressee: GARY
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: CLARE
+addressee: MASAMI
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: SARAH
+addressee: GUMBALL
+
+speaker: CLARE
+addressee: GUMBALL
+
+speaker: MASAMI
+addressee: GUMBALL
+
+speaker: MASAMI
+addressee: GUMBALL
+
+speaker: SARAH
+addressee: GUMBALL
+
+speaker: PENNY
+addressee: GUMBALL
+
+speaker: SARAH
+addressee: GUMBALL
+
+speaker: SARAH
+addressee: GUMBALL
+
+speaker: SARAH
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: SAL LEFT THUMB
+
+speaker: GUMBALL
+addressee: SAL LEFT THUMB
+
+speaker: GUMBALL
+addressee: SAL LEFT THUMB
+
+speaker: DARWIN
+addressee: SAL LEFT THUMB
+
+speaker: GUMBALL
+addressee: SAL LEFT THUMB
+
+speaker: LARRY
+addressee: SAL LEFT THUMB
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: LESLIE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: SARAH
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: RICHARD
+addressee: KAREN
+
+speaker: RICHARD
+addressee: KAREN
+
+speaker: RICHARD
+addressee: KAREN
+
+speaker: RICHARD
+addressee: KAREN
+
+speaker: RICHARD
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: KAREN
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: PATRICK
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: PENNY
+addressee: RICHARD
+
+speaker: PATRICK
+addressee: PENNY
+
+speaker: NICOLE
+addressee: PENNY
+
+speaker: NICOLE
+addressee: PENNY
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: GUMBALL
+addressee: TINA
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: BILLY
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BILLY
+addressee: DARWIN
+
+speaker: BILLY
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: BILLY
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: DARWIN
+addressee: CARMEN
+
+speaker: DARWIN
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: GUMBALL
+addressee: CARMEN
+
+speaker: DARWIN
+addressee: CARMEN
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: NIGEL BROWN
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: BOBERT
+
+speaker: DARWIN
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: DARWIN
+addressee: BOBERT
+
+speaker: DARWIN
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: GUMBALL
+addressee: BOBERT
+
+speaker: DARWIN
+addressee: BOBERT
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: PENNY
+addressee: PATRICK
+
+speaker: PENNY
+addressee: PATRICK
+
+speaker: PATRICK
+addressee: PENNY
+
+speaker: PATRICK
+addressee: PENNY
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: HANK
+addressee: DARWIN
+
+speaker: HANK
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: DARWIN
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: CARRIE
+addressee: DARWIN
+
+speaker: CARRIE
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: DARWIN
+addressee: NICOLE
+
+speaker: NICOLE
+addressee: DANIEL
+
+speaker: ANAIS
+addressee: DANIEL
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: MAN
+
+speaker: GUMBALL
+addressee: JULIUS
+
+speaker: GUMBALL
+addressee: JULIUS
+
+speaker: DARWIN
+addressee: PANTSBULLY
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: JOAN
+addressee: TINA
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: DARWIN
+
+speaker: RICHARD
+addressee: LARRY
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: NICOLE
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: MASAMI
+addressee: BANANA JOE
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: RICHARD
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: DARWIN
+addressee: GAYLORD
+
+speaker: GUMBALL
+addressee: GAYLORD
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: ANAIS
+addressee: NICOLE
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: GUMBALL
+
+speaker: CARMEN
+addressee: SARAH
+
+speaker: CARMEN
+addressee: SARAH
+
+speaker: CARMEN
+addressee: SARAH
+
+speaker: GEORGE
+addressee: HANK
+
+speaker: NICOLE
+addressee: ETHEL
+
+speaker: BERNIE
+addressee: ETHEL
+
+speaker: NICOLE
+addressee: ETHEL
+
+speaker: NICOLE
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: PATRICK
+addressee: RICHARD
+
+speaker: MARVIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: MARVIN
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: HANK
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: MARVIN
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: RICHARD
+addressee: ALISON
+
+speaker: RICHARD
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: DARWIN
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: GUMBALL
+addressee: ANAIS
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: ANAIS
+addressee: RICHARD
+
+speaker: GUMBALL
+addressee: GEORGE
+
+speaker: GUMBALL
+addressee: RICHARD
+
+speaker: GEORGE
+addressee: HANK
+
+speaker: RICHARD
+addressee: HANK
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: BANANA JOE
+
+speaker: GUMBALL
+addressee: HOBO
+
+speaker: GEORGE
+addressee: GUMBALL
+
+speaker: GEORGE
+addressee: GUMBALL
+
+speaker: GUMBALL
+addressee: HOBO
+
+speaker: GUMBALL
+addressee: HOBO
+
+speaker: GUMBALL
+addressee: HOBO
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: DARWIN
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: TERI
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: DARWIN
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: CARRIE
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI
+
+speaker: GUMBALL
+addressee: TERI

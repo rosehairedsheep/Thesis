@@ -1,0 +1,411 @@
+SHIRO says: ""Coran, how soon will we get to the Blade of Marmora's base?"
+CORAN says: ""Based on the coordinates that Ulaz gave us, we should be there within a few doboshes."
+PIDGE says: ""I can't wait to see it."
+PIDGE says: "I mean, they were able to fold space-time, and that was just at an outpost!"
+HUNK puts a hand on his stomach.
+HUNK says: ""Mm, the space taco."
+HUNK says: "It left us too soon."
+HUNK's stomach grumbles.
+PIDGE says: ""Well, sure, but my point is, imagine how amazing their home base will be!"
+HUNK says: ""Exactly."
+HUNK says: ""  "It could take on any shape."
+HUNK says: "Like a space jelly donut."
+HUNK says: "Or long, like a space éclair."
+HUNK says: "Or a space cheese blintz with a cherry sauce on top."
+HUNK says: "Maybe a little dusting of powdered sugar."
+HUNK says: "That's the stars."
+LANCE says: ""Aw, now I'm hungry for breakfast!"
+KEITH says: ""Guys, this is a serious mission."
+KEITH says: "We need to focus."
+LANCE says: ""We need to focus."
+CORAN says: ""The base is in range."
+SHIRO says: ""Take us in slowly."
+CORAN says: ""That might prove the tiniest bit of a challenge."
+The view shifts, showing the Blade of Marmora's headquarters. Two black holes are visible, a bright blue star between them.
+HUNK says: ""Is that a black hole?"
+CORAN says: ""No, no, no, no, no."
+CORAN says: "It's two black holes and a giant blue star."
+HUNK says: ""That's not better."
+PIDGE says: ""No kidding."
+PIDGE says: "Just inside a black hole, the temperature is one millionth of a degree above absolute zero."
+PIDGE says: "But, just outside of that, it's hundreds of millions of degrees Celsius."
+HUNK says: ""Okay, it's like when you try to nuke a frozen burrito in the microwave, and it comes out all scorching hot on the outside, but it's still frozen in the middle, right?"
+LANCE says: ""Now I'm hungry for lunch!"
+KEITH says: ""Guys, quiet!"
+KEITH says: "Coran, where's the base located?"
+The Castle screen zooms in on the headquarters, hidden between the black holes and the star.
+CORAN says: ""In between those three deadly celestial objects."
+PIDGE says: ""The perfect defensive position."
+ALLURA says: ""Or the perfect trap."
+HUNK says: ""Yeah, I'm with Allura."
+HUNK says: "Maybe we shouldn't, like, go in there at all?"
+KEITH says: ""What are you talking about?"
+KEITH says: "We have to go in!"
+KEITH says: "This is the whole reason we came out here!"
+KEITH says: "There is no other option!"
+LANCE says: ""Okay."
+LANCE says: "Jeez."
+LANCE says: "Calm down."
+The computer beeps. Everyone turns to face it. Galra characters are visible.
+COMPUTER says: ""Identify yourself."
+SHIRO says: ""Open a hailing frequency, Coran."
+SHIRO says: ""  "We are the Paladins of Voltron, sent here by Ulaz."
+A momentary silence. The camera pans to show everyone with various expressions.
+COMPUTER says: ""Two may enter."
+COMPUTER says: "Come unarmed."
+The characters disappear. The frequency closes.
+ALLURA says: ""Why would they insist we come unarmed?"
+ALLURA says: "Shiro, this doesn't feel right."
+SHIRO says: ""We've come too far to turn back now."
+CORAN says: ""They just sent us a route to the base, but we'll have to move quickly."
+CORAN says: "Because of the solar flares, it's only open for another varga."
+CORAN says: ""  "Then, it will be closed for two quintants."
+HUNK says: ""They're gonna close it for two years?"
+PIDGE says: ""Two days."
+HUNK says: ""Oh."
+LANCE says: ""So, any thoughts on who's gonna join you on this little mission?"
+LANCE says: "I'm thinking things might get a little hot, so you're gonna want someone who can stay cool."
+SHIRO says: ""You're right."
+SHIRO says: "Keith, you're coming with me."
+LANCE says: ""Wha—"
+LANCE says: "?"
+LANCE says: "Keith's a hothead!"
+LANCE says: "He's probably going to shoot first and ask questions later!"
+LANCE says: "And they're not gonna be able to answer his questions because they'll be dead!"
+SHIRO says: ""We haven't yet severed Zarkon's link with the Black Lion, so it has to stay here."
+SHIRO says: ""  "And the Red Lion can withstand the heat from that sun."
+SHIRO says: "So, yes, it'll be Keith."
+CORAN says: ""The course to the base will be quite treacherous, to say the least."
+CORAN says: "You're walking a razor's edge between the gravitational pull of the black holes and the sun."
+CORAN says: "One false move, and you'll either be crushed into infinity or burnt to a crisp."
+The scene changes. The Red Lion flies towards the base.
+SHIRO says: ""Keith, is everything okay?"
+KEITH says: ""I'm fine."
+SHIRO says: ""You kind of blew up at everybody back there."
+SHIRO says: "You'll have to control your emotions if you're going to lead this group someday."
+Keith looks shocked.
+KEITH says: "Lead the group?"
+SHIRO says: ""When we were stranded, I told you, if anything ever happens to me, I want you to lead Voltron."
+KEITH says: ""I thought you were just delirious with pain."
+KEITH says: "Why would you make me the leader?"
+SHIRO says: ""Because I know what you're capable of, if you can learn some self-discipline."
+KEITH says: ""Why are we even talking about this?"
+KEITH says: "Nothing is gonna happen to you."
+Shiro puts his hand on Keith's shoulder.
+SHIRO says: ""It's just in case."
+SHIRO says: "I need you to get focused."
+SHIRO says: "When you and Allura ran off, it put us all in jeopardy."
+SHIRO says: "If you're going to be a leader, you've got to get your head on straight."
+KEITH says: ""I'm sorry."
+KEITH says: "I've just had a lot on my mind."
+SHIRO says: ""I know."
+SHIRO says: "We all have."
+A crash. The Red Lion shakes. Shiro grunts. An alarm blares. The visual aid veers to the right, and the Red Lion is pulled towards the black hole.
+KEITH says: ""We're getting drawn in by one of the black holes!"
+SHIRO says: ""Get us out of here!"
+Keith pulls a lever. The Red Lion's thrusters engage, pushing them out of the gravitational pull. They move back on track and enter through the path Coran specified.
+SHIRO says: ""Great job!"
+SHIRO says: "That was close."
+The Red Lion lands. Keith and Shiro exit.
+KEITH says: ""There's nothing here."
+KEITH says: "This place just looks like a plain asteroid."
+Loud rumbling. A panel slides open in the rock, revealing two Blade of Marmora agents.
+The scene shifts to Zarkon's castle. A Galra in cuffs is led through a hall by two sentries. Thace is seen watching from the shadows. Enter the interrogation room, containing the same Galra, Haggar, and one of her Druids.
+HAGGAR says: ""I am going to ask you some questions."
+HAGGAR says: "I will know if you lie."
+The scene shifts back to the Blade of Marmora. Keith and Shiro are on an elevator, in front of the two Blade operatives. The elevator stops and opens, revealing the Blade's headquarters. Galra agents stand in two rows, leading to a raised platform with one person standing on it. A holographic logo can be seen in the center of the room above their heads. Keith and Shiro are led to the platform.
+KOLIVAN says: ""I am Kolivan, leader of the Blade of Marmora."
+SHIRO says: ""My name is Shiro and this is Keith."
+SHIRO says: "We are Paladins of Voltron."
+KOLIVAN says: ""I know who you are."
+SHIRO says: ""Then you know we were sent by one of your own."
+KOLIVAN says: ""Ulaz was a fool to divulge this location to you."
+KOLIVAN says: "He had a penchant for ignoring orders and following his impulses."
+KOLIVAN says: "That's what got him killed."
+SHIRO says: ""He gave his life to save us!"
+SHIRO says: "What he did brought us here today, and Voltron is ready to assist you."
+SHIRO says: "Are we welcome here or not?"
+KOLIVAN says: ""You were told to come unarmed."
+KEITH says: ""You also told us to identify ourselves."
+KEITH says: "The lions are about as close as we come to an ID."
+SHIRO says: ""If anything happens, believe me, you'll be happy you have the Red Lion on your side."
+KOLIVAN says: ""I imagine we would."
+KOLIVAN says: "However, I wasn't referring to your beast."
+Antok, a Blade of Marmora operative, approaches Keith from behind, grabbing his arm and pinning it behind his back. Keith grunts, struggling. Keith's foot is kicked out from under him and he crashes to the floor, quickly pinned by Antok.
+SHIRO says: ""Keith!"
+Shiro tries to run and help, but another Blade blocks his path. A metallic sound as Keith's knife is pulled from him, its hilt unwrapped to reveal the Blade of Marmora's logo.
+ANTOK says: ""He has one of our blades!"
+ANTOK says: "Who did you steal this from?"
+KEITH says: ""I didn't!"
+KEITH says: "I've had it all my life!"
+ANTOK says: ""Lies!"
+KOLIVAN says: ""Can you corroborate your friend's statement?"
+KOLIVAN says: "Does this blade truly belong to him?"
+SHIRO says: ""I..."
+SHIRO says: "I don't know."
+KEITH says: ""Shiro, you know me."
+KEITH says: "I promise you I didn't steal it."
+KEITH says: "I've had this knife as long as I can remember."
+ANTOK says: ""We can't trust them."
+KEITH says: ""I'm telling the truth."
+KEITH says: ""  "I saw Ulaz had a knife like this."
+KEITH says: "Tell me what it means."
+KOLIVAN says: ""Our organization is built on secrecy and trust."
+KOLIVAN says: "You two should leave."
+KOLIVAN says: "Now."
+Antok releases Keith. They both stand. Shiro approaches Keith.
+SHIRO says: ""We came here to form an alliance, but obviously we're not welcome."
+SHIRO says: "Come on, Keith, we're leaving."
+KEITH says: ""Not without some answers."
+KEITH says: "Somehow, one of your knives ended up with me on planet Earth."
+KEITH says: "Tell me how."
+KOLIVAN says: ""Your friend is right."
+KOLIVAN says: "It is time for you to go."
+KEITH says: ""Where did it come from?"
+KEITH says: "I have to know."
+KOLIVAN says: ""You seek knowledge?"
+KOLIVAN says: "There is only one way to attain knowledge here."
+KEITH says: ""How?!"
+KEITH says: "!"
+KEITH says: "I'll do it!"
+KOLIVAN says: ""The trials of Marmora."
+KOLIVAN says: "Should you survive, you may keep the blade and its secrets will be revealed."
+SHIRO says: ""Survive?"
+SHIRO says: "Keith, this is crazy."
+SHIRO says: "If they're not going to help us, let's get out of here."
+KEITH says: ""I'm not going anywhere."
+KEITH says: "I have to do this."
+KOLIVAN says: ""Antok, give the boy the blade."
+Antok hands Keith his knife.
+ANTOK says: ""We will meet again."
+KEITH says: ""Can't wait."
+KOLIVAN says: ""These trials result in one of two things: Knowledge, or death."
+The scene changes. Keith is alone in a new room, wearing a suit similar to those of the Blade. He holds his knife in his right hand. A panel opens in the center of the floor, revealing a single Blade agent.
+BLADE says: ""Surrender the blade."
+BLADE says: ""  "You cannot win."
+Keith growls. A fight. Keith receives multiple blows and a cut to the shoulder. He screams, using his left hand to apply pressure while holding the knife out in his right.
+SHIRO says: ""Come on, Keith."
+Keith is grappled and effectively disarmed, his arm pulled behind him and his head forced down with a yell. The Blade's sword rests on the back of Keith's throat.
+BLADE says: ""Surrender the blade and the pain will cease."
+KEITH says: ""I won't quit."
+BLADE says: ""Then the pain continues."
+The Blade removes his sword from Keith's neck and lets go of his arm. Keith falls to all fours, gasping. He gets to his feet, looking at the Blade in confusion.
+BLADE says: ""You are not meant to go through that door."
+Keith walks towards the door, starting to run.
+A similar room, this time with two panels that open and reveal two Blades. They fight.
+SHIRO says: ""This is not a fair fight!"
+KOLIVAN says: ""Nor is taking on the Galra, yet that is the fight we face."
+Keith is beaten and falls to his knees, a sword at his neck.
+BLADE says: ""Surrender the blade and the pain will cease."
+KEITH says: ""Never!"
+BLADE says: ""You are not meant to go through that door."
+Three panels open to reveal three Blades. They fight.
+Various images, showing Keith losing every fight yet still heading to the next.
+Seven panels open to reveal seven Blades.
+SHIRO says: ""How long does this go on?"
+KOLIVAN says: ""Sometimes, the greatest challenge is knowing when to stop."
+SHIRO says: ""He'll never quit."
+KOLIVAN says: ""One way or another, this will end."
+KOLIVAN says: "Knowledge or death."
+Keith yells, charging forward.
+The scene shifts back to the Castle.
+ALLURA says: ""How long has it been?"
+CORAN says: ""Roughly ten vargas."
+ALLURA says: ""We cannot just wait here."
+LANCE says: ""The path is closed for, like, I don't know, 30 more vargas or something?"
+CORAN says: ""That's actually correct."
+HUNK says: ""Really?"
+LANCE says: ""Yeah, I wasn't born yester-quintant."
+ALLURA says: ""I-I have to know what's going on down there."
+PIDGE says: ""There's no way to get a read on their base."
+PIDGE says: "Too much interference from the solar flares and the black holes."
+HUNK says: ""If we account for the gravitational lensing, maybe we can reduce the noise and interference and connect with the Red Lion's sensors, right?"
+HUNK says: "Th-That's right, right?"
+Hunk looks to Lance. Lance looks between Hunk and Coran.
+LANCE says: ""Are you looking at me?"
+CORAN says: ""We can give it a try."
+ALLURA says: ""Get on it."
+The scene shifts. Inside of Zarkon's castle, Thace removes a chip from under his fingernail and plugs it into the computer to download data. During the download, a soldier enters the room. Thace closes the console and turns to him.
+GALRA says: ""Haggar wishes to speak with you."
+Thace looks surprised for a moment. He glances back to the console, the chip still inside.
+The scene shifts. Seven Blades rise through the panels in the floor. Keith is visibly shaking, breathing heavily while holding his injured shoulder. The Blades step off of their panels and they slide down, another sliding forward to take its place. Keith narrows his eyes and charges forward. He throws his knife, which spirals past the Blades and lands in the panel to prevent it from closing. Keith fights the Blades unarmed. A Blade throws him and he slides across the floor, smirking as he grabs his knife and slips through the still open panel.
+SHIRO says: ""Keith!"
+The scene shifts to a new room. A door opens and Keith steps out, hunched over and holding his shoulder.
+KEITH says: ""Guess I really wasn't supposed to go through that door."
+Keith slows down, his vision blurring and doubling. He groans and collapses sideways.
+A shadow passes over him and he looks up, seeing a blurred Shiro. He blinks and Shiro is closer, offering a hand to him.
+SHIRO says: ""Hey, man."
+SHIRO says: "You did it."
+Keith smiles weakly, then grimaces.
+KEITH says: ""Shiro?"
+He reaches out and takes Shiro's hand. Shiro pulls him to his feet by his injured arm.
+SHIRO says: ""Kolivan told me you lasted longer than anyone ever has in those battles."
+SHIRO says: "You don't have to keep this up."
+KEITH says: ""What are you talking about?"
+SHIRO says: ""Just give them the knife and let's get out of here."
+KEITH says: ""I can't give it to them, Shiro."
+The scene pans out, showing the Shiro standing in front of the screen showing himself.
+SHIRO says: ""Is that a hologram?"
+KOLIVAN says: ""His suit has the ability to create a virtual mindscape, reflecting its wearer's greatest hopes and fears."
+KOLIVAN says: "And at this moment, your friend desperately wants to see you."
+The scene shifts back to Keith and "Shiro.".
+SHIRO says: ""What is it with you and that thing?"
+KEITH says: ""It's the only connection I have to my past."
+KEITH says: "It's my chance to learn who I really am."
+SHIRO says: ""You know exactly who you are."
+SHIRO says: "A Paladin of Voltron."
+SHIRO says: "We're all the family you need."
+KEITH says: ""Shiro, you're like a brother to me..."
+KEITH says: "but I have to do this."
+SHIRO says: ""No, you don't."
+SHIRO says: "So just give them the knife."
+KEITH says: ""I can't do that."
+SHIRO says: ""Just give up the knife, Keith!"
+SHIRO says: "You're only thinking of yourself, as usual!"
+Keith's eyes widen, then he looks away.
+KEITH says: ""I've made my choice."
+SHIRO says: ""Then you've chosen to be alone."
+Keith looks down at the knife, then back up at Shiro's retreating figure.
+KEITH says: ""Shiro!"
+KEITH says: "Wait!"
+He runs after Shiro, but Shiro keeps walking away. A bright light engulfs them both.
+The light fades, leaving Keith in his desert shack alone. He looks around, but a loud crash startles him.
+KEITH says: ""Huh?"
+FATHER says: ""Keith..."
+Keith quickly turns around and gasps.
+KEITH says: ""Dad?"
+FATHER says: ""You're home, son."
+Another loud crash startles Keith, and he looks over at the window.
+KEITH says: ""What's going on outside?"
+FATHER says: ""Don't worry about that."
+FATHER says: "We'll be fine as long as we stay in here."
+FATHER says: "Don't you wanna catch up?"
+Keith frowns, looking distressed.
+KEITH says: ""Of course I do."
+FATHER says: ""Son, so many years have passed."
+FATHER says: "I have so much to tell you."
+A third loud crash. Keith turns to face the window.
+KEITH says: ""What is that?"
+FATHER says: ""Everything's fine."
+Keith pulls the blanket off the window and gasps. Outside, a Galra warship attacks the desert and destroys it. People can be heard screaming while the Red Lion sits immobile on the top of a cliff.
+KEITH says: ""Dad, I-I'm sorry."
+KEITH says: "I gotta go."
+KEITH says: "There's people that need me out there."
+FATHER says: ""Don't you wanna know about where you came from?"
+FATHER says: "Your mother gave it to me."
+KEITH says: ""Mom?"
+A fourth crash, rumbling. People can be heard screaming, closer now. The Galra warship fires again on the desert, lines of sentries visible as they march upon the cabin.
+FATHER says: ""She'll be here soon."
+The scene shifts back to the Blade of Marmora headquarters, showing Keith's unconscious form on the ground while he grunts as if in a nightmare.
+SHIRO says: ""You need to get him out of there."
+KOLIVAN says: ""He can decide when to leave."
+Shiro throws his hands out, clearly frustrated.
+SHIRO says: ""You're messing with his mind."
+SHIRO says: "You're going to kill him!"
+KOLIVAN says: ""Knowledge or death, Shiro."
+Shiro grits his teeth and starts walking away.
+SHIRO says: ""I'm calling this off."
+Two Blade members block his way.
+The scene shifts again, back to Keith. For a moment, he is visible in the real world before the scene enters his head.
+KEITH says: ""You gotta tell me, Dad."
+KEITH says: "I have to know."
+KEITH says: "Where did the knife come from?"
+KEITH says: "What does it mean?"
+FATHER says: ""She'll tell you everything."
+An explosion occurs outside. Light flashes in through the windows.
+KEITH says: ""I can't wait around anymore."
+KEITH says: "I have to go."
+Keith walks towards the door, gripping the knob to turn it.
+FATHER says: ""If you go out that door, you'll never find out who you are."
+Keith freezes, his hand still on the door. After a moment, he looks down. Another explosion happens outside, light flaring inside the cabin over the view of Keith's knife. Keith looks over his shoulder at his father.
+KEITH says: ""Goodbye, Dad."
+The Red Lion's eyes flare yellow, and it roars before firing on the base.
+ALLURA says: ""The Red Lion is moving!"
+LANCE says: ""We gotta get down there!"
+HUNK says: ""It won't be ready for five more minutes."
+The scene shifts to Zarkon's castle. Inside the interrogation room, Thace sits in the chair. Haggar stands in front of him, with two Druids on either side of her.
+HAGGAR says: ""I am going to ask you some questions."
+HAGGAR says: "I will know if you lie."
+HAGGAR says: "I have reason to believe that a spy has infiltrated Galra command."
+THACE says: ""That is very alarming."
+HAGGAR says: ""Indeed."
+HAGGAR says: "Are you aware of any spies within our ranks?"
+THACE says: ""No."
+Thace's eyes widen. Haggar's outstretched hand forms a dark sphere of energy.
+HAGGAR says: ""Commander Thace, are you the one who lowered the solar barrier during the Voltron attack, allowing it to escape?"
+THACE says: ""No."
+THACE says: "I fight in the name of Galra."
+THACE says: "I am loyal to Zarkon."
+Haggar's eyes narrow before she lowers her hand.
+HAGGAR says: ""You will help me root out this traitor."
+The scene shifts back to the Blade of Marmora headquarters. The Red Lion fires on the base, trying to get to Keith. The trial room shakes, the screens show only static, and alarms blare. Kolivan and Antok are in the room, along with Shiro, who is restrained by two Blade members. Another Blade runs in.
+BLADE says: ""The Red Lion is attacking the base!"
+BLADE says: "It's trying to break through!"
+The Red Lion fires again.
+SHIRO says: ""It has a link with Keith."
+SHIRO says: "It knows when he's in danger."
+SHIRO says: "It's coming for him."
+Debris collapses into the room. Everyone grunts, and Shiro elbows the first Galra holding him before ducking out of the second's grip and running from the room. The Blades chase him out.
+The scene changes back to the Castle. On the screen, the Red Lion's icon blinks and beeps.
+CORAN says: ""The Red Lion has started attacking!"
+HUNK says: ""Wait, what does that mean?"
+HUNK says: "Why would the lion attack?"
+HUNK says: "Unless..."
+LANCE says: ""Allura?"
+ALLURA says: ""Everyone, stay focused."
+The scene shifts back to Keith, who opens his eyes as the base is destroyed around him. Footsteps are heard as Shiro runs into the room, helping Keith to his feet.
+SHIRO says: ""Keith, are you okay?"
+KOLIVAN says: ""Stop what you're doing!"
+Shiro puts Keith's injured arm over his shoulders, supporting him while Keith stands and loosely grips his knife in his left hand.
+KEITH says: ""What are you talking about?"
+KEITH says: "What's going on?"
+KOLIVAN says: ""Call off your beast!"
+SHIRO says: ""Move out of the way!"
+SHIRO says: "We're leaving!"
+KOLIVAN says: ""You're not leaving with that blade."
+KOLIVAN says: "It does not belong to you."
+KOLIVAN says: "You failed to awaken it!"
+KEITH says: ""What does that mean?"
+ANTOK says: ""Give up the blade!"
+Shiro lets go of Keith and activates his prosthetic, charging forward to meet Antok's strike.
+The scene shifts back to the Castle.
+ALLURA says: ""Coran, how much longer until we can get in?"
+CORAN says: ""Just a few more ticks, Princess."
+ALLURA says: ""Get ready."
+The scene shifts back to the Blade of Marmora.
+Shiro and Antok clash. Shiro grunts.
+KEITH says: ""Wait!"
+KEITH says: "Just take the knife!"
+Keith holds out the knife hilt first. Shiro deactivates his prosthetic and Antok lowers his blade, both turning to look at Keith.
+KEITH says: ""It doesn't matter where I come from."
+KEITH says: "I know who I am."
+KEITH says: "We all need to work together to defeat Zarkon."
+KEITH says: "And if that means I give up this knife, fine."
+KEITH says: "Take it."
+The Blade insignia glows faintly.
+KEITH says: ""Huh?"
+The light becomes a blinding white, shielding Keith from view.
+ANTOK says: ""You've awoken the blade!"
+The knife glows brightly, shifting into a long, curved sword.
+KOLIVAN says: ""The only way this is possible is if Galra blood runs through your veins."
+The scene shifts back to the Castle.
+CORAN says: ""Five..."
+CORAN says: "four..."
+CORAN says: "three..."
+CORAN says: "two..."
+CORAN says: "one!"
+The pathway on the screen flashes, and the Red Lion flies into view.
+SHIRO says: ""Princess, we're coming back, and we're bringing someone you should meet."
+CORAN says: ""They're all right!"
+Everyone celebrates.
+PIDGE says: ""Yes, they did it!"
+The Red Lion lands in the hangar. Keith, Shiro, and Kolivan step out to meet the others. Kolivan's mask vanishes, revealing his face. He pulls down his hood and kneels in front of Allura.
+KOLIVAN says: ""Princess Allura, it's good to see that the rumors are true."
+KOLIVAN says: "You're still alive after all these years."
+ALLURA says: ""So is Zarkon."
+ALLURA says: "Can we consider you our ally in the fight against him?"
+KOLIVAN says: ""Yes, but we have little time to discuss this."
+KOLIVAN says: "I just received word from our spy inside the Galran hierarchy."
+KOLIVAN says: "They have become aware of our presence, so the timetable for our plan has been moved up."
+SHIRO says: ""How soon do we need to begin?"
+KOLIVAN says: ""Now."

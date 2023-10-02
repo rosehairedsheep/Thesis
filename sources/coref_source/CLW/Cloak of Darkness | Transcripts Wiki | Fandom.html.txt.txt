@@ -1,0 +1,314 @@
+Narrator says: "Ignore your instincts at your peril."
+Narrator says: "Viceroy Gunray captured."
+Narrator says: "Senator Padmé Amidala has scored a victory against the Separatist alliance on the remote world of Rodia, securing the arrest of diabolical Confederate leader Nute Gunray."
+Narrator says: "The Jedi Council has dispatched Master Luminara Unduli and Anakin Skywalker’s Padawan, Ahsoka, to escort the Viceroy to Coruscant under heavy guard."
+Narrator says: "Once there, he will face trial for his many war crimes."
+REPUBLIC SHIP COCKPIT.
+Luminara Unduli says: "Captain, have you made contact with the cruiser?"
+Random Clone says: "Yes, General."
+Random Clone says: "We’ll patch you through now."
+They make contact with the cruiser.
+Luminara says: "Jedi Cruiser Tranquility, this is General Luminara Unduli requesting permission to land."
+Captain Argyus says: "You are cleared, General."
+Captain Argyus says: "We await your prisoner’s arrival."
+Luminara says: "Thank you, Captain Argyus."
+Luminara says: "I look forward to delivering him to you."
+REPUBLIC SHIP CELL.
+Nute Gunray says: "I am a man of great wealth, and I can be very generous to my allies."
+Commander Gree says: "That is a very tempting offer, Viceroy."
+Commander Gree says: "In the meantime, I have a gift for you."
+Shows handcuffs.
+REPUBLIC SHIP COCKPIT.
+Ahsoka Tano says: "Finally."
+Ahsoka Tano says: "It’s been such a boring trip."
+They board the cruiser.
+REPUBLIC CRUISER “TRANQUILITY” LANDING BAY.
+Nute Gunray is escorted to his new cell.
+Nute Gunray says: "This is an outrageous miscarriage of justice!"
+Nute Gunray says: "I demand my litigator!"
+Commander Gree says: "Keep moving."
+The escort composed of Luminara Unduli, Ahsoka Tano and other clones meets Captain Argyus and his Senate commandos.
+Captain Argyus says: "Greetings, General."
+Captain Argyus says: "We have the brig all ready for this traitor."
+Luminara Unduli says: "Very good, Captain."
+Luminara Unduli says: "Commander Gree, let’s get on the way."
+Commander Gree says: "Right away, sir."
+Commander Gree says: "Let’s move!"
+Ahsoka Tano says: "Senate commandos?"
+Ahsoka Tano says: "How does a money-grubbing worm like Gunray rate all this security?"
+Ahsoka Tano says: "He doesn’t look that dangerous."
+Luminara says: "Don’t let your overconfidence give Gunray another advantage, Ahsoka."
+Luminara says: "Even now, his allies may be conspiring against us."
+SEPARATIST CRUISER.
+Darth Sidious says: "Gunray’s capture could be a serious threat to us, my friend."
+Darth Sidious says: "The Viceroy will not last long under Jedi interrogation."
+Count Dooku says: "I have already put a plan into action, my lord."
+Count Dooku says: "My best agent, Asajj Ventress, will infiltrate the Jedi ship and either free Gunray or silence him."
+Sidious says: "Ventress?"
+Sidious says: "You are putting a great deal of faith in an operative who has failed us in the past."
+Dooku says: "She is a gifted assassin."
+Dooku says: "You have my word."
+Dooku says: "She will complete her mission to the letter."
+Sidious says: "Very well."
+Sidious says: "You may proceed."
+Sidious ends call. Asajj Ventress enters the room.
+Asajj Ventress says: "Master."
+Dooku says: "There is no margin for error this time, child."
+Dooku says: "You must prove yourself worthy of being my apprentice."
+Ventress says: "I am worthy, as you shall see."
+REPUBLIC CRUISER “TRANQUILITY” BRIG.
+Captain Argyus says: "How goes the interrogation?"
+Captain Argyus says: "Has the Viceroy cracked?"
+Commander Gree says: "Not yet."
+Commander Gree says: "Neimoidians are a slippery lot, but the Jedi will wear him down."
+The interrogation continues inside Nute Gunray’s cell.
+Luminara Unduli says: "Your thoughts betray you, Viceroy."
+Luminara Unduli says: "I can sense your concern."
+Luminara Unduli says: "The fear that you will lose the wealth and the power that the war has given you."
+Nute Gunray says: "I have no idea what you’re talking about."
+Luminara says: "You hide a great many things."
+Luminara says: "The name of your secret allies."
+Luminara says: "The locations of their bases."
+Gunray says: "I am an innocent pawn in all of this!"
+Luminara says: "If you’re merely a pawn, then who are you protecting?"
+Gunray says: "No one!"
+Gunray says: "I… I know nothing!"
+Ahsoka Tano says: "Liar!"
+Ahsoka Tano says: "Liar!"
+Ahsoka Tano says: "I’m tired of all this whining!"
+Ahsoka menaces him by putting her lightsaber under his throat.
+Ahsoka says: "Tell us what we want to know right now, or I will gut you like a Rokaria’n dirt fish!"
+Luminara says: "Padawan!"
+Luminara pulls Ahsoka aside.
+Luminara says: "Terror is not a weapon the Jedi use."
+Ahsoka says: "I wasn’t serious!"
+Ahsoka says: "But the only way he’ll talk is if he’s scared enough."
+Gunray says: "Perhaps I was too hasty."
+Gunray says: "Let us negotiate."
+The cruiser shakes.
+Commander Gree says: "Captain!"
+Commander Gree says: "Status report!"
+Random Clone says: "Droid fighters incoming!"
+Random Clone says: "They’ve brought boarding ships!"
+The Separatist fighters attack the cruiser.
+Gree says: "Green Company, prepare to repel the enemy!"
+Green Company goes to landing bay. The droids board and a battle between the two starts.
+Green Leader says: "Green Leader to Commander Gree!"
+Green Leader says: "Super battle droids have breached our hull!"
+Green Leader says: "They’re headed for the detention level."
+Green Leader says: "We need reinforcements."
+Luminara says: "Commander, I’ll need your assistance."
+Ahsoka says: "Let’s go."
+Luminara says: "You will stay here with Captain Argyus."
+Luminara says: "Guard the Viceroy."
+Luminara gives her an authoritarian look.
+Ahsoka says: "As you wish, Master."
+Luminara and Gree leave the brig.
+Gunray says: "It appears you are in no position to negotiate after all, Padawan."
+Ahsoka says: "Rescue?"
+Ahsoka says: "Maybe they’re to make sure you won’t talk."
+REPUBLIC CRUISER “TRANQUILITY” LANDING BAY.
+Asajj Ventress boards.
+Random Clone says: "All units!"
+Ventress kills him.
+Random Clone says: "Trooper!"
+Random Clone says: "What have you found?"
+Random Clone says: "Come in, trooper!"
+Random Clone says: "Do you copy?"
+Ventress takes the arm comlink and wears it. She cuts a hole through the ventilation and gets in.
+Random Clone says: "Super battle droids are everywhere."
+Random Clone says: "Fall back to the detention level!"
+Random Clone says: "We have to protect the prisoner!"
+REPUBLIC CRUISER “TRANQUILITY” ENGINE ROOM.
+Asajj Ventress sneaks in. Two random clones enter.
+Random Clone says: "See anything?"
+Random Clone says: "Engine room seems clear."
+Random Clone says: "We’ll lock it down."
+Random Clone says: "Good, Captain."
+Random Clone says: "The enemy is advancing toward the prison level."
+Random Clone says: "We’re on our way."
+Random Clone says: "You keep watch here, 327."
+Random Clone says: "Okay, okay, 327-T."
+Random Clone says: "You know droids never like to be called by their nicknames."
+They leave the engine room. Ventress manages to set a few detonators without droid 327-T seeing it.
+REPUBLIC CRUISER “TRANQUILITY” CORRIDORS.
+Commander Gree destroys the last droid.
+Commander Gree says: "There."
+Commander Gree says: "Looks like the last of them, General."
+Luminara Unduli says: "Yes, Commander."
+Luminara Unduli says: "But I sense our troubles are not over."
+REPUBLIC CRUISER “TRANQUILITY” BRIG.
+Ahsoka Tano says: "Sounds like your rescue didn’t work out after all."
+Nute Gunray says: "I am ready to discuss bargain again."
+Captain Argyus says: "Padawan Tano."
+Captain Argyus says: "May I have a word?"
+Ahsoka says: "Certainly, Captain."
+Ahsoka says: "If I leave, you won’t go anywhere, will you?"
+Gunray ironically laughs.
+Argyus says: "I’ve got the all-clear."
+Argyus says: "The enemy has been repelled."
+Ahsoka says: "And their attempt to free Gunray has failed?"
+Asajj Ventress cuts a hole through the entrance. She defeats the Senate commandos.
+Ahsoka says: "If it isn’t the hairless harpy."
+Asajj Ventress says: "If it isn’t Skywalker’s filthy, obnoxious little pet."
+Ahsoka says: "How nice of you."
+Ahsoka says: "Tell you what, I’ll give you a merciful death."
+The two of them engage into a duel. Luminara Unduli senses Ahsoka’s trouble.
+Arguys says: "Shoot her!"
+Ventress quickly defeats the whole entire Senate commando.
+Ventress says: "Skywalker’s not here to save you now."
+Ahsoka says: "Good thing I don’t need saving."
+Gunray says: "Over here!"
+Gunray says: "Open this door and I’ll buy you a planet!"
+Ventress frees Gunray, and Ahsoka gets tricked and is locked inside the cell.
+Gunray says: "Yes!"
+Gunray says: "Yes!"
+Gunray says: "Such delicious irony!"
+Gunray says: "How do you like your room now, youngling?"
+Luminara Unduli and Commander Gree enter the brig.
+Luminara Unduli says: "Halt, assassin!"
+Luminara frees Ahsoka and they defeat Ventress.
+Luminara says: "Surrender."
+Ventress seems to surrender but actually detonates the detonators. She then escapes through the elevator.
+Ahsoka says: "What are we waiting for?"
+Ahsoka jumps into the elevator.
+Luminara says: "Ahsoka!"
+Luminara saves Ahsoka from certain death by retaining her and letting the elevator pass.
+Ahsoka says: "Thanks."
+Arguys says: "Everything’s running haywire."
+Arguys says: "Doors, lifts."
+Arguys says: "Communication’s down, propulsion’s dead."
+Arguys says: "She’s crippled the entire ship."
+Luminara says: "Our attacker has come for Gunray."
+Luminara says: "Stay here and guard him."
+Luminara says: "I’ll confront her myself."
+Ahsoka says: "Master, all due respect, but Ventress is too powerful for any one Jedi to fight alone."
+Ahsoka says: "Let me help you."
+Luminara says: "I am more than capable of dealing with a lone assassin armed with undisciplined fighting skills."
+Luminara says: "Stay here, and keep a clear head."
+Luminara leaves the brig.
+Ahsoka says: "Luminara Unduli may be a Jedi Master, but she has no idea what that bog witch is capable of."
+Ahsoka says: "No idea."
+Ahsoka says: "I can’t let her face that lowlife alone."
+Ahsoka says: "Wouldn’t we have a better chance of stopping her if I helped?"
+Arguys says: "Sometimes, being a good soldier means doing what we think is right."
+Arguys says: "That’s why we’re superior to droids."
+REPUBLIC CRUISER “TRANQUILITY” ENGINE ROOM.
+Luminara Unduli and Asajj Ventress have engaged into a duel.
+Asajj Ventress says: "Do you think you’ll still be able to call on the Force after I’ve separated your head from your body?"
+Luminara Unduli says: "Even with my vision clouded, I recognise the fighting style of Count Dooku."
+Luminara Unduli says: "Your version is unrefined."
+Luminara Unduli says: "Amateurish."
+Luminara Unduli says: "Sloppy."
+REPUBLIC CRUISER “TRANQUILITY” BRIG.
+Ahsoka Tano says: "I can’t disobey a direct order and leave my post, can I?"
+Commander Gree says: "I wouldn’t."
+Captain Argyus says: "But don’t worry, we’ve got this under control, Master Jedi."
+Captain Argyus says: "Your friend won’t be going anywhere."
+Nute Gunray says: "All I know is, I never risk my own skin if I don’t have to."
+Ahsoka gives him a weird look.
+Gunray says: "What?"
+Ahsoka says: "Watch him closely."
+Argyus says: "You can trust us, Commander."
+Ahsoka leaves.
+Gree says: "Call us if you need help, sir!"
+REPUBLIC CRUISER “TRANQUILITY” ENGINE ROOM.
+Asajj Ventress manages to defeat Luminara Unduli.
+Asajj Ventress says: "Now you fall, as all Jedi must."
+Ahsoka Tano enters the engine room. She pushes Ventress with the force and saves Luminara.
+Ahsoka Tano says: "I know, I know."
+Ahsoka Tano says: "You told me to stay."
+Ventress goes into hiding.
+Luminara says: "We have to find her."
+Luminara says: "We can’t let her get to Gunray."
+Ventress sends a transmission to Captain Argyus.
+REPUBLIC CRUISER “TRANQUILITY” BRIG.
+Captain Argyus receives a transmission from Asajj Ventress.
+Random Senate Commando says: "What’s that, Captain?"
+Captain Argyus says: "Oh, nothing to worry about."
+He shoots his own Senate Commandos and kills them.
+Commander Gree says: "Hey!"
+Commander Gree says: "What are you doing?"
+He engages into a fight with Gree and frees Nute Gunray.
+Nute Gunray says: "No."
+Nute Gunray says: "Please."
+Nute Gunray says: "Don’t!"
+Argyus says: "Oh, do shut up."
+Argyus says: "Count Dooku is paying me a fortune to deliver your slimy carcass."
+Argyus says: "So, please, try to stay alive."
+REPUBLIC CRUISER “TRANQUILITY” ENGINE ROOM.
+Ahsoka Tano and Luminara Unduli are still looking for Asajj Ventress.
+Ahsoka Tano says: "What happened to “Padawan Tano”?"
+Luminara says: "This assassin, I’ve never faced an adversary like her."
+Luminara says: "I should have listened to your advice."
+Luminara receives a call.
+Commander Gree says: "General Unduli!"
+Commander Gree says: "We’ve been betrayed!"
+Commander Gree says: "Argyus has freed Gunray!"
+Luminara says: "I’ve been a fool!"
+Ventress finally shows herself.
+Ahsoka says: "We’ll take her together."
+A lightsaber battle starts. Ventress is against Luminara and Ahsoka this time.
+REPUBLIC CRUISER “TRANQUILITY” BRIG.
+Commander Gree says: "Stop!"
+Commander Gree says: "This is your last warning!"
+Nute Gunray says: "Don’t shoot!"
+Nute Gunray says: "I am an innocent pawn!"
+Captain Argyus says: "He won’t shoot."
+Captain Argyus says: "He doesn’t want to damage his prize."
+Gree shoots on Argyus’ blaster. Argyus has now no weapon, and holds Gunray as a hostage.
+Gree says: "Stand down, Captain."
+Argyus says: "Come and get me!"
+Argyus frees Gunray and starts fighting Gree.
+Gree says: "Why’d you do it, Argyus?"
+Argyus says: "A clone like you would never understand."
+Argyus says: "I wanted a life more than empty servitude."
+Gree says: "And for that, you’d betray the Republic?"
+Argyus says: "Like I told the Padawan, sometimes being a good soldier means doing what you think is right."
+Gree finally defeats Argyus.
+Gree is hit by Gunray. He is left unconscious. Argyus gets up.
+Gunray says: "You should have taken my offer when you had the chance, clone."
+Argyus and Gunray escape and board on a small ship to get away.
+Argyus says: "The outer shields are still down."
+Argyus says: "The ship is still in turmoil."
+Argyus says: "We’re home free."
+Argyus and Gunray leave the cruiser.
+Argyus says: "As successful a rescue as one could hope for, Viceroy."
+Argyus says: "I’ll be a legend for this."
+Gunray says: "I always had a good feeling about you, Captain."
+On her side, Asajj Ventress has finally managed to escape Luminara Unduli and Ahsoka Tano. She is on the small ship and she enters the cockpit.
+Argyus says: "You see, assassin?"
+Argyus says: "Our plan went off without a hitch."
+Asajj Ventress says: "“Our” plan?"
+Argyus says: "And I will, of course, make sure your contributions are noted in my report to Count Dooku."
+Ventress kills Argyus.
+Ventress says: "I’ll tell him myself."
+Ventress says: "Greetings, Viceroy."
+Gunray says: "I always had a good feeling about you, assassin."
+REPUBLIC CRUISER “TRANQUILITY”.
+Ahsoka Tano says: "I’m sorry that despicable wealth-worm Gunray got away."
+Anakin Skywalker says: "It’s okay, Snips."
+Anakin Skywalker says: "I know you did your best."
+Yoda says: "Troubling is the treachery of the Senate Guard, Captain Argyus."
+Yoda says: "Revealed all around us our enemies are."
+Luminara Unduli says: "I’m not sure all is lost."
+Luminara Unduli says: "Gunray and his accomplices stole a Republic ship to make their getaway."
+Anakin says: "It could be tracked!"
+Luminara says: "Indeed."
+Yoda says: "A coward Viceroy Gunray is, but powerful allies he has."
+Yoda says: "Swiftly we must move if we are to recapture him."
+Luminara says: "Master Fisto’s fleet was near Gunray’s position."
+Luminara says: "I’ve already contacted him to follow the signal."
+Anakin says: "Ahsoka, I’ll meet you at the rendezvous point."
+Ahsoka says: "Yes, Master."
+Anakin and Yoda end the call.
+Ahsoka says: "Master Luminara, I guess this is goodbye for now."
+Luminara says: "I owe you my life, Ahsoka."
+Ahsoka says: "Protecting a Jedi Master is the role of a Padawan."
+Luminara says: "And teaching is usually the role of the Master."
+Luminara says: "Master Skywalker should be proud."
+Luminara says: "Farewell."
+Ahsoka says: "Thank you, Master."
+Luminara says: "Commander, let’s get on the way."
+Commander Gree says: "Yes, General."
+Commander Gree says: "Ahead full!"

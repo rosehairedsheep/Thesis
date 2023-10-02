@@ -1,0 +1,242 @@
+ALLURA: "Somewhere inside Sendak's memories we should be able to find the inside information that gives us the key to take down Zarkon."
+CORAN: "I don't think your father would approve of searching through an enemy's memories."
+ALLURA: "I know, but we have to do everything we can to defeat Zarkon."
+LANCE: "Once we learn all his weaknesses, we can drive up to his front door and challenge him to a fight. Winner gets the universe."
+SHIRO: "Anything good yet, Pidge?"
+PIDGE: "We were only able to salvage bits and pieces."
+KEITH: "We need something to work with. Right now, we don't even have a decent map of the empire."
+LANCE: "Who needs a map? After 10,000 years of conquering, I could probably fire my bayard at like any random point in space and hit a Galra ship."
+SHIRO: "If we could just find troop locations or supply routes, small targets we could hit-and-run, then we could start to free planets one by one."
+LANCE: "Boring. I want the big kaboom."
+SHIRO: "Zarkon's been building his empire for 10,000 years. We're not going to tear it down overnight with five inexperienced pilots and one support ship. Hitting him where he lives would be a huge mistake."
+PIDGE: "Okay, I've cross-referenced Sendak's memories with the info I got from the downed ship back on Arus. Most of it was a garbled mess, but one thing kept repeating, something called a "Universal Station.""
+HUNK: "Universal Station? Like, the kind of station that controls the entire universe?"
+PIDGE: "Well, we are translating it from Galra, so it could also be "Galactic Hub.""
+LANCE: "Or "Space Base"!"
+LANCE: "What?"
+CORAN: "I'm pulling up the location of your Universal Hub Station Base on our screens now."
+LANCE: "So, where is it?"
+CORAN: "I don't know. Our long-range sensors are unable to find anything at those coordinates."
+KEITH: "Maybe he remembered it wrong."
+PIDGE: "Or maybe we just stumbled across a top-secret base in Sendak's memories."
+ALLURA: "Only one way to find out. Let's go take a look."
+Princess Joins The Fray
+[ Hunk snores.]
+
+ALLURA: We should be close enough to get a good scan, but far enough away to avoid being noticed."
+SHIRO:  There it is."
+CORAN: "It appears the gravitation between the two planets warps the electron emission spectrum enough to keep the planet off the deep space scanners."
+PIDGE: "So, you can only see it if you really know where to look."
+SHIRO:  "This place must handle shipments from all over the Galra Empire."
+PIDGE: "If this is some big airport where shipments come and go, why is it hidden?"
+SHIRO: "There must be more to this than we're seeing."
+ALLURA: "Then, we'd better go down to take a look. We'll need to enter here: the central control building."
+KEITH: "I'm sorry, Princess, did you say "we"?"
+ALLURA: "I'm going with you. I've traveled through the Galra transportation hubs many times with my father before the war began. I know more about them than any of you."
+CORAN: "Princess, I'd rather you stay here."
+ALLURA: "I'm a part of this fight against Zarkon as much as anyone. I'm going. Does anyone have a problem with that?"
+CORAN: Uh..."
+[ Lance whistles while Coran stammers.]
+
+SHIRO: "Fine. Suit up. [
+CORAN: [screams]"
+EVERYONE: Huh?"
+SHIRO: "We'll go in low, fast, and hopefully undetected. Coming around the dark side of the nearest planet should keep them from getting a visual on us. Thanks to Pidge's modifications to the Green Lion, we'll have 30 seconds of cloaking."
+CORAN: "I can flood their short-range sensors with a radiation burst. That should buy you a minute or so, while they assume it's cosmic interference. But, after that, it's up to you to be out of sight."
+Xenomorphasis
+GALRA SOLDIER: "male voice: Interference clear in three, two, one."
+[Galra Soldier yawns.]
+
+SHIRO: "Psst! Hey!"
+GALRA SOLDIER: "Hmm?"
+[Shots.]
+
+SHIRO: "How's it look out there?"
+KEITH: "All clear."
+HUNK: "This shouldn't take too long."
+PIDGE: "We'll have all the information we need in a few minutes."
+[Computer starts beeping.]
+
+PIDGE: "Hunk and I have made some improvements since the last time I tried to download Galra info. We should get a nice, clean translation immediately. Hunk had a great idea about how to do it."
+HUNK: "Yeah, yeah, yeah, do you guys remember when we studied algorithms at the Garrison, and Mr. York told us that joke about the ghost learning symbolic logic and innumerably infinite sets?"
+LANCE: "Boring!"
+HUNK: "Right, yeah, totally, it was boring. Anyway, the joke goes..."
+KEITH: "Hey, guys, sorry to interrupt, but I think we got company."
+KEITH: "Think we should get out of here?"
+PIDGE: "We just need a few more seconds."
+SHIRO: "Stay low. We need this intel."
+KEITH: "Get down!"
+[The team hastily scatters, ducking under consoles.]
+
+GALRA SOLDIER: "Huh?"
+LANCE: "He's still looking. I think he's waiting for a signal or something."
+HUNK: "I got it."
+HUNK: "Whew."
+LANCE: "Nice job, Hunk."
+HUNK: "Thanks."
+PIDGE: "Okay, download complete."
+KEITH: "What's it say? Nothing. This place doesn't have any useful information. Just a schedule of the ships coming in and out."
+LANCE: "Well, I guess this mission was a bust."
+SHIRO: "Let's get back to the Castle."
+ALLURA: "Hold on. Pidge, do you know where that ship is headed?"
+PIDGE: "Um, it's scheduled to be here for about a half an hour, then head off to Central Command."
+ALLURA: "That's where they have the information we need, and I'm going to sneak aboard that ship and get it for us."
+LANCE: "What? No way!"
+KEITH: "How are you going to get in?"
+ALLURA: "I'm going to walk right through the front."
+[Allura transforms.]
+
+HUNK: "How the heck did you do that?"
+ALLURA: "The Alteans are a chameleon-like people who can blend in with the local populations. It's the ability that's made us great explorers and diplomats throughout our history."
+LANCE: "So, can you turn into, like, a balloon?"
+PIDGE: "How many different colors can you be at once?"
+HUNK: "Aren't you afraid you'll rip your pants?"
+ALLURA: "No, just one at a time, and I will need a change of costume. I can use his uniform as a disguise."
+SHIRO: "I can't let you go in there alone."
+ALLURA: "Excuse me? I do not need your permission."
+SHIRO: "It's too dangerous. I'm going in with you. You will stick out like a Shoferiak's nose."
+PIDGE: "You're going to need that nose, Princess. Shiro's hand is made from Galra tech. It's the only thing we have that will allow us to interface with their systems and gather intel. I can monitor the download remotely from here."
+ALLURA: "Fine, you can come."
+HUNK: "Uh, you guys better hurry up if you want to get on and off before the ship leaves for Zarkon central."
+KEITH: "How are you going to get Shiro on board?"
+Collection
+Sporks
+[Allura is in Galra armor carrying a box. Shiro is curled up inside the box with a resigned expression. Allura approaches the ship.]
+
+GALRA SENTRY: "Halt."
+[A floating bed of canisters passes down the ramp and into the depot.]
+
+GALRA SENTRY: "Move along."
+ALLURA: "Whew."
+LANCE: "They're in."
+KEITH: "What do you think they have in all those giant containers?"
+HUNK: Well, I suspect that it's sporks."
+HUNK: "What? This is an advanced race we're talking about here. Surely, they've learned that it's foolish to have forks and spoons when one tool will efficiently do the job."
+PIDGE: "Maybe this guy will tell us. What is coming in and out of this station?"
+GALRA DRONE: "Interrogation detected. Initiating lockdown."
+PIDGE: "Not talking, eh?"
+KEITH: "Whoa. Check out this guy. Whatever's happening here that requires the base to be kept secret must have something to do with that scary dude. I'm going to go check it out."
+LANCE: "How about we just lay low and you don't blow our cover?"
+LANCE: "Keith, think about what you're doing. Don't walk through that door!"
+LANCE: "I think I told him."
+PIDGE: "You are a paragon of leadership, Lance."
+Timing
+ALLURA: "Shiro, are you all right?"
+SHIRO: "I just remembered how I escaped from the Galra prison ship.  Listen, most of the ship's personnel are sentries."
+ALLURA: "So?"
+SHIRO: "When I was a prisoner, I timed their pattern."
+ALLURA: "Do you remember it?"
+SHIRO: "Let's find out."
+Queried Infatuation
+LANCE: "[laughs] Why are you hitting yourself? Stop hitting yourself! Quit hitting yourself!"
+PIDGE: "Stop torturing it, Hunk."
+HUNK: "I'm sorry. I just... I need something to keep me busy, so I'm not worried about Keith getting caught, or Shiro and Allura getting blasted by robot things, or someone finding us here, like, right now..."
+PIDGE: "Stop it, Hunk! I think we can teach it to help us. Would you like to help us, Mr. Robot?"
+HUNK: "Whoops."
+LANCE: "Quick question. Does Allura talk about me when I'm not in the room?"
+HUNK: "Oh, yeah, all the time."
+LANCE: "Really?"
+HUNK: "Yeah, yeah. She's all like, "Oh, Lance. He looks so fine. I'm all atwitter." Then, she turns red and she makes me swear not to tell anyone."
+LANCE: "I knew it!"
+[The Galra drone hits Lance.]
+
+PIDGE: "Whoops."
+Plyrox
+On the Ship
+
+SHIRO: "We only have a few minutes before the next patrol comes by. Watch the door."
+ALLURA: "Got it."
+SHIRO: "Okay, Pidge, start the download."
+PIDGE: "Generating access code."
+PIDGE: "We're in."
+SHIRO: "Pidge, I think there's a problem."
+PIDGE: "Sit tight. I'm trying to work around this."
+COMPUTER: "Scanning for information."
+SHIRO: Pidge?"
+PIDGE: "I'm on it, I'm on it!"
+GALRA SOLDIER: "What's going on here? Who are you?"
+ALLURA: "It's about time you got here. Where is the rest of your squad?"
+GALRA SOLDIER: "Uh, what squad?"
+SHIRO: "[whispering] Hurry up, Pidge."
+PIDGE: "Almost there."
+ALLURA: "The squad that is to escort me and my associate to our ship."
+GALRA SOLDIER: "Who's back there? What's going on?"
+ALLURA: "We are part of Zarkon's high command. Our work must not be disturbed."
+GALRA SOLDIER: "Where's Chief Information Officer Plytox?"
+ALLURA: "Uh, he's in there. Say hello, Plyrox."
+SHIRO: "Uh...Uh.. It's "Plytox"!"
+ALLURA: "Oh, sorry. See?"
+GALRA SOLDIER: "Oh. Vrepit sa, sir! I get his name wrong all the time, too."
+ALLURA: "Whew."
+Extraction
+Quintessence Collection
+KEITH: "Coran, you need to see this."
+CORAN: "I've never seen anything like it."
+PIDGE: "What is that?"
+[Mr. Robot beeps.]
+
+MR. ROBOT: "The material is quintessence, the substance with the highest known energy per unit volume in the universe."
+LANCE: "Hey, nice job, Pidge! You made him work for us."
+CORAN: "What? Impossible."
+MR. ROBOT: "Raw quintessence material is transported here from throughout the galaxy and refined into standardized Galra fuel requirements."
+PIDGE: "Did you guys hear that?"
+CORAN: "I can't believe it! They've found a new way acquire quintessence!"
+KEITH: "Guys, I'm going to steal some of this quint-whatever."
+Princess Issues A Promotion
+GALRA SOLDIER: "Um..."
+ALLURA: "Huh?"
+GALRA SOLDIER: "Do you think I could get assigned to Zarkon's unit? Nothing happens on this ship."
+ALLURA: "Oh, well, I don't know. What's your bloodthirstiness on a scale of one to five? One being "No, thanks, I'm full," and five being "Unquenchable.""
+GALRA SOLDIER: "Hmm... If I'm being honest, about a three."
+ALLURA: "We can work on that."
+[Alarm blares.]
+
+GALRA SOLDIER: "Huh?"
+ALLURA: "Huh?"
+COMPUTER: "computer: Fugitive prisoner 117-9875 detected. Remain where you are. Security alerted."
+GALRA SOLDIER: "Uh, help! Intruders!"
+SHIRO: "I think we're in trouble."
+ALLURA: "You think?"
+[Allura rams the Galra Soldier into the wall, creating a dent, embedding his helmet into a wall and knocking him unconscious. Allura yanks his weapon out of his hand. Shiro gapes.]
+
+ALLURA: "What?"
+[Galra Drones walk towards them.]
+
+SHIRO: "Let's go!"
+Keith Vs. Druid
+[Keith steals a cylinder of Quintessence.]
+
+KEITH: "Mm?"
+KEITH: "Okay, plan B!"
+[Druid strikes lightning upon Keith.]
+
+KEITH: "Pidge, I need an extraction now! Hurry!"
+SHIRO: "Pidge, fire up the Green Lion! We're coming in hot!"
+Princess Seized
+[Galra drones attack, Allura fires the weapon the wrong way, hitting a patrol behind them.]
+
+ALLURA: "What?"
+SHIRO: "I thought you said you'd traveled around the galaxy. I mean, you fly a spaceship. How could you possibly not know how to hold this correctly?"
+ALLURA: "I'm tense! This is a tense situation."
+GALRA SOLDIER: "Secure hatches. All personnel take positions for departure."
+ALLURA: "Let's move!"
+PIDGE: "Get in! We've got to get Shiro and Allura!"
+KEITH: "Huh?"
+SHIRO: "The escape pods are up here!"
+GALRA SOLDIER: "male voice: Formulating navigation. All crew assume secure hyper-speed positions."
+ALLURA: "Hurry! We can't leave once the ship goes into hyper-speed!"
+ALLURA: "It's taking off! Get in the pod!"
+SHIRO: "I'm not leaving you!"
+ALLURA: "You have to!"
+SHIRO: "No!"
+[Allura throws him - one handed into the pod. The Galra drones break through the door and capture her. The ship jumps into hyperspace. Shiro arrives on the Green Lion to confused looks.]
+
+KEITH: "Where's Allura?"
+LANCE: "Shiro?"
+SHIRO: "She sacrificed herself to save me."
+PIDGE: "So, she's still on that ship?"
+HUNK: "The ship that's headed to Zarkon's Central Command?"
+KEITH: "The place that's way too dangerous for us to attack?"
+SHIRO: "It doesn't matter how dangerous it is. We can't let Zarkon get Allura."
+HUNK: "But you said going there would be a huge mistake. You said for us to attack that place head-on would be the dumbest possible thing we could ever do."
+SHIRO: "I know, but now we don't have a choice."

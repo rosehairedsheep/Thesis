@@ -1,0 +1,1795 @@
+STATS:
+[408, 90, 82, 13]
+
+
+
+speaker: BETH
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: BETH
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: SLEEPY GARY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: HEMORRHAGE
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: HEMORRHAGE
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: ABRADOLPH LINCOLER
+addressee: JESSICA
+
+speaker: ABRADOLPH LINCOLER
+addressee: JESSICA
+
+speaker: ABRADOLPH LINCOLER
+addressee: JESSICA
+
+speaker: ABRADOLPH LINCOLER
+addressee: JESSICA
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: JESSICA
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: JESSICA
+
+speaker: JERRY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: JERRY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: CORNVELIOUS DANIEL
+
+speaker: BETH
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: BETH
+addressee: MORTY
+
+speaker: BETH
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: SUMMER
+addressee: JERRY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: JESSICA
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JESSICA
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: BETH
+addressee: TOXIC RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: JESSICA
+addressee: TOXIC RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TOXIC RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: TOXIC RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: TOXIC RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: JERRY
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: EVIL RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: JERRY
+addressee: EVIL RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: EVIL RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: EVIL RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: EVIL RICK
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: UNITY
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: UNITY
+addressee: RICK
+
+speaker: UNITY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: BETH
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: GEARHEAD
+addressee: MORTY
+
+speaker: GEARHEAD
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: LUCY
+addressee: JERRY
+
+speaker: LUCY
+addressee: JERRY
+
+speaker: RICK D. SANCHEZ III
+addressee: JESSICA
+
+speaker: RICK D. SANCHEZ III
+addressee: JESSICA
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: BETH
+addressee: JERRY
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: ABRADOLPH LINCOLER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: BETH
+addressee: JERRY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: SUMMER
+addressee: TAMMY
+
+speaker: RICK D. SANCHEZ III
+addressee: TAMMY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: TAMMY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: BETH
+addressee: JERRY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: ZEEP
+
+speaker: SUMMER
+addressee: ZEEP
+
+speaker: SUMMER
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: ZEEP
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: ZEEP
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: ZEEP
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: RICK D. SANCHEZ III
+addressee: ZEEP
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: RICK D. SANCHEZ III
+addressee: KYLE
+
+speaker: RICK D. SANCHEZ III
+addressee: KYLE
+
+speaker: RICK D. SANCHEZ III
+addressee: KYLE
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: RICK D. SANCHEZ III
+addressee: KYLE
+
+speaker: ZEEP
+addressee: KYLE
+
+speaker: RICK D. SANCHEZ III
+addressee: KYLE
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: ZEEP
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: ZEEP
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: ZEEP
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: BETH
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: BETH
+addressee: DR. WONG
+
+speaker: BETH
+addressee: DR. WONG
+
+speaker: RICK D. SANCHEZ III
+addressee: JERRY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: FART
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: FART
+addressee: MORTY
+
+speaker: JERRY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: FART
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: GEARHEAD
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: FART
+addressee: RICK
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: SUMMER
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JESSICA
+addressee: MORTY
+
+speaker: JESSICA
+addressee: MORTY
+
+speaker: JESSICA
+addressee: MORTY
+
+speaker: JESSICA
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: BETH
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: BETH
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: JESSICA
+
+speaker: RICK D. SANCHEZ III
+addressee: JESSICA
+
+speaker: RICK D. SANCHEZ III
+addressee: JESSICA
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: SUMMER
+addressee: BETH
+
+speaker: BETH
+addressee: RICK
+
+speaker: PRESIDENT MORTY
+addressee: RICK
+
+speaker: PRESIDENT MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: JERRY
+addressee: PRINCIPAL VAGINA
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: PRESIDENT MORTY
+addressee: NATHAN
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: SCARY TERRY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: SCARY TERRY
+
+speaker: RICK D. SANCHEZ III
+addressee: SCARY TERRY
+
+speaker: JERRY
+addressee: SNUFFLES
+
+speaker: JERRY
+addressee: SNUFFLES
+
+speaker: JERRY
+addressee: SNUFFLES
+
+speaker: JERRY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JERRY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JERRY
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: SNUFFLES
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: SNUFFLES
+addressee: RICK
+
+speaker: SNUFFLES
+addressee: RICK
+
+speaker: SNUFFLES
+addressee: RICK
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: VANCE
+addressee: MORTY
+
+speaker: VANCE
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: VANCE
+addressee: MORTY
+
+speaker: VANCE
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: SUPERNOVA
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: ALAN
+
+speaker: RICK D. SANCHEZ III
+addressee: ALAN
+
+speaker: RICK D. SANCHEZ III
+addressee: ALAN
+
+speaker: MEESEEKS
+addressee: JERRY
+
+speaker: MEESEEKS
+addressee: JERRY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: BETH
+addressee: JERRY
+
+speaker: RICK D. SANCHEZ III
+addressee: MEESEEKS
+
+speaker: BETH
+addressee: RICK
+
+speaker: SUMMER
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: JERRY
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: JERRY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: RICK D. SANCHEZ III
+addressee: MORTY
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: JERRY
+addressee: RICK
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: RICK
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: BETH
+
+speaker: CAMPAIGN MANAGER MORTY
+addressee: BETH
+
+speaker: RICK D. SANCHEZ III
+addressee: PRINCE NEBULON
+
+speaker: RICK D. SANCHEZ III
+addressee: PRINCE NEBULON
+
+speaker: RICK D. SANCHEZ III
+addressee: PRINCE NEBULON
+
+speaker: JERRY
+addressee: BETH

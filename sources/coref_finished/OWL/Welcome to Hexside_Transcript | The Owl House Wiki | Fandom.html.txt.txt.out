@@ -1,0 +1,1063 @@
+Document: ID=Welcome to Hexside_Transcript | The Owl House Wiki | Fandom.html.txt.txt (25 sentences, 368 tokens)
+
+Sentence #1 (11 tokens):
+Open on King flicking through channels on a crystal ball.
+
+Tokens:
+[Text=Open CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=VB Lemma=open NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=5 CharacterOffsetEnd=7 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=King CharacterOffsetBegin=8 CharacterOffsetEnd=12 PartOfSpeech=NNP Lemma=King NamedEntityTag=TITLE]
+[Text=flicking CharacterOffsetBegin=13 CharacterOffsetEnd=21 PartOfSpeech=VBG Lemma=flick NamedEntityTag=O]
+[Text=through CharacterOffsetBegin=22 CharacterOffsetEnd=29 PartOfSpeech=IN Lemma=through NamedEntityTag=O]
+[Text=channels CharacterOffsetBegin=30 CharacterOffsetEnd=38 PartOfSpeech=NNS Lemma=channel NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=39 CharacterOffsetEnd=41 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=42 CharacterOffsetEnd=43 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=crystal CharacterOffsetBegin=44 CharacterOffsetEnd=51 PartOfSpeech=NN Lemma=crystal NamedEntityTag=O]
+[Text=ball CharacterOffsetBegin=52 CharacterOffsetEnd=56 PartOfSpeech=NN Lemma=ball NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=56 CharacterOffsetEnd=57 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Open-1)
+case(King-3, on-2)
+obl:on(Open-1, King-3)
+acl(King-3, flicking-4)
+case(channels-6, through-5)
+obl:through(flicking-4, channels-6)
+case(ball-10, on-7)
+det(ball-10, a-8)
+compound(ball-10, crystal-9)
+nmod:on(channels-6, ball-10)
+punct(Open-1, .-11)
+
+Extracted the following NER entity mentions:
+King	TITLE	-
+
+Sentence #2 (11 tokens):
+Blond Romance Lead says: "I love you."
+
+Tokens:
+[Text=Blond CharacterOffsetBegin=58 CharacterOffsetEnd=63 PartOfSpeech=JJ Lemma=blond NamedEntityTag=MISC]
+[Text=Romance CharacterOffsetBegin=64 CharacterOffsetEnd=71 PartOfSpeech=NN Lemma=romance NamedEntityTag=MISC]
+[Text=Lead CharacterOffsetBegin=72 CharacterOffsetEnd=76 PartOfSpeech=NN Lemma=lead NamedEntityTag=MISC]
+[Text=says CharacterOffsetBegin=77 CharacterOffsetEnd=81 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=81 CharacterOffsetEnd=82 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=83 CharacterOffsetEnd=84 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=84 CharacterOffsetEnd=85 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=love CharacterOffsetBegin=86 CharacterOffsetEnd=90 PartOfSpeech=VBP Lemma=love NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=91 CharacterOffsetEnd=94 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=94 CharacterOffsetEnd=95 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=95 CharacterOffsetEnd=96 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-4)
+amod(Lead-3, Blond-1)
+compound(Lead-3, Romance-2)
+nsubj(says-4, Lead-3)
+punct(says-4, :-5)
+punct(says-4, "-6)
+nsubj(love-8, I-7)
+ccomp(says-4, love-8)
+obj(love-8, you-9)
+punct(says-4, .-10)
+punct(says-4, "-11)
+
+Extracted the following NER entity mentions:
+Blond Romance Lead	MISC	MISC:0.5714737046161585
+
+Sentence #3 (9 tokens):
+Villain says: "There you are."
+
+Tokens:
+[Text=Villain CharacterOffsetBegin=97 CharacterOffsetEnd=104 PartOfSpeech=NN Lemma=villain NamedEntityTag=TITLE]
+[Text=says CharacterOffsetBegin=105 CharacterOffsetEnd=109 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=109 CharacterOffsetEnd=110 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=111 CharacterOffsetEnd=112 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=There CharacterOffsetBegin=112 CharacterOffsetEnd=117 PartOfSpeech=EX Lemma=there NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=118 CharacterOffsetEnd=121 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=122 CharacterOffsetEnd=125 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=125 CharacterOffsetEnd=126 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=126 CharacterOffsetEnd=127 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Villain-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(are-7, There-5)
+nsubj(are-7, you-6)
+ccomp(says-2, are-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Villain	TITLE	-
+
+Sentence #4 (10 tokens):
+Principal Bump says: "Oh, hi."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=128 CharacterOffsetEnd=137 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=138 CharacterOffsetEnd=142 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=143 CharacterOffsetEnd=147 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=147 CharacterOffsetEnd=148 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=149 CharacterOffsetEnd=150 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=150 CharacterOffsetEnd=152 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=152 CharacterOffsetEnd=153 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=hi CharacterOffsetBegin=154 CharacterOffsetEnd=156 PartOfSpeech=UH Lemma=hi NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=156 CharacterOffsetEnd=157 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=157 CharacterOffsetEnd=158 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(says-3, Oh-6)
+punct(Oh-6, ,-7)
+dep(Oh-6, hi-8)
+punct(says-3, .-9)
+punct(says-3, "-10)
+
+Extracted the following NER entity mentions:
+Principal	TITLE	-
+
+Sentence #5 (14 tokens):
+Cut to the stream on the crystal ball, Bump in his office.
+
+Tokens:
+[Text=Cut CharacterOffsetBegin=159 CharacterOffsetEnd=162 PartOfSpeech=VB Lemma=cut NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=163 CharacterOffsetEnd=165 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=166 CharacterOffsetEnd=169 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=stream CharacterOffsetBegin=170 CharacterOffsetEnd=176 PartOfSpeech=NN Lemma=stream NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=177 CharacterOffsetEnd=179 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=180 CharacterOffsetEnd=183 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=crystal CharacterOffsetBegin=184 CharacterOffsetEnd=191 PartOfSpeech=NN Lemma=crystal NamedEntityTag=O]
+[Text=ball CharacterOffsetBegin=192 CharacterOffsetEnd=196 PartOfSpeech=NN Lemma=ball NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=196 CharacterOffsetEnd=197 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Bump CharacterOffsetBegin=198 CharacterOffsetEnd=202 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=203 CharacterOffsetEnd=205 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=206 CharacterOffsetEnd=209 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=office CharacterOffsetBegin=210 CharacterOffsetEnd=216 PartOfSpeech=NN Lemma=office NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=216 CharacterOffsetEnd=217 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Cut-1)
+case(stream-4, to-2)
+det(stream-4, the-3)
+obl:to(Cut-1, stream-4)
+case(ball-8, on-5)
+det(ball-8, the-6)
+compound(ball-8, crystal-7)
+nmod:on(stream-4, ball-8)
+punct(stream-4, ,-9)
+appos(stream-4, Bump-10)
+case(office-13, in-11)
+nmod:poss(office-13, his-12)
+nmod:in(Bump-10, office-13)
+punct(Cut-1, .-14)
+
+Extracted the following NER entity mentions:
+his	PERSON	-
+
+Sentence #6 (6 tokens):
+Static crosses the screen sporadically.
+
+Tokens:
+[Text=Static CharacterOffsetBegin=218 CharacterOffsetEnd=224 PartOfSpeech=JJ Lemma=static NamedEntityTag=O]
+[Text=crosses CharacterOffsetBegin=225 CharacterOffsetEnd=232 PartOfSpeech=NNS Lemma=cross NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=233 CharacterOffsetEnd=236 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=237 CharacterOffsetEnd=243 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=sporadically CharacterOffsetBegin=244 CharacterOffsetEnd=256 PartOfSpeech=RB Lemma=sporadically NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=256 CharacterOffsetEnd=257 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, crosses-2)
+amod(crosses-2, Static-1)
+det(screen-4, the-3)
+dep(crosses-2, screen-4)
+advmod(screen-4, sporadically-5)
+punct(crosses-2, .-6)
+
+Extracted the following NER entity mentions:
+
+Sentence #7 (13 tokens):
+Principal Bump says: "I didn't see you there."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=258 CharacterOffsetEnd=267 PartOfSpeech=NN Lemma=principal NamedEntityTag=PERSON]
+[Text=Bump CharacterOffsetBegin=268 CharacterOffsetEnd=272 PartOfSpeech=NN Lemma=bump NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=273 CharacterOffsetEnd=277 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=277 CharacterOffsetEnd=278 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=279 CharacterOffsetEnd=280 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=280 CharacterOffsetEnd=281 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=did CharacterOffsetBegin=282 CharacterOffsetEnd=285 PartOfSpeech=VBD Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=285 CharacterOffsetEnd=288 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=see CharacterOffsetBegin=289 CharacterOffsetEnd=292 PartOfSpeech=VB Lemma=see NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=293 CharacterOffsetEnd=296 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=there CharacterOffsetBegin=297 CharacterOffsetEnd=302 PartOfSpeech=RB Lemma=there NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=302 CharacterOffsetEnd=303 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=303 CharacterOffsetEnd=304 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(see-9, I-6)
+aux(see-9, did-7)
+advmod(see-9, n't-8)
+ccomp(says-3, see-9)
+obj(see-9, you-10)
+advmod(see-9, there-11)
+punct(says-3, .-12)
+punct(says-3, "-13)
+
+Extracted the following NER entity mentions:
+Principal Bump	PERSON	PERSON:0.6071235962708266
+
+Sentence #8 (36 tokens):
+Principal Bump says: "I’m Principal Hieronymous Bump, and welcome to Hexside School of Magic and Demonics, where our students' safety and well-being is our top priority."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=305 CharacterOffsetEnd=314 PartOfSpeech=NN Lemma=principal NamedEntityTag=PERSON]
+[Text=Bump CharacterOffsetBegin=315 CharacterOffsetEnd=319 PartOfSpeech=NN Lemma=bump NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=320 CharacterOffsetEnd=324 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=324 CharacterOffsetEnd=325 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=326 CharacterOffsetEnd=327 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=327 CharacterOffsetEnd=328 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=’m CharacterOffsetBegin=328 CharacterOffsetEnd=330 PartOfSpeech=VBP Lemma=’m NamedEntityTag=O]
+[Text=Principal CharacterOffsetBegin=331 CharacterOffsetEnd=340 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Hieronymous CharacterOffsetBegin=341 CharacterOffsetEnd=352 PartOfSpeech=NNP Lemma=Hieronymous NamedEntityTag=PERSON]
+[Text=Bump CharacterOffsetBegin=353 CharacterOffsetEnd=357 PartOfSpeech=NNP Lemma=Bump NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=357 CharacterOffsetEnd=358 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=359 CharacterOffsetEnd=362 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=welcome CharacterOffsetBegin=363 CharacterOffsetEnd=370 PartOfSpeech=JJ Lemma=welcome NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=371 CharacterOffsetEnd=373 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=Hexside CharacterOffsetBegin=374 CharacterOffsetEnd=381 PartOfSpeech=NNP Lemma=Hexside NamedEntityTag=ORGANIZATION]
+[Text=School CharacterOffsetBegin=382 CharacterOffsetEnd=388 PartOfSpeech=NNP Lemma=School NamedEntityTag=ORGANIZATION]
+[Text=of CharacterOffsetBegin=389 CharacterOffsetEnd=391 PartOfSpeech=IN Lemma=of NamedEntityTag=ORGANIZATION]
+[Text=Magic CharacterOffsetBegin=392 CharacterOffsetEnd=397 PartOfSpeech=NNP Lemma=Magic NamedEntityTag=ORGANIZATION]
+[Text=and CharacterOffsetBegin=398 CharacterOffsetEnd=401 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Demonics CharacterOffsetBegin=402 CharacterOffsetEnd=410 PartOfSpeech=NNP Lemma=Demonics NamedEntityTag=MISC]
+[Text=, CharacterOffsetBegin=410 CharacterOffsetEnd=411 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=where CharacterOffsetBegin=412 CharacterOffsetEnd=417 PartOfSpeech=WRB Lemma=where NamedEntityTag=O]
+[Text=our CharacterOffsetBegin=418 CharacterOffsetEnd=421 PartOfSpeech=PRP$ Lemma=we NamedEntityTag=O]
+[Text=students CharacterOffsetBegin=422 CharacterOffsetEnd=430 PartOfSpeech=NNS Lemma=student NamedEntityTag=O]
+[Text=' CharacterOffsetBegin=430 CharacterOffsetEnd=431 PartOfSpeech=POS Lemma=' NamedEntityTag=O]
+[Text=safety CharacterOffsetBegin=432 CharacterOffsetEnd=438 PartOfSpeech=NN Lemma=safety NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=439 CharacterOffsetEnd=442 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=well CharacterOffsetBegin=443 CharacterOffsetEnd=447 PartOfSpeech=RB Lemma=well NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=447 CharacterOffsetEnd=448 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=being CharacterOffsetBegin=448 CharacterOffsetEnd=453 PartOfSpeech=VBG Lemma=be NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=454 CharacterOffsetEnd=456 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=our CharacterOffsetBegin=457 CharacterOffsetEnd=460 PartOfSpeech=PRP$ Lemma=we NamedEntityTag=O]
+[Text=top CharacterOffsetBegin=461 CharacterOffsetEnd=464 PartOfSpeech=JJ Lemma=top NamedEntityTag=O]
+[Text=priority CharacterOffsetBegin=465 CharacterOffsetEnd=473 PartOfSpeech=NN Lemma=priority NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=473 CharacterOffsetEnd=474 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=474 CharacterOffsetEnd=475 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(Bump-10, I-6)
+nsubj(welcome-13, I-6)
+cop(Bump-10, ’m-7)
+compound(Bump-10, Principal-8)
+compound(Bump-10, Hieronymous-9)
+ccomp(says-3, Bump-10)
+punct(Bump-10, ,-11)
+cc(welcome-13, and-12)
+ccomp(says-3, welcome-13)
+conj:and(Bump-10, welcome-13)
+case(School-16, to-14)
+compound(School-16, Hexside-15)
+obl:to(welcome-13, School-16)
+case(Magic-18, of-17)
+nmod:of(School-16, Magic-18)
+cc(Demonics-20, and-19)
+nmod:of(School-16, Demonics-20)
+conj:and(Magic-18, Demonics-20)
+punct(School-16, ,-21)
+dep(School-16, where-22)
+nmod:poss(students-24, our-23)
+nmod:poss(safety-26, students-24)
+case(students-24, '-25)
+dep(where-22, safety-26)
+cc(priority-34, and-27)
+advmod(priority-34, well-28)
+punct(priority-34, --29)
+aux:pass(priority-34, being-30)
+cop(priority-34, is-31)
+nmod:poss(priority-34, our-32)
+amod(priority-34, top-33)
+dep(where-22, priority-34)
+conj:and(safety-26, priority-34)
+punct(says-3, .-35)
+punct(says-3, "-36)
+
+Extracted the following NER entity mentions:
+Principal Bump	PERSON	PERSON:0.5655977140033138
+Principal	TITLE	-
+Hieronymous Bump	PERSON	PERSON:0.9913302934025285
+Hexside School of Magic	ORGANIZATION	ORGANIZATION:0.9640743853685347
+Demonics	MISC	MISC:0.43194778411035495
+
+Sentence #9 (14 tokens):
+Outside the window, several students fly on broomsticks away from giant tentacles.
+
+Tokens:
+[Text=Outside CharacterOffsetBegin=476 CharacterOffsetEnd=483 PartOfSpeech=IN Lemma=outside NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=484 CharacterOffsetEnd=487 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=window CharacterOffsetBegin=488 CharacterOffsetEnd=494 PartOfSpeech=NN Lemma=window NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=494 CharacterOffsetEnd=495 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=several CharacterOffsetBegin=496 CharacterOffsetEnd=503 PartOfSpeech=JJ Lemma=several NamedEntityTag=O]
+[Text=students CharacterOffsetBegin=504 CharacterOffsetEnd=512 PartOfSpeech=NNS Lemma=student NamedEntityTag=O]
+[Text=fly CharacterOffsetBegin=513 CharacterOffsetEnd=516 PartOfSpeech=VBP Lemma=fly NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=517 CharacterOffsetEnd=519 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=broomsticks CharacterOffsetBegin=520 CharacterOffsetEnd=531 PartOfSpeech=NNS Lemma=broomstick NamedEntityTag=O]
+[Text=away CharacterOffsetBegin=532 CharacterOffsetEnd=536 PartOfSpeech=RB Lemma=away NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=537 CharacterOffsetEnd=541 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=giant CharacterOffsetBegin=542 CharacterOffsetEnd=547 PartOfSpeech=JJ Lemma=giant NamedEntityTag=O]
+[Text=tentacles CharacterOffsetBegin=548 CharacterOffsetEnd=557 PartOfSpeech=NNS Lemma=tentacle NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=557 CharacterOffsetEnd=558 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, fly-7)
+case(window-3, Outside-1)
+det(window-3, the-2)
+obl:outside(fly-7, window-3)
+punct(fly-7, ,-4)
+amod(students-6, several-5)
+nsubj(fly-7, students-6)
+case(broomsticks-9, on-8)
+obl:on(fly-7, broomsticks-9)
+case(tentacles-13, away-10)
+fixed(away-10, from-11)
+amod(tentacles-13, giant-12)
+obl:away_from(fly-7, tentacles-13)
+punct(fly-7, .-14)
+
+Extracted the following NER entity mentions:
+
+Sentence #10 (12 tokens):
+Principal Bump says: "Let's take a tour."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=559 CharacterOffsetEnd=568 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=569 CharacterOffsetEnd=573 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=574 CharacterOffsetEnd=578 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=578 CharacterOffsetEnd=579 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=580 CharacterOffsetEnd=581 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Let CharacterOffsetBegin=581 CharacterOffsetEnd=584 PartOfSpeech=VB Lemma=let NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=584 CharacterOffsetEnd=586 PartOfSpeech=PRP Lemma='s NamedEntityTag=O]
+[Text=take CharacterOffsetBegin=587 CharacterOffsetEnd=591 PartOfSpeech=VB Lemma=take NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=592 CharacterOffsetEnd=593 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=tour CharacterOffsetBegin=594 CharacterOffsetEnd=598 PartOfSpeech=NN Lemma=tour NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=598 CharacterOffsetEnd=599 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=599 CharacterOffsetEnd=600 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+dep(says-3, Let-6)
+nsubj(take-8, 's-7)
+ccomp(Let-6, take-8)
+det(tour-10, a-9)
+obj(take-8, tour-10)
+punct(says-3, .-11)
+punct(says-3, "-12)
+
+Extracted the following NER entity mentions:
+Principal	TITLE	-
+
+Sentence #11 (13 tokens):
+Star transition to a trophy shelf, Bump walking up to it.
+
+Tokens:
+[Text=Star CharacterOffsetBegin=601 CharacterOffsetEnd=605 PartOfSpeech=NNP Lemma=Star NamedEntityTag=O]
+[Text=transition CharacterOffsetBegin=606 CharacterOffsetEnd=616 PartOfSpeech=NN Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=617 CharacterOffsetEnd=619 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=620 CharacterOffsetEnd=621 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=trophy CharacterOffsetBegin=622 CharacterOffsetEnd=628 PartOfSpeech=NN Lemma=trophy NamedEntityTag=O]
+[Text=shelf CharacterOffsetBegin=629 CharacterOffsetEnd=634 PartOfSpeech=NN Lemma=shelf NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=634 CharacterOffsetEnd=635 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Bump CharacterOffsetBegin=636 CharacterOffsetEnd=640 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=walking CharacterOffsetBegin=641 CharacterOffsetEnd=648 PartOfSpeech=VBG Lemma=walk NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=649 CharacterOffsetEnd=651 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=652 CharacterOffsetEnd=654 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=655 CharacterOffsetEnd=657 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=657 CharacterOffsetEnd=658 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, transition-2)
+compound(transition-2, Star-1)
+case(shelf-6, to-3)
+det(shelf-6, a-4)
+compound(shelf-6, trophy-5)
+nmod:to(transition-2, shelf-6)
+punct(transition-2, ,-7)
+nsubj(walking-9, Bump-8)
+dep(transition-2, walking-9)
+compound:prt(walking-9, up-10)
+case(it-12, to-11)
+obl:to(walking-9, it-12)
+punct(transition-2, .-13)
+
+Extracted the following NER entity mentions:
+
+Sentence #12 (22 tokens):
+Principal Bump says: "Here at Hexside, we are devoted to providing the very best for our students."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=659 CharacterOffsetEnd=668 PartOfSpeech=NN Lemma=principal NamedEntityTag=PERSON]
+[Text=Bump CharacterOffsetBegin=669 CharacterOffsetEnd=673 PartOfSpeech=NN Lemma=bump NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=674 CharacterOffsetEnd=678 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=678 CharacterOffsetEnd=679 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=680 CharacterOffsetEnd=681 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Here CharacterOffsetBegin=681 CharacterOffsetEnd=685 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=686 CharacterOffsetEnd=688 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=Hexside CharacterOffsetBegin=689 CharacterOffsetEnd=696 PartOfSpeech=NNP Lemma=Hexside NamedEntityTag=LOCATION]
+[Text=, CharacterOffsetBegin=696 CharacterOffsetEnd=697 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=698 CharacterOffsetEnd=700 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=701 CharacterOffsetEnd=704 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=devoted CharacterOffsetBegin=705 CharacterOffsetEnd=712 PartOfSpeech=JJ Lemma=devoted NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=713 CharacterOffsetEnd=715 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=providing CharacterOffsetBegin=716 CharacterOffsetEnd=725 PartOfSpeech=VBG Lemma=provide NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=726 CharacterOffsetEnd=729 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=very CharacterOffsetBegin=730 CharacterOffsetEnd=734 PartOfSpeech=RB Lemma=very NamedEntityTag=O]
+[Text=best CharacterOffsetBegin=735 CharacterOffsetEnd=739 PartOfSpeech=JJS Lemma=best NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=740 CharacterOffsetEnd=743 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=our CharacterOffsetBegin=744 CharacterOffsetEnd=747 PartOfSpeech=PRP$ Lemma=we NamedEntityTag=O]
+[Text=students CharacterOffsetBegin=748 CharacterOffsetEnd=756 PartOfSpeech=NNS Lemma=student NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=756 CharacterOffsetEnd=757 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=757 CharacterOffsetEnd=758 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+advmod(devoted-12, Here-6)
+case(Hexside-8, at-7)
+obl:at(Here-6, Hexside-8)
+punct(devoted-12, ,-9)
+nsubj(devoted-12, we-10)
+cop(devoted-12, are-11)
+ccomp(says-3, devoted-12)
+case(providing-14, to-13)
+obl:to(devoted-12, providing-14)
+det(best-17, the-15)
+advmod(best-17, very-16)
+obj(devoted-12, best-17)
+case(students-20, for-18)
+nmod:poss(students-20, our-19)
+nmod:for(best-17, students-20)
+punct(says-3, .-21)
+punct(says-3, "-22)
+
+Extracted the following NER entity mentions:
+Principal Bump	PERSON	PERSON:0.6845941124466522
+Hexside	LOCATION	LOCATION:0.6399290018321191
+
+Sentence #13 (8 tokens):
+Slide transition to the photo class classroom.
+
+Tokens:
+[Text=Slide CharacterOffsetBegin=759 CharacterOffsetEnd=764 PartOfSpeech=NN Lemma=slide NamedEntityTag=O]
+[Text=transition CharacterOffsetBegin=765 CharacterOffsetEnd=775 PartOfSpeech=NN Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=776 CharacterOffsetEnd=778 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=779 CharacterOffsetEnd=782 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=photo CharacterOffsetBegin=783 CharacterOffsetEnd=788 PartOfSpeech=NN Lemma=photo NamedEntityTag=O]
+[Text=class CharacterOffsetBegin=789 CharacterOffsetEnd=794 PartOfSpeech=NN Lemma=class NamedEntityTag=O]
+[Text=classroom CharacterOffsetBegin=795 CharacterOffsetEnd=804 PartOfSpeech=NN Lemma=classroom NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=804 CharacterOffsetEnd=805 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, transition-2)
+compound(transition-2, Slide-1)
+case(classroom-7, to-3)
+det(classroom-7, the-4)
+compound(class-6, photo-5)
+compound(classroom-7, class-6)
+nmod:to(transition-2, classroom-7)
+punct(transition-2, .-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #14 (27 tokens):
+Principal Bump says: "From our state of the art classrooms..."
+Principal Bump's torso flies off screen in a shower of glitter.
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=806 CharacterOffsetEnd=815 PartOfSpeech=NN Lemma=principal NamedEntityTag=PERSON]
+[Text=Bump CharacterOffsetBegin=816 CharacterOffsetEnd=820 PartOfSpeech=NN Lemma=bump NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=821 CharacterOffsetEnd=825 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=825 CharacterOffsetEnd=826 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=827 CharacterOffsetEnd=828 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=From CharacterOffsetBegin=828 CharacterOffsetEnd=832 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=our CharacterOffsetBegin=833 CharacterOffsetEnd=836 PartOfSpeech=PRP$ Lemma=we NamedEntityTag=O]
+[Text=state CharacterOffsetBegin=837 CharacterOffsetEnd=842 PartOfSpeech=NN Lemma=state NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=843 CharacterOffsetEnd=845 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=846 CharacterOffsetEnd=849 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=art CharacterOffsetBegin=850 CharacterOffsetEnd=853 PartOfSpeech=NN Lemma=art NamedEntityTag=O]
+[Text=classrooms CharacterOffsetBegin=854 CharacterOffsetEnd=864 PartOfSpeech=NNS Lemma=classroom NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=864 CharacterOffsetEnd=867 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=867 CharacterOffsetEnd=868 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=Principal CharacterOffsetBegin=869 CharacterOffsetEnd=878 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=879 CharacterOffsetEnd=883 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=883 CharacterOffsetEnd=885 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=torso CharacterOffsetBegin=886 CharacterOffsetEnd=891 PartOfSpeech=NN Lemma=torso NamedEntityTag=O]
+[Text=flies CharacterOffsetBegin=892 CharacterOffsetEnd=897 PartOfSpeech=VBZ Lemma=fly NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=898 CharacterOffsetEnd=901 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=902 CharacterOffsetEnd=908 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=909 CharacterOffsetEnd=911 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=912 CharacterOffsetEnd=913 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=shower CharacterOffsetBegin=914 CharacterOffsetEnd=920 PartOfSpeech=NN Lemma=shower NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=921 CharacterOffsetEnd=923 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=glitter CharacterOffsetBegin=924 CharacterOffsetEnd=931 PartOfSpeech=VB Lemma=glitter NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=931 CharacterOffsetEnd=932 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+case(state-8, From-6)
+nmod:poss(state-8, our-7)
+obl:from(says-3, state-8)
+case(classrooms-12, of-9)
+det(classrooms-12, the-10)
+compound(classrooms-12, art-11)
+nmod:of(state-8, classrooms-12)
+punct(says-3, ...-13)
+punct(says-3, "-14)
+compound(Bump-16, Principal-15)
+nmod:poss(torso-18, Bump-16)
+case(Bump-16, 's-17)
+nsubj(flies-19, torso-18)
+ccomp(says-3, flies-19)
+compound:prt(flies-19, off-20)
+obj(flies-19, screen-21)
+case(shower-24, in-22)
+det(shower-24, a-23)
+obl:in(flies-19, shower-24)
+case(glitter-26, of-25)
+nmod:of(shower-24, glitter-26)
+punct(says-3, .-27)
+
+Extracted the following NER entity mentions:
+Principal Bump	PERSON	PERSON:0.6616970147145769
+Principal	TITLE	-
+
+Sentence #15 (20 tokens):
+The spiders in the classroom all attack a screaming Mattholomule, who has a Healing patch on his face.
+
+Tokens:
+[Text=The CharacterOffsetBegin=933 CharacterOffsetEnd=936 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=spiders CharacterOffsetBegin=937 CharacterOffsetEnd=944 PartOfSpeech=NNS Lemma=spider NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=945 CharacterOffsetEnd=947 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=948 CharacterOffsetEnd=951 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=classroom CharacterOffsetBegin=952 CharacterOffsetEnd=961 PartOfSpeech=NN Lemma=classroom NamedEntityTag=O]
+[Text=all CharacterOffsetBegin=962 CharacterOffsetEnd=965 PartOfSpeech=DT Lemma=all NamedEntityTag=O]
+[Text=attack CharacterOffsetBegin=966 CharacterOffsetEnd=972 PartOfSpeech=NN Lemma=attack NamedEntityTag=CAUSE_OF_DEATH]
+[Text=a CharacterOffsetBegin=973 CharacterOffsetEnd=974 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=screaming CharacterOffsetBegin=975 CharacterOffsetEnd=984 PartOfSpeech=VBG Lemma=scream NamedEntityTag=O]
+[Text=Mattholomule CharacterOffsetBegin=985 CharacterOffsetEnd=997 PartOfSpeech=NNP Lemma=Mattholomule NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=997 CharacterOffsetEnd=998 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=who CharacterOffsetBegin=999 CharacterOffsetEnd=1002 PartOfSpeech=WP Lemma=who NamedEntityTag=O]
+[Text=has CharacterOffsetBegin=1003 CharacterOffsetEnd=1006 PartOfSpeech=VBZ Lemma=have NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1007 CharacterOffsetEnd=1008 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=Healing CharacterOffsetBegin=1009 CharacterOffsetEnd=1016 PartOfSpeech=NNP Lemma=Healing NamedEntityTag=O]
+[Text=patch CharacterOffsetBegin=1017 CharacterOffsetEnd=1022 PartOfSpeech=NN Lemma=patch NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=1023 CharacterOffsetEnd=1025 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1026 CharacterOffsetEnd=1029 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=face CharacterOffsetBegin=1030 CharacterOffsetEnd=1034 PartOfSpeech=NN Lemma=face NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1034 CharacterOffsetEnd=1035 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, spiders-2)
+det(spiders-2, The-1)
+case(classroom-5, in-3)
+det(classroom-5, the-4)
+nmod:in(spiders-2, classroom-5)
+det(attack-7, all-6)
+dep(spiders-2, attack-7)
+det(Mattholomule-10, a-8)
+amod(Mattholomule-10, screaming-9)
+dep(attack-7, Mattholomule-10)
+nsubj(has-13, Mattholomule-10)
+punct(Mattholomule-10, ,-11)
+ref(Mattholomule-10, who-12)
+acl:relcl(Mattholomule-10, has-13)
+det(patch-16, a-14)
+compound(patch-16, Healing-15)
+obj(has-13, patch-16)
+case(face-19, on-17)
+nmod:poss(face-19, his-18)
+nmod:on(patch-16, face-19)
+punct(spiders-2, .-20)
+
+Extracted the following NER entity mentions:
+attack	CAUSE_OF_DEATH	-
+Mattholomule	PERSON	PERSON:0.6639353411466904
+his	PERSON	-
+
+Sentence #16 (8 tokens):
+Text reading Learning flies across the screen.
+
+Tokens:
+[Text=Text CharacterOffsetBegin=1036 CharacterOffsetEnd=1040 PartOfSpeech=VB Lemma=text NamedEntityTag=O]
+[Text=reading CharacterOffsetBegin=1041 CharacterOffsetEnd=1048 PartOfSpeech=VBG Lemma=read NamedEntityTag=O]
+[Text=Learning CharacterOffsetBegin=1049 CharacterOffsetEnd=1057 PartOfSpeech=NNP Lemma=Learning NamedEntityTag=O]
+[Text=flies CharacterOffsetBegin=1058 CharacterOffsetEnd=1063 PartOfSpeech=VBZ Lemma=fly NamedEntityTag=O]
+[Text=across CharacterOffsetBegin=1064 CharacterOffsetEnd=1070 PartOfSpeech=IN Lemma=across NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1071 CharacterOffsetEnd=1074 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=1075 CharacterOffsetEnd=1081 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1081 CharacterOffsetEnd=1082 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, flies-4)
+nsubj(flies-4, Text-1)
+acl(Text-1, reading-2)
+obj(reading-2, Learning-3)
+case(screen-7, across-5)
+det(screen-7, the-6)
+obl:across(flies-4, screen-7)
+punct(flies-4, .-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #17 (6 tokens):
+Spiral transition to the cafeteria.
+
+Tokens:
+[Text=Spiral CharacterOffsetBegin=1083 CharacterOffsetEnd=1089 PartOfSpeech=JJ Lemma=spiral NamedEntityTag=O]
+[Text=transition CharacterOffsetBegin=1090 CharacterOffsetEnd=1100 PartOfSpeech=NN Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1101 CharacterOffsetEnd=1103 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1104 CharacterOffsetEnd=1107 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=cafeteria CharacterOffsetBegin=1108 CharacterOffsetEnd=1117 PartOfSpeech=NN Lemma=cafeteria NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1117 CharacterOffsetEnd=1118 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, transition-2)
+amod(transition-2, Spiral-1)
+case(cafeteria-5, to-3)
+det(cafeteria-5, the-4)
+nmod:to(transition-2, cafeteria-5)
+punct(transition-2, .-6)
+
+Extracted the following NER entity mentions:
+
+Sentence #18 (20 tokens):
+Principal Bump says: "..."
+Principal Bump says: "to our award-winning cafeteria."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=1119 CharacterOffsetEnd=1128 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=1129 CharacterOffsetEnd=1133 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1134 CharacterOffsetEnd=1138 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1138 CharacterOffsetEnd=1139 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1140 CharacterOffsetEnd=1141 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1141 CharacterOffsetEnd=1144 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1144 CharacterOffsetEnd=1145 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Principal CharacterOffsetBegin=1146 CharacterOffsetEnd=1155 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=1156 CharacterOffsetEnd=1160 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1161 CharacterOffsetEnd=1165 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1165 CharacterOffsetEnd=1166 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1167 CharacterOffsetEnd=1168 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1168 CharacterOffsetEnd=1170 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=our CharacterOffsetBegin=1171 CharacterOffsetEnd=1174 PartOfSpeech=PRP$ Lemma=we NamedEntityTag=O]
+[Text=award CharacterOffsetBegin=1175 CharacterOffsetEnd=1180 PartOfSpeech=NN Lemma=award NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=1180 CharacterOffsetEnd=1181 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=winning CharacterOffsetBegin=1181 CharacterOffsetEnd=1188 PartOfSpeech=VBG Lemma=win NamedEntityTag=O]
+[Text=cafeteria CharacterOffsetBegin=1189 CharacterOffsetEnd=1198 PartOfSpeech=NN Lemma=cafeteria NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1198 CharacterOffsetEnd=1199 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1199 CharacterOffsetEnd=1200 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+punct(says-3, ...-6)
+punct(says-3, "-7)
+compound(Bump-9, Principal-8)
+nsubj(says-10, Bump-9)
+ccomp(says-3, says-10)
+punct(says-10, :-11)
+punct(says-10, "-12)
+case(cafeteria-18, to-13)
+nmod:poss(cafeteria-18, our-14)
+obl(winning-17, award-15)
+punct(winning-17, --16)
+amod(cafeteria-18, winning-17)
+obl:to(says-10, cafeteria-18)
+punct(says-3, .-19)
+punct(says-3, "-20)
+
+Extracted the following NER entity mentions:
+Principal	TITLE	-
+Principal	TITLE	-
+
+Sentence #19 (20 tokens):
+Mattholomule, now with an arm in a cast and sling, hesitantly takes the cover off the platter.
+
+Tokens:
+[Text=Mattholomule CharacterOffsetBegin=1201 CharacterOffsetEnd=1213 PartOfSpeech=NNP Lemma=Mattholomule NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1213 CharacterOffsetEnd=1214 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=now CharacterOffsetBegin=1215 CharacterOffsetEnd=1218 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">now</TIMEX3>]
+[Text=with CharacterOffsetBegin=1219 CharacterOffsetEnd=1223 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=an CharacterOffsetBegin=1224 CharacterOffsetEnd=1226 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=arm CharacterOffsetBegin=1227 CharacterOffsetEnd=1230 PartOfSpeech=NN Lemma=arm NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1231 CharacterOffsetEnd=1233 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1234 CharacterOffsetEnd=1235 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=cast CharacterOffsetBegin=1236 CharacterOffsetEnd=1240 PartOfSpeech=NN Lemma=cast NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1241 CharacterOffsetEnd=1244 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=sling CharacterOffsetBegin=1245 CharacterOffsetEnd=1250 PartOfSpeech=NN Lemma=sling NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1250 CharacterOffsetEnd=1251 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=hesitantly CharacterOffsetBegin=1252 CharacterOffsetEnd=1262 PartOfSpeech=RB Lemma=hesitantly NamedEntityTag=O]
+[Text=takes CharacterOffsetBegin=1263 CharacterOffsetEnd=1268 PartOfSpeech=VBZ Lemma=take NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1269 CharacterOffsetEnd=1272 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=cover CharacterOffsetBegin=1273 CharacterOffsetEnd=1278 PartOfSpeech=NN Lemma=cover NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=1279 CharacterOffsetEnd=1282 PartOfSpeech=IN Lemma=off NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1283 CharacterOffsetEnd=1286 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=platter CharacterOffsetBegin=1287 CharacterOffsetEnd=1294 PartOfSpeech=NN Lemma=platter NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1294 CharacterOffsetEnd=1295 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, arm-6)
+nsubj(arm-6, Mattholomule-1)
+punct(arm-6, ,-2)
+advmod(arm-6, now-3)
+case(arm-6, with-4)
+det(arm-6, an-5)
+case(cast-9, in-7)
+det(cast-9, a-8)
+obl:in(arm-6, cast-9)
+cc(sling-11, and-10)
+obl:in(arm-6, sling-11)
+conj:and(cast-9, sling-11)
+punct(arm-6, ,-12)
+advmod(takes-14, hesitantly-13)
+dep(arm-6, takes-14)
+det(cover-16, the-15)
+obj(takes-14, cover-16)
+case(platter-19, off-17)
+det(platter-19, the-18)
+obl:off(takes-14, platter-19)
+punct(arm-6, .-20)
+
+Extracted the following NER entity mentions:
+Mattholomule	PERSON	PERSON:0.574781089751079
+now	DATE	DATE:-1.0
+
+Sentence #20 (5 tokens):
+It's normal food.
+
+Tokens:
+[Text=It CharacterOffsetBegin=1296 CharacterOffsetEnd=1298 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1298 CharacterOffsetEnd=1300 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=normal CharacterOffsetBegin=1301 CharacterOffsetEnd=1307 PartOfSpeech=JJ Lemma=normal NamedEntityTag=O]
+[Text=food CharacterOffsetBegin=1308 CharacterOffsetEnd=1312 PartOfSpeech=NN Lemma=food NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1312 CharacterOffsetEnd=1313 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, food-4)
+nsubj(food-4, It-1)
+cop(food-4, 's-2)
+amod(food-4, normal-3)
+punct(food-4, .-5)
+
+Extracted the following NER entity mentions:
+
+Sentence #21 (19 tokens):
+The plant that Bo is eating across from him attacks his face, knocking him off the bench.
+
+Tokens:
+[Text=The CharacterOffsetBegin=1314 CharacterOffsetEnd=1317 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=plant CharacterOffsetBegin=1318 CharacterOffsetEnd=1323 PartOfSpeech=NN Lemma=plant NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=1324 CharacterOffsetEnd=1328 PartOfSpeech=WDT Lemma=that NamedEntityTag=O]
+[Text=Bo CharacterOffsetBegin=1329 CharacterOffsetEnd=1331 PartOfSpeech=NNP Lemma=Bo NamedEntityTag=PERSON]
+[Text=is CharacterOffsetBegin=1332 CharacterOffsetEnd=1334 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=eating CharacterOffsetBegin=1335 CharacterOffsetEnd=1341 PartOfSpeech=VBG Lemma=eat NamedEntityTag=O]
+[Text=across CharacterOffsetBegin=1342 CharacterOffsetEnd=1348 PartOfSpeech=IN Lemma=across NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=1349 CharacterOffsetEnd=1353 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=1354 CharacterOffsetEnd=1357 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=attacks CharacterOffsetBegin=1358 CharacterOffsetEnd=1365 PartOfSpeech=VBZ Lemma=attack NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1366 CharacterOffsetEnd=1369 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=face CharacterOffsetBegin=1370 CharacterOffsetEnd=1374 PartOfSpeech=NN Lemma=face NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1374 CharacterOffsetEnd=1375 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=knocking CharacterOffsetBegin=1376 CharacterOffsetEnd=1384 PartOfSpeech=VBG Lemma=knock NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=1385 CharacterOffsetEnd=1388 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=1389 CharacterOffsetEnd=1392 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1393 CharacterOffsetEnd=1396 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=bench CharacterOffsetBegin=1397 CharacterOffsetEnd=1402 PartOfSpeech=NN Lemma=bench NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1402 CharacterOffsetEnd=1403 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, attacks-10)
+det(plant-2, The-1)
+obj(eating-6, plant-2)
+nsubj(attacks-10, plant-2)
+ref(plant-2, that-3)
+nsubj(eating-6, Bo-4)
+aux(eating-6, is-5)
+acl:relcl(plant-2, eating-6)
+compound:prt(eating-6, across-7)
+case(him-9, from-8)
+obl:from(eating-6, him-9)
+nmod:poss(face-12, his-11)
+obj(attacks-10, face-12)
+punct(attacks-10, ,-13)
+dep(attacks-10, knocking-14)
+obj(knocking-14, him-15)
+dep(bench-18, off-16)
+det(bench-18, the-17)
+obl(knocking-14, bench-18)
+punct(attacks-10, .-19)
+
+Extracted the following NER entity mentions:
+Bo	PERSON	PERSON:0.7563895002155472
+him	PERSON	-
+his	PERSON	-
+him	PERSON	-
+
+Sentence #22 (6 tokens):
+She continues chewing, undisturbed.
+
+Tokens:
+[Text=She CharacterOffsetBegin=1404 CharacterOffsetEnd=1407 PartOfSpeech=PRP Lemma=she NamedEntityTag=O]
+[Text=continues CharacterOffsetBegin=1408 CharacterOffsetEnd=1417 PartOfSpeech=VBZ Lemma=continue NamedEntityTag=O]
+[Text=chewing CharacterOffsetBegin=1418 CharacterOffsetEnd=1425 PartOfSpeech=VBG Lemma=chew NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1425 CharacterOffsetEnd=1426 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=undisturbed CharacterOffsetBegin=1427 CharacterOffsetEnd=1438 PartOfSpeech=JJ Lemma=undisturbed NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1438 CharacterOffsetEnd=1439 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, continues-2)
+nsubj(continues-2, She-1)
+xcomp(continues-2, chewing-3)
+punct(chewing-3, ,-4)
+dep(chewing-3, undisturbed-5)
+punct(continues-2, .-6)
+
+Extracted the following NER entity mentions:
+She	PERSON	-
+
+Sentence #23 (14 tokens):
+A cafeteria worker slides past the screen, transitioning to outside of Hexside.
+
+Tokens:
+[Text=A CharacterOffsetBegin=1440 CharacterOffsetEnd=1441 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=cafeteria CharacterOffsetBegin=1442 CharacterOffsetEnd=1451 PartOfSpeech=NN Lemma=cafeteria NamedEntityTag=O]
+[Text=worker CharacterOffsetBegin=1452 CharacterOffsetEnd=1458 PartOfSpeech=NN Lemma=worker NamedEntityTag=O]
+[Text=slides CharacterOffsetBegin=1459 CharacterOffsetEnd=1465 PartOfSpeech=NNS Lemma=slide NamedEntityTag=O]
+[Text=past CharacterOffsetBegin=1466 CharacterOffsetEnd=1470 PartOfSpeech=IN Lemma=past NamedEntityTag=DATE NormalizedNamedEntityTag=PAST_REF Timex=<TIMEX3 tid="t2" type="DATE" value="PAST_REF">past</TIMEX3>]
+[Text=the CharacterOffsetBegin=1471 CharacterOffsetEnd=1474 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=1475 CharacterOffsetEnd=1481 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1481 CharacterOffsetEnd=1482 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=transitioning CharacterOffsetBegin=1483 CharacterOffsetEnd=1496 PartOfSpeech=VBG Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1497 CharacterOffsetEnd=1499 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=outside CharacterOffsetBegin=1500 CharacterOffsetEnd=1507 PartOfSpeech=NN Lemma=outside NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1508 CharacterOffsetEnd=1510 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Hexside CharacterOffsetBegin=1511 CharacterOffsetEnd=1518 PartOfSpeech=NNP Lemma=Hexside NamedEntityTag=LOCATION]
+[Text=. CharacterOffsetBegin=1518 CharacterOffsetEnd=1519 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, slides-4)
+det(slides-4, A-1)
+compound(worker-3, cafeteria-2)
+compound(slides-4, worker-3)
+case(screen-7, past-5)
+det(screen-7, the-6)
+nmod:past(slides-4, screen-7)
+punct(slides-4, ,-8)
+acl(slides-4, transitioning-9)
+case(Hexside-13, to-10)
+case(Hexside-13, outside-11)
+fixed(outside-11, of-12)
+nmod:outside_of(transitioning-9, Hexside-13)
+punct(slides-4, .-14)
+
+Extracted the following NER entity mentions:
+past	DATE	DATE:-1.0
+Hexside	LOCATION	LOCATION:0.7063679465566151
+
+Sentence #24 (20 tokens):
+Principal Bump says: "Every student has the ability and support to reach their full potential here."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=1520 CharacterOffsetEnd=1529 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=1530 CharacterOffsetEnd=1534 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1535 CharacterOffsetEnd=1539 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1539 CharacterOffsetEnd=1540 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1541 CharacterOffsetEnd=1542 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Every CharacterOffsetBegin=1542 CharacterOffsetEnd=1547 PartOfSpeech=DT Lemma=every NamedEntityTag=O]
+[Text=student CharacterOffsetBegin=1548 CharacterOffsetEnd=1555 PartOfSpeech=NN Lemma=student NamedEntityTag=TITLE]
+[Text=has CharacterOffsetBegin=1556 CharacterOffsetEnd=1559 PartOfSpeech=VBZ Lemma=have NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1560 CharacterOffsetEnd=1563 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=ability CharacterOffsetBegin=1564 CharacterOffsetEnd=1571 PartOfSpeech=NN Lemma=ability NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1572 CharacterOffsetEnd=1575 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=support CharacterOffsetBegin=1576 CharacterOffsetEnd=1583 PartOfSpeech=NN Lemma=support NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1584 CharacterOffsetEnd=1586 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=reach CharacterOffsetBegin=1587 CharacterOffsetEnd=1592 PartOfSpeech=VB Lemma=reach NamedEntityTag=O]
+[Text=their CharacterOffsetBegin=1593 CharacterOffsetEnd=1598 PartOfSpeech=PRP$ Lemma=they NamedEntityTag=O]
+[Text=full CharacterOffsetBegin=1599 CharacterOffsetEnd=1603 PartOfSpeech=JJ Lemma=full NamedEntityTag=O]
+[Text=potential CharacterOffsetBegin=1604 CharacterOffsetEnd=1613 PartOfSpeech=NN Lemma=potential NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=1614 CharacterOffsetEnd=1618 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1618 CharacterOffsetEnd=1619 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1619 CharacterOffsetEnd=1620 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+det(student-7, Every-6)
+nsubj(has-8, student-7)
+ccomp(says-3, has-8)
+det(ability-10, the-9)
+obj(has-8, ability-10)
+cc(support-12, and-11)
+obj(has-8, support-12)
+conj:and(ability-10, support-12)
+mark(reach-14, to-13)
+ccomp(has-8, reach-14)
+nmod:poss(potential-17, their-15)
+amod(potential-17, full-16)
+obj(reach-14, potential-17)
+advmod(reach-14, here-18)
+punct(says-3, .-19)
+punct(says-3, "-20)
+
+Extracted the following NER entity mentions:
+Principal	TITLE	-
+student	TITLE	-
+
+Sentence #25 (24 tokens):
+Principal Bump says: "Hexside, where the magic of friendship, is no longer taught here due to budget constraints."
+
+Tokens:
+[Text=Principal CharacterOffsetBegin=1621 CharacterOffsetEnd=1630 PartOfSpeech=NN Lemma=principal NamedEntityTag=TITLE]
+[Text=Bump CharacterOffsetBegin=1631 CharacterOffsetEnd=1635 PartOfSpeech=NN Lemma=bump NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1636 CharacterOffsetEnd=1640 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1640 CharacterOffsetEnd=1641 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1642 CharacterOffsetEnd=1643 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hexside CharacterOffsetBegin=1643 CharacterOffsetEnd=1650 PartOfSpeech=NNP Lemma=Hexside NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1650 CharacterOffsetEnd=1651 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=where CharacterOffsetBegin=1652 CharacterOffsetEnd=1657 PartOfSpeech=WRB Lemma=where NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1658 CharacterOffsetEnd=1661 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=magic CharacterOffsetBegin=1662 CharacterOffsetEnd=1667 PartOfSpeech=NN Lemma=magic NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1668 CharacterOffsetEnd=1670 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=friendship CharacterOffsetBegin=1671 CharacterOffsetEnd=1681 PartOfSpeech=NN Lemma=friendship NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1681 CharacterOffsetEnd=1682 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=1683 CharacterOffsetEnd=1685 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=1686 CharacterOffsetEnd=1688 PartOfSpeech=RB Lemma=no NamedEntityTag=O]
+[Text=longer CharacterOffsetBegin=1689 CharacterOffsetEnd=1695 PartOfSpeech=RBR Lemma=longer NamedEntityTag=O]
+[Text=taught CharacterOffsetBegin=1696 CharacterOffsetEnd=1702 PartOfSpeech=VBN Lemma=teach NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=1703 CharacterOffsetEnd=1707 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=due CharacterOffsetBegin=1708 CharacterOffsetEnd=1711 PartOfSpeech=IN Lemma=due NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1712 CharacterOffsetEnd=1714 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=budget CharacterOffsetBegin=1715 CharacterOffsetEnd=1721 PartOfSpeech=NN Lemma=budget NamedEntityTag=O]
+[Text=constraints CharacterOffsetBegin=1722 CharacterOffsetEnd=1733 PartOfSpeech=NNS Lemma=constraint NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1733 CharacterOffsetEnd=1734 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1734 CharacterOffsetEnd=1735 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Bump-2, Principal-1)
+nsubj(says-3, Bump-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+obj(says-3, Hexside-6)
+punct(Hexside-6, ,-7)
+advmod(taught-17, where-8)
+det(magic-10, the-9)
+nsubj:pass(taught-17, magic-10)
+case(friendship-12, of-11)
+nmod:of(magic-10, friendship-12)
+punct(taught-17, ,-13)
+aux:pass(taught-17, is-14)
+advmod(longer-16, no-15)
+advmod(taught-17, longer-16)
+acl:relcl(Hexside-6, taught-17)
+advmod(taught-17, here-18)
+case(constraints-22, due-19)
+fixed(due-19, to-20)
+compound(constraints-22, budget-21)
+obl:due_to(taught-17, constraints-22)
+punct(says-3, .-23)
+punct(says-3, "-24)
+
+Extracted the following NER entity mentions:
+Principal	TITLE	-
+
+Coreference set:
+	(11,12,[12,13]) -> (11,8,[8,9]), that is: "it" -> "Bump"
+
+Coreference set:
+	(12,10,[10,11]) -> (10,7,[7,8]), that is: "we" -> "'s"
+	(12,19,[19,20]) -> (10,7,[7,8]), that is: "our" -> "'s"
+	(14,7,[7,8]) -> (10,7,[7,8]), that is: "our" -> "'s"
+	(18,14,[14,15]) -> (10,7,[7,8]), that is: "our" -> "'s"
+
+Coreference set:
+	(4,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(7,6,[6,7]) -> (7,2,[1,3]), that is: "I" -> "Principal Bump"
+	(8,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(8,6,[6,7]) -> (7,2,[1,3]), that is: "I" -> "Principal Bump"
+	(10,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(12,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(14,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(14,16,[15,18]) -> (7,2,[1,3]), that is: "Principal Bump 's" -> "Principal Bump"
+	(18,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(18,9,[8,10]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(24,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+	(25,2,[1,3]) -> (7,2,[1,3]), that is: "Principal Bump" -> "Principal Bump"
+
+Coreference set:
+	(5,8,[6,9]) -> (1,10,[8,11]), that is: "the crystal ball" -> "a crystal ball"
+
+Coreference set:
+	(12,20,[19,21]) -> (8,24,[23,26]), that is: "our students" -> "our students '"
+
+Coreference set:
+	(20,1,[1,2]) -> (19,16,[15,17]), that is: "It" -> "the cover"
+
+Coreference set:
+	(3,6,[6,7]) -> (2,9,[9,10]), that is: "you" -> "you"
+	(7,10,[10,11]) -> (2,9,[9,10]), that is: "you" -> "you"
+
+Coreference set:
+	(21,11,[11,12]) -> (21,9,[9,10]), that is: "his" -> "him"
+	(21,15,[15,16]) -> (21,9,[9,10]), that is: "him" -> "him"
+
+Coreference set:
+	(21,12,[11,13]) -> (15,19,[18,20]), that is: "his face" -> "his face"
+
+Coreference set:
+	(23,13,[13,14]) -> (12,8,[8,9]), that is: "Hexside" -> "Hexside"
+
+Coreference set:
+	(15,5,[4,6]) -> (13,7,[4,8]), that is: "the classroom" -> "the photo class classroom"
+
+Coreference set:
+	(23,7,[6,8]) -> (16,7,[6,8]), that is: "the screen" -> "the screen"
+
+Coreference set:
+	(8,32,[32,33]) -> (8,23,[23,24]), that is: "our" -> "our"
+
+Coreference set:
+	(24,15,[15,16]) -> (24,7,[6,8]), that is: "their" -> "Every student"

@@ -1,0 +1,2578 @@
+STATS:
+[67, 239, 192, 360]
+
+
+
+speaker: GROGAR
+addressee: LORD TIREK
+
+speaker: GROGAR
+addressee: LORD TIREK
+
+speaker: GROGAR
+addressee: LORD TIREK
+
+speaker: GROGAR
+addressee: LORD TIREK
+
+speaker: GROGAR
+addressee: QUEEN CHRYSALIS
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: SPIKE
+addressee: PINKIE PIE
+
+speaker: SEASPRAY
+addressee: PRINCESS CELESTIA
+
+speaker: EMBER
+addressee: PRINCE RUTHERFORD
+
+speaker: EMBER
+addressee: PRINCE RUTHERFORD
+
+speaker: EMBER
+addressee: CHANCELLOR NEIGHSAY
+
+speaker: SPIKE
+addressee: NEIGHSAY
+
+speaker: SPIKE
+addressee: NEIGHSAY
+
+speaker: SPIKE
+addressee: NEIGHSAY
+
+speaker: SPIKE
+addressee: APPLEJACK
+
+speaker: SPIKE
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: SCOOTALOO
+addressee: GRANNY SMITH
+
+speaker: SCOOTALOO
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: BIG MCINTOSH
+
+speaker: YOUNG APPLEJACK
+addressee: BIG MCINTOSH
+
+speaker: YOUNG APPLEJACK
+addressee: BIG MCINTOSH
+
+speaker: YOUNG APPLEJACK
+addressee: BIG MCINTOSH
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: DISCORD
+addressee: SPIKE
+
+speaker: SPIKE
+addressee: LORD TIREK
+
+speaker: YOUNG APPLEJACK
+addressee: FLIM
+
+speaker: FLAM
+addressee: FLIM
+
+speaker: FLIM
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: FILTHY RICH
+
+speaker: YOUNG APPLEJACK
+addressee: YOUNG BIG MCINTOSH
+
+speaker: SCOOTALOO
+addressee: APPLE BLOOM
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SPIKE
+addressee: RAINBOW DASH
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: SPIKE
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: BRAEBURN
+addressee: APPLEJACK
+
+speaker: BRAEBURN
+addressee: APPLEJACK
+
+speaker: SCOOTALOO
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: FLUTTERSHY
+addressee: APPLEJACK
+
+speaker: FLUTTERSHY
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: PINKIE PIE
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: SLUDGE
+
+speaker: SPIKE
+addressee: SLUDGE
+
+speaker: SPIKE
+addressee: SLUDGE
+
+speaker: RARITY
+addressee: TWILIGHT SPARKLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: STAR SWIRL THE BEARDED
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: ANGEL
+addressee: DR. FAUNA
+
+speaker: ANGEL
+addressee: DR. FAUNA
+
+speaker: ANGEL
+addressee: DR. FAUNA
+
+speaker: ANGEL
+addressee: DR. FAUNA
+
+speaker: ANGEL
+addressee: DR. FAUNA
+
+speaker: ANGEL
+addressee: DR. FAUNA
+
+speaker: FLUTTERSHY
+addressee: ANGEL
+
+speaker: FLUTTERSHY
+addressee: ANGEL
+
+speaker: FLUTTERSHY
+addressee: ANGEL
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: SILVERSTREAM
+addressee: GALLUS
+
+speaker: SPIKE
+addressee: GALLUS
+
+speaker: SANDBAR
+addressee: GALLUS
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: DISCORD
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: FLUTTERSHY
+addressee: PRINCESS CELESTIA
+
+speaker: FLUTTERSHY
+addressee: PRINCESS CELESTIA
+
+speaker: SPIKE
+addressee: PRINCESS CELESTIA
+
+speaker: FLUTTERSHY
+addressee: PRINCESS CELESTIA
+
+speaker: SCOOTALOO
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: SPIKE
+addressee: PRINCESS CELESTIA
+
+speaker: SUNBURST
+addressee: MAUD PIE
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: SUNBURST
+addressee: FLUTTERSHY
+
+speaker: TRIXIE
+addressee: TERRAMAR
+
+speaker: SILVERSTREAM
+addressee: TRIXIE
+
+speaker: TRIXIE
+addressee: MRS. CAKE
+
+speaker: TRIXIE
+addressee: MRS. CAKE
+
+speaker: SILVERSTREAM
+addressee: MRS. CAKE
+
+speaker: TERRAMAR
+addressee: STARLIGHT GLIMMER
+
+speaker: TERRAMAR
+addressee: STARLIGHT GLIMMER
+
+speaker: TERRAMAR
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: MISTMANE
+
+speaker: FLUTTERSHY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: SMOLDER
+addressee: OCELLUS
+
+speaker: SANDBAR
+addressee: YONA
+
+speaker: SILVERSTREAM
+addressee: YONA
+
+speaker: GALLUS
+addressee: YONA
+
+speaker: SMOLDER
+addressee: GALLUS
+
+speaker: SMOLDER
+addressee: GALLUS
+
+speaker: SMOLDER
+addressee: GALLUS
+
+speaker: OCELLUS
+addressee: GALLUS
+
+speaker: GALLUS
+addressee: SILVERSTREAM
+
+speaker: OCELLUS
+addressee: SILVERSTREAM
+
+speaker: SMOLDER
+addressee: SILVERSTREAM
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STEVEN MAGNET
+
+speaker: RARITY
+addressee: STEVEN MAGNET
+
+speaker: DISCORD
+addressee: TRIXIE
+
+speaker: DISCORD
+addressee: TRIXIE
+
+speaker: DISCORD
+addressee: TRIXIE
+
+speaker: FLUTTERSHY
+addressee: SOARIN
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: SPITFIRE
+addressee: SCOOTALOO
+
+speaker: SPITFIRE
+addressee: SCOOTALOO
+
+speaker: SCOOTALOO
+addressee: APPLE BLOOM
+
+speaker: SCOOTALOO
+addressee: BOW HOTHOOF
+
+speaker: SCOOTALOO
+addressee: BOW HOTHOOF
+
+speaker: MATILDA
+addressee: PINKIE PIE
+
+speaker: MATILDA
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: YOUNG APPLEJACK
+addressee: STARLIGHT GLIMMER
+
+speaker: FLUTTERSHY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: FLUTTERSHY
+addressee: STARLIGHT GLIMMER
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: FLUTTERSHY
+addressee: SPIKE
+
+speaker: FLUTTERSHY
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: GOLDIE DELICIOUS
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: PRINCESS CADANCE
+
+speaker: SPIKE
+addressee: PRINCESS CADANCE
+
+speaker: SPIKE
+addressee: PRINCESS CADANCE
+
+speaker: SPEARHEAD
+addressee: PRINCESS CADANCE
+
+speaker: RARITY
+addressee: SAPPHIRE SHORES
+
+speaker: RARITY
+addressee: SAPPHIRE SHORES
+
+speaker: RARITY
+addressee: SAPPHIRE SHORES
+
+speaker: RARITY
+addressee: CHEERILEE
+
+speaker: RARITY
+addressee: CHEERILEE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: SPIKE
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SPIKE
+addressee: RARITY
+
+speaker: SPIKE
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: SPIKE
+addressee: PRINCESS CADANCE
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: PIPSQUEAK
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: TWILIGHT SPARKLE
+
+speaker: DISCORD
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: PHARYNX
+addressee: STARLIGHT GLIMMER
+
+speaker: PHARYNX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: PHARYNX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: PHARYNX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: PHARYNX
+addressee: STARLIGHT GLIMMER
+
+speaker: THORAX
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: SPIKE
+addressee: GABBY
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: SPIKE
+addressee: GABBY
+
+speaker: RARITY
+addressee: GABBY
+
+speaker: SPIKE
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: MS. HARSHWHINNY
+
+speaker: SCOOTALOO
+addressee: MS. HARSHWHINNY
+
+speaker: FLUTTERSHY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: FLUTTERSHY
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: DISCORD
+addressee: SPIKE
+
+speaker: DISCORD
+addressee: MRS. CAKE
+
+speaker: DISCORD
+addressee: MRS. CAKE
+
+speaker: SPIKE
+addressee: MRS. CAKE
+
+speaker: SPIKE
+addressee: BIG MCINTOSH
+
+speaker: DISCORD
+addressee: BIG MCINTOSH
+
+speaker: SPIKE
+addressee: BIG MCINTOSH
+
+speaker: SPIKE
+addressee: BIG MCINTOSH
+
+speaker: MATILDA
+addressee: STEVEN MAGNET
+
+speaker: MATILDA
+addressee: STEVEN MAGNET
+
+speaker: MATILDA
+addressee: STEVEN MAGNET
+
+speaker: MATILDA
+addressee: STEVEN MAGNET
+
+speaker: YOUNG APPLEJACK
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SCOOTALOO
+addressee: FLUTTERSHY
+
+speaker: SCOOTALOO
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: SCOOTALOO
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: FLUTTERSHY
+addressee: SWEETIE BELLE
+
+speaker: FLUTTERSHY
+addressee: SCOOTALOO
+
+speaker: FLUTTERSHY
+addressee: SCOOTALOO
+
+speaker: FLUTTERSHY
+addressee: SCOOTALOO
+
+speaker: FLUTTERSHY
+addressee: DR. FAUNA
+
+speaker: FLUTTERSHY
+addressee: DR. FAUNA
+
+speaker: FLUTTERSHY
+addressee: DANDY GRANDEUR
+
+speaker: FLUTTERSHY
+addressee: DANDY GRANDEUR
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SPIKE
+addressee: APPLE BLOOM
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: SANDBAR
+addressee: CHANCELLOR NEIGHSAY
+
+speaker: OCELLUS
+addressee: STARLIGHT GLIMMER
+
+speaker: PIPSQUEAK
+addressee: PRINCESS LUNA
+
+speaker: PIPSQUEAK
+addressee: PRINCESS LUNA
+
+speaker: FLUTTERSHY
+addressee: PRINCESS LUNA
+
+speaker: FLUTTERSHY
+addressee: CATTAIL
+
+speaker: FLUTTERSHY
+addressee: ZECORA
+
+speaker: FLUTTERSHY
+addressee: ZECORA
+
+speaker: FLUTTERSHY
+addressee: ZECORA
+
+speaker: FLUTTERSHY
+addressee: ZECORA
+
+speaker: SPIKE
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: BIG MCINTOSH
+
+speaker: RARITY
+addressee: RAINBOW DASH
+
+speaker: FLUTTERSHY
+addressee: TWILIGHT SPARKLE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: APPLEJACK
+
+speaker: SPIKE
+addressee: APPLEJACK
+
+speaker: FLUTTERSHY
+addressee: PRINCESS LUNA
+
+speaker: THORAX
+addressee: OCELLUS
+
+speaker: THORAX
+addressee: OCELLUS
+
+speaker: THORAX
+addressee: OCELLUS
+
+speaker: SCOOTALOO
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: ZECORA
+
+speaker: YOUNG APPLEJACK
+addressee: ZECORA
+
+speaker: RARITY
+addressee: TWILIGHT SPARKLE
+
+speaker: PIPSQUEAK
+addressee: SPIKE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: DAYBREAKER
+addressee: PRINCESS LUNA
+
+speaker: FLUTTERSHY
+addressee: GILDA
+
+speaker: GILDA
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: GILDA
+
+speaker: FLUTTERSHY
+addressee: GILDA
+
+speaker: FLUTTERSHY
+addressee: GILDA
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: LORD TIREK
+
+speaker: DISCORD
+addressee: LORD TIREK
+
+speaker: SPIKE
+addressee: LORD TIREK
+
+speaker: SPIKE
+addressee: LORD TIREK
+
+speaker: DISCORD
+addressee: LORD TIREK
+
+speaker: DISCORD
+addressee: LORD TIREK
+
+speaker: DISCORD
+addressee: LORD TIREK
+
+speaker: DISCORD
+addressee: LORD TIREK
+
+speaker: YOUNG APPLEJACK
+addressee: LORD TIREK
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: GALLUS
+addressee: GRAMPA GRUFF
+
+speaker: GALLUS
+addressee: GRAMPA GRUFF
+
+speaker: GALLUS
+addressee: GRAMPA GRUFF
+
+speaker: RARITY
+addressee: BIG MCINTOSH
+
+speaker: RARITY
+addressee: BIG MCINTOSH
+
+speaker: SPIKE
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: SCOOTALOO
+
+speaker: DISCORD
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: SCOOTALOO
+
+speaker: DISCORD
+addressee: SCOOTALOO
+
+speaker: DISCORD
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: APPLE BLOOM
+
+speaker: SPIKE
+addressee: APPLE BLOOM
+
+speaker: RARITY
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SPITFIRE
+addressee: PINKIE PIE
+
+speaker: SPITFIRE
+addressee: PINKIE PIE
+
+speaker: SPITFIRE
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: MA HOOFFIELD
+
+speaker: FLUTTERSHY
+addressee: MA HOOFFIELD
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: RARITY
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: EMBER
+
+speaker: GARBLE
+addressee: SPIKE
+
+speaker: GARBLE
+addressee: SPIKE
+
+speaker: GARBLE
+addressee: SPIKE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: PINKIE PIE
+
+speaker: MATILDA
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SOARIN
+addressee: SPITFIRE
+
+speaker: SCOOTALOO
+addressee: RAINBOW DASH
+
+speaker: CHEERILEE
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: CHEERILEE
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: YONA
+
+speaker: YOUNG APPLEJACK
+addressee: SILVERSTREAM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: HOITY TOITY
+
+speaker: RARITY
+addressee: HOITY TOITY
+
+speaker: RARITY
+addressee: HOITY TOITY
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: FLUTTERSHY
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: SCOOTALOO
+
+speaker: YOUNG APPLEJACK
+addressee: SCOOTALOO
+
+speaker: YOUNG APPLEJACK
+addressee: SCOOTALOO
+
+speaker: RARITY
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: PRINCESS CELESTIA
+
+speaker: SPIKE
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SNAILS
+addressee: PINKIE PIE
+
+speaker: SNAILS
+addressee: PINKIE PIE
+
+speaker: SNAILS
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: FLUTTERSHY
+addressee: PRINCESS CELESTIA
+
+speaker: MINUETTE
+addressee: PINKIE PIE
+
+speaker: MINUETTE
+addressee: PINKIE PIE
+
+speaker: TWINKLESHINE
+addressee: MINUETTE
+
+speaker: TWINKLESHINE
+addressee: MINUETTE
+
+speaker: MINUETTE
+addressee: PRINCESS CELESTIA
+
+speaker: TWINKLESHINE
+addressee: PRINCESS CELESTIA
+
+speaker: TWINKLESHINE
+addressee: PRINCESS CELESTIA
+
+speaker: SOARIN
+addressee: SPITFIRE
+
+speaker: RARITY
+addressee: SASSY SADDLES
+
+speaker: FLAM
+addressee: FLIM
+
+speaker: FLIM
+addressee: MAYOR MARE
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: PROFESSOR FOSSIL
+
+speaker: RARITY
+addressee: PROFESSOR FOSSIL
+
+speaker: RARITY
+addressee: PROFESSOR FOSSIL
+
+speaker: SPIKE
+addressee: PROFESSOR FOSSIL
+
+speaker: GARBLE
+addressee: PROFESSOR FOSSIL
+
+speaker: YOUNG APPLEJACK
+addressee: STARLIGHT GLIMMER
+
+speaker: SUNBURST
+addressee: SPIKE
+
+speaker: SCOOTALOO
+addressee: APPLE BLOOM
+
+speaker: SCOOTALOO
+addressee: APPLE BLOOM
+
+speaker: CHEERILEE
+addressee: FILTHY RICH
+
+speaker: RUMBLE
+addressee: SWEETIE BELLE
+
+speaker: RUMBLE
+addressee: SWEETIE BELLE
+
+speaker: RUMBLE
+addressee: SWEETIE BELLE
+
+speaker: PIPSQUEAK
+addressee: SWEETIE BELLE
+
+speaker: RUMBLE
+addressee: SWEETIE BELLE
+
+speaker: THUNDERLANE
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: SKEEDADDLE
+addressee: SCOOTALOO
+
+speaker: PIPSQUEAK
+addressee: SCOOTALOO
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: PIPSQUEAK
+addressee: SCOOTALOO
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: RUMBLE
+addressee: SCOOTALOO
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: TWINKLESHINE
+addressee: MINUETTE
+
+speaker: YOUNG APPLEJACK
+addressee: PRINCESS CELESTIA
+
+speaker: YOUNG APPLEJACK
+addressee: GRAND PEAR
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: DISCORD
+addressee: PINKIE PIE
+
+speaker: DISCORD
+addressee: PINKIE PIE
+
+speaker: DISCORD
+addressee: FLUTTERSHY
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: SCOOTALOO
+addressee: GABBY
+
+speaker: GABBY
+addressee: SWEETIE BELLE
+
+speaker: GABBY
+addressee: APPLE BLOOM
+
+speaker: GABBY
+addressee: APPLE BLOOM
+
+speaker: GABBY
+addressee: APPLE BLOOM
+
+speaker: GABBY
+addressee: APPLE BLOOM
+
+speaker: GABBY
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: SOARIN
+
+speaker: RARITY
+addressee: RAINBOW DASH
+
+speaker: RARITY
+addressee: RAINBOW DASH
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: TRIXIE
+addressee: DR. HOOVES
+
+speaker: YOUNG APPLEJACK
+addressee: ALOE
+
+speaker: RARITY
+addressee: ALOE
+
+speaker: RARITY
+addressee: ALOE
+
+speaker: RARITY
+addressee: ALOE
+
+speaker: RARITY
+addressee: ALOE
+
+speaker: YOUNG APPLEJACK
+addressee: ALOE
+
+speaker: RARITY
+addressee: ALOE
+
+speaker: RARITY
+addressee: ALOE
+
+speaker: YOUNG APPLEJACK
+addressee: ALOE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: YOUNG APPLEJACK
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: TRIXIE
+addressee: PRINCESS CELESTIA
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: OCELLUS
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SILVERSTREAM
+addressee: SPIKE
+
+speaker: GALLUS
+addressee: SPIKE
+
+speaker: YONA
+addressee: SPIKE
+
+speaker: SILVERSTREAM
+addressee: SPIKE
+
+speaker: YONA
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SMOLDER
+addressee: SPIKE
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: YONA
+addressee: SPIKE
+
+speaker: GALLUS
+addressee: SPIKE
+
+speaker: SILVERSTREAM
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: SANDBAR
+addressee: SPIKE
+
+speaker: FLUTTERSHY
+addressee: SPIKE
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: SPIKE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: RARITY
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SCOOTALOO
+addressee: BIG MCINTOSH
+
+speaker: SCOOTALOO
+addressee: BIG MCINTOSH
+
+speaker: SCOOTALOO
+addressee: BIG MCINTOSH
+
+speaker: SCOOTALOO
+addressee: SUGAR BELLE
+
+speaker: SCOOTALOO
+addressee: SUGAR BELLE
+
+speaker: SCOOTALOO
+addressee: SUGAR BELLE
+
+speaker: SCOOTALOO
+addressee: SUGAR BELLE
+
+speaker: SCOOTALOO
+addressee: SUGAR BELLE
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: SPIKE
+addressee: STARLIGHT GLIMMER
+
+speaker: YONA
+addressee: ROCKHOOF
+
+speaker: YONA
+addressee: SANDBAR
+
+speaker: YOUNG APPLEJACK
+addressee: KING SOMBRA
+
+speaker: RARITY
+addressee: KING SOMBRA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: YOUNG APPLEJACK
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: STARLIGHT GLIMMER
+
+speaker: YOUNG APPLEJACK
+addressee: STARLIGHT GLIMMER
+
+speaker: YOUNG APPLEJACK
+addressee: SPIKE
+
+speaker: SPIKE
+addressee: MS. HARSHWHINNY
+
+speaker: RARITY
+addressee: MS. HARSHWHINNY
+
+speaker: SILVERSTREAM
+addressee: YONA
+
+speaker: SANDBAR
+addressee: YONA
+
+speaker: YOUNG APPLEJACK
+addressee: YONA
+
+speaker: YOUNG APPLEJACK
+addressee: YONA
+
+speaker: GALLUS
+addressee: YONA
+
+speaker: SILVERSTREAM
+addressee: YONA
+
+speaker: SANDBAR
+addressee: YONA
+
+speaker: SCOOTALOO
+addressee: NEIGHSAY
+
+speaker: SILVERSTREAM
+addressee: NEIGHSAY
+
+speaker: FLUTTERSHY
+addressee: NEIGHSAY
+
+speaker: FLUTTERSHY
+addressee: NEIGHSAY
+
+speaker: FLUTTERSHY
+addressee: NEIGHSAY
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: RARITY
+addressee: STARLIGHT GLIMMER
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: TERRAMAR
+addressee: SWEETIE BELLE
+
+speaker: TERRAMAR
+addressee: SWEETIE BELLE
+
+speaker: TERRAMAR
+addressee: SWEETIE BELLE
+
+speaker: CHEERILEE
+addressee: SCOOTALOO
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: FLUTTERSHY
+addressee: MRS. SHY
+
+speaker: YOUNG APPLEJACK
+addressee: COLORATURA
+
+speaker: COLORATURA
+addressee: SVENGALLOP
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: PRINCESS CELESTIA
+
+speaker: FLUTTERSHY
+addressee: ANGEL
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: FLUTTERSHY
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: RARITY
+addressee: APPLEJACK
+
+speaker: SUNBURST
+addressee: STARLIGHT GLIMMER
+
+speaker: SUNBURST
+addressee: STARLIGHT GLIMMER
+
+speaker: SANDBAR
+addressee: YONA
+
+speaker: SILVERSTREAM
+addressee: YONA
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: STARLIGHT GLIMMER
+
+speaker: TRIXIE
+addressee: HOO'FAR
+
+speaker: TRIXIE
+addressee: HOO'FAR
+
+speaker: SCOOTALOO
+addressee: APPLEJACK
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: YOUNG APPLEJACK
+addressee: SWEETIE BELLE
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: THORAX
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: EMBER
+addressee: SPIKE
+
+speaker: SPIKE
+addressee: EMBER
+
+speaker: YOUNG APPLEJACK
+addressee: FLUTTERSHY
+
+speaker: SCOOTALOO
+addressee: SWEETIE BELLE
+
+speaker: CHEERILEE
+addressee: SWEETIE BELLE
+
+speaker: CHEERILEE
+addressee: SWEETIE BELLE
+
+speaker: CHEERILEE
+addressee: SWEETIE BELLE
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: DISCORD
+addressee: PRINCESS CELESTIA
+
+speaker: SNIPS
+addressee: TRIXIE
+
+speaker: SNAILS
+addressee: TRIXIE
+
+speaker: SNIPS
+addressee: TRIXIE
+
+speaker: SNIPS
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: TRIXIE
+
+speaker: SNIPS
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: TRIXIE
+
+speaker: SNIPS
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: TRIXIE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: SPIKE
+addressee: TWILIGHT SPARKLE
+
+speaker: RARITY
+addressee: SWEETIE BELLE
+
+speaker: FLUTTERSHY
+addressee: PINKIE PIE
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: SPIKE
+addressee: FLUTTERSHY
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: PINKIE PIE
+
+speaker: YOUNG APPLEJACK
+addressee: GRANNY SMITH
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLE BLOOM
+
+speaker: YOUNG APPLEJACK
+addressee: APPLEJACK
+
+speaker: SUNBURST
+addressee: STARLIGHT GLIMMER
+
+speaker: SUNBURST
+addressee: STARLIGHT GLIMMER

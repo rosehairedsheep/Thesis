@@ -1,0 +1,3295 @@
+STATS:
+[580, 136, 254, 127]
+
+
+
+speaker: LOUIE
+addressee: MA
+
+speaker: LOUIE
+addressee: MA
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: DEWEY
+addressee: SCROOGE
+
+speaker: MA
+addressee: DEWEY
+
+speaker: MA
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: MA
+addressee: DEWEY
+
+speaker: MA
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: MA
+addressee: DEWEY
+
+speaker: MA
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: DEWEY
+addressee: FENTON
+
+speaker: GYRO
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: SCROOGE MCDUCK
+
+speaker: DEWEY
+addressee: SCROOGE MCDUCK
+
+speaker: FENTON
+addressee: SCROOGE MCDUCK
+
+speaker: BEAKS
+addressee: SCROOGE MCDUCK
+
+speaker: DEWEY
+addressee: GYRO
+
+speaker: PENUMBRA
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: SCROOGE MCDUCK
+addressee: DON KARNAGE
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: SCROOGE
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: STEELBEAK
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: HUEY
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: LAUNCHPAD
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: BEAKLEY
+
+speaker: HUEY
+addressee: MA
+
+speaker: GYRO
+addressee: B.O.Y.D.
+
+speaker: HUEY
+addressee: B.O.Y.D.
+
+speaker: HUEY
+addressee: B.O.Y.D.
+
+speaker: HUEY
+addressee: B.O.Y.D.
+
+speaker: HUEY
+addressee: GYRO
+
+speaker: TEZUKA
+addressee: GYRO
+
+speaker: TEZUKA
+addressee: GYRO
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: SCROOGE MCDUCK
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: MA
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: MAGICA
+
+speaker: MRS. BEAKLEY
+addressee: MAGICA
+
+speaker: LENA
+addressee: MAGICA
+
+speaker: LOUIE
+addressee: MAGICA
+
+speaker: HUEY
+addressee: MAGICA
+
+speaker: HUEY
+addressee: MAGICA
+
+speaker: HUEY
+addressee: MAGICA
+
+speaker: DEWEY
+addressee: MAGICA
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: BEAKLEY
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: SELENE
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: DONALD
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: DONALD
+addressee: DELLA
+
+speaker: DEWEY
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: DONALD
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: WEBBY
+addressee: DELLA
+
+speaker: HUEY
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: GLOMGOLD
+addressee: DELLA
+
+speaker: SCROOGE MCDUCK
+addressee: DELLA
+
+speaker: MRS. BEAKLEY
+addressee: DELLA
+
+speaker: GLOMGOLD
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: DELLA DUCK
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: GLOMGOLD
+addressee: SCROOGE
+
+speaker: GENERAL LUNARIS
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: GENERAL LUNARIS
+
+speaker: MRS. BEAKLEY
+addressee: WEBBY
+
+speaker: MRS. BEAKLEY
+addressee: WEBBY
+
+speaker: MRS. BEAKLEY
+addressee: WEBBY
+
+speaker: LENA
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: MA
+addressee: DEWEY
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: LENA
+addressee: DEWEY
+
+speaker: MRS. BEAKLEY
+addressee: LENA
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: OWLSON
+addressee: SCROOGE MCDUCK
+
+speaker: OWLSON
+addressee: SCROOGE MCDUCK
+
+speaker: DEWEY
+addressee: SCROOGE MCDUCK
+
+speaker: WEBBY
+addressee: SCROOGE MCDUCK
+
+speaker: WEBBY
+addressee: SCROOGE MCDUCK
+
+speaker: WEBBY
+addressee: SCROOGE MCDUCK
+
+speaker: DONALD
+addressee: SCROOGE MCDUCK
+
+speaker: DONALD
+addressee: SCROOGE MCDUCK
+
+speaker: DEWEY
+addressee: SCROOGE MCDUCK
+
+speaker: SCROOGE MCDUCK
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: GLOMGOLD
+addressee: ROXANNE FEATHERLY
+
+speaker: BRADFORD
+addressee: SCROOGE
+
+speaker: DARKWING
+addressee: GOSALYN
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: TAURUS
+
+speaker: MARK BEAKS
+addressee: BIG TIME
+
+speaker: LENA
+addressee: BIG TIME
+
+speaker: HUEY
+addressee: BIG TIME
+
+speaker: LOUIE
+addressee: BIG TIME
+
+speaker: WEBBY
+addressee: BIG TIME
+
+speaker: LENA
+addressee: BIG TIME
+
+speaker: WEBBY
+addressee: BIG TIME
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: LOUIE
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: BOUNCER
+addressee: MA BEAGLE
+
+speaker: LENA
+addressee: DEWEY
+
+speaker: LENA
+addressee: DEWEY
+
+speaker: LENA
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: LAUNCHPAD
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: BOUNCER
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: DOOFUS
+addressee: DEWEY
+
+speaker: DOOFUS
+addressee: DEWEY
+
+speaker: BOUNCER
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: GLADSTONE
+addressee: MAGICA
+
+speaker: DEWEY
+addressee: GLADSTONE
+
+speaker: SCROOGE MCDUCK
+addressee: GLADSTONE
+
+speaker: SCROOGE MCDUCK
+addressee: GLADSTONE
+
+speaker: SCROOGE MCDUCK
+addressee: GLADSTONE
+
+speaker: SCROOGE MCDUCK
+addressee: GLADSTONE
+
+speaker: WEBBY
+addressee: GLADSTONE
+
+speaker: VIOLET
+addressee: GLADSTONE
+
+speaker: MA
+addressee: GLADSTONE
+
+speaker: MA
+addressee: GLADSTONE
+
+speaker: WEBBY
+addressee: GLADSTONE
+
+speaker: WEBBY
+addressee: GLADSTONE
+
+speaker: MA
+addressee: GLADSTONE
+
+speaker: MA
+addressee: GLADSTONE
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: HUEY
+addressee: DONALD
+
+speaker: DEWEY
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DONALD
+
+speaker: HUEY
+addressee: DONALD
+
+speaker: HUEY
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DONALD
+
+speaker: DEWEY
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: LAUNCHPAD
+addressee: HUEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: GLOMGOLD
+addressee: DEWEY
+
+speaker: DONALD
+addressee: DEWEY
+
+speaker: DONALD
+addressee: DEWEY
+
+speaker: GLOMGOLD
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: DONALD
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DONALD
+addressee: LOUIE
+
+speaker: DONALD
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: WEBBY
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: MARSHALL
+addressee: BEAKLEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: LENA
+addressee: HUEY
+
+speaker: LENA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: LENA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: LENA
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: MA
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: MAGICA
+
+speaker: LOUIE
+addressee: MAGICA
+
+speaker: LENA
+addressee: MAGICA
+
+speaker: LENA
+addressee: MAGICA
+
+speaker: LENA
+addressee: MAGICA
+
+speaker: LENA
+addressee: MAGICA
+
+speaker: MA
+addressee: MAGICA
+
+speaker: LOUIE
+addressee: LENA
+
+speaker: HUEY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: VIOLET
+addressee: LENA
+
+speaker: VIOLET
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: DEWEY
+addressee: LENA
+
+speaker: DEWEY
+addressee: LENA
+
+speaker: DEWEY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LENA
+addressee: WEBBY
+
+speaker: DEWEY
+addressee: SCROOGE
+
+speaker: DUCKWORTH
+addressee: SCROOGE
+
+speaker: DEWEY
+addressee: DONALD
+
+speaker: DELLA DUCK
+addressee: DONALD
+
+speaker: DELLA DUCK
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: GLOMGOLD
+addressee: MAGICA
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: MARK BEAKS
+addressee: GLOMGOLD
+
+speaker: MARK BEAKS
+addressee: GLOMGOLD
+
+speaker: GLOMGOLD
+addressee: DON KARNAGE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: BEAKLEY
+
+speaker: DEWEY
+addressee: BEAKLEY
+
+speaker: HUEY
+addressee: BEAKLEY
+
+speaker: HUEY
+addressee: DONALD
+
+speaker: HUEY
+addressee: DONALD
+
+speaker: DEWEY
+addressee: DONALD
+
+speaker: WEBBY
+addressee: DONALD
+
+speaker: GOOFY
+addressee: DONALD
+
+speaker: LAUNCHPAD
+addressee: DONALD
+
+speaker: WEBBY
+addressee: DONALD
+
+speaker: GOOFY
+addressee: DONALD
+
+speaker: GENE
+addressee: DONALD
+
+speaker: DONALD
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DELLA DUCK
+addressee: HUEY
+
+speaker: DELLA DUCK
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: GENE
+addressee: HUEY
+
+speaker: GENE
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: WEBBY
+
+speaker: LOUIE
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: LOUIE
+addressee: WEBBY
+
+speaker: LOUIE
+addressee: GENE
+
+speaker: HUEY
+addressee: MA BEAGLE
+
+speaker: HUEY
+addressee: MA BEAGLE
+
+speaker: HUEY
+addressee: GLOMGOLD
+
+speaker: HUEY
+addressee: GLOMGOLD
+
+speaker: HUEY
+addressee: GLOMGOLD
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: NOKTURNE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: DOWNY
+addressee: WEBBY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: FERGUS
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: FERGUS
+
+speaker: DOWNY
+addressee: FERGUS
+
+speaker: HUEY
+addressee: FERGUS
+
+speaker: LOUIE
+addressee: FERGUS
+
+speaker: SCROOGE MCDUCK
+addressee: FERGUS
+
+speaker: SCROOGE MCDUCK
+addressee: FERGUS
+
+speaker: SCROOGE MCDUCK
+addressee: FERGUS
+
+speaker: SCROOGE MCDUCK
+addressee: FERGUS
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: DELLA DUCK
+addressee: GIBBOUS
+
+speaker: DELLA DUCK
+addressee: GENERAL LUNARIS
+
+speaker: DELLA DUCK
+addressee: GENERAL LUNARIS
+
+speaker: PENUMBRA
+addressee: GENERAL LUNARIS
+
+speaker: PENUMBRA
+addressee: GENERAL LUNARIS
+
+speaker: DELLA DUCK
+addressee: GENERAL LUNARIS
+
+speaker: DELLA DUCK
+addressee: GENERAL LUNARIS
+
+speaker: DELLA DUCK
+addressee: GENERAL LUNARIS
+
+speaker: DELLA DUCK
+addressee: GENERAL LUNARIS
+
+speaker: PENUMBRA
+addressee: GENERAL LUNARIS
+
+speaker: PENUMBRA
+addressee: GENERAL LUNARIS
+
+speaker: PENUMBRA
+addressee: GENERAL LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: DELLA DUCK
+
+speaker: PENUMBRA
+addressee: DELLA DUCK
+
+speaker: GIBBOUS
+addressee: DELLA DUCK
+
+speaker: ZENITH
+addressee: DELLA DUCK
+
+speaker: PENUMBRA
+addressee: DELLA DUCK
+
+speaker: PENUMBRA
+addressee: DELLA DUCK
+
+speaker: DONALD
+addressee: DELLA DUCK
+
+speaker: SCROOGE MCDUCK
+addressee: GOLDIE
+
+speaker: SCROOGE MCDUCK
+addressee: FLINTHEART
+
+speaker: GOLDIE
+addressee: FLINTHEART
+
+speaker: GOLDIE
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: GOLDIE
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: DEWEY
+addressee: LUNARIS
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: HUEY
+addressee: WEBBY
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: GENERAL LUNARIS
+addressee: LUNARIS
+
+speaker: WEBBY
+addressee: LUNARIS
+
+speaker: SCROOGE MCDUCK
+addressee: LUNARIS
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: PENUMBRA
+addressee: DEWEY
+
+speaker: GENERAL LUNARIS
+addressee: DEWEY
+
+speaker: PENUMBRA
+addressee: DEWEY
+
+speaker: PENUMBRA
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: PENUMBRA
+addressee: DONALD
+
+speaker: PENUMBRA
+addressee: DONALD
+
+speaker: PENUMBRA
+addressee: JONES
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: LAUNCHPAD
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DONALD
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: GLOMGOLD
+addressee: BEAKS
+
+speaker: GRAVES
+addressee: BEAKS
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: BEAKS
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: BEAKS
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: HUEY
+addressee: BRIAR
+
+speaker: LAUNCHPAD
+addressee: HUEY
+
+speaker: GLOMGOLD
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: BRAMBLE
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: DEWEY
+addressee: WEBBY
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: SCROOGE MCDUCK
+addressee: MRS. BEAKLEY
+
+speaker: SCROOGE MCDUCK
+addressee: MRS. BEAKLEY
+
+speaker: SCROOGE MCDUCK
+addressee: MRS. BEAKLEY
+
+speaker: SCROOGE MCDUCK
+addressee: MRS. BEAKLEY
+
+speaker: HUEY
+addressee: MRS. BEAKLEY
+
+speaker: SCROOGE MCDUCK
+addressee: MRS. BEAKLEY
+
+speaker: LOUIE
+addressee: MRS. BEAKLEY
+
+speaker: LOUIE
+addressee: MRS. BEAKLEY
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: LUDWIG
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DEWEY
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: DEWEY
+addressee: DELLA
+
+speaker: DEWEY
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: FLINTHEART
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: DELLA DUCK
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: GLADSTONE
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: SELENE
+addressee: DJINN
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: DJINN
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: GLADSTONE
+addressee: LOUIE
+
+speaker: DJINN
+addressee: SCROOGE MCDUCK
+
+speaker: WEBBY
+addressee: SCROOGE MCDUCK
+
+speaker: LOUIE
+addressee: SCROOGE MCDUCK
+
+speaker: DJINN
+addressee: SCROOGE MCDUCK
+
+speaker: DJINN
+addressee: SCROOGE MCDUCK
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: DJINN
+addressee: MA BEAGLE
+
+speaker: DJINN
+addressee: MA BEAGLE
+
+speaker: SCROOGE MCDUCK
+addressee: MA BEAGLE
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: MA
+addressee: MAGICA
+
+speaker: MA
+addressee: MAGICA
+
+speaker: MA
+addressee: MAGICA
+
+speaker: LENA
+addressee: MAGICA
+
+speaker: MA
+addressee: MAGICA
+
+speaker: MA
+addressee: MAGICA
+
+speaker: MA
+addressee: MAGICA
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: ROXANNE
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: SCROOGE MCDUCK
+addressee: GLOMGOLD
+
+speaker: WEBBY
+addressee: ROXANNE
+
+speaker: WEBBY
+addressee: ROXANNE
+
+speaker: MA
+addressee: ROXANNE
+
+speaker: LAUNCHPAD
+addressee: ROXANNE
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: LENA
+addressee: WEBBY
+
+speaker: MA
+addressee: MAGICA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MA
+addressee: LENA
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: VIOLET
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: VIOLET
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: VIOLET
+addressee: LENA
+
+speaker: HUEY
+addressee: LENA
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: SCROOGE MCDUCK
+addressee: DONALD
+
+speaker: DONALD
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: MA
+addressee: LOUIE
+
+speaker: DONALD
+addressee: LOUIE
+
+speaker: BOUNCER
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: MARK BEAKS
+addressee: MA BEAGLE
+
+speaker: MARK BEAKS
+addressee: MA BEAGLE
+
+speaker: BOUNCER
+addressee: MA BEAGLE
+
+speaker: WEBBY
+addressee: MA BEAGLE
+
+speaker: MRS. BEAKLEY
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: FETHRY
+
+speaker: HUEY
+addressee: FETHRY
+
+speaker: DEWEY
+addressee: FETHRY
+
+speaker: LAUNCHPAD
+addressee: FETHRY
+
+speaker: FETHRY
+addressee: DEWEY
+
+speaker: FETHRY
+addressee: DEWEY
+
+speaker: FETHRY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: FETHRY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: SELENE
+
+speaker: DEWEY
+addressee: SELENE
+
+speaker: DEWEY
+addressee: SELENE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: ZEUS
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: STORKULES
+addressee: LOUIE
+
+speaker: ZEUS
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: ZEUS
+addressee: LOUIE
+
+speaker: ZEUS
+addressee: LOUIE
+
+speaker: STORKULES
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: STORKULES
+addressee: DEWEY
+
+speaker: DONALD
+addressee: DEWEY
+
+speaker: STORKULES
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: ZEUS
+
+speaker: HUEY
+addressee: ZEUS
+
+speaker: HUEY
+addressee: ZEUS
+
+speaker: LOUIE
+addressee: ZEUS
+
+speaker: SCROOGE MCDUCK
+addressee: ZEUS
+
+speaker: STORKULES
+addressee: ZEUS
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: MRS. BEAKLEY
+addressee: DUCKWORTH
+
+speaker: MRS. BEAKLEY
+addressee: DUCKWORTH
+
+speaker: MRS. BEAKLEY
+addressee: SCROOGE
+
+speaker: MRS. BEAKLEY
+addressee: SCROOGE
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: BEAKLEY
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: SCROOGE MCDUCK
+addressee: WEBBY
+
+speaker: MRS. BEAKLEY
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: BLACK HERON
+
+speaker: MRS. BEAKLEY
+addressee: BLACK HERON
+
+speaker: SCROOGE MCDUCK
+addressee: BLACK HERON
+
+speaker: MRS. BEAKLEY
+addressee: BLACK HERON
+
+speaker: MRS. BEAKLEY
+addressee: BLACK HERON
+
+speaker: LAUNCHPAD
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: GLADSTONE
+addressee: SCROOGE
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: GLADSTONE
+addressee: SCROOGE
+
+speaker: GLADSTONE
+addressee: SCROOGE
+
+speaker: DONALD
+addressee: SCROOGE
+
+speaker: DONALD
+addressee: SCROOGE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: GLADSTONE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: LAUNCHPAD
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: GANDRA
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: FENTON
+addressee: HUEY
+
+speaker: LAUNCHPAD
+addressee: OFFICER CABRERA
+
+speaker: GANDRA
+addressee: OFFICER CABRERA
+
+speaker: LAUNCHPAD
+addressee: OFFICER CABRERA
+
+speaker: FENTON
+addressee: OFFICER CABRERA
+
+speaker: GANDRA
+addressee: OFFICER CABRERA
+
+speaker: FENTON
+addressee: OFFICER CABRERA
+
+speaker: GANDRA
+addressee: OFFICER CABRERA
+
+speaker: GANDRA
+addressee: OFFICER CABRERA
+
+speaker: WEBBY
+addressee: OFFICER CABRERA
+
+speaker: FENTON
+addressee: OFFICER CABRERA
+
+speaker: HUEY
+addressee: OFFICER CABRERA
+
+speaker: GANDRA
+addressee: OFFICER CABRERA
+
+speaker: GYRO
+addressee: OFFICER CABRERA
+
+speaker: BEAKS
+addressee: GANDRA
+
+speaker: BEAKS
+addressee: GANDRA
+
+speaker: BEAKS
+addressee: GIZMODUCK
+
+speaker: GANDRA
+addressee: FENTON
+
+speaker: WEBBY
+addressee: FENTON
+
+speaker: BEAKS
+addressee: FENTON
+
+speaker: HUEY
+addressee: FENTON
+
+speaker: HUEY
+addressee: FENTON
+
+speaker: GYRO
+addressee: FENTON
+
+speaker: GYRO
+addressee: FENTON
+
+speaker: GYRO
+addressee: FENTON
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: DONALD
+
+speaker: DEWEY
+addressee: DONALD
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: DONALD
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: MA
+addressee: BEAKLEY
+
+speaker: MA
+addressee: BEAKLEY
+
+speaker: MA
+addressee: BEAKLEY
+
+speaker: MA
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: MA
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: LAUNCHPAD
+addressee: LENA
+
+speaker: WEBBY
+addressee: LENA
+
+speaker: SCROOGE MCDUCK
+addressee: LENA
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: MA
+addressee: GYRO
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: LENA
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: MA
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: MA
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: SCROOGE
+
+speaker: JORMUNGANDR
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: GIZMODUCK
+addressee: BEAKS
+
+speaker: BEAKS
+addressee: GIZMODUCK
+
+speaker: GIZMODUCK
+addressee: LOUIE
+
+speaker: GIZMODUCK
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: GIZMODUCK
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: HUEY
+addressee: LOUIE
+
+speaker: VERO
+addressee: ALETHEIA
+
+speaker: ALETHEIA
+addressee: VERO
+
+speaker: WEBBY
+addressee: VERO
+
+speaker: MRS. BEAKLEY
+addressee: VERO
+
+speaker: LOUIE
+addressee: VERO
+
+speaker: LOUIE
+addressee: BEAKLEY
+
+speaker: MRS. BEAKLEY
+addressee: BEAKLEY
+
+speaker: LOUIE
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: BEAKLEY
+
+speaker: ALETHEIA
+addressee: BEAKLEY
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: SCROOGE
+
+speaker: VERO
+addressee: SCROOGE
+
+speaker: GLAMOUR
+addressee: DAISY
+
+speaker: LOUIE
+addressee: DAISY
+
+speaker: DEWEY
+addressee: GLAMOUR
+
+speaker: LOUIE
+addressee: GLAMOUR
+
+speaker: LOUIE
+addressee: GLAMOUR
+
+speaker: WEBBY
+addressee: DONALD
+
+speaker: DAISY
+addressee: DONALD
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: DONALD
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: SCROOGE
+
+speaker: HUEY
+addressee: DONALD
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: GOLDIE
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: GOLDIE
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: SCROOGE
+
+speaker: GOLDIE
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: GOLDIE
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: SCROOGE MCDUCK
+addressee: GOLDIE
+
+speaker: WEBBY
+addressee: GOLDIE
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: LOUIE
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: HUEY
+addressee: DEWEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: DEWEY
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: HUEY
+
+speaker: GOLDIE
+addressee: HUEY
+
+speaker: WEBBY
+addressee: HUEY
+
+speaker: GOLDIE
+addressee: HUEY
+
+speaker: SCROOGE MCDUCK
+addressee: BRADFORD
+
+speaker: SCROOGE MCDUCK
+addressee: BRADFORD
+
+speaker: GYRO
+addressee: BRADFORD
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: QUACKFASTER
+addressee: DEWEY
+
+speaker: JOHNNY
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: ALISTAIR
+
+speaker: DEWEY
+addressee: JIM
+
+speaker: ALISTAIR
+addressee: JIM
+
+speaker: LAUNCHPAD
+addressee: JIM
+
+speaker: DEWEY
+addressee: JIM
+
+speaker: LAUNCHPAD
+addressee: JIM
+
+speaker: LAUNCHPAD
+addressee: JIM
+
+speaker: LAUNCHPAD
+addressee: JIM
+
+speaker: LAUNCHPAD
+addressee: JIM
+
+speaker: ALISTAIR
+addressee: SCROOGE
+
+speaker: DEWEY
+addressee: ALISTAIR
+
+speaker: LAUNCHPAD
+addressee: DRAKE
+
+speaker: LAUNCHPAD
+addressee: DRAKE
+
+speaker: LAUNCHPAD
+addressee: ALISTAIR
+
+speaker: PENUMBRA
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: PENUMBRA
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: WEBBY
+addressee: DELLA
+
+speaker: PENUMBRA
+addressee: DELLA
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: GLOMGOLD
+addressee: DEWEY
+
+speaker: GLOMGOLD
+addressee: DEWEY
+
+speaker: GLOMGOLD
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: PENUMBRA
+addressee: DEWEY
+
+speaker: WEBBY
+addressee: DEWEY
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: DELLA
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: LAUNCHPAD
+addressee: DELLA
+
+speaker: HUEY
+addressee: DELLA
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: LOUIE
+
+speaker: WEBBY
+addressee: SCROOGE
+
+speaker: WEBBY
+addressee: LOUIE
+
+speaker: DEWEY
+addressee: LOUIE
+
+speaker: OWLSON
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: SCROOGE
+
+speaker: OWLSON
+addressee: DELLA
+
+speaker: DEWEY
+addressee: DELLA
+
+speaker: DEWEY
+addressee: DELLA
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: HUEY
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: STORKULES
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: HUEY
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: DONALD
+addressee: STORKULES
+
+speaker: DONALD
+addressee: STORKULES
+
+speaker: DONALD
+addressee: STORKULES
+
+speaker: HUEY
+addressee: STORKULES
+
+speaker: DONALD
+addressee: STORKULES
+
+speaker: DONALD
+addressee: STORKULES
+
+speaker: DONALD
+addressee: STORKULES
+
+speaker: LOUIE
+addressee: STORKULES
+
+speaker: SCROOGE MCDUCK
+addressee: STORKULES
+
+speaker: LOUIE
+addressee: STORKULES
+
+speaker: SCROOGE MCDUCK
+addressee: STORKULES
+
+speaker: LOUIE
+addressee: STORKULES
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: GOLDIE
+addressee: LOUIE
+
+speaker: GOLDIE
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: DOOFUS
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: DELLA DUCK
+addressee: HUEY
+
+speaker: LOUIE
+addressee: DOOFUS
+
+speaker: SCROOGE MCDUCK
+addressee: GOLDIE
+
+speaker: LOUIE
+addressee: GOLDIE
+
+speaker: SCROOGE MCDUCK
+addressee: GOLDIE
+
+speaker: HUEY
+addressee: DELLA
+
+speaker: HUEY
+addressee: DELLA
+
+speaker: JOHN D ROCKERDUCK
+addressee: ROCKERDUCK
+
+speaker: SCROOGE MCDUCK
+addressee: ROCKERDUCK
+
+speaker: GOLDIE
+addressee: ROCKERDUCK
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: SCROOGE MCDUCK
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: LOUIE
+addressee: LOUIE
+
+speaker: MA
+addressee: MARSHALL
+
+speaker: JOHN D ROCKERDUCK
+addressee: MARSHALL
+
+speaker: JOHN D ROCKERDUCK
+addressee: MARSHALL
+
+speaker: GOLDIE
+addressee: MARSHALL
+
+speaker: GOLDIE
+addressee: MARSHALL
+
+speaker: SCROOGE MCDUCK
+addressee: MARSHALL
+
+speaker: MA
+addressee: MARSHALL
+
+speaker: MA
+addressee: MARSHALL
+
+speaker: MA
+addressee: MARSHALL
+
+speaker: MA
+addressee: MARSHALL
+
+speaker: GOLDIE
+addressee: MARSHALL
+
+speaker: GOLDIE
+addressee: MARSHALL
+
+speaker: SCROOGE MCDUCK
+addressee: MARSHALL
+
+speaker: GOLDIE
+addressee: MARSHALL
+
+speaker: SCROOGE MCDUCK
+addressee: MARSHALL
+
+speaker: MA
+addressee: SCROOGE MCDUCK
+
+speaker: MA
+addressee: SCROOGE MCDUCK
+
+speaker: GOLDIE
+addressee: SCROOGE MCDUCK
+
+speaker: MA
+addressee: SCROOGE MCDUCK
+
+speaker: GOLDIE
+addressee: SCROOGE MCDUCK
+
+speaker: GOLDIE
+addressee: SCROOGE MCDUCK
+
+speaker: GOLDIE
+addressee: SCROOGE MCDUCK
+
+speaker: GOLDIE
+addressee: SCROOGE MCDUCK
+
+speaker: GOLDIE
+addressee: SCROOGE MCDUCK

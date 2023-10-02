@@ -1,0 +1,3982 @@
+STATS:
+[517, 359, 199, 251]
+
+
+
+speaker: GRENDA
+addressee: CELESTABELLEBETHABELLE
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: CELESTABELLEBETHABELLE
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: CELESTABELLEBETHABELLE
+addressee: MABEL
+
+speaker: CELESTABELLEBETHABELLE
+addressee: MABEL
+
+speaker: CELESTABELLEBETHABELLE
+addressee: MABEL
+
+speaker: CELESTABELLEBETHABELLE
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: OLD MAN MCGUCKET
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: FORD
+addressee: BILL CIPHER
+
+speaker: FORD
+addressee: BILL CIPHER
+
+speaker: FORD
+addressee: STAN PINES
+
+speaker: FORD
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: XYLER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: MABEL
+addressee: FRANZ
+
+speaker: MABEL
+addressee: FRANZ
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: MABEL
+addressee: FRANZ
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: PACIFICA
+addressee: FRANZ
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FRANZ
+addressee: MABEL
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FRANZ
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: GIDEON
+addressee: SOOS
+
+speaker: BILL
+addressee: TYLER
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: BLENDIN
+addressee: LOLPH
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: GIDEON
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: SOOS RAMIREZ
+addressee: DEPUTY DURLAND
+
+speaker: PACIFICA
+addressee: DEPUTY DURLAND
+
+speaker: PACIFICA
+addressee: DEPUTY DURLAND
+
+speaker: FORD
+addressee: DEPUTY DURLAND
+
+speaker: FORD
+addressee: SHERIFF BLUBS
+
+speaker: FORD
+addressee: SHERIFF BLUBS
+
+speaker: STAN PINES
+addressee: SHERIFF BLUBS
+
+speaker: DIPPER
+addressee: SHERIFF BLUBS
+
+speaker: DIPPER
+addressee: MULTI-BEAR
+
+speaker: FAKE WENDY
+addressee: MANLY DAN
+
+speaker: FAKE WENDY
+addressee: MANLY DAN
+
+speaker: PACIFICA
+addressee: MANLY DAN
+
+speaker: PACIFICA
+addressee: MANLY DAN
+
+speaker: FORD
+addressee: BILL
+
+speaker: STAN PINES
+addressee: BILL
+
+speaker: FORD
+addressee: BILL
+
+speaker: STAN PINES
+addressee: BILL
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: BILL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: GRENDA
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: CANDY
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: FAKE WENDY
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: FAKE WENDY
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: FORD
+addressee: BUD GLEEFUL
+
+speaker: BILL
+addressee: BUD GLEEFUL
+
+speaker: BILL
+addressee: BUD GLEEFUL
+
+speaker: SOOS RAMIREZ
+addressee: MCGUCKET
+
+speaker: SOOS RAMIREZ
+addressee: MCGUCKET
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: FAKE WENDY
+addressee: SOOS
+
+speaker: BILL
+addressee: FORD
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: SHERIFF BLUBS
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: TRIGGER
+addressee: MABEL
+
+speaker: TRIGGER
+addressee: MABEL
+
+speaker: TRIGGER
+addressee: MABEL
+
+speaker: TRIGGER
+addressee: MABEL
+
+speaker: TRIGGER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: NATE
+addressee: LEE
+
+speaker: NATE
+addressee: LEE
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: BUD GLEEFUL
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: CHUTZPAR
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: CHUTZPAR
+addressee: MABEL
+
+speaker: CHUTZPAR
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: FAKE WENDY
+addressee: SOOS RAMIREZ
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: THOMPSON
+addressee: WENDY
+
+speaker: TAMBRY
+addressee: WENDY
+
+speaker: NATE
+addressee: WENDY
+
+speaker: THOMPSON
+addressee: WENDY
+
+speaker: NATE
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: BLIND IVAN
+
+speaker: OLD MAN MCGUCKET
+addressee: BLIND IVAN
+
+speaker: OLD MAN MCGUCKET
+addressee: BLIND IVAN
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: SOOS RAMIREZ
+addressee: DIPPER
+
+speaker: OLD MAN MCGUCKET
+addressee: SOOS
+
+speaker: OLD MAN MCGUCKET
+addressee: SOOS
+
+speaker: DIPPER
+addressee: LAZY SUSAN
+
+speaker: DIPPER
+addressee: LAZY SUSAN
+
+speaker: DIPPER
+addressee: LAZY SUSAN
+
+speaker: MABEL
+addressee: OLD MAN MCGUCKET
+
+speaker: DIPPER
+addressee: OLD MAN MCGUCKET
+
+speaker: DIPPER
+addressee: OLD MAN MCGUCKET
+
+speaker: FAKE WENDY
+addressee: OLD MAN MCGUCKET
+
+speaker: MABEL
+addressee: OLD MAN MCGUCKET
+
+speaker: MABEL
+addressee: OLD MAN MCGUCKET
+
+speaker: FAKE WENDY
+addressee: OLD MAN MCGUCKET
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: SOOS RAMIREZ
+addressee: WENDY
+
+speaker: STAN PINES
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MERMANDO
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MERMANDO
+addressee: WENDY
+
+speaker: MERMANDO
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MERMANDO
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MERMANDO
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: SHERIFF BLUBS
+addressee: MABEL
+
+speaker: MERMANDO
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MERMANDO
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MERMANDO
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MR. POOLCHECK
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MR. POOLCHECK
+
+speaker: GIDEON
+addressee: MR. POOLCHECK
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: MABEL
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: SOOS RAMIREZ
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: BILL
+addressee: GIDEON
+
+speaker: STAN PINES
+addressee: GIDEON
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: GIDEON
+addressee: BILL CIPHER
+
+speaker: GIDEON
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: DIPPER
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: SOOS RAMIREZ
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: DIPPER
+addressee: BILL CIPHER
+
+speaker: MABEL
+addressee: BILL CIPHER
+
+speaker: CRAZ
+addressee: BILL CIPHER
+
+speaker: DIPPER
+addressee: BILL CIPHER
+
+speaker: DIPPER
+addressee: BILL CIPHER
+
+speaker: GIDEON
+addressee: BILL CIPHER
+
+speaker: STAN PINES
+addressee: BILL CIPHER
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: WADDLES
+addressee: STAN PINES
+
+speaker: WADDLES
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: WADDLES
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: GRENDA
+addressee: CANDY
+
+speaker: SOOS RAMIREZ
+addressee: OLD MAN MCGUCKET
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: GRENDA
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: DURLAND
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: TREMBLEY
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: DURLAND
+addressee: DEPUTY DURLAND
+
+speaker: DURLAND
+addressee: DEPUTY DURLAND
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: TREMBLEY
+addressee: DEPUTY DURLAND
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: TREMBLEY
+addressee: DEPUTY DURLAND
+
+speaker: TREMBLEY
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: TREMBLEY
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: PACIFICA
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: SHERIFF BLUBS
+addressee: MABEL
+
+speaker: SHERIFF BLUBS
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: TREMBLEY
+addressee: MABEL
+
+speaker: TREMBLEY
+addressee: MABEL
+
+speaker: TREMBLEY
+addressee: MABEL
+
+speaker: SHERIFF BLUBS
+addressee: BLUBS
+
+speaker: STAN PINES
+addressee: DIPPER
+
+speaker: STAN PINES
+addressee: DIPPER
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: GRENDA
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: DEPUTY DURLAND
+
+speaker: SOOS RAMIREZ
+addressee: DEPUTY DURLAND
+
+speaker: SOOS RAMIREZ
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: PACIFICA
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: DIPPER
+addressee: PRESTON
+
+speaker: GHOST-EYES
+addressee: PRESTON
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: GRENDA
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DARLENE
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DARLENE
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: CANDY
+addressee: STAN
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: CANDY
+addressee: DIPPER
+
+speaker: CANDY
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: CANDY
+addressee: GRENDA
+
+speaker: CANDY
+addressee: GRENDA
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: STAN PINES
+addressee: GRENDA
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: DARLENE
+
+speaker: DIPPER
+addressee: DARLENE
+
+speaker: DIPPER
+addressee: DARLENE
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: BLUBS
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: SHERIFF BLUBS
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: SHERIFF BLUBS
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: TOBY DETERMINED
+
+speaker: DIPPER
+addressee: TOBY DETERMINED
+
+speaker: MABEL
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: STAN
+
+speaker: FORD
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: SOOS RAMIREZ
+
+speaker: STAN PINES
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: STAN PINES
+addressee: DEPUTY DURLAND
+
+speaker: STAN PINES
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: DEPUTY DURLAND
+
+speaker: MABEL
+addressee: DEPUTY DURLAND
+
+speaker: DIPPER
+addressee: DEPUTY DURLAND
+
+speaker: STAN PINES
+addressee: DEPUTY DURLAND
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: BUD GLEEFUL
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: MABEL
+addressee: JEFF
+
+speaker: MABEL
+addressee: JEFF
+
+speaker: STAN PINES
+addressee: JEFF
+
+speaker: GIDEON
+addressee: JEFF
+
+speaker: MABEL
+addressee: JEFF
+
+speaker: DIPPER
+addressee: JEFF
+
+speaker: GIDEON
+addressee: JEFF
+
+speaker: MABEL
+addressee: JEFF
+
+speaker: DIPPER
+addressee: JEFF
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: SHANDRA
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: BUD GLEEFUL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: ROBBIE VALENTINO
+
+speaker: ROBBIE
+addressee: ROBBIE VALENTINO
+
+speaker: DIPPER
+addressee: ROBBIE VALENTINO
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: DIPPER
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: DIPPER
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: FORD
+addressee: SPROTT
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: FORD
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MELODY
+
+speaker: DIPPER
+addressee: MELODY
+
+speaker: MABEL
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: MABEL
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: MABEL
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: MELODY
+addressee: SOOS
+
+speaker: MELODY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: MELODY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: MELODY
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: MABEL
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: FAKE WENDY
+addressee: SOOS
+
+speaker: FAKE WENDY
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: FAKE WENDY
+addressee: SOOS
+
+speaker: FAKE WENDY
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: .GIFFANY
+addressee: SOOS
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: SOOS RAMIREZ
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: MELODY
+addressee: STAN
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: OLD MAN MCGUCKET
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: RICH
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: RICH
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: RICH
+addressee: SOOS RAMIREZ
+
+speaker: RICH
+addressee: SOOS RAMIREZ
+
+speaker: RICH
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: CANDY
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: CANDY
+addressee: MABEL
+
+speaker: GRENDA
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: STAN PINES
+addressee: WENDY
+
+speaker: STAN PINES
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: MABEL
+addressee: BRATSMAN
+
+speaker: MABEL
+addressee: BRATSMAN
+
+speaker: MABEL
+addressee: BRATSMAN
+
+speaker: FAKE WENDY
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: STAN PINES
+addressee: DIPPER
+
+speaker: STAN PINES
+addressee: DIPPER
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: ROBBIE
+addressee: GRENDA
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: STAN PINES
+addressee: GRENDA
+
+speaker: DIPPER
+addressee: GRENDA
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: BILL
+addressee: MABEL
+
+speaker: GRENDA
+addressee: MABEL
+
+speaker: GRENDA
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: BILL CIPHER
+
+speaker: DIPPER
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: BILL
+addressee: BILL CIPHER
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: GABE
+addressee: GRENDA
+
+speaker: MABEL
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: MABEL
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: MABEL
+addressee: CRAZ
+
+speaker: MABEL
+addressee: CRAZ
+
+speaker: DIPPER
+addressee: CRAZ
+
+speaker: MABEL
+addressee: CRAZ
+
+speaker: DIPPER
+addressee: CRAZ
+
+speaker: GABE
+addressee: CRAZ
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: BUD GLEEFUL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: BUD GLEEFUL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: TOBY
+addressee: MABEL
+
+speaker: TOBY
+addressee: MABEL
+
+speaker: TOBY
+addressee: MABEL
+
+speaker: TOBY
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: GIDEON
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: BUD GLEEFUL
+addressee: STAN PINES
+
+speaker: BUD GLEEFUL
+addressee: STAN PINES
+
+speaker: SOOS RAMIREZ
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: LOLPH
+addressee: DUNDGREN
+
+speaker: LOLPH
+addressee: DUNDGREN
+
+speaker: BLENDIN
+addressee: SOOS
+
+speaker: BLENDIN
+addressee: SOOS
+
+speaker: BLENDIN
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: GRENDA
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: LOLPH
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: SPROTT
+addressee: MABEL
+
+speaker: SPROTT
+addressee: MABEL
+
+speaker: SPROTT
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: SOOS RAMIREZ
+
+speaker: BLENDIN
+addressee: WADDLES
+
+speaker: BLENDIN
+addressee: WADDLES
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: WADDLES
+
+speaker: STAN PINES
+addressee: WADDLES
+
+speaker: DIPPER
+addressee: OLD MAN MCGUCKET
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: SOOS RAMIREZ
+addressee: WADDLES
+
+speaker: SOOS RAMIREZ
+addressee: WADDLES
+
+speaker: FORD
+addressee: SOOS
+
+speaker: MABEL
+addressee: SOOS
+
+speaker: TOBY
+addressee: STAN
+
+speaker: TOBY
+addressee: STAN
+
+speaker: TOBY
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: CANDY
+addressee: STAN
+
+speaker: FAKE WENDY
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: BUD GLEEFUL
+addressee: STAN
+
+speaker: SHANDRA
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: GIDEON
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: BUD GLEEFUL
+
+speaker: MABEL
+addressee: BUD GLEEFUL
+
+speaker: GIDEON
+addressee: BUD GLEEFUL
+
+speaker: GIDEON
+addressee: BUD GLEEFUL
+
+speaker: GIDEON
+addressee: BUD GLEEFUL
+
+speaker: MABEL
+addressee: SHERIFF BLUBS
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: FAKE WENDY
+addressee: WENDY
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: CANDY
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: SOOS RAMIREZ
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: DIPPER
+addressee: DIPPER
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: SOOS RAMIREZ
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: GRENDA
+
+speaker: STAN PINES
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: MABEL
+addressee: GRENDA
+
+speaker: SOOS RAMIREZ
+addressee: GRENDA
+
+speaker: SOOS RAMIREZ
+addressee: GRENDA
+
+speaker: ROBBIE
+addressee: WENDY
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: LEE
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: FAKE WENDY
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: DIPPER
+addressee: FAKE WENDY
+
+speaker: DIPPER
+addressee: FAKE WENDY
+
+speaker: DIPPER
+addressee: SOOS RAMIREZ
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: WENDY
+
+speaker: STAN PINES
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: DIPPER
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: TYRONE
+addressee: DIPPER
+
+speaker: TYRONE
+addressee: DIPPER
+
+speaker: THOMPSON
+addressee: NATE
+
+speaker: THOMPSON
+addressee: NATE
+
+speaker: THOMPSON
+addressee: NATE
+
+speaker: DIPPER
+addressee: NATE
+
+speaker: DIPPER
+addressee: NATE
+
+speaker: MABEL
+addressee: NATE
+
+speaker: MABEL
+addressee: NATE
+
+speaker: NATE
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: MABEL
+addressee: WENDY
+
+speaker: ROBBIE
+addressee: TAMBRY
+
+speaker: ROBBIE
+addressee: TAMBRY
+
+speaker: MABEL
+addressee: TAMBRY
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: BUD GLEEFUL
+addressee: MABEL
+
+speaker: FAKE WENDY
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: BUD GLEEFUL
+addressee: LEE
+
+speaker: NATE
+addressee: LEE
+
+speaker: DIPPER
+addressee: THOMPSON
+
+speaker: DIPPER
+addressee: THOMPSON
+
+speaker: BUD GLEEFUL
+addressee: NATE
+
+speaker: STAN PINES
+addressee: STAN
+
+speaker: MABEL
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: DIPPER
+addressee: STAN
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: SOOS RAMIREZ
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: JEFF
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: STAN PINES
+addressee: SOOS
+
+speaker: DIPPER
+addressee: SOOS
+
+speaker: DIPPER
+addressee: JEFF
+
+speaker: MABEL
+addressee: JEFF
+
+speaker: MABEL
+addressee: BUD GLEEFUL
+
+speaker: MABEL
+addressee: BUD GLEEFUL
+
+speaker: GIDEON
+addressee: BUD GLEEFUL
+
+speaker: GIDEON
+addressee: BUD GLEEFUL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: SOOS RAMIREZ
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: GIDEON
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: SOOS RAMIREZ
+addressee: STAN PINES
+
+speaker: SOOS RAMIREZ
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: DIPPER
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: MABEL
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: MABEL
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: DIPPER
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: STAN PINES
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: GIDEON
+addressee: GIDEON
+
+speaker: STAN PINES
+addressee: GIDEON
+
+speaker: MABEL
+addressee: GIDEON
+
+speaker: DIPPER
+addressee: GIDEON
+
+speaker: STAN PINES
+addressee: TYLER
+
+speaker: DIPPER
+addressee: CHUTZPAR
+
+speaker: DIPPER
+addressee: CHUTZPAR
+
+speaker: DIPPER
+addressee: CHUTZPAR
+
+speaker: TYLER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: DIPPER
+addressee: STAN PINES
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: MABEL
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: DIPPER
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: MABEL
+
+speaker: STAN PINES
+addressee: LAZY SUSAN
+
+speaker: STAN PINES
+addressee: LAZY SUSAN

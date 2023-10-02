@@ -1,0 +1,1554 @@
+Document: ID=Alien Covenant Rick and Morty_Transcript | Rick and Morty Wiki | Fandom.html.txt.txt (39 sentences, 522 tokens)
+
+Sentence #1 (5 tokens):
+Distress beacon alert chimes.
+
+Tokens:
+[Text=Distress CharacterOffsetBegin=0 CharacterOffsetEnd=8 PartOfSpeech=NN Lemma=distress NamedEntityTag=O]
+[Text=beacon CharacterOffsetBegin=9 CharacterOffsetEnd=15 PartOfSpeech=NN Lemma=beacon NamedEntityTag=O]
+[Text=alert CharacterOffsetBegin=16 CharacterOffsetEnd=21 PartOfSpeech=NN Lemma=alert NamedEntityTag=O]
+[Text=chimes CharacterOffsetBegin=22 CharacterOffsetEnd=28 PartOfSpeech=VBZ Lemma=chime NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=28 CharacterOffsetEnd=29 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, chimes-4)
+compound(alert-3, Distress-1)
+compound(alert-3, beacon-2)
+nsubj(chimes-4, alert-3)
+punct(chimes-4, .-5)
+
+Extracted the following NER entity mentions:
+
+Sentence #2 (17 tokens):
+Rick Sanchez says: "Morty, can you hit that ignore button on that?"
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=30 CharacterOffsetEnd=34 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=35 CharacterOffsetEnd=42 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=43 CharacterOffsetEnd=47 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=47 CharacterOffsetEnd=48 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=49 CharacterOffsetEnd=50 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Morty CharacterOffsetBegin=50 CharacterOffsetEnd=55 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=55 CharacterOffsetEnd=56 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=57 CharacterOffsetEnd=60 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=61 CharacterOffsetEnd=64 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=hit CharacterOffsetBegin=65 CharacterOffsetEnd=68 PartOfSpeech=VB Lemma=hit NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=69 CharacterOffsetEnd=73 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=ignore CharacterOffsetBegin=74 CharacterOffsetEnd=80 PartOfSpeech=VB Lemma=ignore NamedEntityTag=O]
+[Text=button CharacterOffsetBegin=81 CharacterOffsetEnd=87 PartOfSpeech=NN Lemma=button NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=88 CharacterOffsetEnd=90 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=91 CharacterOffsetEnd=95 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=95 CharacterOffsetEnd=96 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=96 CharacterOffsetEnd=97 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rick-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(hit-10, Morty-6)
+punct(hit-10, ,-7)
+aux(hit-10, can-8)
+nsubj(hit-10, you-9)
+ccomp(says-3, hit-10)
+det(button-13, that-11)
+amod(button-13, ignore-12)
+obj(hit-10, button-13)
+case(that-15, on-14)
+obl:on(hit-10, that-15)
+punct(says-3, ?-16)
+punct(says-3, "-17)
+
+Extracted the following NER entity mentions:
+Rick Sanchez	PERSON	PERSON:0.9999369384227886
+Morty	PERSON	PERSON:0.7573251793809551
+
+Sentence #3 (8 tokens):
+Morty Smith says: "What?"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=98 CharacterOffsetEnd=103 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=104 CharacterOffsetEnd=109 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=110 CharacterOffsetEnd=114 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=114 CharacterOffsetEnd=115 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=116 CharacterOffsetEnd=117 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=117 CharacterOffsetEnd=121 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=121 CharacterOffsetEnd=122 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=122 CharacterOffsetEnd=123 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+dep(says-3, What-6)
+punct(says-3, ?-7)
+punct(says-3, "-8)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9993187675882961
+
+Sentence #4 (16 tokens):
+Morty Smith says: "I'm not hitting that ignore button, Rick."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=124 CharacterOffsetEnd=129 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=130 CharacterOffsetEnd=135 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=136 CharacterOffsetEnd=140 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=140 CharacterOffsetEnd=141 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=142 CharacterOffsetEnd=143 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=143 CharacterOffsetEnd=144 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=144 CharacterOffsetEnd=146 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=not CharacterOffsetBegin=147 CharacterOffsetEnd=150 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=hitting CharacterOffsetBegin=151 CharacterOffsetEnd=158 PartOfSpeech=VBG Lemma=hit NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=159 CharacterOffsetEnd=163 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=ignore CharacterOffsetBegin=164 CharacterOffsetEnd=170 PartOfSpeech=VB Lemma=ignore NamedEntityTag=O]
+[Text=button CharacterOffsetBegin=171 CharacterOffsetEnd=177 PartOfSpeech=NN Lemma=button NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=177 CharacterOffsetEnd=178 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Rick CharacterOffsetBegin=179 CharacterOffsetEnd=183 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=183 CharacterOffsetEnd=184 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=184 CharacterOffsetEnd=185 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(hitting-9, I-6)
+aux(hitting-9, 'm-7)
+advmod(hitting-9, not-8)
+ccomp(says-3, hitting-9)
+det(button-12, that-10)
+amod(button-12, ignore-11)
+obj(hitting-9, button-12)
+punct(button-12, ,-13)
+appos(button-12, Rick-14)
+punct(says-3, .-15)
+punct(says-3, "-16)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9989504394212396
+Rick	PERSON	PERSON:0.9984746137853645
+
+Sentence #5 (16 tokens):
+Morty Smith says: "We're going to help those people in distress."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=186 CharacterOffsetEnd=191 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=192 CharacterOffsetEnd=197 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=198 CharacterOffsetEnd=202 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=202 CharacterOffsetEnd=203 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=204 CharacterOffsetEnd=205 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=205 CharacterOffsetEnd=207 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=207 CharacterOffsetEnd=210 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=going CharacterOffsetBegin=211 CharacterOffsetEnd=216 PartOfSpeech=VBG Lemma=go NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=217 CharacterOffsetEnd=219 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=help CharacterOffsetBegin=220 CharacterOffsetEnd=224 PartOfSpeech=VB Lemma=help NamedEntityTag=O]
+[Text=those CharacterOffsetBegin=225 CharacterOffsetEnd=230 PartOfSpeech=DT Lemma=those NamedEntityTag=O]
+[Text=people CharacterOffsetBegin=231 CharacterOffsetEnd=237 PartOfSpeech=NNS Lemma=people NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=238 CharacterOffsetEnd=240 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=distress CharacterOffsetBegin=241 CharacterOffsetEnd=249 PartOfSpeech=NN Lemma=distress NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=249 CharacterOffsetEnd=250 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=250 CharacterOffsetEnd=251 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(going-8, We-6)
+nsubj:xsubj(help-10, We-6)
+aux(going-8, 're-7)
+ccomp(says-3, going-8)
+mark(help-10, to-9)
+xcomp(going-8, help-10)
+det(people-12, those-11)
+obj(help-10, people-12)
+case(distress-14, in-13)
+obl:in(help-10, distress-14)
+punct(says-3, .-15)
+punct(says-3, "-16)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9996696020308976
+
+Sentence #6 (6 tokens):
+Rick makes a sharp turn.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=252 CharacterOffsetEnd=256 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=makes CharacterOffsetBegin=257 CharacterOffsetEnd=262 PartOfSpeech=VBZ Lemma=make NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=263 CharacterOffsetEnd=264 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=sharp CharacterOffsetBegin=265 CharacterOffsetEnd=270 PartOfSpeech=JJ Lemma=sharp NamedEntityTag=O]
+[Text=turn CharacterOffsetBegin=271 CharacterOffsetEnd=275 PartOfSpeech=NN Lemma=turn NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=275 CharacterOffsetEnd=276 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, makes-2)
+nsubj(makes-2, Rick-1)
+det(turn-5, a-3)
+amod(turn-5, sharp-4)
+obj(makes-2, turn-5)
+punct(makes-2, .-6)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9839685489904949
+
+Sentence #7 (17 tokens):
+Morty Smith says: "Well, what do you think when do, Rick?"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=277 CharacterOffsetEnd=282 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=283 CharacterOffsetEnd=288 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=289 CharacterOffsetEnd=293 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=293 CharacterOffsetEnd=294 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=295 CharacterOffsetEnd=296 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Well CharacterOffsetBegin=296 CharacterOffsetEnd=300 PartOfSpeech=UH Lemma=well NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=300 CharacterOffsetEnd=301 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=302 CharacterOffsetEnd=306 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=307 CharacterOffsetEnd=309 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=310 CharacterOffsetEnd=313 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=think CharacterOffsetBegin=314 CharacterOffsetEnd=319 PartOfSpeech=VB Lemma=think NamedEntityTag=O]
+[Text=when CharacterOffsetBegin=320 CharacterOffsetEnd=324 PartOfSpeech=WRB Lemma=when NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=325 CharacterOffsetEnd=327 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=327 CharacterOffsetEnd=328 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Rick CharacterOffsetBegin=329 CharacterOffsetEnd=333 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=? CharacterOffsetBegin=333 CharacterOffsetEnd=334 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=334 CharacterOffsetEnd=335 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(think-11, Well-6)
+punct(think-11, ,-7)
+obj(think-11, what-8)
+aux(think-11, do-9)
+nsubj(think-11, you-10)
+ccomp(says-3, think-11)
+advmod(Rick-15, when-12)
+dep(Rick-15, do-13)
+punct(Rick-15, ,-14)
+advcl(think-11, Rick-15)
+punct(says-3, ?-16)
+punct(says-3, "-17)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9987254293480514
+Rick	PERSON	PERSON:0.9998740754297634
+
+Sentence #8 (13 tokens):
+Morty Smith says: "We're just ignore the call?"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=336 CharacterOffsetEnd=341 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=342 CharacterOffsetEnd=347 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=348 CharacterOffsetEnd=352 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=352 CharacterOffsetEnd=353 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=354 CharacterOffsetEnd=355 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=355 CharacterOffsetEnd=357 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=357 CharacterOffsetEnd=360 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=361 CharacterOffsetEnd=365 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=ignore CharacterOffsetBegin=366 CharacterOffsetEnd=372 PartOfSpeech=VB Lemma=ignore NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=373 CharacterOffsetEnd=376 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=call CharacterOffsetBegin=377 CharacterOffsetEnd=381 PartOfSpeech=NN Lemma=call NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=381 CharacterOffsetEnd=382 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=382 CharacterOffsetEnd=383 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(ignore-9, We-6)
+aux(ignore-9, 're-7)
+advmod(ignore-9, just-8)
+ccomp(says-3, ignore-9)
+det(call-11, the-10)
+obj(ignore-9, call-11)
+punct(says-3, ?-12)
+punct(says-3, "-13)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9996695933910524
+
+Sentence #9 (2 tokens):
+Trans.
+
+Tokens:
+[Text=Trans CharacterOffsetBegin=384 CharacterOffsetEnd=389 PartOfSpeech=NNP Lemma=Trans NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=389 CharacterOffsetEnd=390 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Trans-1)
+punct(Trans-1, .-2)
+
+Extracted the following NER entity mentions:
+
+Sentence #10 (7 tokens):
+flying toward S.S. Engineer's starship.
+
+Tokens:
+[Text=flying CharacterOffsetBegin=391 CharacterOffsetEnd=397 PartOfSpeech=VBG Lemma=fly NamedEntityTag=O]
+[Text=toward CharacterOffsetBegin=398 CharacterOffsetEnd=404 PartOfSpeech=IN Lemma=toward NamedEntityTag=O]
+[Text=S.S. CharacterOffsetBegin=405 CharacterOffsetEnd=409 PartOfSpeech=NNP Lemma=S.S. NamedEntityTag=O]
+[Text=Engineer CharacterOffsetBegin=410 CharacterOffsetEnd=418 PartOfSpeech=NN Lemma=engineer NamedEntityTag=TITLE]
+[Text='s CharacterOffsetBegin=418 CharacterOffsetEnd=420 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=starship CharacterOffsetBegin=421 CharacterOffsetEnd=429 PartOfSpeech=NN Lemma=starship NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=429 CharacterOffsetEnd=430 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, flying-1)
+case(starship-6, toward-2)
+compound(Engineer-4, S.S.-3)
+nmod:poss(starship-6, Engineer-4)
+case(Engineer-4, 's-5)
+obl:toward(flying-1, starship-6)
+punct(flying-1, .-7)
+
+Extracted the following NER entity mentions:
+Engineer	TITLE	-
+
+Sentence #11 (2 tokens):
+Trans.
+
+Tokens:
+[Text=Trans CharacterOffsetBegin=431 CharacterOffsetEnd=436 PartOfSpeech=NNP Lemma=Trans NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=436 CharacterOffsetEnd=437 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Trans-1)
+punct(Trans-1, .-2)
+
+Extracted the following NER entity mentions:
+
+Sentence #12 (6 tokens):
+Morty and Rick entering corridor.
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=438 CharacterOffsetEnd=443 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=444 CharacterOffsetEnd=447 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Rick CharacterOffsetBegin=448 CharacterOffsetEnd=452 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=entering CharacterOffsetBegin=453 CharacterOffsetEnd=461 PartOfSpeech=VBG Lemma=enter NamedEntityTag=O]
+[Text=corridor CharacterOffsetBegin=462 CharacterOffsetEnd=470 PartOfSpeech=NN Lemma=corridor NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=470 CharacterOffsetEnd=471 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, corridor-5)
+compound(corridor-5, Morty-1)
+cc(Rick-3, and-2)
+conj:and(Morty-1, Rick-3)
+compound(corridor-5, Rick-3)
+amod(corridor-5, entering-4)
+punct(corridor-5, .-6)
+
+Extracted the following NER entity mentions:
+Morty	PERSON	PERSON:0.9679687398780834
+Rick	PERSON	PERSON:0.997435973107817
+
+Sentence #13 (6 tokens):
+Rick is holding a flashlight.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=472 CharacterOffsetEnd=476 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=is CharacterOffsetBegin=477 CharacterOffsetEnd=479 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=holding CharacterOffsetBegin=480 CharacterOffsetEnd=487 PartOfSpeech=VBG Lemma=hold NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=488 CharacterOffsetEnd=489 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=flashlight CharacterOffsetBegin=490 CharacterOffsetEnd=500 PartOfSpeech=NN Lemma=flashlight NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=500 CharacterOffsetEnd=501 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, holding-3)
+nsubj(holding-3, Rick-1)
+aux(holding-3, is-2)
+det(flashlight-5, a-4)
+obj(holding-3, flashlight-5)
+punct(holding-3, .-6)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9965678239163023
+
+Sentence #14 (8 tokens):
+Morty Smith says: "Huh?"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=502 CharacterOffsetEnd=507 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=508 CharacterOffsetEnd=513 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=514 CharacterOffsetEnd=518 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=518 CharacterOffsetEnd=519 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=520 CharacterOffsetEnd=521 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Huh CharacterOffsetBegin=521 CharacterOffsetEnd=524 PartOfSpeech=UH Lemma=huh NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=524 CharacterOffsetEnd=525 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=525 CharacterOffsetEnd=526 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(says-3, Huh-6)
+punct(says-3, ?-7)
+punct(says-3, "-8)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9987389625579118
+
+Sentence #15 (18 tokens):
+Morty Smith says: "You know m-m-maybe we should take off."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=527 CharacterOffsetEnd=532 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=533 CharacterOffsetEnd=538 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=539 CharacterOffsetEnd=543 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=543 CharacterOffsetEnd=544 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=545 CharacterOffsetEnd=546 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=546 CharacterOffsetEnd=549 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=550 CharacterOffsetEnd=554 PartOfSpeech=VBP Lemma=know NamedEntityTag=O]
+[Text=m CharacterOffsetBegin=555 CharacterOffsetEnd=556 PartOfSpeech=NN Lemma=m NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=556 CharacterOffsetEnd=557 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=m CharacterOffsetBegin=557 CharacterOffsetEnd=558 PartOfSpeech=NN Lemma=m NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=558 CharacterOffsetEnd=559 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=maybe CharacterOffsetBegin=559 CharacterOffsetEnd=564 PartOfSpeech=RB Lemma=maybe NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=565 CharacterOffsetEnd=567 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=should CharacterOffsetBegin=568 CharacterOffsetEnd=574 PartOfSpeech=MD Lemma=should NamedEntityTag=O]
+[Text=take CharacterOffsetBegin=575 CharacterOffsetEnd=579 PartOfSpeech=VB Lemma=take NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=580 CharacterOffsetEnd=583 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=583 CharacterOffsetEnd=584 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=584 CharacterOffsetEnd=585 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(know-7, You-6)
+ccomp(says-3, know-7)
+compound(m-10, m-8)
+punct(m-10, --9)
+obj(know-7, m-10)
+punct(m-10, --11)
+advmod(take-15, maybe-12)
+nsubj(take-15, we-13)
+aux(take-15, should-14)
+dep(m-10, take-15)
+compound:prt(take-15, off-16)
+punct(says-3, .-17)
+punct(says-3, "-18)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9993177659718712
+
+Sentence #16 (16 tokens):
+Morty Smith says: "This doesn't look like anything going on here."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=586 CharacterOffsetEnd=591 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=592 CharacterOffsetEnd=597 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=598 CharacterOffsetEnd=602 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=602 CharacterOffsetEnd=603 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=604 CharacterOffsetEnd=605 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=This CharacterOffsetBegin=605 CharacterOffsetEnd=609 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=does CharacterOffsetBegin=610 CharacterOffsetEnd=614 PartOfSpeech=VBZ Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=614 CharacterOffsetEnd=617 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=look CharacterOffsetBegin=618 CharacterOffsetEnd=622 PartOfSpeech=VB Lemma=look NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=623 CharacterOffsetEnd=627 PartOfSpeech=IN Lemma=like NamedEntityTag=O]
+[Text=anything CharacterOffsetBegin=628 CharacterOffsetEnd=636 PartOfSpeech=NN Lemma=anything NamedEntityTag=O]
+[Text=going CharacterOffsetBegin=637 CharacterOffsetEnd=642 PartOfSpeech=VBG Lemma=go NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=643 CharacterOffsetEnd=645 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=646 CharacterOffsetEnd=650 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=650 CharacterOffsetEnd=651 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=651 CharacterOffsetEnd=652 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(look-9, This-6)
+aux(look-9, does-7)
+advmod(look-9, n't-8)
+ccomp(says-3, look-9)
+case(anything-11, like-10)
+obl:like(look-9, anything-11)
+acl(anything-11, going-12)
+compound:prt(going-12, on-13)
+advmod(going-12, here-14)
+punct(says-3, .-15)
+punct(says-3, "-16)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9995032383253892
+
+Sentence #17 (12 tokens):
+Rick Sanchez says: "No, Morty, no."
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=653 CharacterOffsetEnd=657 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=658 CharacterOffsetEnd=665 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=666 CharacterOffsetEnd=670 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=670 CharacterOffsetEnd=671 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=672 CharacterOffsetEnd=673 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=No CharacterOffsetBegin=673 CharacterOffsetEnd=675 PartOfSpeech=UH Lemma=no NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=675 CharacterOffsetEnd=676 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Morty CharacterOffsetBegin=677 CharacterOffsetEnd=682 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=682 CharacterOffsetEnd=683 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=684 CharacterOffsetEnd=686 PartOfSpeech=DT Lemma=no NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=686 CharacterOffsetEnd=687 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=687 CharacterOffsetEnd=688 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rick-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(Morty-8, No-6)
+punct(Morty-8, ,-7)
+ccomp(says-3, Morty-8)
+punct(Morty-8, ,-9)
+discourse(Morty-8, no-10)
+punct(says-3, .-11)
+punct(says-3, "-12)
+
+Extracted the following NER entity mentions:
+Rick Sanchez	PERSON	PERSON:0.999933926616633
+Morty	PERSON	PERSON:0.911866990301491
+
+Sentence #18 (12 tokens):
+Rick Sanchez says: "We have to help people."
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=689 CharacterOffsetEnd=693 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=694 CharacterOffsetEnd=701 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=702 CharacterOffsetEnd=706 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=706 CharacterOffsetEnd=707 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=708 CharacterOffsetEnd=709 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=709 CharacterOffsetEnd=711 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=have CharacterOffsetBegin=712 CharacterOffsetEnd=716 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=717 CharacterOffsetEnd=719 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=help CharacterOffsetBegin=720 CharacterOffsetEnd=724 PartOfSpeech=VB Lemma=help NamedEntityTag=O]
+[Text=people CharacterOffsetBegin=725 CharacterOffsetEnd=731 PartOfSpeech=NNS Lemma=people NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=731 CharacterOffsetEnd=732 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=732 CharacterOffsetEnd=733 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rick-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(help-9, We-6)
+aux(help-9, have-7)
+mark(help-9, to-8)
+ccomp(says-3, help-9)
+obj(help-9, people-10)
+punct(says-3, .-11)
+punct(says-3, "-12)
+
+Extracted the following NER entity mentions:
+Rick Sanchez	PERSON	PERSON:0.9999713311174611
+
+Sentence #19 (19 tokens):
+Rick gets cut off my a facehugger as it jumps onto Rick's face, attaching to him.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=734 CharacterOffsetEnd=738 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=gets CharacterOffsetBegin=739 CharacterOffsetEnd=743 PartOfSpeech=VBZ Lemma=get NamedEntityTag=O]
+[Text=cut CharacterOffsetBegin=744 CharacterOffsetEnd=747 PartOfSpeech=VBN Lemma=cut NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=748 CharacterOffsetEnd=751 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=752 CharacterOffsetEnd=754 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=755 CharacterOffsetEnd=756 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=facehugger CharacterOffsetBegin=757 CharacterOffsetEnd=767 PartOfSpeech=NN Lemma=facehugger NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=768 CharacterOffsetEnd=770 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=771 CharacterOffsetEnd=773 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=jumps CharacterOffsetBegin=774 CharacterOffsetEnd=779 PartOfSpeech=VBZ Lemma=jump NamedEntityTag=O]
+[Text=onto CharacterOffsetBegin=780 CharacterOffsetEnd=784 PartOfSpeech=IN Lemma=onto NamedEntityTag=O]
+[Text=Rick CharacterOffsetBegin=785 CharacterOffsetEnd=789 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text='s CharacterOffsetBegin=789 CharacterOffsetEnd=791 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=face CharacterOffsetBegin=792 CharacterOffsetEnd=796 PartOfSpeech=NN Lemma=face NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=796 CharacterOffsetEnd=797 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=attaching CharacterOffsetBegin=798 CharacterOffsetEnd=807 PartOfSpeech=VBG Lemma=attach NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=808 CharacterOffsetEnd=810 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=811 CharacterOffsetEnd=814 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=814 CharacterOffsetEnd=815 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, cut-3)
+nsubj:pass(cut-3, Rick-1)
+aux:pass(cut-3, gets-2)
+compound:prt(cut-3, off-4)
+nmod:poss(facehugger-7, my-5)
+det(facehugger-7, a-6)
+obj(cut-3, facehugger-7)
+mark(jumps-10, as-8)
+nsubj(jumps-10, it-9)
+advcl:as(cut-3, jumps-10)
+case(face-14, onto-11)
+nmod:poss(face-14, Rick-12)
+case(Rick-12, 's-13)
+obl:onto(jumps-10, face-14)
+punct(jumps-10, ,-15)
+dep(jumps-10, attaching-16)
+case(him-18, to-17)
+obl:to(attaching-16, him-18)
+punct(cut-3, .-19)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9989454471343042
+Rick	PERSON	PERSON:0.9983924790699322
+him	PERSON	-
+
+Sentence #20 (31 tokens):
+Rick lets go of the torch, kneels down, and frantically tries to remove the alien by pulling on its tail, while his muffled yelling can be heard.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=816 CharacterOffsetEnd=820 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=lets CharacterOffsetBegin=821 CharacterOffsetEnd=825 PartOfSpeech=VBZ Lemma=let NamedEntityTag=O]
+[Text=go CharacterOffsetBegin=826 CharacterOffsetEnd=828 PartOfSpeech=NN Lemma=go NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=829 CharacterOffsetEnd=831 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=832 CharacterOffsetEnd=835 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=torch CharacterOffsetBegin=836 CharacterOffsetEnd=841 PartOfSpeech=NN Lemma=torch NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=841 CharacterOffsetEnd=842 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=kneels CharacterOffsetBegin=843 CharacterOffsetEnd=849 PartOfSpeech=VBZ Lemma=kneel NamedEntityTag=O]
+[Text=down CharacterOffsetBegin=850 CharacterOffsetEnd=854 PartOfSpeech=RP Lemma=down NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=854 CharacterOffsetEnd=855 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=856 CharacterOffsetEnd=859 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=frantically CharacterOffsetBegin=860 CharacterOffsetEnd=871 PartOfSpeech=RB Lemma=frantically NamedEntityTag=O]
+[Text=tries CharacterOffsetBegin=872 CharacterOffsetEnd=877 PartOfSpeech=VBZ Lemma=try NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=878 CharacterOffsetEnd=880 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=remove CharacterOffsetBegin=881 CharacterOffsetEnd=887 PartOfSpeech=VB Lemma=remove NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=888 CharacterOffsetEnd=891 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=alien CharacterOffsetBegin=892 CharacterOffsetEnd=897 PartOfSpeech=JJ Lemma=alien NamedEntityTag=O]
+[Text=by CharacterOffsetBegin=898 CharacterOffsetEnd=900 PartOfSpeech=IN Lemma=by NamedEntityTag=O]
+[Text=pulling CharacterOffsetBegin=901 CharacterOffsetEnd=908 PartOfSpeech=VBG Lemma=pull NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=909 CharacterOffsetEnd=911 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=its CharacterOffsetBegin=912 CharacterOffsetEnd=915 PartOfSpeech=PRP$ Lemma=its NamedEntityTag=O]
+[Text=tail CharacterOffsetBegin=916 CharacterOffsetEnd=920 PartOfSpeech=NN Lemma=tail NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=920 CharacterOffsetEnd=921 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=while CharacterOffsetBegin=922 CharacterOffsetEnd=927 PartOfSpeech=IN Lemma=while NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=928 CharacterOffsetEnd=931 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=muffled CharacterOffsetBegin=932 CharacterOffsetEnd=939 PartOfSpeech=JJ Lemma=muffled NamedEntityTag=O]
+[Text=yelling CharacterOffsetBegin=940 CharacterOffsetEnd=947 PartOfSpeech=NN Lemma=yelling NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=948 CharacterOffsetEnd=951 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=952 CharacterOffsetEnd=954 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=heard CharacterOffsetBegin=955 CharacterOffsetEnd=960 PartOfSpeech=VBN Lemma=hear NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=960 CharacterOffsetEnd=961 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, lets-2)
+nsubj(lets-2, Rick-1)
+nsubj(kneels-8, Rick-1)
+nsubj(tries-13, Rick-1)
+nsubj:xsubj(remove-15, Rick-1)
+obj(lets-2, go-3)
+case(torch-6, of-4)
+det(torch-6, the-5)
+nmod:of(go-3, torch-6)
+punct(lets-2, ,-7)
+conj:and(lets-2, kneels-8)
+compound:prt(kneels-8, down-9)
+punct(lets-2, ,-10)
+cc(tries-13, and-11)
+advmod(tries-13, frantically-12)
+conj:and(lets-2, tries-13)
+mark(remove-15, to-14)
+xcomp(tries-13, remove-15)
+det(alien-17, the-16)
+obj(remove-15, alien-17)
+case(pulling-19, by-18)
+obl:by(remove-15, pulling-19)
+case(tail-22, on-20)
+nmod:poss(tail-22, its-21)
+obl:on(pulling-19, tail-22)
+punct(tries-13, ,-23)
+mark(heard-30, while-24)
+nmod:poss(yelling-27, his-25)
+amod(yelling-27, muffled-26)
+nsubj:pass(heard-30, yelling-27)
+aux(heard-30, can-28)
+aux:pass(heard-30, be-29)
+advcl:while(tries-13, heard-30)
+punct(lets-2, .-31)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9987833353107195
+his	PERSON	-
+
+Sentence #21 (11 tokens):
+Morty Smith says: "Oh, my god!"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=962 CharacterOffsetEnd=967 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=968 CharacterOffsetEnd=973 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=974 CharacterOffsetEnd=978 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=978 CharacterOffsetEnd=979 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=980 CharacterOffsetEnd=981 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=981 CharacterOffsetEnd=983 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=983 CharacterOffsetEnd=984 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=985 CharacterOffsetEnd=987 PartOfSpeech=UH Lemma=my NamedEntityTag=O]
+[Text=god CharacterOffsetBegin=988 CharacterOffsetEnd=991 PartOfSpeech=UH Lemma=god NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=991 CharacterOffsetEnd=992 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=992 CharacterOffsetEnd=993 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(says-3, Oh-6)
+punct(Oh-6, ,-7)
+dep(Oh-6, my-8)
+dep(Oh-6, god-9)
+punct(says-3, !-10)
+punct(says-3, "-11)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9987830739305509
+
+Sentence #22 (17 tokens):
+Morty Smith says: "It's one of those facehuggers from the alien movie!"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=994 CharacterOffsetEnd=999 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1000 CharacterOffsetEnd=1005 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1006 CharacterOffsetEnd=1010 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1010 CharacterOffsetEnd=1011 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1012 CharacterOffsetEnd=1013 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=It CharacterOffsetBegin=1013 CharacterOffsetEnd=1015 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1015 CharacterOffsetEnd=1017 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=one CharacterOffsetBegin=1018 CharacterOffsetEnd=1021 PartOfSpeech=CD Lemma=one NamedEntityTag=NUMBER NormalizedNamedEntityTag=1.0]
+[Text=of CharacterOffsetBegin=1022 CharacterOffsetEnd=1024 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=those CharacterOffsetBegin=1025 CharacterOffsetEnd=1030 PartOfSpeech=DT Lemma=those NamedEntityTag=O]
+[Text=facehuggers CharacterOffsetBegin=1031 CharacterOffsetEnd=1042 PartOfSpeech=NNS Lemma=facehugger NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=1043 CharacterOffsetEnd=1047 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1048 CharacterOffsetEnd=1051 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=alien CharacterOffsetBegin=1052 CharacterOffsetEnd=1057 PartOfSpeech=JJ Lemma=alien NamedEntityTag=O]
+[Text=movie CharacterOffsetBegin=1058 CharacterOffsetEnd=1063 PartOfSpeech=NN Lemma=movie NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1063 CharacterOffsetEnd=1064 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1064 CharacterOffsetEnd=1065 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(facehuggers-11, It-6)
+cop(facehuggers-11, 's-7)
+det:qmod(facehuggers-11, one-8)
+fixed(one-8, of-9)
+det(facehuggers-11, those-10)
+ccomp(says-3, facehuggers-11)
+case(movie-15, from-12)
+det(movie-15, the-13)
+amod(movie-15, alien-14)
+nmod:from(facehuggers-11, movie-15)
+punct(says-3, !-16)
+punct(says-3, "-17)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.999538260178283
+one	NUMBER	NUMBER:-1.0
+
+Sentence #23 (14 tokens):
+Rick finally removes the facehugger as it leaves green goop on Ricks face.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=1066 CharacterOffsetEnd=1070 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=finally CharacterOffsetBegin=1071 CharacterOffsetEnd=1078 PartOfSpeech=RB Lemma=finally NamedEntityTag=O]
+[Text=removes CharacterOffsetBegin=1079 CharacterOffsetEnd=1086 PartOfSpeech=VBZ Lemma=remove NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1087 CharacterOffsetEnd=1090 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=facehugger CharacterOffsetBegin=1091 CharacterOffsetEnd=1101 PartOfSpeech=NN Lemma=facehugger NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1102 CharacterOffsetEnd=1104 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1105 CharacterOffsetEnd=1107 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=leaves CharacterOffsetBegin=1108 CharacterOffsetEnd=1114 PartOfSpeech=VBZ Lemma=leave NamedEntityTag=O]
+[Text=green CharacterOffsetBegin=1115 CharacterOffsetEnd=1120 PartOfSpeech=JJ Lemma=green NamedEntityTag=O]
+[Text=goop CharacterOffsetBegin=1121 CharacterOffsetEnd=1125 PartOfSpeech=NN Lemma=goop NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=1126 CharacterOffsetEnd=1128 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=Ricks CharacterOffsetBegin=1129 CharacterOffsetEnd=1134 PartOfSpeech=NNP Lemma=Ricks NamedEntityTag=PERSON]
+[Text=face CharacterOffsetBegin=1135 CharacterOffsetEnd=1139 PartOfSpeech=NN Lemma=face NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1139 CharacterOffsetEnd=1140 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, removes-3)
+nsubj(removes-3, Rick-1)
+advmod(removes-3, finally-2)
+det(facehugger-5, the-4)
+obj(removes-3, facehugger-5)
+mark(leaves-8, as-6)
+nsubj(leaves-8, it-7)
+advcl:as(removes-3, leaves-8)
+amod(goop-10, green-9)
+obj(leaves-8, goop-10)
+case(face-13, on-11)
+compound(face-13, Ricks-12)
+obl:on(leaves-8, face-13)
+punct(removes-3, .-14)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9866872221016789
+Ricks	PERSON	PERSON:0.9344797606324716
+
+Sentence #24 (6 tokens):
+It screeches and goes limp.
+
+Tokens:
+[Text=It CharacterOffsetBegin=1141 CharacterOffsetEnd=1143 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=screeches CharacterOffsetBegin=1144 CharacterOffsetEnd=1153 PartOfSpeech=VBZ Lemma=screech NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1154 CharacterOffsetEnd=1157 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=goes CharacterOffsetBegin=1158 CharacterOffsetEnd=1162 PartOfSpeech=VBZ Lemma=go NamedEntityTag=O]
+[Text=limp CharacterOffsetBegin=1163 CharacterOffsetEnd=1167 PartOfSpeech=JJ Lemma=limp NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1167 CharacterOffsetEnd=1168 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, screeches-2)
+nsubj(screeches-2, It-1)
+nsubj(goes-4, It-1)
+cc(goes-4, and-3)
+conj:and(screeches-2, goes-4)
+xcomp(goes-4, limp-5)
+punct(screeches-2, .-6)
+
+Extracted the following NER entity mentions:
+
+Sentence #25 (24 tokens):
+Rick, still holding the facehugger, grabs a device from his pocket and watches it as it scans the alien and beeps.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=1169 CharacterOffsetEnd=1173 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1173 CharacterOffsetEnd=1174 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=still CharacterOffsetBegin=1175 CharacterOffsetEnd=1180 PartOfSpeech=RB Lemma=still NamedEntityTag=O]
+[Text=holding CharacterOffsetBegin=1181 CharacterOffsetEnd=1188 PartOfSpeech=VBG Lemma=hold NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1189 CharacterOffsetEnd=1192 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=facehugger CharacterOffsetBegin=1193 CharacterOffsetEnd=1203 PartOfSpeech=NN Lemma=facehugger NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1203 CharacterOffsetEnd=1204 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=grabs CharacterOffsetBegin=1205 CharacterOffsetEnd=1210 PartOfSpeech=VBZ Lemma=grab NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1211 CharacterOffsetEnd=1212 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=device CharacterOffsetBegin=1213 CharacterOffsetEnd=1219 PartOfSpeech=NN Lemma=device NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=1220 CharacterOffsetEnd=1224 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1225 CharacterOffsetEnd=1228 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=pocket CharacterOffsetBegin=1229 CharacterOffsetEnd=1235 PartOfSpeech=NN Lemma=pocket NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1236 CharacterOffsetEnd=1239 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=watches CharacterOffsetBegin=1240 CharacterOffsetEnd=1247 PartOfSpeech=VBZ Lemma=watch NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1248 CharacterOffsetEnd=1250 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1251 CharacterOffsetEnd=1253 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1254 CharacterOffsetEnd=1256 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=scans CharacterOffsetBegin=1257 CharacterOffsetEnd=1262 PartOfSpeech=VBZ Lemma=scan NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1263 CharacterOffsetEnd=1266 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=alien CharacterOffsetBegin=1267 CharacterOffsetEnd=1272 PartOfSpeech=JJ Lemma=alien NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1273 CharacterOffsetEnd=1276 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=beeps CharacterOffsetBegin=1277 CharacterOffsetEnd=1282 PartOfSpeech=VBZ Lemma=beep NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1282 CharacterOffsetEnd=1283 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, holding-4)
+nsubj(holding-4, Rick-1)
+nsubj(grabs-8, Rick-1)
+nsubj(watches-15, Rick-1)
+punct(holding-4, ,-2)
+advmod(holding-4, still-3)
+det(facehugger-6, the-5)
+obj(holding-4, facehugger-6)
+punct(holding-4, ,-7)
+conj:and(holding-4, grabs-8)
+det(device-10, a-9)
+obj(grabs-8, device-10)
+case(pocket-13, from-11)
+nmod:poss(pocket-13, his-12)
+obl:from(grabs-8, pocket-13)
+cc(watches-15, and-14)
+conj:and(holding-4, watches-15)
+obj(watches-15, it-16)
+mark(scans-19, as-17)
+nsubj(scans-19, it-18)
+nsubj(beeps-23, it-18)
+advcl:as(watches-15, scans-19)
+det(alien-21, the-20)
+obj(scans-19, alien-21)
+cc(beeps-23, and-22)
+advcl:as(watches-15, beeps-23)
+conj:and(scans-19, beeps-23)
+punct(holding-4, .-24)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9852833005811298
+his	PERSON	-
+
+Sentence #26 (9 tokens):
+Morty Smith says: "Holy crap."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1284 CharacterOffsetEnd=1289 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1290 CharacterOffsetEnd=1295 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1296 CharacterOffsetEnd=1300 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1300 CharacterOffsetEnd=1301 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1302 CharacterOffsetEnd=1303 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Holy CharacterOffsetBegin=1303 CharacterOffsetEnd=1307 PartOfSpeech=JJ Lemma=holy NamedEntityTag=O]
+[Text=crap CharacterOffsetBegin=1308 CharacterOffsetEnd=1312 PartOfSpeech=NN Lemma=crap NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1312 CharacterOffsetEnd=1313 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1313 CharacterOffsetEnd=1314 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+amod(crap-7, Holy-6)
+obj(says-3, crap-7)
+punct(says-3, .-8)
+punct(says-3, "-9)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9990487834292961
+
+Sentence #27 (12 tokens):
+Morty Smith says: "I think it's dead."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1315 CharacterOffsetEnd=1320 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1321 CharacterOffsetEnd=1326 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1327 CharacterOffsetEnd=1331 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1331 CharacterOffsetEnd=1332 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1333 CharacterOffsetEnd=1334 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1334 CharacterOffsetEnd=1335 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=think CharacterOffsetBegin=1336 CharacterOffsetEnd=1341 PartOfSpeech=VBP Lemma=think NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1342 CharacterOffsetEnd=1344 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1344 CharacterOffsetEnd=1346 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=dead CharacterOffsetBegin=1347 CharacterOffsetEnd=1351 PartOfSpeech=JJ Lemma=dead NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1351 CharacterOffsetEnd=1352 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1352 CharacterOffsetEnd=1353 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(think-7, I-6)
+parataxis(dead-10, think-7)
+nsubj(dead-10, it-8)
+cop(dead-10, 's-9)
+ccomp(says-3, dead-10)
+punct(says-3, .-11)
+punct(says-3, "-12)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9994467738603515
+
+Sentence #28 (9 tokens):
+Rick gets back up and drops the facehugger.
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=1354 CharacterOffsetEnd=1358 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=gets CharacterOffsetBegin=1359 CharacterOffsetEnd=1363 PartOfSpeech=VBZ Lemma=get NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=1364 CharacterOffsetEnd=1368 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=1369 CharacterOffsetEnd=1371 PartOfSpeech=RB Lemma=up NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1372 CharacterOffsetEnd=1375 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=drops CharacterOffsetBegin=1376 CharacterOffsetEnd=1381 PartOfSpeech=VBZ Lemma=drop NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1382 CharacterOffsetEnd=1385 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=facehugger CharacterOffsetBegin=1386 CharacterOffsetEnd=1396 PartOfSpeech=NN Lemma=facehugger NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1396 CharacterOffsetEnd=1397 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, gets-2)
+nsubj(gets-2, Rick-1)
+nsubj(drops-6, Rick-1)
+advmod(gets-2, back-3)
+advmod(gets-2, up-4)
+cc(drops-6, and-5)
+conj:and(gets-2, drops-6)
+det(facehugger-8, the-7)
+obj(drops-6, facehugger-8)
+punct(gets-2, .-9)
+
+Extracted the following NER entity mentions:
+Rick	PERSON	PERSON:0.9991967192882607
+
+Sentence #29 (28 tokens):
+Rich Sanchez says: "Oh, god, Morty, it died of toxicity due to all the drugs and alcohol swirling about my system."
+
+Tokens:
+[Text=Rich CharacterOffsetBegin=1398 CharacterOffsetEnd=1402 PartOfSpeech=NNP Lemma=Rich NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=1403 CharacterOffsetEnd=1410 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1411 CharacterOffsetEnd=1415 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1415 CharacterOffsetEnd=1416 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1417 CharacterOffsetEnd=1418 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=1418 CharacterOffsetEnd=1420 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1420 CharacterOffsetEnd=1421 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=god CharacterOffsetBegin=1422 CharacterOffsetEnd=1425 PartOfSpeech=UH Lemma=god NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1425 CharacterOffsetEnd=1426 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Morty CharacterOffsetBegin=1427 CharacterOffsetEnd=1432 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1432 CharacterOffsetEnd=1433 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1434 CharacterOffsetEnd=1436 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=died CharacterOffsetBegin=1437 CharacterOffsetEnd=1441 PartOfSpeech=VBD Lemma=die NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1442 CharacterOffsetEnd=1444 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=toxicity CharacterOffsetBegin=1445 CharacterOffsetEnd=1453 PartOfSpeech=NN Lemma=toxicity NamedEntityTag=O]
+[Text=due CharacterOffsetBegin=1454 CharacterOffsetEnd=1457 PartOfSpeech=IN Lemma=due NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1458 CharacterOffsetEnd=1460 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=all CharacterOffsetBegin=1461 CharacterOffsetEnd=1464 PartOfSpeech=PDT Lemma=all NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1465 CharacterOffsetEnd=1468 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=drugs CharacterOffsetBegin=1469 CharacterOffsetEnd=1474 PartOfSpeech=NNS Lemma=drug NamedEntityTag=CRIMINAL_CHARGE]
+[Text=and CharacterOffsetBegin=1475 CharacterOffsetEnd=1478 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=alcohol CharacterOffsetBegin=1479 CharacterOffsetEnd=1486 PartOfSpeech=NN Lemma=alcohol NamedEntityTag=O]
+[Text=swirling CharacterOffsetBegin=1487 CharacterOffsetEnd=1495 PartOfSpeech=VBG Lemma=swirl NamedEntityTag=O]
+[Text=about CharacterOffsetBegin=1496 CharacterOffsetEnd=1501 PartOfSpeech=IN Lemma=about NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=1502 CharacterOffsetEnd=1504 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=system CharacterOffsetBegin=1505 CharacterOffsetEnd=1511 PartOfSpeech=NN Lemma=system NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1511 CharacterOffsetEnd=1512 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1512 CharacterOffsetEnd=1513 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rich-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(died-13, Oh-6)
+punct(died-13, ,-7)
+discourse(died-13, god-8)
+punct(died-13, ,-9)
+nsubj(died-13, Morty-10)
+punct(died-13, ,-11)
+nsubj(died-13, it-12)
+ccomp(says-3, died-13)
+case(toxicity-15, of-14)
+obl:of(died-13, toxicity-15)
+case(drugs-20, due-16)
+fixed(due-16, to-17)
+dep(drugs-20, all-18)
+det(drugs-20, the-19)
+nmod:due_to(toxicity-15, drugs-20)
+cc(alcohol-22, and-21)
+nmod:due_to(toxicity-15, alcohol-22)
+conj:and(drugs-20, alcohol-22)
+acl(toxicity-15, swirling-23)
+case(system-26, about-24)
+nmod:poss(system-26, my-25)
+obl:about(swirling-23, system-26)
+punct(says-3, .-27)
+punct(says-3, "-28)
+
+Extracted the following NER entity mentions:
+Rich Sanchez	PERSON	PERSON:0.8215152593195635
+Morty	PERSON	PERSON:0.8232318284378157
+drugs	CRIMINAL_CHARGE	-
+
+Sentence #30 (30 tokens):
+Morty Smith says: "Wow, Rick, you know they say don't do drugs but, I think this might be a case for 'em."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1514 CharacterOffsetEnd=1519 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1520 CharacterOffsetEnd=1525 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1526 CharacterOffsetEnd=1530 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1530 CharacterOffsetEnd=1531 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1532 CharacterOffsetEnd=1533 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Wow CharacterOffsetBegin=1533 CharacterOffsetEnd=1536 PartOfSpeech=UH Lemma=wow NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1536 CharacterOffsetEnd=1537 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Rick CharacterOffsetBegin=1538 CharacterOffsetEnd=1542 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1542 CharacterOffsetEnd=1543 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1544 CharacterOffsetEnd=1547 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=1548 CharacterOffsetEnd=1552 PartOfSpeech=VBP Lemma=know NamedEntityTag=O]
+[Text=they CharacterOffsetBegin=1553 CharacterOffsetEnd=1557 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=say CharacterOffsetBegin=1558 CharacterOffsetEnd=1561 PartOfSpeech=VB Lemma=say NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=1562 CharacterOffsetEnd=1564 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1564 CharacterOffsetEnd=1567 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=1568 CharacterOffsetEnd=1570 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=drugs CharacterOffsetBegin=1571 CharacterOffsetEnd=1576 PartOfSpeech=NNS Lemma=drug NamedEntityTag=CRIMINAL_CHARGE]
+[Text=but CharacterOffsetBegin=1577 CharacterOffsetEnd=1580 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1580 CharacterOffsetEnd=1581 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1582 CharacterOffsetEnd=1583 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=think CharacterOffsetBegin=1584 CharacterOffsetEnd=1589 PartOfSpeech=VBP Lemma=think NamedEntityTag=O]
+[Text=this CharacterOffsetBegin=1590 CharacterOffsetEnd=1594 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=might CharacterOffsetBegin=1595 CharacterOffsetEnd=1600 PartOfSpeech=MD Lemma=might NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=1601 CharacterOffsetEnd=1603 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1604 CharacterOffsetEnd=1605 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=case CharacterOffsetBegin=1606 CharacterOffsetEnd=1610 PartOfSpeech=NN Lemma=case NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=1611 CharacterOffsetEnd=1614 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text='em CharacterOffsetBegin=1615 CharacterOffsetEnd=1618 PartOfSpeech=PRP Lemma='em NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1618 CharacterOffsetEnd=1619 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1619 CharacterOffsetEnd=1620 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(say-13, Wow-6)
+punct(say-13, ,-7)
+nsubj(say-13, Rick-8)
+punct(say-13, ,-9)
+nsubj(know-11, you-10)
+parataxis(say-13, know-11)
+nsubj(say-13, they-12)
+ccomp(says-3, say-13)
+aux(do-16, do-14)
+advmod(do-16, n't-15)
+ccomp(say-13, do-16)
+obj(do-16, drugs-17)
+cc(case-26, but-18)
+punct(case-26, ,-19)
+nsubj(think-21, I-20)
+parataxis(case-26, think-21)
+nsubj(case-26, this-22)
+aux(case-26, might-23)
+cop(case-26, be-24)
+det(case-26, a-25)
+ccomp(say-13, case-26)
+conj:but(do-16, case-26)
+case('em-28, for-27)
+nmod:for(case-26, 'em-28)
+punct(says-3, .-29)
+punct(says-3, "-30)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9988825157378532
+Rick	PERSON	PERSON:0.9987456959578958
+drugs	CRIMINAL_CHARGE	-
+
+Sentence #31 (11 tokens):
+Rick Sanchez says: "And alcohol, Morty."
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=1621 CharacterOffsetEnd=1625 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=1626 CharacterOffsetEnd=1633 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1634 CharacterOffsetEnd=1638 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1638 CharacterOffsetEnd=1639 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1640 CharacterOffsetEnd=1641 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=And CharacterOffsetBegin=1641 CharacterOffsetEnd=1644 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=alcohol CharacterOffsetBegin=1645 CharacterOffsetEnd=1652 PartOfSpeech=NN Lemma=alcohol NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1652 CharacterOffsetEnd=1653 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Morty CharacterOffsetBegin=1654 CharacterOffsetEnd=1659 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=1659 CharacterOffsetEnd=1660 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1660 CharacterOffsetEnd=1661 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rick-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+cc(Morty-9, And-6)
+compound(Morty-9, alcohol-7)
+punct(Morty-9, ,-8)
+conj:and(says-3, Morty-9)
+punct(says-3, .-10)
+punct(says-3, "-11)
+
+Extracted the following NER entity mentions:
+Rick Sanchez	PERSON	PERSON:0.9999623128665053
+Morty	PERSON	PERSON:0.9390234587988748
+
+Sentence #32 (11 tokens):
+Morty Smith says: "Yeah, and alcohol."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1662 CharacterOffsetEnd=1667 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1668 CharacterOffsetEnd=1673 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1674 CharacterOffsetEnd=1678 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1678 CharacterOffsetEnd=1679 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1680 CharacterOffsetEnd=1681 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=1681 CharacterOffsetEnd=1685 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1685 CharacterOffsetEnd=1686 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1687 CharacterOffsetEnd=1690 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=alcohol CharacterOffsetBegin=1691 CharacterOffsetEnd=1698 PartOfSpeech=NN Lemma=alcohol NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1698 CharacterOffsetEnd=1699 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1699 CharacterOffsetEnd=1700 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+dep(says-3, Yeah-6)
+punct(Yeah-6, ,-7)
+cc(alcohol-9, and-8)
+dep(says-3, alcohol-9)
+conj:and(Yeah-6, alcohol-9)
+punct(says-3, .-10)
+punct(says-3, "-11)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.99888251504088
+
+Sentence #33 (20 tokens):
+Rick Sanchez says: "Somebody get a memo to all the characters in those alien movies stat."
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=1701 CharacterOffsetEnd=1705 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=1706 CharacterOffsetEnd=1713 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1714 CharacterOffsetEnd=1718 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1718 CharacterOffsetEnd=1719 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1720 CharacterOffsetEnd=1721 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Somebody CharacterOffsetBegin=1721 CharacterOffsetEnd=1729 PartOfSpeech=NN Lemma=somebody NamedEntityTag=O]
+[Text=get CharacterOffsetBegin=1730 CharacterOffsetEnd=1733 PartOfSpeech=VB Lemma=get NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1734 CharacterOffsetEnd=1735 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=memo CharacterOffsetBegin=1736 CharacterOffsetEnd=1740 PartOfSpeech=NN Lemma=memo NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1741 CharacterOffsetEnd=1743 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=all CharacterOffsetBegin=1744 CharacterOffsetEnd=1747 PartOfSpeech=PDT Lemma=all NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1748 CharacterOffsetEnd=1751 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=characters CharacterOffsetBegin=1752 CharacterOffsetEnd=1762 PartOfSpeech=NNS Lemma=character NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1763 CharacterOffsetEnd=1765 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=those CharacterOffsetBegin=1766 CharacterOffsetEnd=1771 PartOfSpeech=DT Lemma=those NamedEntityTag=O]
+[Text=alien CharacterOffsetBegin=1772 CharacterOffsetEnd=1777 PartOfSpeech=JJ Lemma=alien NamedEntityTag=O]
+[Text=movies CharacterOffsetBegin=1778 CharacterOffsetEnd=1784 PartOfSpeech=NNS Lemma=movie NamedEntityTag=O]
+[Text=stat CharacterOffsetBegin=1785 CharacterOffsetEnd=1789 PartOfSpeech=NN Lemma=stat NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1789 CharacterOffsetEnd=1790 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1790 CharacterOffsetEnd=1791 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rick-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(get-7, Somebody-6)
+ccomp(says-3, get-7)
+det(memo-9, a-8)
+obj(get-7, memo-9)
+case(characters-13, to-10)
+det:predet(characters-13, all-11)
+det(characters-13, the-12)
+obl:to(get-7, characters-13)
+case(movies-17, in-14)
+det(movies-17, those-15)
+amod(movies-17, alien-16)
+nmod:in(characters-13, movies-17)
+dep(movies-17, stat-18)
+punct(says-3, .-19)
+punct(says-3, "-20)
+
+Extracted the following NER entity mentions:
+Rick Sanchez	PERSON	PERSON:0.9999364600870508
+
+Sentence #34 (11 tokens):
+Morty Smith says: "Yeah, no kidding."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1792 CharacterOffsetEnd=1797 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1798 CharacterOffsetEnd=1803 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1804 CharacterOffsetEnd=1808 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1808 CharacterOffsetEnd=1809 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1810 CharacterOffsetEnd=1811 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=1811 CharacterOffsetEnd=1815 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1815 CharacterOffsetEnd=1816 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=1817 CharacterOffsetEnd=1819 PartOfSpeech=DT Lemma=no NamedEntityTag=O]
+[Text=kidding CharacterOffsetBegin=1820 CharacterOffsetEnd=1827 PartOfSpeech=NN Lemma=kidding NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1827 CharacterOffsetEnd=1828 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1828 CharacterOffsetEnd=1829 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(kidding-9, Yeah-6)
+punct(kidding-9, ,-7)
+det(kidding-9, no-8)
+ccomp(says-3, kidding-9)
+punct(says-3, .-10)
+punct(says-3, "-11)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9988825178392489
+
+Sentence #35 (15 tokens):
+Morty Smith says: "You know never I thought I say this."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1830 CharacterOffsetEnd=1835 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1836 CharacterOffsetEnd=1841 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1842 CharacterOffsetEnd=1846 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1846 CharacterOffsetEnd=1847 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1848 CharacterOffsetEnd=1849 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=1849 CharacterOffsetEnd=1852 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=1853 CharacterOffsetEnd=1857 PartOfSpeech=VBP Lemma=know NamedEntityTag=O]
+[Text=never CharacterOffsetBegin=1858 CharacterOffsetEnd=1863 PartOfSpeech=RB Lemma=never NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1864 CharacterOffsetEnd=1865 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=thought CharacterOffsetBegin=1866 CharacterOffsetEnd=1873 PartOfSpeech=VBD Lemma=think NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1874 CharacterOffsetEnd=1875 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=say CharacterOffsetBegin=1876 CharacterOffsetEnd=1879 PartOfSpeech=VB Lemma=say NamedEntityTag=O]
+[Text=this CharacterOffsetBegin=1880 CharacterOffsetEnd=1884 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1884 CharacterOffsetEnd=1885 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1885 CharacterOffsetEnd=1886 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(know-7, You-6)
+parataxis(thought-10, know-7)
+advmod(thought-10, never-8)
+nsubj(thought-10, I-9)
+ccomp(says-3, thought-10)
+nsubj(say-12, I-11)
+ccomp(thought-10, say-12)
+obj(say-12, this-13)
+punct(says-3, .-14)
+punct(says-3, "-15)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9993177674934118
+
+Sentence #36 (18 tokens):
+Morty Smith says: "Thank god you drink those drugs and alcohol, you know."
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=1887 CharacterOffsetEnd=1892 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=1893 CharacterOffsetEnd=1898 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1899 CharacterOffsetEnd=1903 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1903 CharacterOffsetEnd=1904 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1905 CharacterOffsetEnd=1906 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Thank CharacterOffsetBegin=1906 CharacterOffsetEnd=1911 PartOfSpeech=VBP Lemma=thank NamedEntityTag=O]
+[Text=god CharacterOffsetBegin=1912 CharacterOffsetEnd=1915 PartOfSpeech=NN Lemma=god NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1916 CharacterOffsetEnd=1919 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=drink CharacterOffsetBegin=1920 CharacterOffsetEnd=1925 PartOfSpeech=VBP Lemma=drink NamedEntityTag=O]
+[Text=those CharacterOffsetBegin=1926 CharacterOffsetEnd=1931 PartOfSpeech=DT Lemma=those NamedEntityTag=O]
+[Text=drugs CharacterOffsetBegin=1932 CharacterOffsetEnd=1937 PartOfSpeech=NNS Lemma=drug NamedEntityTag=CRIMINAL_CHARGE]
+[Text=and CharacterOffsetBegin=1938 CharacterOffsetEnd=1941 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=alcohol CharacterOffsetBegin=1942 CharacterOffsetEnd=1949 PartOfSpeech=NN Lemma=alcohol NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1949 CharacterOffsetEnd=1950 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1951 CharacterOffsetEnd=1954 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=1955 CharacterOffsetEnd=1959 PartOfSpeech=VBP Lemma=know NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1959 CharacterOffsetEnd=1960 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1960 CharacterOffsetEnd=1961 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+ccomp(says-3, Thank-6)
+obj(Thank-6, god-7)
+nsubj(drink-9, you-8)
+xcomp(Thank-6, drink-9)
+det(drugs-11, those-10)
+obj(drink-9, drugs-11)
+cc(alcohol-13, and-12)
+obj(drink-9, alcohol-13)
+conj:and(drugs-11, alcohol-13)
+punct(drink-9, ,-14)
+nsubj(know-16, you-15)
+parataxis(drink-9, know-16)
+punct(says-3, .-17)
+punct(says-3, "-18)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9995654143360713
+drugs	CRIMINAL_CHARGE	-
+
+Sentence #37 (14 tokens):
+Rick Sanchez says: "Morty, you don't drink drugs."
+
+Tokens:
+[Text=Rick CharacterOffsetBegin=1962 CharacterOffsetEnd=1966 PartOfSpeech=NNP Lemma=Rick NamedEntityTag=PERSON]
+[Text=Sanchez CharacterOffsetBegin=1967 CharacterOffsetEnd=1974 PartOfSpeech=NNP Lemma=Sanchez NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1975 CharacterOffsetEnd=1979 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1979 CharacterOffsetEnd=1980 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1981 CharacterOffsetEnd=1982 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Morty CharacterOffsetBegin=1982 CharacterOffsetEnd=1987 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1987 CharacterOffsetEnd=1988 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1989 CharacterOffsetEnd=1992 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=1993 CharacterOffsetEnd=1995 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1995 CharacterOffsetEnd=1998 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=drink CharacterOffsetBegin=1999 CharacterOffsetEnd=2004 PartOfSpeech=VB Lemma=drink NamedEntityTag=O]
+[Text=drugs CharacterOffsetBegin=2005 CharacterOffsetEnd=2010 PartOfSpeech=NNS Lemma=drug NamedEntityTag=CRIMINAL_CHARGE]
+[Text=. CharacterOffsetBegin=2010 CharacterOffsetEnd=2011 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2011 CharacterOffsetEnd=2012 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Sanchez-2, Rick-1)
+nsubj(says-3, Sanchez-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(drink-11, Morty-6)
+punct(drink-11, ,-7)
+nsubj(drink-11, you-8)
+aux(drink-11, do-9)
+advmod(drink-11, n't-10)
+ccomp(says-3, drink-11)
+obj(drink-11, drugs-12)
+punct(says-3, .-13)
+punct(says-3, "-14)
+
+Extracted the following NER entity mentions:
+Rick Sanchez	PERSON	PERSON:0.9999369384283021
+Morty	PERSON	PERSON:0.8788447850653672
+drugs	CRIMINAL_CHARGE	-
+
+Sentence #38 (10 tokens):
+Morty Smith says: "Well, whatever!"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=2013 CharacterOffsetEnd=2018 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=2019 CharacterOffsetEnd=2024 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2025 CharacterOffsetEnd=2029 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2029 CharacterOffsetEnd=2030 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2031 CharacterOffsetEnd=2032 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Well CharacterOffsetBegin=2032 CharacterOffsetEnd=2036 PartOfSpeech=UH Lemma=well NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2036 CharacterOffsetEnd=2037 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=whatever CharacterOffsetBegin=2038 CharacterOffsetEnd=2046 PartOfSpeech=WDT Lemma=whatever NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=2046 CharacterOffsetEnd=2047 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2047 CharacterOffsetEnd=2048 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(whatever-8, Well-6)
+punct(whatever-8, ,-7)
+ccomp(says-3, whatever-8)
+punct(says-3, !-9)
+punct(says-3, "-10)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.998725427393569
+
+Sentence #39 (15 tokens):
+Morty Smith says: "I don't know, I'm innocent!"
+
+Tokens:
+[Text=Morty CharacterOffsetBegin=2049 CharacterOffsetEnd=2054 PartOfSpeech=NNP Lemma=Morty NamedEntityTag=PERSON]
+[Text=Smith CharacterOffsetBegin=2055 CharacterOffsetEnd=2060 PartOfSpeech=NNP Lemma=Smith NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2061 CharacterOffsetEnd=2065 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2065 CharacterOffsetEnd=2066 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2067 CharacterOffsetEnd=2068 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2068 CharacterOffsetEnd=2069 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=2070 CharacterOffsetEnd=2072 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=2072 CharacterOffsetEnd=2075 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=2076 CharacterOffsetEnd=2080 PartOfSpeech=VB Lemma=know NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2080 CharacterOffsetEnd=2081 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2082 CharacterOffsetEnd=2083 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=2083 CharacterOffsetEnd=2085 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=innocent CharacterOffsetBegin=2086 CharacterOffsetEnd=2094 PartOfSpeech=JJ Lemma=innocent NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=2094 CharacterOffsetEnd=2095 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2095 CharacterOffsetEnd=2096 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Smith-2, Morty-1)
+nsubj(says-3, Smith-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(know-9, I-6)
+aux(know-9, do-7)
+advmod(know-9, n't-8)
+ccomp(says-3, know-9)
+punct(know-9, ,-10)
+nsubj(innocent-13, I-11)
+cop(innocent-13, 'm-12)
+parataxis(know-9, innocent-13)
+punct(says-3, !-14)
+punct(says-3, "-15)
+
+Extracted the following NER entity mentions:
+Morty Smith	PERSON	PERSON:0.9995527996213553
+
+Coreference set:
+	(2,6,[6,7]) -> (3,2,[1,3]), that is: "Morty" -> "Morty Smith"
+	(4,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(4,6,[6,7]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+	(5,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(7,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(8,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(12,1,[1,2]) -> (3,2,[1,3]), that is: "Morty" -> "Morty Smith"
+	(14,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(15,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(16,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(17,8,[8,9]) -> (3,2,[1,3]), that is: "Morty" -> "Morty Smith"
+	(21,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(22,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(26,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(27,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(27,6,[6,7]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+	(29,10,[10,11]) -> (3,2,[1,3]), that is: "Morty" -> "Morty Smith"
+	(30,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(30,20,[20,21]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+	(31,9,[9,10]) -> (3,2,[1,3]), that is: "Morty" -> "Morty Smith"
+	(32,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(34,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(35,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(35,9,[9,10]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+	(35,11,[11,12]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+	(36,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(37,6,[6,7]) -> (3,2,[1,3]), that is: "Morty" -> "Morty Smith"
+	(38,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(39,2,[1,3]) -> (3,2,[1,3]), that is: "Morty Smith" -> "Morty Smith"
+	(39,6,[6,7]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+	(39,11,[11,12]) -> (3,2,[1,3]), that is: "I" -> "Morty Smith"
+
+Coreference set:
+	(30,28,[28,29]) -> (30,12,[12,13]), that is: "'em" -> "they"
+
+Coreference set:
+	(19,9,[9,10]) -> (19,7,[5,8]), that is: "it" -> "my a facehugger"
+	(20,21,[21,22]) -> (19,7,[5,8]), that is: "its" -> "my a facehugger"
+	(23,5,[4,6]) -> (19,7,[5,8]), that is: "the facehugger" -> "my a facehugger"
+	(23,7,[7,8]) -> (19,7,[5,8]), that is: "it" -> "my a facehugger"
+	(24,1,[1,2]) -> (19,7,[5,8]), that is: "It" -> "my a facehugger"
+	(25,6,[5,7]) -> (19,7,[5,8]), that is: "the facehugger" -> "my a facehugger"
+	(28,8,[7,9]) -> (19,7,[5,8]), that is: "the facehugger" -> "my a facehugger"
+
+Coreference set:
+	(2,13,[11,14]) -> (4,12,[10,15]), that is: "that ignore button" -> "that ignore button , Rick"
+
+Coreference set:
+	(11,1,[1,2]) -> (9,1,[1,2]), that is: "Trans" -> "Trans"
+
+Coreference set:
+	(4,14,[14,15]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(6,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(7,10,[10,11]) -> (2,2,[1,3]), that is: "you" -> "Rick Sanchez"
+	(7,15,[15,16]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(12,3,[3,4]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(13,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(17,2,[1,3]) -> (2,2,[1,3]), that is: "Rick Sanchez" -> "Rick Sanchez"
+	(18,2,[1,3]) -> (2,2,[1,3]), that is: "Rick Sanchez" -> "Rick Sanchez"
+	(19,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(19,5,[5,6]) -> (2,2,[1,3]), that is: "my" -> "Rick Sanchez"
+	(19,12,[12,14]) -> (2,2,[1,3]), that is: "Rick 's" -> "Rick Sanchez"
+	(19,18,[18,19]) -> (2,2,[1,3]), that is: "him" -> "Rick Sanchez"
+	(20,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(20,25,[25,26]) -> (2,2,[1,3]), that is: "his" -> "Rick Sanchez"
+	(23,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(23,12,[12,13]) -> (2,2,[1,3]), that is: "Ricks" -> "Rick Sanchez"
+	(25,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(25,12,[12,13]) -> (2,2,[1,3]), that is: "his" -> "Rick Sanchez"
+	(28,1,[1,2]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(29,2,[1,3]) -> (2,2,[1,3]), that is: "Rich Sanchez" -> "Rick Sanchez"
+	(29,25,[25,26]) -> (2,2,[1,3]), that is: "my" -> "Rick Sanchez"
+	(30,8,[8,9]) -> (2,2,[1,3]), that is: "Rick" -> "Rick Sanchez"
+	(31,2,[1,3]) -> (2,2,[1,3]), that is: "Rick Sanchez" -> "Rick Sanchez"
+	(33,2,[1,3]) -> (2,2,[1,3]), that is: "Rick Sanchez" -> "Rick Sanchez"
+	(37,2,[1,3]) -> (2,2,[1,3]), that is: "Rick Sanchez" -> "Rick Sanchez"
+
+Coreference set:
+	(15,13,[13,14]) -> (8,6,[6,7]), that is: "we" -> "We"
+	(18,6,[6,7]) -> (8,6,[6,7]), that is: "We" -> "We"
+
+Coreference set:
+	(25,16,[16,17]) -> (25,10,[9,11]), that is: "it" -> "a device"
+	(25,18,[18,19]) -> (25,10,[9,11]), that is: "it" -> "a device"
+
+Coreference set:
+	(36,15,[15,16]) -> (36,8,[8,9]), that is: "you" -> "you"

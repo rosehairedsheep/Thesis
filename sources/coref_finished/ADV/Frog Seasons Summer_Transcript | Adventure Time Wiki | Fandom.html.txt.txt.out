@@ -1,0 +1,1628 @@
+Document: ID=Frog Seasons Summer_Transcript | Adventure Time Wiki | Fandom.html.txt.txt (41 sentences, 544 tokens)
+
+Sentence #1 (10 tokens):
+The Frog Carrying Crown is walking through the desert.
+
+Tokens:
+[Text=The CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Frog CharacterOffsetBegin=4 CharacterOffsetEnd=8 PartOfSpeech=NNP Lemma=Frog NamedEntityTag=O]
+[Text=Carrying CharacterOffsetBegin=9 CharacterOffsetEnd=17 PartOfSpeech=VBG Lemma=carry NamedEntityTag=O]
+[Text=Crown CharacterOffsetBegin=18 CharacterOffsetEnd=23 PartOfSpeech=NNP Lemma=Crown NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=24 CharacterOffsetEnd=26 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=walking CharacterOffsetBegin=27 CharacterOffsetEnd=34 PartOfSpeech=VBG Lemma=walk NamedEntityTag=O]
+[Text=through CharacterOffsetBegin=35 CharacterOffsetEnd=42 PartOfSpeech=IN Lemma=through NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=43 CharacterOffsetEnd=46 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=desert CharacterOffsetBegin=47 CharacterOffsetEnd=53 PartOfSpeech=NN Lemma=desert NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=53 CharacterOffsetEnd=54 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, walking-6)
+det(Crown-4, The-1)
+compound(Crown-4, Frog-2)
+amod(Crown-4, Carrying-3)
+nsubj(walking-6, Crown-4)
+aux(walking-6, is-5)
+case(desert-9, through-7)
+det(desert-9, the-8)
+obl:through(walking-6, desert-9)
+punct(walking-6, .-10)
+
+Extracted the following NER entity mentions:
+
+Sentence #2 (15 tokens):
+The screen pans out to show an exhausted Finn and Jake following close behind.
+
+Tokens:
+[Text=The CharacterOffsetBegin=55 CharacterOffsetEnd=58 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=59 CharacterOffsetEnd=65 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=pans CharacterOffsetBegin=66 CharacterOffsetEnd=70 PartOfSpeech=NNS Lemma=pan NamedEntityTag=O]
+[Text=out CharacterOffsetBegin=71 CharacterOffsetEnd=74 PartOfSpeech=IN Lemma=out NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=75 CharacterOffsetEnd=77 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=show CharacterOffsetBegin=78 CharacterOffsetEnd=82 PartOfSpeech=VB Lemma=show NamedEntityTag=O]
+[Text=an CharacterOffsetBegin=83 CharacterOffsetEnd=85 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=exhausted CharacterOffsetBegin=86 CharacterOffsetEnd=95 PartOfSpeech=JJ Lemma=exhausted NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=96 CharacterOffsetEnd=100 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=101 CharacterOffsetEnd=104 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Jake CharacterOffsetBegin=105 CharacterOffsetEnd=109 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=following CharacterOffsetBegin=110 CharacterOffsetEnd=119 PartOfSpeech=VBG Lemma=follow NamedEntityTag=O]
+[Text=close CharacterOffsetBegin=120 CharacterOffsetEnd=125 PartOfSpeech=RB Lemma=close NamedEntityTag=O]
+[Text=behind CharacterOffsetBegin=126 CharacterOffsetEnd=132 PartOfSpeech=RB Lemma=behind NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=132 CharacterOffsetEnd=133 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, pans-3)
+det(pans-3, The-1)
+compound(pans-3, screen-2)
+dep(show-6, out-4)
+mark(show-6, to-5)
+acl:to(pans-3, show-6)
+det(Finn-9, an-7)
+amod(Finn-9, exhausted-8)
+obj(show-6, Finn-9)
+cc(Jake-11, and-10)
+obj(show-6, Jake-11)
+conj:and(Finn-9, Jake-11)
+case(behind-14, following-12)
+advmod(behind-14, close-13)
+advcl:following(show-6, behind-14)
+punct(pans-3, .-15)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.7124481125608525
+Jake	PERSON	PERSON:0.9893578624267416
+
+Sentence #3 (17 tokens):
+Jake says: "Dude, how long are we gonna follow this frog?"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=134 CharacterOffsetEnd=138 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=139 CharacterOffsetEnd=143 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=143 CharacterOffsetEnd=144 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=145 CharacterOffsetEnd=146 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Dude CharacterOffsetBegin=146 CharacterOffsetEnd=150 PartOfSpeech=NN Lemma=dude NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=150 CharacterOffsetEnd=151 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=how CharacterOffsetBegin=152 CharacterOffsetEnd=155 PartOfSpeech=WRB Lemma=how NamedEntityTag=O]
+[Text=long CharacterOffsetBegin=156 CharacterOffsetEnd=160 PartOfSpeech=JJ Lemma=long NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=161 CharacterOffsetEnd=164 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=165 CharacterOffsetEnd=167 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=gon CharacterOffsetBegin=168 CharacterOffsetEnd=171 PartOfSpeech=VBG Lemma=gon NamedEntityTag=O]
+[Text=na CharacterOffsetBegin=171 CharacterOffsetEnd=173 PartOfSpeech=TO Lemma=na NamedEntityTag=O]
+[Text=follow CharacterOffsetBegin=174 CharacterOffsetEnd=180 PartOfSpeech=VB Lemma=follow NamedEntityTag=O]
+[Text=this CharacterOffsetBegin=181 CharacterOffsetEnd=185 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=186 CharacterOffsetEnd=190 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=190 CharacterOffsetEnd=191 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=191 CharacterOffsetEnd=192 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(gon-11, Dude-5)
+punct(gon-11, ,-6)
+advmod(long-8, how-7)
+dep(gon-11, long-8)
+aux(gon-11, are-9)
+nsubj(gon-11, we-10)
+nsubj:xsubj(follow-13, we-10)
+ccomp(says-2, gon-11)
+mark(follow-13, na-12)
+xcomp(gon-11, follow-13)
+det(frog-15, this-14)
+obj(follow-13, frog-15)
+punct(says-2, ?-16)
+punct(says-2, "-17)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9971334868194995
+
+Sentence #4 (9 tokens):
+Finn says: "Patience, man."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=193 CharacterOffsetEnd=197 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=198 CharacterOffsetEnd=202 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=202 CharacterOffsetEnd=203 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=204 CharacterOffsetEnd=205 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patience CharacterOffsetBegin=205 CharacterOffsetEnd=213 PartOfSpeech=NN Lemma=patience NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=213 CharacterOffsetEnd=214 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=man CharacterOffsetBegin=215 CharacterOffsetEnd=218 PartOfSpeech=NN Lemma=man NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=218 CharacterOffsetEnd=219 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=219 CharacterOffsetEnd=220 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Patience-5)
+punct(Patience-5, ,-6)
+appos(Patience-5, man-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9651967469965844
+
+Sentence #5 (12 tokens):
+Finn says: "Something's totally gonna happen."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=221 CharacterOffsetEnd=225 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=226 CharacterOffsetEnd=230 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=230 CharacterOffsetEnd=231 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=232 CharacterOffsetEnd=233 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Something CharacterOffsetBegin=233 CharacterOffsetEnd=242 PartOfSpeech=NN Lemma=something NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=242 CharacterOffsetEnd=244 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=totally CharacterOffsetBegin=245 CharacterOffsetEnd=252 PartOfSpeech=RB Lemma=totally NamedEntityTag=O]
+[Text=gon CharacterOffsetBegin=253 CharacterOffsetEnd=256 PartOfSpeech=VBG Lemma=gon NamedEntityTag=O]
+[Text=na CharacterOffsetBegin=256 CharacterOffsetEnd=258 PartOfSpeech=TO Lemma=na NamedEntityTag=O]
+[Text=happen CharacterOffsetBegin=259 CharacterOffsetEnd=265 PartOfSpeech=VB Lemma=happen NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=265 CharacterOffsetEnd=266 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=266 CharacterOffsetEnd=267 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(gon-8, Something-5)
+nsubj:xsubj(happen-10, Something-5)
+aux(gon-8, 's-6)
+advmod(gon-8, totally-7)
+ccomp(says-2, gon-8)
+mark(happen-10, na-9)
+xcomp(gon-8, happen-10)
+punct(says-2, .-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9755586549187519
+
+Sentence #6 (10 tokens):
+Jake says: "Ahhh, so hot!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=268 CharacterOffsetEnd=272 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=273 CharacterOffsetEnd=277 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=277 CharacterOffsetEnd=278 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=279 CharacterOffsetEnd=280 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ahhh CharacterOffsetBegin=280 CharacterOffsetEnd=284 PartOfSpeech=NNP Lemma=Ahhh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=284 CharacterOffsetEnd=285 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=286 CharacterOffsetEnd=288 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=hot CharacterOffsetBegin=289 CharacterOffsetEnd=292 PartOfSpeech=JJ Lemma=hot NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=292 CharacterOffsetEnd=293 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=293 CharacterOffsetEnd=294 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Ahhh-5)
+punct(Ahhh-5, ,-6)
+advmod(hot-8, so-7)
+amod(Ahhh-5, hot-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9971335113732556
+
+Sentence #7 (12 tokens):
+Water Nymph says: "Yo, Finn and Jake!"
+
+Tokens:
+[Text=Water CharacterOffsetBegin=295 CharacterOffsetEnd=300 PartOfSpeech=NNP Lemma=Water NamedEntityTag=O]
+[Text=Nymph CharacterOffsetBegin=301 CharacterOffsetEnd=306 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=307 CharacterOffsetEnd=311 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=311 CharacterOffsetEnd=312 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=313 CharacterOffsetEnd=314 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yo CharacterOffsetBegin=314 CharacterOffsetEnd=316 PartOfSpeech=NNP Lemma=Yo NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=316 CharacterOffsetEnd=317 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=318 CharacterOffsetEnd=322 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=323 CharacterOffsetEnd=326 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Jake CharacterOffsetBegin=327 CharacterOffsetEnd=331 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=! CharacterOffsetBegin=331 CharacterOffsetEnd=332 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=332 CharacterOffsetEnd=333 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Nymph-2, Water-1)
+nsubj(says-3, Nymph-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+obj(says-3, Yo-6)
+punct(Yo-6, ,-7)
+obj(says-3, Finn-8)
+conj:and(Yo-6, Finn-8)
+cc(Jake-10, and-9)
+obj(says-3, Jake-10)
+conj:and(Yo-6, Jake-10)
+punct(says-3, !-11)
+punct(says-3, "-12)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.8687502746401773
+Jake	PERSON	PERSON:0.9632523764400898
+
+Sentence #8 (7 tokens):
+Water Nymph says: "."
+
+Tokens:
+[Text=Water CharacterOffsetBegin=334 CharacterOffsetEnd=339 PartOfSpeech=NNP Lemma=Water NamedEntityTag=O]
+[Text=Nymph CharacterOffsetBegin=340 CharacterOffsetEnd=345 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=MISC]
+[Text=says CharacterOffsetBegin=346 CharacterOffsetEnd=350 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=350 CharacterOffsetEnd=351 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=352 CharacterOffsetEnd=353 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=353 CharacterOffsetEnd=354 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=354 CharacterOffsetEnd=355 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Nymph-2, Water-1)
+nsubj(says-3, Nymph-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+punct(says-3, .-6)
+punct(says-3, "-7)
+
+Extracted the following NER entity mentions:
+Nymph	MISC	MISC:0.5064266687529583
+
+Sentence #9 (18 tokens):
+Finn says: "Sorry, water nymphs, we've gotta follow that frog."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=356 CharacterOffsetEnd=360 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=361 CharacterOffsetEnd=365 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=365 CharacterOffsetEnd=366 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=367 CharacterOffsetEnd=368 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Sorry CharacterOffsetBegin=368 CharacterOffsetEnd=373 PartOfSpeech=JJ Lemma=sorry NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=373 CharacterOffsetEnd=374 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=water CharacterOffsetBegin=375 CharacterOffsetEnd=380 PartOfSpeech=NN Lemma=water NamedEntityTag=O]
+[Text=nymphs CharacterOffsetBegin=381 CharacterOffsetEnd=387 PartOfSpeech=NNS Lemma=nymph NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=387 CharacterOffsetEnd=388 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=389 CharacterOffsetEnd=391 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='ve CharacterOffsetBegin=391 CharacterOffsetEnd=394 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=got CharacterOffsetBegin=395 CharacterOffsetEnd=398 PartOfSpeech=VBN Lemma=get NamedEntityTag=O]
+[Text=ta CharacterOffsetBegin=398 CharacterOffsetEnd=400 PartOfSpeech=TO Lemma=ta NamedEntityTag=O]
+[Text=follow CharacterOffsetBegin=401 CharacterOffsetEnd=407 PartOfSpeech=VB Lemma=follow NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=408 CharacterOffsetEnd=412 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=413 CharacterOffsetEnd=417 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=417 CharacterOffsetEnd=418 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=418 CharacterOffsetEnd=419 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+amod(nymphs-8, Sorry-5)
+punct(nymphs-8, ,-6)
+compound(nymphs-8, water-7)
+ccomp(says-2, nymphs-8)
+punct(nymphs-8, ,-9)
+nsubj(got-12, we-10)
+nsubj:xsubj(follow-14, we-10)
+aux(got-12, 've-11)
+parataxis(nymphs-8, got-12)
+mark(follow-14, ta-13)
+xcomp(got-12, follow-14)
+det(frog-16, that-15)
+obj(follow-14, frog-16)
+punct(says-2, .-17)
+punct(says-2, "-18)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9651967885783105
+
+Sentence #10 (16 tokens):
+Finn says: "I just gotta see him put on that crown."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=420 CharacterOffsetEnd=424 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=425 CharacterOffsetEnd=429 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=429 CharacterOffsetEnd=430 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=431 CharacterOffsetEnd=432 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=432 CharacterOffsetEnd=433 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=434 CharacterOffsetEnd=438 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=got CharacterOffsetBegin=439 CharacterOffsetEnd=442 PartOfSpeech=VBD Lemma=get NamedEntityTag=O]
+[Text=ta CharacterOffsetBegin=442 CharacterOffsetEnd=444 PartOfSpeech=TO Lemma=ta NamedEntityTag=O]
+[Text=see CharacterOffsetBegin=445 CharacterOffsetEnd=448 PartOfSpeech=VB Lemma=see NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=449 CharacterOffsetEnd=452 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=put CharacterOffsetBegin=453 CharacterOffsetEnd=456 PartOfSpeech=VB Lemma=put NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=RP Lemma=on NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=460 CharacterOffsetEnd=464 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=crown CharacterOffsetBegin=465 CharacterOffsetEnd=470 PartOfSpeech=NN Lemma=crown NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=470 CharacterOffsetEnd=471 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=471 CharacterOffsetEnd=472 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(got-7, I-5)
+nsubj:xsubj(see-9, I-5)
+advmod(got-7, just-6)
+ccomp(says-2, got-7)
+mark(see-9, ta-8)
+xcomp(got-7, see-9)
+nsubj(put-11, him-10)
+ccomp(see-9, put-11)
+compound:prt(put-11, on-12)
+det(crown-14, that-13)
+obj(put-11, crown-14)
+punct(says-2, .-15)
+punct(says-2, "-16)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9671141277691018
+him	PERSON	-
+
+Sentence #11 (7 tokens):
+Jake says: "What!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=473 CharacterOffsetEnd=477 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=478 CharacterOffsetEnd=482 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=482 CharacterOffsetEnd=483 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=484 CharacterOffsetEnd=485 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=485 CharacterOffsetEnd=489 PartOfSpeech=WDT Lemma=what NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=489 CharacterOffsetEnd=490 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=490 CharacterOffsetEnd=491 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, What-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9973192974314119
+
+Sentence #12 (17 tokens):
+Jake says: "I thought we were following him back to his treasure hoard."
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=492 CharacterOffsetEnd=496 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=497 CharacterOffsetEnd=501 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=501 CharacterOffsetEnd=502 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=503 CharacterOffsetEnd=504 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=504 CharacterOffsetEnd=505 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=thought CharacterOffsetBegin=506 CharacterOffsetEnd=513 PartOfSpeech=VBD Lemma=think NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=514 CharacterOffsetEnd=516 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=were CharacterOffsetBegin=517 CharacterOffsetEnd=521 PartOfSpeech=VBD Lemma=be NamedEntityTag=O]
+[Text=following CharacterOffsetBegin=522 CharacterOffsetEnd=531 PartOfSpeech=VBG Lemma=follow NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=532 CharacterOffsetEnd=535 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=536 CharacterOffsetEnd=540 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=541 CharacterOffsetEnd=543 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=544 CharacterOffsetEnd=547 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=treasure CharacterOffsetBegin=548 CharacterOffsetEnd=556 PartOfSpeech=NN Lemma=treasure NamedEntityTag=O]
+[Text=hoard CharacterOffsetBegin=557 CharacterOffsetEnd=562 PartOfSpeech=NN Lemma=hoard NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=562 CharacterOffsetEnd=563 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=563 CharacterOffsetEnd=564 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(thought-6, I-5)
+ccomp(says-2, thought-6)
+nsubj(following-9, we-7)
+aux(following-9, were-8)
+ccomp(thought-6, following-9)
+obj(following-9, him-10)
+advmod(following-9, back-11)
+case(hoard-15, to-12)
+nmod:poss(hoard-15, his-13)
+compound(hoard-15, treasure-14)
+obl:to(back-11, hoard-15)
+punct(says-2, .-16)
+punct(says-2, "-17)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.997649338975647
+him	PERSON	-
+his	PERSON	-
+
+Sentence #13 (14 tokens):
+Finn says: "I ain't in it for the money."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=565 CharacterOffsetEnd=569 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=570 CharacterOffsetEnd=574 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=574 CharacterOffsetEnd=575 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=576 CharacterOffsetEnd=577 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=577 CharacterOffsetEnd=578 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=ai CharacterOffsetBegin=579 CharacterOffsetEnd=581 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=581 CharacterOffsetEnd=584 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=585 CharacterOffsetEnd=587 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=588 CharacterOffsetEnd=590 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=591 CharacterOffsetEnd=594 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=595 CharacterOffsetEnd=598 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=money CharacterOffsetBegin=599 CharacterOffsetEnd=604 PartOfSpeech=NN Lemma=money NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=604 CharacterOffsetEnd=605 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=605 CharacterOffsetEnd=606 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(it-9, I-5)
+cop(it-9, ai-6)
+advmod(it-9, n't-7)
+case(it-9, in-8)
+ccomp(says-2, it-9)
+case(money-12, for-10)
+det(money-12, the-11)
+obl:for(it-9, money-12)
+punct(says-2, .-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9725521841625729
+
+Sentence #14 (24 tokens):
+Finn says: "I'm doing it for the sake of discovery..."
+Finn says: "and the ladies."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=607 CharacterOffsetEnd=611 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=612 CharacterOffsetEnd=616 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=616 CharacterOffsetEnd=617 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=618 CharacterOffsetEnd=619 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=619 CharacterOffsetEnd=620 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=620 CharacterOffsetEnd=622 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=doing CharacterOffsetBegin=623 CharacterOffsetEnd=628 PartOfSpeech=VBG Lemma=do NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=629 CharacterOffsetEnd=631 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=632 CharacterOffsetEnd=635 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=636 CharacterOffsetEnd=639 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=sake CharacterOffsetBegin=640 CharacterOffsetEnd=644 PartOfSpeech=NN Lemma=sake NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=645 CharacterOffsetEnd=647 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=discovery CharacterOffsetBegin=648 CharacterOffsetEnd=657 PartOfSpeech=NN Lemma=discovery NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=657 CharacterOffsetEnd=660 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=660 CharacterOffsetEnd=661 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=662 CharacterOffsetEnd=666 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=667 CharacterOffsetEnd=671 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=671 CharacterOffsetEnd=672 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=673 CharacterOffsetEnd=674 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=674 CharacterOffsetEnd=677 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=678 CharacterOffsetEnd=681 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=ladies CharacterOffsetBegin=682 CharacterOffsetEnd=688 PartOfSpeech=NNS Lemma=lady NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=688 CharacterOffsetEnd=689 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=689 CharacterOffsetEnd=690 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(doing-7, I-5)
+aux(doing-7, 'm-6)
+ccomp(says-2, doing-7)
+obj(doing-7, it-8)
+case(sake-11, for-9)
+det(sake-11, the-10)
+obl:for(doing-7, sake-11)
+case(discovery-13, of-12)
+nmod:of(sake-11, discovery-13)
+punct(doing-7, ...-14)
+punct(doing-7, "-15)
+nsubj(says-17, Finn-16)
+parataxis(doing-7, says-17)
+punct(says-17, :-18)
+punct(says-17, "-19)
+cc(ladies-22, and-20)
+det(ladies-22, the-21)
+parataxis(doing-7, ladies-22)
+conj:and(says-17, ladies-22)
+punct(says-2, .-23)
+punct(says-2, "-24)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9685635131022436
+Finn	PERSON	PERSON:0.6742275681912524
+
+Sentence #15 (10 tokens):
+Jake says: "There's no ladies!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=691 CharacterOffsetEnd=695 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=696 CharacterOffsetEnd=700 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=700 CharacterOffsetEnd=701 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=702 CharacterOffsetEnd=703 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=There CharacterOffsetBegin=703 CharacterOffsetEnd=708 PartOfSpeech=EX Lemma=there NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=708 CharacterOffsetEnd=710 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=no CharacterOffsetBegin=711 CharacterOffsetEnd=713 PartOfSpeech=DT Lemma=no NamedEntityTag=O]
+[Text=ladies CharacterOffsetBegin=714 CharacterOffsetEnd=720 PartOfSpeech=NNS Lemma=lady NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=720 CharacterOffsetEnd=721 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=721 CharacterOffsetEnd=722 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+expl('s-6, There-5)
+ccomp(says-2, 's-6)
+det(ladies-8, no-7)
+nsubj('s-6, ladies-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9976707324026033
+
+Sentence #16 (14 tokens):
+Jake says: "Let's just swim with the water nymphs."
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=723 CharacterOffsetEnd=727 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=728 CharacterOffsetEnd=732 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=732 CharacterOffsetEnd=733 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=734 CharacterOffsetEnd=735 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Let CharacterOffsetBegin=735 CharacterOffsetEnd=738 PartOfSpeech=VB Lemma=let NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=738 CharacterOffsetEnd=740 PartOfSpeech=PRP Lemma='s NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=741 CharacterOffsetEnd=745 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=swim CharacterOffsetBegin=746 CharacterOffsetEnd=750 PartOfSpeech=VBP Lemma=swim NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=751 CharacterOffsetEnd=755 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=756 CharacterOffsetEnd=759 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=water CharacterOffsetBegin=760 CharacterOffsetEnd=765 PartOfSpeech=NN Lemma=water NamedEntityTag=O]
+[Text=nymphs CharacterOffsetBegin=766 CharacterOffsetEnd=772 PartOfSpeech=NNS Lemma=nymph NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=772 CharacterOffsetEnd=773 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=773 CharacterOffsetEnd=774 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Let-5)
+nsubj(swim-8, 's-6)
+advmod(swim-8, just-7)
+ccomp(Let-5, swim-8)
+case(nymphs-12, with-9)
+det(nymphs-12, the-10)
+compound(nymphs-12, water-11)
+obl:with(swim-8, nymphs-12)
+punct(says-2, .-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9968172973282844
+
+Sentence #17 (10 tokens):
+Finn says: "Gotta see it."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=775 CharacterOffsetEnd=779 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=780 CharacterOffsetEnd=784 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=784 CharacterOffsetEnd=785 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=786 CharacterOffsetEnd=787 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Got CharacterOffsetBegin=787 CharacterOffsetEnd=790 PartOfSpeech=VBN Lemma=get NamedEntityTag=O]
+[Text=ta CharacterOffsetBegin=790 CharacterOffsetEnd=792 PartOfSpeech=TO Lemma=ta NamedEntityTag=O]
+[Text=see CharacterOffsetBegin=793 CharacterOffsetEnd=796 PartOfSpeech=VB Lemma=see NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=797 CharacterOffsetEnd=799 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=799 CharacterOffsetEnd=800 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=800 CharacterOffsetEnd=801 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(Got-5, "-4)
+ccomp(says-2, Got-5)
+mark(see-7, ta-6)
+xcomp(Got-5, see-7)
+obj(see-7, it-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9596401512652686
+
+Sentence #18 (9 tokens):
+Jake says: "Hey, you!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=802 CharacterOffsetEnd=806 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=807 CharacterOffsetEnd=811 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=811 CharacterOffsetEnd=812 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=813 CharacterOffsetEnd=814 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hey CharacterOffsetBegin=814 CharacterOffsetEnd=817 PartOfSpeech=UH Lemma=hey NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=817 CharacterOffsetEnd=818 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=819 CharacterOffsetEnd=822 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=822 CharacterOffsetEnd=823 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=823 CharacterOffsetEnd=824 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(you-7, Hey-5)
+punct(you-7, ,-6)
+ccomp(says-2, you-7)
+punct(says-2, !-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9971333499305611
+
+Sentence #19 (7 tokens):
+Jake says: "Frog!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=825 CharacterOffsetEnd=829 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=830 CharacterOffsetEnd=834 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=834 CharacterOffsetEnd=835 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=836 CharacterOffsetEnd=837 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Frog CharacterOffsetBegin=837 CharacterOffsetEnd=841 PartOfSpeech=NNP Lemma=Frog NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=841 CharacterOffsetEnd=842 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=842 CharacterOffsetEnd=843 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Frog-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.99674105742156
+
+Sentence #20 (14 tokens):
+Jake says: "Look what you're doing to the boy!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=844 CharacterOffsetEnd=848 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=849 CharacterOffsetEnd=853 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=853 CharacterOffsetEnd=854 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=855 CharacterOffsetEnd=856 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Look CharacterOffsetBegin=856 CharacterOffsetEnd=860 PartOfSpeech=VB Lemma=look NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=861 CharacterOffsetEnd=865 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=866 CharacterOffsetEnd=869 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=869 CharacterOffsetEnd=872 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=doing CharacterOffsetBegin=873 CharacterOffsetEnd=878 PartOfSpeech=VBG Lemma=do NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=879 CharacterOffsetEnd=881 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=882 CharacterOffsetEnd=885 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=boy CharacterOffsetBegin=886 CharacterOffsetEnd=889 PartOfSpeech=NN Lemma=boy NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=889 CharacterOffsetEnd=890 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=890 CharacterOffsetEnd=891 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Look-5)
+obj(doing-9, what-6)
+nsubj(doing-9, you-7)
+aux(doing-9, 're-8)
+ccomp(Look-5, doing-9)
+case(boy-12, to-10)
+det(boy-12, the-11)
+obl:to(doing-9, boy-12)
+punct(says-2, !-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9979102219902934
+
+Sentence #21 (14 tokens):
+The frog looks back at Finn, then turns away and continues walking.
+
+Tokens:
+[Text=The CharacterOffsetBegin=892 CharacterOffsetEnd=895 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=896 CharacterOffsetEnd=900 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=looks CharacterOffsetBegin=901 CharacterOffsetEnd=906 PartOfSpeech=VBZ Lemma=look NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=907 CharacterOffsetEnd=911 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=912 CharacterOffsetEnd=914 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=915 CharacterOffsetEnd=919 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=NATIONALITY]
+[Text=, CharacterOffsetBegin=919 CharacterOffsetEnd=920 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=921 CharacterOffsetEnd=925 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=turns CharacterOffsetBegin=926 CharacterOffsetEnd=931 PartOfSpeech=VBZ Lemma=turn NamedEntityTag=O]
+[Text=away CharacterOffsetBegin=932 CharacterOffsetEnd=936 PartOfSpeech=RB Lemma=away NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=937 CharacterOffsetEnd=940 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=continues CharacterOffsetBegin=941 CharacterOffsetEnd=950 PartOfSpeech=VBZ Lemma=continue NamedEntityTag=O]
+[Text=walking CharacterOffsetBegin=951 CharacterOffsetEnd=958 PartOfSpeech=VBG Lemma=walk NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=958 CharacterOffsetEnd=959 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, looks-3)
+det(frog-2, The-1)
+nsubj(looks-3, frog-2)
+nsubj(turns-9, frog-2)
+nsubj(continues-12, frog-2)
+advmod(looks-3, back-4)
+case(Finn-6, at-5)
+obl:at(looks-3, Finn-6)
+punct(looks-3, ,-7)
+advmod(turns-9, then-8)
+conj:and(looks-3, turns-9)
+advmod(turns-9, away-10)
+cc(continues-12, and-11)
+conj:and(looks-3, continues-12)
+xcomp(continues-12, walking-13)
+punct(looks-3, .-14)
+
+Extracted the following NER entity mentions:
+Finn	NATIONALITY	LOCATION:0.3640040023980833
+
+Sentence #22 (10 tokens):
+Jake says: "Put on that crown!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=960 CharacterOffsetEnd=964 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=965 CharacterOffsetEnd=969 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=969 CharacterOffsetEnd=970 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=971 CharacterOffsetEnd=972 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Put CharacterOffsetBegin=972 CharacterOffsetEnd=975 PartOfSpeech=VB Lemma=put NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=976 CharacterOffsetEnd=978 PartOfSpeech=RP Lemma=on NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=979 CharacterOffsetEnd=983 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=crown CharacterOffsetBegin=984 CharacterOffsetEnd=989 PartOfSpeech=NN Lemma=crown NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=989 CharacterOffsetEnd=990 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=990 CharacterOffsetEnd=991 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Put-5)
+compound:prt(Put-5, on-6)
+det(crown-8, that-7)
+obj(Put-5, crown-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9958852771647285
+
+Sentence #23 (11 tokens):
+Finn says: "Ugh, be cool Jake."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=992 CharacterOffsetEnd=996 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=997 CharacterOffsetEnd=1001 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1001 CharacterOffsetEnd=1002 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1003 CharacterOffsetEnd=1004 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ugh CharacterOffsetBegin=1004 CharacterOffsetEnd=1007 PartOfSpeech=UH Lemma=ugh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1007 CharacterOffsetEnd=1008 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=1009 CharacterOffsetEnd=1011 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=cool CharacterOffsetBegin=1012 CharacterOffsetEnd=1016 PartOfSpeech=JJ Lemma=cool NamedEntityTag=O]
+[Text=Jake CharacterOffsetBegin=1017 CharacterOffsetEnd=1021 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=1021 CharacterOffsetEnd=1022 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1022 CharacterOffsetEnd=1023 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(Jake-9, Ugh-5)
+punct(Jake-9, ,-6)
+cop(Jake-9, be-7)
+amod(Jake-9, cool-8)
+ccomp(says-2, Jake-9)
+punct(says-2, .-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9651967962279848
+Jake	PERSON	PERSON:0.9769360425146237
+
+Sentence #24 (22 tokens):
+Finn says: "What if he puts it on and turns into, like, a beautiful wish dragon?"
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=1024 CharacterOffsetEnd=1028 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1029 CharacterOffsetEnd=1033 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1033 CharacterOffsetEnd=1034 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1035 CharacterOffsetEnd=1036 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=1036 CharacterOffsetEnd=1040 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=if CharacterOffsetBegin=1041 CharacterOffsetEnd=1043 PartOfSpeech=IN Lemma=if NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=1044 CharacterOffsetEnd=1046 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=puts CharacterOffsetBegin=1047 CharacterOffsetEnd=1051 PartOfSpeech=VBZ Lemma=put NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1052 CharacterOffsetEnd=1054 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=1055 CharacterOffsetEnd=1057 PartOfSpeech=RP Lemma=on NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1058 CharacterOffsetEnd=1061 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=turns CharacterOffsetBegin=1062 CharacterOffsetEnd=1067 PartOfSpeech=VBZ Lemma=turn NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=1068 CharacterOffsetEnd=1072 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1072 CharacterOffsetEnd=1073 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=1074 CharacterOffsetEnd=1078 PartOfSpeech=UH Lemma=like NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1078 CharacterOffsetEnd=1079 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1080 CharacterOffsetEnd=1081 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=beautiful CharacterOffsetBegin=1082 CharacterOffsetEnd=1091 PartOfSpeech=JJ Lemma=beautiful NamedEntityTag=O]
+[Text=wish CharacterOffsetBegin=1092 CharacterOffsetEnd=1096 PartOfSpeech=NN Lemma=wish NamedEntityTag=O]
+[Text=dragon CharacterOffsetBegin=1097 CharacterOffsetEnd=1103 PartOfSpeech=NN Lemma=dragon NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=1103 CharacterOffsetEnd=1104 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1104 CharacterOffsetEnd=1105 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(puts-8, What-5)
+mark(puts-8, if-6)
+nsubj(puts-8, he-7)
+nsubj(turns-12, he-7)
+ccomp(says-2, puts-8)
+obj(puts-8, it-9)
+compound:prt(puts-8, on-10)
+cc(turns-12, and-11)
+ccomp(says-2, turns-12)
+conj:and(puts-8, turns-12)
+case(dragon-20, into-13)
+punct(dragon-20, ,-14)
+discourse(dragon-20, like-15)
+punct(dragon-20, ,-16)
+det(dragon-20, a-17)
+amod(dragon-20, beautiful-18)
+compound(dragon-20, wish-19)
+obl:into(turns-12, dragon-20)
+punct(says-2, ?-21)
+punct(says-2, "-22)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9744419971290386
+he	PERSON	-
+
+Sentence #25 (9 tokens):
+The frog lifts the crown above his head.
+
+Tokens:
+[Text=The CharacterOffsetBegin=1106 CharacterOffsetEnd=1109 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1110 CharacterOffsetEnd=1114 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=lifts CharacterOffsetBegin=1115 CharacterOffsetEnd=1120 PartOfSpeech=VBZ Lemma=lift NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1121 CharacterOffsetEnd=1124 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=crown CharacterOffsetBegin=1125 CharacterOffsetEnd=1130 PartOfSpeech=NN Lemma=crown NamedEntityTag=O]
+[Text=above CharacterOffsetBegin=1131 CharacterOffsetEnd=1136 PartOfSpeech=IN Lemma=above NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1137 CharacterOffsetEnd=1140 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=head CharacterOffsetBegin=1141 CharacterOffsetEnd=1145 PartOfSpeech=NN Lemma=head NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1145 CharacterOffsetEnd=1146 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, lifts-3)
+det(frog-2, The-1)
+nsubj(lifts-3, frog-2)
+det(crown-5, the-4)
+obj(lifts-3, crown-5)
+case(head-8, above-6)
+nmod:poss(head-8, his-7)
+obl:above(lifts-3, head-8)
+punct(lifts-3, .-9)
+
+Extracted the following NER entity mentions:
+his	PERSON	-
+
+Sentence #26 (22 tokens):
+Finn and Jake gasp, but the frog doesn't put the crown on and continues holding it by his side.
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=1147 CharacterOffsetEnd=1151 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=1152 CharacterOffsetEnd=1155 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Jake CharacterOffsetBegin=1156 CharacterOffsetEnd=1160 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=gasp CharacterOffsetBegin=1161 CharacterOffsetEnd=1165 PartOfSpeech=NN Lemma=gasp NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1165 CharacterOffsetEnd=1166 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=but CharacterOffsetBegin=1167 CharacterOffsetEnd=1170 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1171 CharacterOffsetEnd=1174 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1175 CharacterOffsetEnd=1179 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=does CharacterOffsetBegin=1180 CharacterOffsetEnd=1184 PartOfSpeech=VBZ Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1184 CharacterOffsetEnd=1187 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=put CharacterOffsetBegin=1188 CharacterOffsetEnd=1191 PartOfSpeech=VB Lemma=put NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1192 CharacterOffsetEnd=1195 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=crown CharacterOffsetBegin=1196 CharacterOffsetEnd=1201 PartOfSpeech=NN Lemma=crown NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=1202 CharacterOffsetEnd=1204 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1205 CharacterOffsetEnd=1208 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=continues CharacterOffsetBegin=1209 CharacterOffsetEnd=1218 PartOfSpeech=VBZ Lemma=continue NamedEntityTag=O]
+[Text=holding CharacterOffsetBegin=1219 CharacterOffsetEnd=1226 PartOfSpeech=VBG Lemma=hold NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1227 CharacterOffsetEnd=1229 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=by CharacterOffsetBegin=1230 CharacterOffsetEnd=1232 PartOfSpeech=IN Lemma=by NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1233 CharacterOffsetEnd=1236 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=side CharacterOffsetBegin=1237 CharacterOffsetEnd=1241 PartOfSpeech=NN Lemma=side NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1241 CharacterOffsetEnd=1242 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Finn-1)
+cc(gasp-4, and-2)
+compound(gasp-4, Jake-3)
+conj:and(Finn-1, gasp-4)
+punct(Finn-1, ,-5)
+cc(put-11, but-6)
+det(frog-8, the-7)
+nsubj(put-11, frog-8)
+nsubj(continues-16, frog-8)
+aux(put-11, does-9)
+advmod(put-11, n't-10)
+conj:and(Finn-1, put-11)
+det(crown-13, the-12)
+obj(put-11, crown-13)
+compound:prt(put-11, on-14)
+cc(continues-16, and-15)
+conj:and(Finn-1, continues-16)
+conj:and(put-11, continues-16)
+xcomp(continues-16, holding-17)
+obj(holding-17, it-18)
+case(side-21, by-19)
+nmod:poss(side-21, his-20)
+obl:by(holding-17, side-21)
+punct(Finn-1, .-22)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9116454254731896
+Jake	PERSON	PERSON:0.9690507747693062
+his	PERSON	-
+
+Sentence #27 (9 tokens):
+Jake says: "THAT'S IT!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1243 CharacterOffsetEnd=1247 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1248 CharacterOffsetEnd=1252 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1252 CharacterOffsetEnd=1253 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1254 CharacterOffsetEnd=1255 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=THAT CharacterOffsetBegin=1255 CharacterOffsetEnd=1259 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text='S CharacterOffsetBegin=1259 CharacterOffsetEnd=1261 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=IT CharacterOffsetBegin=1262 CharacterOffsetEnd=1264 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1264 CharacterOffsetEnd=1265 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1265 CharacterOffsetEnd=1266 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(IT-7, THAT-5)
+cop(IT-7, 'S-6)
+ccomp(says-2, IT-7)
+punct(says-2, !-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.996624827113942
+
+Sentence #28 (7 tokens):
+Jake says: "Ha!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1267 CharacterOffsetEnd=1271 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1272 CharacterOffsetEnd=1276 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1276 CharacterOffsetEnd=1277 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1278 CharacterOffsetEnd=1279 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ha CharacterOffsetBegin=1279 CharacterOffsetEnd=1281 PartOfSpeech=UH Lemma=ha NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1281 CharacterOffsetEnd=1282 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1282 CharacterOffsetEnd=1283 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Ha-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9965479827181702
+
+Sentence #29 (12 tokens):
+Jake says: "There, you've seen it!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1284 CharacterOffsetEnd=1288 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1289 CharacterOffsetEnd=1293 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1293 CharacterOffsetEnd=1294 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1295 CharacterOffsetEnd=1296 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=There CharacterOffsetBegin=1296 CharacterOffsetEnd=1301 PartOfSpeech=EX Lemma=there NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1301 CharacterOffsetEnd=1302 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1303 CharacterOffsetEnd=1306 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text='ve CharacterOffsetBegin=1306 CharacterOffsetEnd=1309 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=seen CharacterOffsetBegin=1310 CharacterOffsetEnd=1314 PartOfSpeech=VBN Lemma=see NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1315 CharacterOffsetEnd=1317 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1317 CharacterOffsetEnd=1318 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1318 CharacterOffsetEnd=1319 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(seen-9, There-5)
+punct(seen-9, ,-6)
+nsubj(seen-9, you-7)
+aux(seen-9, 've-8)
+ccomp(says-2, seen-9)
+obj(seen-9, it-10)
+punct(says-2, !-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9966932883478637
+
+Sentence #30 (13 tokens):
+Jake says: "Now let's- eh, what?"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1320 CharacterOffsetEnd=1324 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1325 CharacterOffsetEnd=1329 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1329 CharacterOffsetEnd=1330 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1331 CharacterOffsetEnd=1332 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Now CharacterOffsetBegin=1332 CharacterOffsetEnd=1335 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Now</TIMEX3>]
+[Text=let CharacterOffsetBegin=1336 CharacterOffsetEnd=1339 PartOfSpeech=VB Lemma=let NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1339 CharacterOffsetEnd=1341 PartOfSpeech=PRP Lemma='s NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=1341 CharacterOffsetEnd=1342 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=eh CharacterOffsetBegin=1343 CharacterOffsetEnd=1345 PartOfSpeech=UH Lemma=eh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1345 CharacterOffsetEnd=1346 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=1347 CharacterOffsetEnd=1351 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=1351 CharacterOffsetEnd=1352 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1352 CharacterOffsetEnd=1353 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(let-6, Now-5)
+ccomp(says-2, let-6)
+nsubj(eh-9, 's-7)
+punct(eh-9, --8)
+ccomp(let-6, eh-9)
+punct(eh-9, ,-10)
+dep(eh-9, what-11)
+punct(says-2, ?-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9970610383805479
+Now	DATE	DATE:-1.0
+
+Sentence #31 (8 tokens):
+The frog starts emitting a rumbling sound.
+
+Tokens:
+[Text=The CharacterOffsetBegin=1354 CharacterOffsetEnd=1357 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1358 CharacterOffsetEnd=1362 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=starts CharacterOffsetBegin=1363 CharacterOffsetEnd=1369 PartOfSpeech=VBZ Lemma=start NamedEntityTag=O]
+[Text=emitting CharacterOffsetBegin=1370 CharacterOffsetEnd=1378 PartOfSpeech=VBG Lemma=emit NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1379 CharacterOffsetEnd=1380 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=rumbling CharacterOffsetBegin=1381 CharacterOffsetEnd=1389 PartOfSpeech=VBG Lemma=rumble NamedEntityTag=O]
+[Text=sound CharacterOffsetBegin=1390 CharacterOffsetEnd=1395 PartOfSpeech=NN Lemma=sound NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1395 CharacterOffsetEnd=1396 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, starts-3)
+det(frog-2, The-1)
+nsubj(starts-3, frog-2)
+xcomp(starts-3, emitting-4)
+det(sound-7, a-5)
+amod(sound-7, rumbling-6)
+obj(emitting-4, sound-7)
+punct(starts-3, .-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #32 (14 tokens):
+Water Nymph says: "Ah, you've done it now!"
+
+Tokens:
+[Text=Water CharacterOffsetBegin=1397 CharacterOffsetEnd=1402 PartOfSpeech=NNP Lemma=Water NamedEntityTag=O]
+[Text=Nymph CharacterOffsetBegin=1403 CharacterOffsetEnd=1408 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1409 CharacterOffsetEnd=1413 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1413 CharacterOffsetEnd=1414 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1415 CharacterOffsetEnd=1416 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ah CharacterOffsetBegin=1416 CharacterOffsetEnd=1418 PartOfSpeech=UH Lemma=ah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1418 CharacterOffsetEnd=1419 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1420 CharacterOffsetEnd=1423 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text='ve CharacterOffsetBegin=1423 CharacterOffsetEnd=1426 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=done CharacterOffsetBegin=1427 CharacterOffsetEnd=1431 PartOfSpeech=VBN Lemma=do NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1432 CharacterOffsetEnd=1434 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=now CharacterOffsetBegin=1435 CharacterOffsetEnd=1438 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>]
+[Text=! CharacterOffsetBegin=1438 CharacterOffsetEnd=1439 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1439 CharacterOffsetEnd=1440 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Nymph-2, Water-1)
+nsubj(says-3, Nymph-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(done-10, Ah-6)
+punct(done-10, ,-7)
+nsubj(done-10, you-8)
+aux(done-10, 've-9)
+ccomp(says-3, done-10)
+obj(done-10, it-11)
+advmod(done-10, now-12)
+punct(says-3, !-13)
+punct(says-3, "-14)
+
+Extracted the following NER entity mentions:
+now	DATE	DATE:-1.0
+
+Sentence #33 (49 tokens):
+Water Nymph says: "You know the old saying; You can lead a frog to crown, but you can't..."
+Water Nymph says: "you can't..."
+Water Nymph says: "don't look him in the mouth."
+
+Tokens:
+[Text=Water CharacterOffsetBegin=1441 CharacterOffsetEnd=1446 PartOfSpeech=NNP Lemma=Water NamedEntityTag=O]
+[Text=Nymph CharacterOffsetBegin=1447 CharacterOffsetEnd=1452 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1453 CharacterOffsetEnd=1457 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1457 CharacterOffsetEnd=1458 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1459 CharacterOffsetEnd=1460 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=1460 CharacterOffsetEnd=1463 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=know CharacterOffsetBegin=1464 CharacterOffsetEnd=1468 PartOfSpeech=VBP Lemma=know NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1469 CharacterOffsetEnd=1472 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=old CharacterOffsetBegin=1473 CharacterOffsetEnd=1476 PartOfSpeech=JJ Lemma=old NamedEntityTag=O]
+[Text=saying CharacterOffsetBegin=1477 CharacterOffsetEnd=1483 PartOfSpeech=NN Lemma=saying NamedEntityTag=O]
+[Text=; CharacterOffsetBegin=1483 CharacterOffsetEnd=1484 PartOfSpeech=: Lemma=; NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=1485 CharacterOffsetEnd=1488 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=1489 CharacterOffsetEnd=1492 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=lead CharacterOffsetBegin=1493 CharacterOffsetEnd=1497 PartOfSpeech=VB Lemma=lead NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1498 CharacterOffsetEnd=1499 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1500 CharacterOffsetEnd=1504 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1505 CharacterOffsetEnd=1507 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=crown CharacterOffsetBegin=1508 CharacterOffsetEnd=1513 PartOfSpeech=NN Lemma=crown NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1513 CharacterOffsetEnd=1514 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=but CharacterOffsetBegin=1515 CharacterOffsetEnd=1518 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1519 CharacterOffsetEnd=1522 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=ca CharacterOffsetBegin=1523 CharacterOffsetEnd=1525 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1525 CharacterOffsetEnd=1528 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1528 CharacterOffsetEnd=1531 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1531 CharacterOffsetEnd=1532 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Water CharacterOffsetBegin=1533 CharacterOffsetEnd=1538 PartOfSpeech=NNP Lemma=Water NamedEntityTag=MISC]
+[Text=Nymph CharacterOffsetBegin=1539 CharacterOffsetEnd=1544 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=MISC]
+[Text=says CharacterOffsetBegin=1545 CharacterOffsetEnd=1549 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1549 CharacterOffsetEnd=1550 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1551 CharacterOffsetEnd=1552 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1552 CharacterOffsetEnd=1555 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=ca CharacterOffsetBegin=1556 CharacterOffsetEnd=1558 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1558 CharacterOffsetEnd=1561 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1561 CharacterOffsetEnd=1564 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1564 CharacterOffsetEnd=1565 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Water CharacterOffsetBegin=1566 CharacterOffsetEnd=1571 PartOfSpeech=NNP Lemma=Water NamedEntityTag=MISC]
+[Text=Nymph CharacterOffsetBegin=1572 CharacterOffsetEnd=1577 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=MISC]
+[Text=says CharacterOffsetBegin=1578 CharacterOffsetEnd=1582 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1582 CharacterOffsetEnd=1583 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1584 CharacterOffsetEnd=1585 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=1585 CharacterOffsetEnd=1587 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1587 CharacterOffsetEnd=1590 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=look CharacterOffsetBegin=1591 CharacterOffsetEnd=1595 PartOfSpeech=VB Lemma=look NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=1596 CharacterOffsetEnd=1599 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1600 CharacterOffsetEnd=1602 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1603 CharacterOffsetEnd=1606 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=mouth CharacterOffsetBegin=1607 CharacterOffsetEnd=1612 PartOfSpeech=NN Lemma=mouth NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1612 CharacterOffsetEnd=1613 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1613 CharacterOffsetEnd=1614 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Nymph-2, Water-1)
+nsubj(says-3, Nymph-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(know-7, You-6)
+ccomp(says-3, know-7)
+det(saying-10, the-8)
+amod(saying-10, old-9)
+obj(know-7, saying-10)
+punct(know-7, ;-11)
+nsubj(lead-14, You-12)
+aux(lead-14, can-13)
+parataxis(know-7, lead-14)
+det(frog-16, a-15)
+obj(lead-14, frog-16)
+case(crown-18, to-17)
+obl:to(lead-14, crown-18)
+punct(lead-14, ,-19)
+cc(says-28, but-20)
+nsubj(says-28, you-21)
+aux(says-28, ca-22)
+advmod(says-28, n't-23)
+punct(says-28, ...-24)
+punct(says-28, "-25)
+compound(Nymph-27, Water-26)
+nsubj(says-28, Nymph-27)
+parataxis(know-7, says-28)
+conj:but(lead-14, says-28)
+punct(says-28, :-29)
+punct(says-28, "-30)
+nsubj(says-38, you-31)
+aux(says-38, ca-32)
+advmod(says-38, n't-33)
+punct(says-38, ...-34)
+punct(says-38, "-35)
+compound(Nymph-37, Water-36)
+nsubj(says-38, Nymph-37)
+ccomp(says-28, says-38)
+punct(says-38, :-39)
+punct(says-38, "-40)
+aux(look-43, do-41)
+advmod(look-43, n't-42)
+ccomp(says-38, look-43)
+obj(look-43, him-44)
+case(mouth-47, in-45)
+det(mouth-47, the-46)
+obl:in(look-43, mouth-47)
+punct(says-3, .-48)
+punct(says-3, "-49)
+
+Extracted the following NER entity mentions:
+Water Nymph	MISC	MISC:0.6629966554440477
+Water Nymph	MISC	MISC:0.722071574720904
+him	PERSON	-
+
+Sentence #34 (8 tokens):
+The frog expands into a monster form.
+
+Tokens:
+[Text=The CharacterOffsetBegin=1615 CharacterOffsetEnd=1618 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1619 CharacterOffsetEnd=1623 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=expands CharacterOffsetBegin=1624 CharacterOffsetEnd=1631 PartOfSpeech=VBZ Lemma=expand NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=1632 CharacterOffsetEnd=1636 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1637 CharacterOffsetEnd=1638 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=monster CharacterOffsetBegin=1639 CharacterOffsetEnd=1646 PartOfSpeech=NN Lemma=monster NamedEntityTag=O]
+[Text=form CharacterOffsetBegin=1647 CharacterOffsetEnd=1651 PartOfSpeech=NN Lemma=form NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1651 CharacterOffsetEnd=1652 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, expands-3)
+det(frog-2, The-1)
+nsubj(expands-3, frog-2)
+case(form-7, into-4)
+det(form-7, a-5)
+compound(form-7, monster-6)
+obl:into(expands-3, form-7)
+punct(expands-3, .-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #35 (11 tokens):
+Jake says: "You take off that crown!"
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1653 CharacterOffsetEnd=1657 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1658 CharacterOffsetEnd=1662 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1662 CharacterOffsetEnd=1663 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1664 CharacterOffsetEnd=1665 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=1665 CharacterOffsetEnd=1668 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=take CharacterOffsetBegin=1669 CharacterOffsetEnd=1673 PartOfSpeech=VBP Lemma=take NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=1674 CharacterOffsetEnd=1677 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=1678 CharacterOffsetEnd=1682 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=crown CharacterOffsetBegin=1683 CharacterOffsetEnd=1688 PartOfSpeech=NN Lemma=crown NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1688 CharacterOffsetEnd=1689 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1689 CharacterOffsetEnd=1690 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(take-6, You-5)
+ccomp(says-2, take-6)
+compound:prt(take-6, off-7)
+det(crown-9, that-8)
+obj(take-6, crown-9)
+punct(says-2, !-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9980658128146153
+
+Sentence #36 (20 tokens):
+Jake screams as the monster frog approaches, and lifts his gut over them, preparing to crush them.
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1691 CharacterOffsetEnd=1695 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=screams CharacterOffsetBegin=1696 CharacterOffsetEnd=1703 PartOfSpeech=VBZ Lemma=scream NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1704 CharacterOffsetEnd=1706 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1707 CharacterOffsetEnd=1710 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=monster CharacterOffsetBegin=1711 CharacterOffsetEnd=1718 PartOfSpeech=NN Lemma=monster NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1719 CharacterOffsetEnd=1723 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=approaches CharacterOffsetBegin=1724 CharacterOffsetEnd=1734 PartOfSpeech=NNS Lemma=approach NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1734 CharacterOffsetEnd=1735 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1736 CharacterOffsetEnd=1739 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=lifts CharacterOffsetBegin=1740 CharacterOffsetEnd=1745 PartOfSpeech=VBZ Lemma=lift NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1746 CharacterOffsetEnd=1749 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=gut CharacterOffsetBegin=1750 CharacterOffsetEnd=1753 PartOfSpeech=NN Lemma=gut NamedEntityTag=O]
+[Text=over CharacterOffsetBegin=1754 CharacterOffsetEnd=1758 PartOfSpeech=IN Lemma=over NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1759 CharacterOffsetEnd=1763 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1763 CharacterOffsetEnd=1764 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=preparing CharacterOffsetBegin=1765 CharacterOffsetEnd=1774 PartOfSpeech=VBG Lemma=prepare NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1775 CharacterOffsetEnd=1777 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=crush CharacterOffsetBegin=1778 CharacterOffsetEnd=1783 PartOfSpeech=VB Lemma=crush NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1784 CharacterOffsetEnd=1788 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1788 CharacterOffsetEnd=1789 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, screams-2)
+nsubj(screams-2, Jake-1)
+nsubj(lifts-10, Jake-1)
+mark(approaches-7, as-3)
+det(frog-6, the-4)
+compound(frog-6, monster-5)
+nsubj(approaches-7, frog-6)
+advcl:as(screams-2, approaches-7)
+punct(screams-2, ,-8)
+cc(lifts-10, and-9)
+conj:and(screams-2, lifts-10)
+nmod:poss(gut-12, his-11)
+obj(lifts-10, gut-12)
+case(them-14, over-13)
+obl:over(lifts-10, them-14)
+punct(lifts-10, ,-15)
+dep(lifts-10, preparing-16)
+mark(crush-18, to-17)
+xcomp(preparing-16, crush-18)
+obj(crush-18, them-19)
+punct(screams-2, .-20)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9458250981537751
+his	PERSON	-
+
+Sentence #37 (16 tokens):
+Water Nymph says: "OHHHHH, he's about to drop a gut!"
+
+Tokens:
+[Text=Water CharacterOffsetBegin=1790 CharacterOffsetEnd=1795 PartOfSpeech=NNP Lemma=Water NamedEntityTag=O]
+[Text=Nymph CharacterOffsetBegin=1796 CharacterOffsetEnd=1801 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1802 CharacterOffsetEnd=1806 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1806 CharacterOffsetEnd=1807 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1808 CharacterOffsetEnd=1809 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=OHHHHH CharacterOffsetBegin=1809 CharacterOffsetEnd=1815 PartOfSpeech=NNP Lemma=OHHHHH NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1815 CharacterOffsetEnd=1816 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=1817 CharacterOffsetEnd=1819 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1819 CharacterOffsetEnd=1821 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=about CharacterOffsetBegin=1822 CharacterOffsetEnd=1827 PartOfSpeech=RB Lemma=about NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1828 CharacterOffsetEnd=1830 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=drop CharacterOffsetBegin=1831 CharacterOffsetEnd=1835 PartOfSpeech=VB Lemma=drop NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1836 CharacterOffsetEnd=1837 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=gut CharacterOffsetBegin=1838 CharacterOffsetEnd=1841 PartOfSpeech=NN Lemma=gut NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1841 CharacterOffsetEnd=1842 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1842 CharacterOffsetEnd=1843 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Nymph-2, Water-1)
+nsubj(says-3, Nymph-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj('s-9, OHHHHH-6)
+nsubj:xsubj(drop-12, OHHHHH-6)
+punct('s-9, ,-7)
+nsubj('s-9, he-8)
+nsubj:xsubj(drop-12, he-8)
+ccomp(says-3, 's-9)
+advmod(drop-12, about-10)
+mark(drop-12, to-11)
+xcomp('s-9, drop-12)
+det(gut-14, a-13)
+obj(drop-12, gut-14)
+punct(says-3, !-15)
+punct(says-3, "-16)
+
+Extracted the following NER entity mentions:
+he	PERSON	-
+
+Sentence #38 (8 tokens):
+Water Nymph says: "Dang!"
+
+Tokens:
+[Text=Water CharacterOffsetBegin=1844 CharacterOffsetEnd=1849 PartOfSpeech=NNP Lemma=Water NamedEntityTag=O]
+[Text=Nymph CharacterOffsetBegin=1850 CharacterOffsetEnd=1855 PartOfSpeech=NNP Lemma=Nymph NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1856 CharacterOffsetEnd=1860 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1860 CharacterOffsetEnd=1861 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1862 CharacterOffsetEnd=1863 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Dang CharacterOffsetBegin=1863 CharacterOffsetEnd=1867 PartOfSpeech=NNP Lemma=Dang NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1867 CharacterOffsetEnd=1868 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1868 CharacterOffsetEnd=1869 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Nymph-2, Water-1)
+nsubj(says-3, Nymph-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+obj(says-3, Dang-6)
+punct(says-3, !-7)
+punct(says-3, "-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #39 (12 tokens):
+The frog picks them up and throws them into his mouth.
+
+Tokens:
+[Text=The CharacterOffsetBegin=1870 CharacterOffsetEnd=1873 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=frog CharacterOffsetBegin=1874 CharacterOffsetEnd=1878 PartOfSpeech=NN Lemma=frog NamedEntityTag=O]
+[Text=picks CharacterOffsetBegin=1879 CharacterOffsetEnd=1884 PartOfSpeech=VBZ Lemma=pick NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1885 CharacterOffsetEnd=1889 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=1890 CharacterOffsetEnd=1892 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1893 CharacterOffsetEnd=1896 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=throws CharacterOffsetBegin=1897 CharacterOffsetEnd=1903 PartOfSpeech=VBZ Lemma=throw NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1904 CharacterOffsetEnd=1908 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=1909 CharacterOffsetEnd=1913 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1914 CharacterOffsetEnd=1917 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=mouth CharacterOffsetBegin=1918 CharacterOffsetEnd=1923 PartOfSpeech=NN Lemma=mouth NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1923 CharacterOffsetEnd=1924 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, picks-3)
+det(frog-2, The-1)
+nsubj(picks-3, frog-2)
+nsubj(throws-7, frog-2)
+obj(picks-3, them-4)
+compound:prt(picks-3, up-5)
+cc(throws-7, and-6)
+conj:and(picks-3, throws-7)
+obj(throws-7, them-8)
+case(mouth-11, into-9)
+nmod:poss(mouth-11, his-10)
+obl:into(throws-7, mouth-11)
+punct(picks-3, .-12)
+
+Extracted the following NER entity mentions:
+his	PERSON	-
+
+Sentence #40 (14 tokens):
+Jake says: "I think it's actually cooler in here."
+
+Tokens:
+[Text=Jake CharacterOffsetBegin=1925 CharacterOffsetEnd=1929 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1930 CharacterOffsetEnd=1934 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1934 CharacterOffsetEnd=1935 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1936 CharacterOffsetEnd=1937 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1937 CharacterOffsetEnd=1938 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=think CharacterOffsetBegin=1939 CharacterOffsetEnd=1944 PartOfSpeech=VBP Lemma=think NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1945 CharacterOffsetEnd=1947 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1947 CharacterOffsetEnd=1949 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=actually CharacterOffsetBegin=1950 CharacterOffsetEnd=1958 PartOfSpeech=RB Lemma=actually NamedEntityTag=O]
+[Text=cooler CharacterOffsetBegin=1959 CharacterOffsetEnd=1965 PartOfSpeech=JJR Lemma=cooler NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1966 CharacterOffsetEnd=1968 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=1969 CharacterOffsetEnd=1973 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1973 CharacterOffsetEnd=1974 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1974 CharacterOffsetEnd=1975 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Jake-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(think-6, I-5)
+parataxis(cooler-10, think-6)
+nsubj(cooler-10, it-7)
+cop(cooler-10, 's-8)
+advmod(cooler-10, actually-9)
+ccomp(says-2, cooler-10)
+case(here-12, in-11)
+advcl:in(cooler-10, here-12)
+punct(says-2, .-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Jake	PERSON	PERSON:0.9983405797202951
+
+Sentence #41 (3 tokens):
+Minisode Ends.
+
+Tokens:
+[Text=Minisode CharacterOffsetBegin=1976 CharacterOffsetEnd=1984 PartOfSpeech=NNP Lemma=Minisode NamedEntityTag=O]
+[Text=Ends CharacterOffsetBegin=1985 CharacterOffsetEnd=1989 PartOfSpeech=VBZ Lemma=end NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1989 CharacterOffsetEnd=1990 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Ends-2)
+nsubj(Ends-2, Minisode-1)
+punct(Ends-2, .-3)
+
+Extracted the following NER entity mentions:
+
+Coreference set:
+	(12,7,[7,8]) -> (9,10,[10,11]), that is: "we" -> "we"
+
+Coreference set:
+	(10,14,[13,15]) -> (1,4,[1,5]), that is: "that crown" -> "The Frog Carrying Crown"
+	(22,8,[7,9]) -> (1,4,[1,5]), that is: "that crown" -> "The Frog Carrying Crown"
+	(25,5,[4,6]) -> (1,4,[1,5]), that is: "the crown" -> "The Frog Carrying Crown"
+	(26,13,[12,14]) -> (1,4,[1,5]), that is: "the crown" -> "The Frog Carrying Crown"
+	(35,9,[8,10]) -> (1,4,[1,5]), that is: "that crown" -> "The Frog Carrying Crown"
+
+Coreference set:
+	(12,10,[10,11]) -> (10,10,[10,11]), that is: "him" -> "him"
+	(12,13,[13,14]) -> (10,10,[10,11]), that is: "his" -> "him"
+
+Coreference set:
+	(36,19,[19,20]) -> (36,14,[14,15]), that is: "them" -> "them"
+	(39,4,[4,5]) -> (36,14,[14,15]), that is: "them" -> "them"
+	(39,8,[8,9]) -> (36,14,[14,15]), that is: "them" -> "them"
+
+Coreference set:
+	(8,2,[1,3]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(32,2,[1,3]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(33,2,[1,3]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(33,27,[26,28]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(33,37,[36,38]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(33,44,[44,45]) -> (7,2,[1,3]), that is: "him" -> "Water Nymph"
+	(37,2,[1,3]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(38,2,[1,3]) -> (7,2,[1,3]), that is: "Water Nymph" -> "Water Nymph"
+	(39,10,[10,11]) -> (7,2,[1,3]), that is: "his" -> "Water Nymph"
+
+Coreference set:
+	(33,12,[12,13]) -> (33,6,[6,7]), that is: "You" -> "You"
+	(33,21,[21,22]) -> (33,6,[6,7]), that is: "you" -> "You"
+	(33,31,[31,32]) -> (33,6,[6,7]), that is: "you" -> "You"
+
+Coreference set:
+	(3,15,[14,16]) -> (36,6,[4,7]), that is: "this frog" -> "the monster frog"
+	(9,16,[15,17]) -> (36,6,[4,7]), that is: "that frog" -> "the monster frog"
+	(21,2,[1,3]) -> (36,6,[4,7]), that is: "The frog" -> "the monster frog"
+	(25,2,[1,3]) -> (36,6,[4,7]), that is: "The frog" -> "the monster frog"
+	(26,8,[7,9]) -> (36,6,[4,7]), that is: "the frog" -> "the monster frog"
+	(26,18,[18,19]) -> (36,6,[4,7]), that is: "it" -> "the monster frog"
+	(27,7,[7,8]) -> (36,6,[4,7]), that is: "IT" -> "the monster frog"
+	(31,2,[1,3]) -> (36,6,[4,7]), that is: "The frog" -> "the monster frog"
+	(32,11,[11,12]) -> (36,6,[4,7]), that is: "it" -> "the monster frog"
+	(34,2,[1,3]) -> (36,6,[4,7]), that is: "The frog" -> "the monster frog"
+	(39,2,[1,3]) -> (36,6,[4,7]), that is: "The frog" -> "the monster frog"
+
+Coreference set:
+	(14,8,[8,9]) -> (13,9,[9,10]), that is: "it" -> "it"
+
+Coreference set:
+	(5,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(7,8,[8,9]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(9,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(10,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(10,5,[5,6]) -> (4,1,[1,2]), that is: "I" -> "Finn"
+	(13,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(13,5,[5,6]) -> (4,1,[1,2]), that is: "I" -> "Finn"
+	(14,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(14,5,[5,6]) -> (4,1,[1,2]), that is: "I" -> "Finn"
+	(14,16,[16,17]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(17,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(21,6,[6,7]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(23,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(24,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+	(26,1,[1,2]) -> (4,1,[1,2]), that is: "Finn" -> "Finn"
+
+Coreference set:
+	(2,11,[11,12]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(3,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(6,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(7,10,[10,11]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(11,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(12,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(12,5,[5,6]) -> (23,9,[8,10]), that is: "I" -> "cool Jake"
+	(15,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(16,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(18,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(19,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(20,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(22,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(26,3,[3,4]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(27,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(28,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(29,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(30,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(35,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(36,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(36,11,[11,12]) -> (23,9,[8,10]), that is: "his" -> "cool Jake"
+	(37,8,[8,9]) -> (23,9,[8,10]), that is: "he" -> "cool Jake"
+	(40,1,[1,2]) -> (23,9,[8,10]), that is: "Jake" -> "cool Jake"
+	(40,5,[5,6]) -> (23,9,[8,10]), that is: "I" -> "cool Jake"
+
+Coreference set:
+	(25,7,[7,8]) -> (24,7,[7,8]), that is: "his" -> "he"
+	(26,20,[20,21]) -> (24,7,[7,8]), that is: "his" -> "he"

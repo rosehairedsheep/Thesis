@@ -1,0 +1,5458 @@
+STATS:
+[858, 153, 632, 122]
+
+
+
+speaker: FINN
+addressee: BUSH
+
+speaker: FINN
+addressee: BUSH
+
+speaker: FINN
+addressee: BUSH
+
+speaker: FINN
+addressee: BUSH
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MOUNTAIN MAN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: GORK
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JERMAINE
+
+speaker: FINN
+addressee: JERMAINE
+
+speaker: FINN
+addressee: JERMAINE
+
+speaker: FINN
+addressee: JERMAINE
+
+speaker: FINN
+addressee: KING MAN
+
+speaker: FINN
+addressee: BETTY
+
+speaker: FINN
+addressee: BETTY
+
+speaker: FINN
+addressee: BETTY
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JERMAINE
+addressee: FINN
+
+speaker: FINN
+addressee: ABRACADANIEL
+
+speaker: FINN
+addressee: ABRACADANIEL
+
+speaker: FINN
+addressee: ABRACADANIEL
+
+speaker: FINN
+addressee: ABRACADANIEL
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: ABRACADANIEL
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: GOB
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BMO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: SWEET P
+
+speaker: FINN
+addressee: SWEET P
+
+speaker: FERN
+addressee: SWEET P
+
+speaker: FINN
+addressee: SWEET P
+
+speaker: FINN
+addressee: SWEET P
+
+speaker: FERN
+addressee: SWEET P
+
+speaker: BMO
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: ELISE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: ELISE
+addressee: MARCELINE
+
+speaker: ELISE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: MR. CUPCAKE
+
+speaker: JAKE
+addressee: MR. CUPCAKE
+
+speaker: FINN
+addressee: GROB GOB GLOB GROD
+
+speaker: LSP
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: ED
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: CAKE
+addressee: FIONNA
+
+speaker: CAKE
+addressee: ICE QUEEN
+
+speaker: MARCY
+addressee: SIMON
+
+speaker: MARCY
+addressee: SIMON
+
+speaker: MARCY
+addressee: SIMON
+
+speaker: MARCY
+addressee: SIMON
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: JERMAINE
+
+speaker: JAKE
+addressee: JERMAINE
+
+speaker: JAKE
+addressee: JERMAINE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: EVERGREEN
+addressee: GUNTHER
+
+speaker: EVERGREEN
+addressee: GUNTHER
+
+speaker: EVERGREEN
+addressee: GUNTHER
+
+speaker: EVERGREEN
+addressee: GUNTHER
+
+speaker: EVERGREEN
+addressee: GUNTHER
+
+speaker: EVERGREEN
+addressee: GUNTHER
+
+speaker: RICARDIO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: RICARDIO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: RICARDIO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: RICARDIO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: SHELBY
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: LEMONHOPE
+addressee: LEMONGRAB
+
+speaker: LEMONHOPE
+addressee: LEMONGRAB
+
+speaker: LEMONHOPE
+addressee: LEMONGRAB
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: EARL OF LEMONGRAB
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JOHNNIE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JOHNNIE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JOHNNIE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JOHNNIE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FIONNA
+addressee: LUMPY SPACE PRINCE
+
+speaker: CAKE
+addressee: MARSHALL LEE
+
+speaker: CAKE
+addressee: MARSHALL LEE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JOSHUA
+addressee: JAKE
+
+speaker: JOSHUA
+addressee: JAKE
+
+speaker: JOSHUA
+addressee: JAKE
+
+speaker: FINN
+addressee: SUSAN
+
+speaker: FINN
+addressee: SUSAN
+
+speaker: FINN
+addressee: SUSAN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: BILLY
+
+speaker: FINN
+addressee: BILLY
+
+speaker: CANYON
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BILLY
+addressee: FINN
+
+speaker: BILLY
+addressee: FINN
+
+speaker: FINN
+addressee: BILLY
+
+speaker: FINN
+addressee: BILLY
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: FOOTBALL
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: GREEN KNIGHT
+
+speaker: JAKE
+addressee: FINN
+
+speaker: LOLLY
+addressee: FERN
+
+speaker: LOLLY
+addressee: FERN
+
+speaker: FINN
+addressee: GUMBALD
+
+speaker: FINN
+addressee: GUMBALD
+
+speaker: UNCLE GUMBALD
+addressee: FINN
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: GOOSE
+addressee: JAKE
+
+speaker: GOOSE
+addressee: JAKE
+
+speaker: SPIKY MAYOR
+addressee: FINN
+
+speaker: JAKE
+addressee: COOKIE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: COOKIE
+addressee: JAKE
+
+speaker: COOKIE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: COOKIE
+addressee: JAKE
+
+speaker: COOKIE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: SIMON
+
+speaker: SIMON
+addressee: MARCELINE
+
+speaker: SIMON
+addressee: BETTY
+
+speaker: SIMON
+addressee: BETTY
+
+speaker: SIMON
+addressee: BETTY
+
+speaker: SIMON
+addressee: BETTY
+
+speaker: DEATH
+addressee: BETTY
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: SIMON
+addressee: MARCELINE
+
+speaker: BETTY
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: SHERMY
+addressee: KING OF OOO
+
+speaker: SHERMY
+addressee: KING OF OOO
+
+speaker: SHERMY
+addressee: KING OF OOO
+
+speaker: SHERMY
+addressee: KING OF OOO
+
+speaker: MARCELINE
+addressee: GUMBALD
+
+speaker: MARCELINE
+addressee: GUMBALD
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: EARL OF LEMONGRAB
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: ICE KING
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: SIMON PETRIKOV
+
+speaker: SIMON
+addressee: BETTY
+
+speaker: LOLLY
+addressee: BETTY
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: UNCLE GUMBALD
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: UNCLE GUMBALD
+addressee: FINN
+
+speaker: FERN
+addressee: FINN
+
+speaker: UNCLE GUMBALD
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FERN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JERMAINE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BETH
+addressee: FINN
+
+speaker: BETH
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MOUNTAIN MAN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: CHERYL
+addressee: SUSAN
+
+speaker: BMO
+addressee: CHERYL
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: ABRACADANIEL
+addressee: JAKE
+
+speaker: ABRACADANIEL
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: ABRACADANIEL
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: ABRACADANIEL
+
+speaker: FINN
+addressee: ABRACADANIEL
+
+speaker: FINN
+addressee: CINNAMON BUN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FLAME PRINCESS
+
+speaker: EARL OF LEMONGRAB
+addressee: PRINCESS BUBBLEGUM
+
+speaker: LEMONHOPE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: WITCH
+
+speaker: JAKE
+addressee: WITCH
+
+speaker: FINN
+addressee: WITCH
+
+speaker: FINN
+addressee: WITCH
+
+speaker: JAKE
+addressee: WITCH
+
+speaker: FINN
+addressee: WITCH
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: WITCH
+addressee: JAKE
+
+speaker: WITCH
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: WITCH
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: ICE KING
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: CARROLL
+
+speaker: CARROLL
+addressee: FINN
+
+speaker: CARROLL
+addressee: FINN
+
+speaker: CARROLL
+addressee: FINN
+
+speaker: BUSH
+addressee: FINN
+
+speaker: BUSH
+addressee: FINN
+
+speaker: BUSH
+addressee: FINN
+
+speaker: BUSH
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: CLARENCE
+
+speaker: JAKE
+addressee: CLARENCE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: CLARENCE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BARB
+addressee: FINN
+
+speaker: BARB
+addressee: FINN
+
+speaker: BARB
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BARB
+addressee: FINN
+
+speaker: BARB
+addressee: FINN
+
+speaker: FINN
+addressee: BARB
+
+speaker: FINN
+addressee: BARB
+
+speaker: JAKE
+addressee: BARB
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BARB
+addressee: ED
+
+speaker: FINN
+addressee: ED
+
+speaker: BARB
+addressee: ED
+
+speaker: BARB
+addressee: ED
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JERMAINE
+addressee: JAKE
+
+speaker: JERMAINE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: COBBLER
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: COBBLER
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: COBBLER
+addressee: FINN
+
+speaker: COBBLER
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JAKE
+addressee: BMO
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: TURTLE PRINCESS
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: ASH
+addressee: FINN
+
+speaker: ASH
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: ASH
+
+speaker: MARCELINE
+addressee: ASH
+
+speaker: MARCELINE
+addressee: ASH
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: BMO
+addressee: FINN
+
+speaker: DMO
+addressee: FINN
+
+speaker: JERMAINE
+addressee: BRYCE
+
+speaker: JAKE
+addressee: JERMAINE
+
+speaker: JERMAINE
+addressee: JAKE
+
+speaker: MARTIN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARTIN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: UNCLE GUMBALD
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: BMO
+addressee: ICE KING
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: CHET
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: FINN
+
+speaker: MANFRIED
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: BUBBLEGUM
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: PRISMO
+
+speaker: JAKE
+addressee: PRISMO
+
+speaker: JAKE
+addressee: PRISMO
+
+speaker: FINN
+addressee: PRISMO
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: CUBER
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: EARL OF LEMONGRAB
+addressee: LEMONGRAB
+
+speaker: BUBBLEGUM
+addressee: BMO
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: TIFFANY
+addressee: JAKE
+
+speaker: TIFFANY
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: HUNSON
+addressee: FINN
+
+speaker: HUNSON
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCY
+
+speaker: MARTIN
+addressee: FINN
+
+speaker: MARTIN
+addressee: FINN
+
+speaker: MARTIN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARTIN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: MARTIN
+
+speaker: SON OF RAP BEAR
+addressee: JAKE
+
+speaker: SON OF RAP BEAR
+addressee: JAKE
+
+speaker: SON OF RAP BEAR
+addressee: JAKE
+
+speaker: SON OF RAP BEAR
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BRACO
+addressee: FINN
+
+speaker: BRACO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BRACO
+addressee: FINN
+
+speaker: BRACO
+addressee: FINN
+
+speaker: BRACO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: BRACO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: BRACO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: GOB
+
+speaker: FINN
+addressee: GOB
+
+speaker: JAKE
+addressee: GOB
+
+speaker: FINN
+addressee: GOB
+
+speaker: FINN
+addressee: GOB
+
+speaker: FINN
+addressee: GOB
+
+speaker: FINN
+addressee: GOB
+
+speaker: FINN
+addressee: GOB
+
+speaker: PENNY
+addressee: GOB
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BUBBLEGUM
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: SQUIRREL
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: DR. ICE CREAM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BUFO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BUFO
+addressee: FINN
+
+speaker: BUFO
+addressee: FINN
+
+speaker: BUFO
+addressee: FINN
+
+speaker: BUFO
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BUFO
+addressee: JAKE
+
+speaker: LEMONJON
+addressee: FINN
+
+speaker: LEMONJON
+addressee: FINN
+
+speaker: LEMONJON
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: LEMONJON
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: LEMONGRAB
+
+speaker: FINN
+addressee: LEMONGRAB
+
+speaker: JAKE
+addressee: LEMONGRAB
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: GUMMY
+addressee: FINN
+
+speaker: GUMMY
+addressee: FINN
+
+speaker: GUMMY
+addressee: FINN
+
+speaker: GUMMY
+addressee: FINN
+
+speaker: JAKE
+addressee: XERGIOK
+
+speaker: FINN
+addressee: GUMMY
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FROG
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: SQUIRREL
+addressee: JAKE
+
+speaker: COSMIC OWL
+addressee: JAKE
+
+speaker: SQUIRREL
+addressee: JAKE
+
+speaker: SQUIRREL
+addressee: JAKE
+
+speaker: SQUIRREL
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: COSMIC OWL
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: MAGIC MAN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BLARGETHA
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: XERGIOK
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: XERGIOK
+
+speaker: FINN
+addressee: XERGIOK
+
+speaker: JAKE
+addressee: XERGIOK
+
+speaker: JAKE
+addressee: XERGIOK
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: RAGGEDY PRINCESS
+
+speaker: JAKE
+addressee: RAGGEDY PRINCESS
+
+speaker: FINN
+addressee: ICE KING
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: PRISMO
+
+speaker: JAKE
+addressee: PRISMO
+
+speaker: JAKE
+addressee: PRISMO
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: CINNAMON BUN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: RAGGEDY PRINCESS
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BMO
+addressee: NEPTR
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: GOLIAD
+addressee: FINN
+
+speaker: GOLIAD
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FERN
+addressee: FINN
+
+speaker: EARL OF LEMONGRAB
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: SWEET P
+
+speaker: NEPTR
+addressee: FERN
+
+speaker: FINN
+addressee: FERN
+
+speaker: FINN
+addressee: FERN
+
+speaker: FERN
+addressee: NEPTR
+
+speaker: FERN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FERN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: JAKE
+
+speaker: HUNSON
+addressee: JAKE
+
+speaker: HUNSON
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: SUSAN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: SUSAN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: ROSELINEN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: ROSELINEN
+addressee: FINN
+
+speaker: ASH
+addressee: FINN
+
+speaker: ROSELINEN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: BMO
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: LEE
+
+speaker: FINN
+addressee: LEE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FERN
+addressee: FINN
+
+speaker: FERN
+addressee: FINN
+
+speaker: FERN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: SUSAN
+
+speaker: FERN
+addressee: MARCY
+
+speaker: FINN
+addressee: FERN
+
+speaker: FINN
+addressee: FERN
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: DAVEY
+
+speaker: RANDY
+addressee: DAVEY
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: BMO
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: BREEZY
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: BREEZY
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: BREEZY
+addressee: FINN
+
+speaker: BREEZY
+addressee: FINN
+
+speaker: BREEZY
+addressee: FINN
+
+speaker: BREEZY
+addressee: FINN
+
+speaker: BREEZY
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: BREEZY
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: BREEZY
+addressee: JAKE
+
+speaker: FINN
+addressee: NEPTR
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: NEPTR
+addressee: FINN
+
+speaker: NEPTR
+addressee: FINN
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: SHELBY
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: SHELBY
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: LSP
+addressee: PEPPERMINT BUTLER
+
+speaker: FINN
+addressee: BMO
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: BMO
+
+speaker: ETHEL
+addressee: JAKE
+
+speaker: BOB
+addressee: JAKE
+
+speaker: JAKE
+addressee: BOB
+
+speaker: ETHEL
+addressee: BOB
+
+speaker: JAKE
+addressee: BOB
+
+speaker: ETHEL
+addressee: BOB
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BOB
+addressee: ETHEL
+
+speaker: BOB
+addressee: ETHEL
+
+speaker: FINN
+addressee: CINNAMON BUN
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: RATTLEBALLS
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: RATTLEBALLS
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: RATTLEBALLS
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: ETHEL
+addressee: LADY RAINICORN
+
+speaker: ETHEL
+addressee: LADY RAINICORN
+
+speaker: LEE
+addressee: LADY RAINICORN
+
+speaker: BOB
+addressee: ETHEL
+
+speaker: LEE
+addressee: ETHEL
+
+speaker: LEE
+addressee: LADY RAINICORN
+
+speaker: LEE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: WARREN AMPERSAND
+
+speaker: JAKE
+addressee: WARREN AMPERSAND
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: NEPTR
+addressee: LEMONGRAB
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MAJA
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: PAPER PETE
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: DARREN
+addressee: ANCIENT PSYCHIC TANDEM WAR ELEPHANT
+
+speaker: DARREN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: MAJA
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: LADY RAINICORN
+
+speaker: JAKE
+addressee: LADY RAINICORN
+
+speaker: TIFFANY
+addressee: LADY RAINICORN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: SHELBY
+addressee: JAKE
+
+speaker: SHELBY
+addressee: JAKE
+
+speaker: SHELBY
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: EARL OF LEMONGRAB
+addressee: LEMONHOPE
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: WILDBERRY PRINCESS
+
+speaker: JAKE
+addressee: WILDBERRY PRINCESS
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: BMO
+
+speaker: BMO
+addressee: JAKE
+
+speaker: WYATT
+addressee: BMO
+
+speaker: WYATT
+addressee: MR. PIG
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: MARGARET
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: MARGARET
+addressee: WYATT
+
+speaker: MARGARET
+addressee: WYATT
+
+speaker: JOSHUA
+addressee: WYATT
+
+speaker: FINN
+addressee: WYATT
+
+speaker: MARGARET
+addressee: JOSHUA
+
+speaker: JOSHUA
+addressee: MARGARET
+
+speaker: JOSHUA
+addressee: MARGARET
+
+speaker: JOSHUA
+addressee: MARGARET
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: BUBBLEGUM
+
+speaker: JAKE
+addressee: BUBBLEGUM
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: CAKE
+addressee: PRINCE GUMBALL
+
+speaker: FIONNA
+addressee: PRINCE GUMBALL
+
+speaker: FIONNA
+addressee: PRINCE GUMBALL
+
+speaker: FIONNA
+addressee: ICE QUEEN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: GREEN KNIGHT
+
+speaker: FINN
+addressee: GREEN KNIGHT
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: MR. PIG
+
+speaker: FINN
+addressee: MR. PIG
+
+speaker: FINN
+addressee: MR. PIG
+
+speaker: BMO
+addressee: FLAME PRINCESS
+
+speaker: NEPTR
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: MARCELINE
+addressee: LSP
+
+speaker: MARCELINE
+addressee: LSP
+
+speaker: MARCELINE
+addressee: LSP
+
+speaker: FINN
+addressee: MR. PIG
+
+speaker: JAKE
+addressee: MR. PIG
+
+speaker: FINN
+addressee: MR. PIG
+
+speaker: JAKE
+addressee: MR. PIG
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PEPPERMINT BUTLER
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: EARL OF LEMONGRAB
+addressee: LEMONGRAB
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: PRISMO
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: NEPTR
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: NEPTR
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: NEPTR
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: NEPTR
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: MARCELINE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCY
+
+speaker: MARCELINE
+addressee: MARCY
+
+speaker: FINN
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: LUMPY SPACE PRINCESS
+
+speaker: FINN
+addressee: LUMPY SPACE PRINCESS
+
+speaker: JAKE
+addressee: CINNAMON BUN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: BMO
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: WILDBERRY PRINCESS
+
+speaker: JAKE
+addressee: WILDBERRY PRINCESS
+
+speaker: BMO
+addressee: NEPTR
+
+speaker: JAKE
+addressee: NEPTR
+
+speaker: BMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: HUNTRESS WIZARD
+
+speaker: FINN
+addressee: HUNTRESS WIZARD
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: BMO
+addressee: DARLING
+
+speaker: COLE
+addressee: BOB
+
+speaker: BMO
+addressee: HUGO
+
+speaker: BMO
+addressee: HUGO
+
+speaker: BOSS
+addressee: SHOKO
+
+speaker: BOSS
+addressee: SHOKO
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: SHOKO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: SHOKO
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PARTY PAT
+
+speaker: FINN
+addressee: PARTY PAT
+
+speaker: FINN
+addressee: PARTY PAT
+
+speaker: JAKE
+addressee: PARTY PAT
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: FINN
+addressee: FLAME PRINCESS
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: ABRACADANIEL
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: ABRACADANIEL
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: TIFFANY
+addressee: JAKE
+
+speaker: FINN
+addressee: TIFFANY
+
+speaker: FINN
+addressee: TIFFANY
+
+speaker: ICE QUEEN
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: TIFFANY
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: DEATH
+addressee: JAKE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: DONNY
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: DONNY
+
+speaker: JAKE
+addressee: DONNY
+
+speaker: JAKE
+addressee: DONNY
+
+speaker: FINN
+addressee: DONNY
+
+speaker: FINN
+addressee: DONNY
+
+speaker: DONNY
+addressee: FINN
+
+speaker: DONNY
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: DONNY
+addressee: FINN
+
+speaker: DONNY
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: DONNY
+addressee: FINN
+
+speaker: FINN
+addressee: BMO
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: MR. FOX
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: FINN
+
+speaker: PRISMO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: PRISMO
+addressee: JAKE
+
+speaker: PRISMO
+addressee: JAKE
+
+speaker: PRISMO
+addressee: JAKE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: RICARDIO
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: RICARDIO
+
+speaker: FINN
+addressee: RICARDIO
+
+speaker: JAKE
+addressee: RICARDIO
+
+speaker: FINN
+addressee: FINN
+
+speaker: RICARDIO
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: MARCELINE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: ICE KING
+
+speaker: MARCELINE
+addressee: ICE KING
+
+speaker: JAKE
+addressee: MARCELINE
+
+speaker: FINN
+addressee: MARCELINE
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: BANANA GUARD
+
+speaker: JAKE
+addressee: BANANA GUARD
+
+speaker: JAKE
+addressee: BANANA GUARD
+
+speaker: JAKE
+addressee: BANANA GUARD
+
+speaker: MARCELINE
+addressee: BANANA GUARD
+
+speaker: MARCELINE
+addressee: BANANA GUARD
+
+speaker: JAKE
+addressee: BANANA GUARD
+
+speaker: MARCELINE
+addressee: BANANA GUARD
+
+speaker: MARCELINE
+addressee: BANANA GUARD
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: JAKE
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: PRINCESS BUBBLEGUM
+
+speaker: FINN
+addressee: JAKE
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: FINN
+
+speaker: JAKE
+addressee: FINN
+
+speaker: FINN
+addressee: JAKE
+
+speaker: JAKE
+addressee: JAKE
+
+speaker: FINN
+addressee: JAKE

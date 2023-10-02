@@ -1,0 +1,500 @@
+ALLURA says: ""Everybody up!"
+ALLURA says: "Zarkon's attacking!"
+ALLURA says: "The Castle's about to be destroyed!"
+ALLURA says: "Go, go, go!"
+ALLURA says: "We need Voltron now!"
+ALLURA and CORAN are in the Bridge.
+ALLURA says: ""Hurry!"
+ALLURA says: "We can't survive much longer!"
+CORAN says: ""You've got to sell it a little bit more."
+ALLURA hands CORAN the microphone.
+CORAN says: ""Oh, no!"
+CORAN says: "Allura is dead!"
+CORAN says: "Aaaah!"
+CORAN says: "it's horrible!"
+CORAN says: "Her head fell off!"
+CORAN says: "Wait!"
+CORAN says: "What?"
+CORAN says: "Her severed head is trying to speak to me!"
+CORAN says: "What is it, Allura's head?"
+CORAN says: "What are your final words?"
+ALLURA says: ""Coran..."
+CORAN says: ""Oh, yes, Princess, I'm listening."
+ALLURA says: ""It's over."
+CORAN says: ""Oh, I know!"
+CORAN says: "Uaaaagh!"
+CORAN says: "If only Voltron had been formed..."
+CORAN sees SHIRO, KEITH, HUNK, and PIDGE have entered the Bridge.
+CORAN says: ""—"
+CORAN says: "Oh!"
+CORAN says: "Time!"
+SHIRO says: ""I guess this isn't an actual attack."
+ALLURA says: ""And it's a good thing it wasn't because it took you..."
+ALLURA says: "Coran?"
+CORAN says: ""Seventy-five degrees."
+CORAN says: "Oh, sorry."
+CORAN says: "No, this is a meat thermometer."
+ALLURA says: ""However long it was, it was too long."
+ALLURA says: "You must always be ready to do battle with Zarkon."
+ALLURA says: "Look at you!"
+ALLURA says: "Only Shiro is in uniform."
+ALLURA says: "Keith, Pidge, Hunk, where are your Bayards?"
+ALLURA says: "And where is Lance?"
+LANCE enters the Bridge, yawning and looking well-rested.
+LANCE says: ""Good morning, everybody."
+LANCE says: "What's going on?"
+ALLURA says: ""Coran and I have been up for hours getting the Castle back in order."
+ALLURA says: "We had to run a test on the alarms, and we decided to test you as well."
+ALLURA says: "Guess which one failed."
+HUNK says: ""Hey!"
+HUNK says: ""  "You got to sleep for 10,000 years, man."
+HUNK says: "Monday night, I was on Earth."
+HUNK says: "Now, I've flown through space, fought some evil alien named Zarkon, eaten goo in some weird Castle."
+HUNK says: "That's a lot to process in, uh..."
+HUNK says: "I don't know."
+HUNK says: "What day is today?"
+CORAN says: ""It's the third quintant of the Spicolian movement."
+CORAN says: "Hump day!"
+HUNK says: ""—"
+HUNK says: "It's a lot to process."
+ALLURA says: ""You must understand the stakes of our mission."
+ALLURA brings up a map of the universe from the Castleship's computer and displays the amount of distress beacons.
+ALLURA says: ""Over the last 10,000 years, the Castle picked up distress beacons from the following locations."
+ALLURA says: "So, we have to assume that Zarkon has conquered almost the entire known universe."
+ALLURA moves the map to the Milky Way where it appears barely out of Zarkon's reach.
+ALLURA says: ""Earth is here."
+ALLURA says: "An attack on your planet is inevitable."
+HUNK says: ""Oh no..."
+ALLURA says: ""Exactly."
+ALLURA says: "Our mission is to free all those planets."
+ALLURA says: "Coran and I are getting the Castle ready to leave Arus."
+ALLURA says: "During that time, you have to learn to form Voltron, so we can begin fighting Zarkon."
+SHIRO says: ""The Princess is right."
+SHIRO says: "Let's get to our Lions and start training."
+PIDGE says: ""Wait."
+PIDGE says: "But I want to talk to the prisoners we rescued from the Galra ship."
+CORAN says: ""Ah, negative, Number Five."
+CORAN says: "I have you ranked by height, okay?"
+CORAN says: "The prisoners need to remain in the cryo-replenishers until tomorrow."
+ALLURA says: ""That's right."
+ALLURA says: "Now, get to your Lions."
+The Paladins head to their Lions, donning their armor before traveling by zip-line. HUNK's zip line stops.
+HUNK says: ""Whoa, whoa, whoa."
+HUNK says: "What's going on?"
+HUNK says: "What's going..."
+HUNK says: "?"
+HUNK falls from his own weight and the zip-line continues without him. HUNK slides down the shaft slowly.
+HUNK says: ""Aw, come on."
+HUNK says: "You've got to be kidding me."
+The Paladins reach their Speeders that take them to their Lions. HUNK is late to arrive and drop from the zip-line hole, so his speeder takes off without him. He groans in frustration.
+No Mercy.
+Outside the Castle of Lions, the other Paladins wait for HUNK.
+LANCE says: ""..."
+LANCE says: "Should someone go in after him?"
+The Yellow Lion finally arrives.
+HUNK says: ""Hey, sorry, everybody."
+HUNK says: "Seriously, though, can't they park these things, like, a little closer to the Bridge?"
+SHIRO says: ""All right, guys."
+SHIRO says: "Let's just fly in tight formation until we're totally in sync."
+ALLURA appears on SHIRO's screen.
+ALLURA says: ""Feel the bond with your Lions and your fellow pilots until five become one unit and you form Voltron!"
+The Lions take off, flying in sync.
+PALADINS says: ""Yeah!"
+PALADINS says: "..."
+PALADINS says: "Yeah!"
+PALADINS says: "..."
+PALADINS says: "Yeah!"
+The Paladins become less enthusiastic.
+PALADINS says: ""..."
+PALADINS says: "Yay..."
+HUNK says: ""Whoo..."
+HUNK says: "Am I the only one who's still pretending to be excited?"
+SHIRO says: ""Clearly, this isn't working."
+SHIRO says: "Let's set down for a little bit."
+KEITH says: ""Maybe we should be building Voltron from the ground up."
+SHIRO says: ""What do you mean?"
+KEITH says: ""I mean, let's try literally building Voltron, like, stacking on top of each other."
+LANCE says: ""Like a cheerleader pyramid?"
+KEITH says: ""You got a better idea?"
+SHIRO says: ""It's worth a try."
+The Paladins stack their Lions on top of each other, but the Yellow Lion is at the top.
+SHIRO says: ""Hunk, what are you doing?"
+HUNK says: ""What do you mean?"
+SHIRO says: ""You're supposed to be the leg, over there."
+HUNK says: ""What?"
+HUNK says: "No."
+HUNK says: "No, no, no."
+HUNK says: "I'm pretty sure that when we did it last time, I was the head."
+HUNK says: "Right?"
+LANCE says: ""You yelled, 'I'm a leg!"
+HUNK says: ""Yeah, I was yelling a lot of things."
+KEITH says: ""Shiro's the head."
+HUNK says: ""All the time?"
+SHIRO says: ""Let's just try it my way for now."
+HUNK says: ""Okay, but next time I call head."
+The Paladins stack the Lions properly, SHIRO carefully hovering the Black Lion above the others until it stands on top of them.
+SHIRO says: ""Okay."
+SHIRO says: "Arms and legs..."
+SHIRO says: "and I'll form the head."
+SHIRO says: "Feel the bonds with your Lions."
+SHIRO says: "Now, channel your energy into forming Voltron."
+SHIRO says: "Focus..."
+SHIRO says: "Focus..."
+Nothing happens.
+SHIRO says: ""Is everyone bonding and focusing?"
+LANCE says: ""Why was this so much easier before?"
+Shiro sighs.
+SHIRO says: ""Let's take a break."
+ALLURA appears on everyone's screen from the Command Room.
+ALLURA says: ""Sorry to interrupt, but I may be able to help."
+ALLURA says: "Yesterday, you weren't able to form Voltron until you were in the heat of battle."
+PIDGE says: ""Yeah."
+LANCE says: ""I'm listening."
+SHIRO says: ""You're right."
+KEITH says: ""Yeah, I guess."
+ALLURA says: ""Perfect."
+ALLURA says: "Because I need to run a diagnostic test on all of the Castle's defenses."
+ALLURA says: "This should help!"
+The Castle of Lions fires blasts from its particle barrier, bombarding the Lions. The Paladins scream and flee.
+LANCE says: ""Okay, go, go!"
+KEITH says: "Allura, what are you doing?!"
+KEITH says: "!"
+ALLURA smiles at KEITH from his screen while he is running from explosions.
+ALLURA says: ""Running a diagnostic test on the Castle defenses and inspiring you!"
+ALLURA says: "I believe in you, Paladins!"
+ALLURA says: "Let fear be your guide!"
+ALLURA says: "Form Voltron!"
+LANCE says: ""Oh, forget this!"
+LANCE says: "I'm heading back to the Castle!"
+LANCE pilots the Blue Lion towards the Castleship, dodging the attacks, but is thrown back by the particle barrier. HUNK dodges the bombardment.
+HUNK says: ""Please stop!"
+HUNK says: "Please!"
+HUNK says: "Have mercy on us!"
+ALLURA is on HUNK's screen.
+ALLURA says: ""You think Zarkon is going to have mercy on you?"
+ALLURA says: "He's probably on his way right now to destroy us all!"
+ALLURA presses a button on the Castleship's computer screen and walks away.
+COMPUTER says: ""Auto-lock-on engaged."
+The Castle of Lions auto-fires at the panicking Paladins.
+Weakness.
+At the Galra Empire's Central Command, the GALRA COMMANDER who captured SHIRO and chased the Blue Lion kneels before ZARKON.
+ZARKON says: ""You have returned early."
+ZARKON says: "Did you complete your mission?"
+Galra Commander says: ""Sir, the moon's crust became unstable."
+Galra Commander says: "Staying any longer would have cost half my crew."
+ZARKON says: ""Hmm, perhaps, but the half that survived would have been stronger."
+ZARKON says: "Weakness is an infection."
+ZARKON says: "Better to cut it off than let it spread."
+Galra sentries grab the terrified GALRA COMMANDER and drag him away.
+ZARKON says: ""What have you and your Druids come up with to capture Voltron?"
+HAGGAR says: ""I have been working on perfecting something."
+HAGGAR says: "Something that will strike fear into the hearts of any that stand against it."
+HAGGAR says: "Voltron may have surprised Sendak, but he will not be able to overcome my creation."
+Paladin Training.
+Old and New.
+The Paladins, except SHIRO, lay exhausted on the couches of the Castle Lounge. ALLURA and CORAN enter.
+ALLURA says: ""Are we at full power on condenser number five yet?"
+CORAN says: ""No, still just 84 percent."
+ALLURA looks happy to see the Paladins.
+ALLURA says: ""You did it!"
+ALLURA says: "You formed Voltron!"
+KEITH says: ""No."
+KEITH says: "The shooting stopped and the particle barrier shut down, so we just flew in."
+ALLURA says: ""What?"
+CORAN says: ""Oh, right."
+CORAN says: "Uh, sorry, Princess."
+CORAN says: "I had to turn off the Castle defenses to test the fire suppressors."
+SHIRO enters.
+SHIRO says: ""What are you guys doing in here?"
+SHIRO says: "We're not taking a break."
+ALLURA says: ""Shiro's right."
+ALLURA says: "You should be training."
+HUNK says: ""We've been training."
+HUNK says: "When are we going back to Earth?"
+PIDGE says: ""I'm not going back until I find my family."
+SHIRO says: ""Guys, there won't be an Earth if we don't figure out how to fight Zarkon."
+LANCE says: ""How are we going to fight?"
+LANCE says: "We can't even figure out how to form Voltron."
+CORAN says: ""Well, I'm not surprised."
+CORAN says: "You know, the original Paladins fought hundreds of battles together, side-by-side."
+CORAN says: "They were like a pack of Yalmors linked at the ears."
+LANCE says: ""Wow."
+LANCE says: "Yeah, that's definitely not us."
+CORAN says: ""During the last attack, your survival instincts forced you to work as a team, but that will only get you so far."
+CORAN says: "You'll have to become a real team to have any chance of forming Voltron and then beating Zarkon next time."
+CORAN says: "You should try working out on the Training Deck."
+HUNK says: ""There's a Training Deck?"
+Myzax.
+At the Galra Empire's Central Command, HAGGAR enters a dark cell where MYZAX is held.
+HAGGAR says: ""I think I have the opportunity you've been waiting for."
+HAGGAR says: "How would you like to get your revenge against the Champion?"
+MYZAX growls and smiles.
+Training Deck.
+The Training Deck illuminates; CORAN clears his throat to check his microphone.
+CORAN says: ""Two, two, one, two."
+CORAN says: "Okay, listen up, guys."
+CORAN says: "The Paladin code demands that you put your team members' safety above your own."
+CORAN says: "A swarm of drones is about to attack."
+CORAN says: "It's up to each of you to do everything you can to protect the other members of your team."
+Altean drones appear; KEITH and PIDGE form shields.
+HUNK says: ""Wait, wait, wait."
+HUNK says: "What's going on—"
+HUNK says: "Whoa!"
+HUNK's shield forms.
+HUNK says: ""Did you guys get one of these?"
+SHIRO and LANCE form shields.
+SHIRO says: ""Get ready."
+The Altean drones fire lasers. HUNK dodges and PIDGE is struck, dropping into a hole that opens up underfoot.
+CORAN says: ""Protect your teammates or no one will be there to protect you!"
+HUNK is struck and drops into the floor. SHIRO, KEITH, and LANCE huddle back-to-back to defend themselves.
+CORAN says: ""Time to increase intensity."
+The drone fire becomes rapid.
+LANCE says: ""You keeping up over there, Keith?"
+KEITH says: ""Just concentrate on keeping me safe."
+LANCE scoffs.
+LANCE says: ""Me?"
+LANCE says: "I own this drill."
+LANCE says: "You're the one who needs to concentrate."
+[The drones fire at their heads. SHIRO says: "an invisible maze."
+KEITH dodge says: "an invisible maze."
+but LANCE is distracted says: "an invisible maze."
+does not. He lifts his foot to avoid being shot says: "an invisible maze."
+KEITH is shot instead says: "an invisible maze."
+disappearing into the floor. LANCE tries to defend SHIRO but is struck himself says: "an invisible maze."
+so SHIRO ends up struck. Both fall through the holes in the floor. CORAN facepalms but continues to the next test says: "an invisible maze."
+[The drones fire at their heads. SHIRO says: "LANCE stands inside the maze."
+KEITH dodge says: "LANCE stands inside the maze."
+but LANCE is distracted says: "LANCE stands inside the maze."
+does not. He lifts his foot to avoid being shot says: "LANCE stands inside the maze."
+KEITH is shot instead says: "LANCE stands inside the maze."
+disappearing into the floor. LANCE tries to defend SHIRO but is struck himself says: "LANCE stands inside the maze."
+so SHIRO ends up struck. Both fall through the holes in the floor. CORAN facepalms but continues to the next test says: "LANCE stands inside the maze."
+CORAN says: ""To form Voltron, you must trust in each other."
+CORAN says: "This ancient Paladin maze will teach you that trust."
+CORAN says: "Your teammate can see the walls, but you cannot."
+CORAN says: "So, listen carefully."
+CORAN says: "If you touch the walls, you'll get a slight shock."
+LANCE says: ""Wait."
+LANCE says: "Who's guiding me through?"
+KEITH speaks through LANCE's helmet using a microphone.
+KEITH says: ""Take two steps forward."
+LANCE says: ""Oh, no."
+LANCE says: "Not Keith."
+LANCE says: "Why does he get to be the man on the mic?"
+CORAN says: ""Now, just sit tight."
+CORAN says: "You'll get your turn."
+KEITH says: ""Like I said, take two steps forward, turn right, and take three steps that direction."
+LANCE only turns right and hits a wall, getting shocked.
+LANCE says: ""You did that on purpose!"
+KEITH says: ""You're not listening."
+LANCE says: ""You said, 'Turn right."
+KEITH says: ""But, before that, I said, 'Take two steps forward."
+LANCE says: ""Two steps—"
+LANCE steps in the wrong direction and gets shocked again.
+LANCE says: ""We're switching places right now!"
+Eyes of a Lion.
+The team is flying their Lions through the sky for the next test. CORAN speaks to them from the Castleship's Bridge.
+CORAN says: ""You'll never be able to form Voltron unless each of you has a strong bond with his Lion."
+LANCE says: ""No problem."
+LANCE says: "Me and Blue are best buds for life, for real."
+CORAN says: ""Perfect!"
+CORAN says: "Then you won't have any issues with this exercise."
+CORAN says: "Everyone, put your Lions into a nose dive!"
+CORAN says: "This is an expert-level drill that you really shouldn't attempt until you've been flying for years, but, uh, we're in a bit of a rush, so here we go."
+CORAN says: ""Activating training helmets!"
+Dark visors appear over each Paladin's helmet. LANCE screams.
+LANCE says: ""Coran, what's happening?!"
+LANCE says: "!"
+LANCE says: "I can't see!"
+CORAN says: ""You must learn to see through your Lions' eyes."
+CORAN says: "The goal is to pull up right before you crash into the ground."
+CORAN says: "Feel what the Lion feels!"
+HUNK says: ""Mine feels scared!"
+HUNK panics and pulls out of the dive right away.
+LANCE says: ""You still going, Keith?"
+KEITH says: ""You know it."
+KEITH says: "You?"
+LANCE says: ""Going?"
+LANCE says: "I'm speeding up!"
+LANCE speeds up his dive.
+KEITH says: ""Oh, yeah?"
+KEITH speeds up his dive.
+LANCE says: ""Must be getting close."
+KEITH says: ""Must be."
+LANCE says: ""You getting scared?"
+KEITH says: ""I'M NOT SCARED!"
+KEITH loses his temper and speeds ahead; both crash into the ground with their Lions half-buried. The Blue Lion rolls away.
+KEITH says: ""Ow..."
+LANCE says: ""..."
+LANCE says: "I win."
+SHIRO and PIDGE are still in a nose-dive.
+PIDGE says: ""What was that noise?"
+PIDGE says: "Did they crash?"
+PIDGE panics and pulls out of the dive, but hits a cliff. SHIRO remains in a dive with his eyes closed and is able to connect with the Black Lion seeing what it sees. He pulls out of the dive last-second and flies through several rocky areas without using his own eyes.
+SHIRO says: ""I think I'm getting this."
+CORAN says: ""Excellent, Shiro!"
+Deep Within.
+The Paladins sit in a circle in the Training Deck with special headsets on as CORAN speaks to them over the intercom.
+CORAN says: ""Now the most important part of Paladin training is being able to meld your minds and focus on one thing: Voltron."
+CORAN says: "Everything else has to fade away."
+CORAN says: "This technique will be essential every time you form Voltron."
+A screen depicting the thoughts of the Paladins appears before each one. KEITH thinks of his desert shack. LANCE thinks of his family. HUNK thinks of food. PIDGE thinks of the photograph HUNK found on Earth of "Pidge" and a girlfriend, but the image is obscured. SHIRO thinks of the Kerberos Mission launch.
+CORAN says: ""So, relax and open your mind."
+CORAN says: "No walls, no secrets between Paladins."
+CORAN says: "Come on, everyone, clear everything."
+CORAN says: "Now, focus on forming your Lion."
+The Paladins, sans PIDGE, form their images into their respective Lions and move them to form Voltron.
+CORAN says: ""Bring your Lions together a-and form Voltron."
+CORAN says: "Keep your minds open, work together."
+CORAN says: "Good!"
+CORAN says: "Keep focusing!"
+CORAN says: "Only one to go!"
+The Green Lion has not appeared. PIDGE's mental image remains static-filled; KEITH notices.
+KEITH says: ""Pidge, stop thinking of your girlfriend!"
+PIDGE's mental image disappears.
+PIDGE says: ""I wasn't!"
+PIDGE says: "Hunk was rooting around in my head!"
+HUNK says: ""I-I thought we were open."
+HUNK says: "You can look in my head hole."
+CORAN says: ""Everyone has to be able to look in everyone's head holes!"
+CORAN says: "Clear your minds!"
+The Paladins try again. This time, PIDGE is able to manifest the Green Lion. The mental Lions move together.
+CORAN says: ""Good!"
+CORAN says: "Almost there."
+The mental Lions begin forming Voltron.
+CORAN says: ""Now, form Voltron."
+CORAN says: "Yes!"
+The Green Lion attaches to the mental Voltron, but becomes the same static-filled image as before.
+LANCE says: ""Pidge!"
+PIDGE snaps in frustration and throws the headset off.
+PIDGE says: ""I'm done with this!"
+PIDGE says: "Look, I don't like everyone grubbing around in my head!"
+SHIRO says: ""Oh, come on, Pidge, we're starting to get the hang of this."
+PIDGE says: ""I'm just..."
+PIDGE says: "I'm just tired, okay?"
+SHIRO says: ""Okay."
+SHIRO says: "Let's take a break."
+The Tyrannical Princess.
+The Gladiator.
+CORAN hands all the Paladins packs of fluid to drink as they sit and relax.
+CORAN says: ""You have been working hard."
+CORAN says: "Maybe it's time to relax a little."
+ALLURA stomps over.
+ALLURA says: ""What are you doing lying around?"
+ALLURA says: "You're supposed to be training!"
+CORAN says: ""Just resting a bit."
+CORAN says: "Y-You know, you can't push too hard."
+ALLURA says: ""What do you mean, 'can't push too hard'?"
+ALLURA says: "Get up, you lazy lumps!"
+ALLURA says: "It's time you faced the Gladiator!"
+The Paladins stand with their Bayards formed in the Training Deck.
+CORAN says: ""In order to defeat the Gladiator, five paladins must fight as one."
+The Gladiator robot drops from the ceiling wielding a polearm staff.
+HUNK says: ""Hmm?"
+HUNK says: "Whoa!"
+HUNK panics and is knocked out of commission. PIDGE fights the Gladiator robot but is also knocked out. LANCE meets the same fate, being tossed into KEITH and leaving them both sprawled on the floor. The Gladiator rushes SHIRO, triggering a memory. SHIRO freezes. KEITH launches himself from the floor to block the Gladiator's attack on SHIRO.
+KEITH says: ""Shiro, are you okay?"
+SHIRO does not respond. The Gladiator knocks KEITH into SHIRO, sending them both to the floor. The fight ends. ALLURA approaches.
+ALLURA says: ""That combat simulator was set at a level fit for an Altean child!"
+ALLURA says: "You're not even close to working as a team, let alone ready to face Zarkon!"
+Allura the Terrible.
+The Paladins sit in the dining hall before a table of food goo and other strange food. CORAN stands nearby.
+CORAN says: ""Ahoy, young Paladins!"
+CORAN says: "I've whipped up a big batch of focusing food."
+CORAN says: "After this meal, you'll be forming Voltron six times a movement and twice on the astral conflux!"
+SHIRO says: ""Smells great, Coran."
+SHIRO says: "Thanks."
+CORAN pulls out a remote and presses a button. The Paladins are handcuffed together on each arm.
+LANCE says: ""Hold the phone!"
+CORAN says: ""I saw a lot of solid individual performances today, but you're still struggling to work as a team."
+CORAN says: "So, welcome to the final bonding exercise of the day."
+HUNK tries to free himself from LANCE, then tries to free himself from SHIRO. Both attempts fail.
+HUNK says: ""Coran, I want you to think about what you're doing."
+CORAN says: ""Oh, this one's a classic."
+CORAN says: "You get to feed each other, like a pack of Yalmors!"
+A the Galra Empire's Central Command, HAGGAR turns MYZAX into the Galactic Gladiator Robeast. At the Castle of Lions, ALLURA has joined the Paladins for dinner. The Paladins struggle to eat. LANCE flings HUNK's food goo on accident.
+HUNK says: ""Ow!"
+LANCE says: ""Sorry."
+HUNK tries to eat again; LANCE's fingers end up HUNK's nose and mouth. LANCE pulls away.
+LANCE says: ""Ew!"
+LANCE says: "Ugh..."
+LANCE is pulled back over by HUNK, causing him to pull KEITH's hand into LANCE's plate of goo.
+LANCE says: ""Oh, nice."
+LANCE says: "You defiled my food goo!"
+KEITH says: ""It's your fault!"
+KEITH says: "This is ridiculous."
+ALLURA growls in frustration.
+ALLURA says: ""Do Earthlings ever stop complaining?"
+SHIRO says: ""Can't you just give us a break?"
+SHIRO says: "Everyone's been working really hard today."
+KEITH says: ""Yeah!"
+KEITH says: "We're not some prisoners for you to toy with, like..."
+KEITH says: "like..."
+LANCE says: ""Like a bunch of toy prisoners!"
+KEITH says: ""Yes!"
+KEITH says: "Thank you, Lance!"
+CORAN says: ""—"
+CORAN says: "You do not yell at the Princess!"
+PIDGE says: ""Oh, the Princess of what?"
+PIDGE says: "We're the only ones out here and she's no Princess of ours!"
+ALLURA flings a spoonful of goo at PIDGE. PIDGE and KEITH glare at her.
+KEITH says: ""Go loose, Pidge!"
+KEITH flings a bowl full of goo at ALLURA. CORAN blocks the attack and tosses a huge scoop of goo all over the Paladins.
+HUNK says: ""Oh, it's on now."
+Everyone throws goo at each other until they begin having fun and laughing.
+A Team Bonded.
+The fight leaves Allura exhausted in her chair. The Paladins laugh.
+ALLURA says: ""Enough!"
+ALLURA says: "Do you see what you're doing?!"
+ALLURA says: "!"
+The Paladins are silent and apprehensive. But ALLURA smiles at them.
+ALLURA says: ""You're finally working together as one!"
+KEITH says: ""Hey, she's right!"
+LANCE says: ""I actually don't hate you right now."
+HUNK says: ""You guys thinking what I'm thinking?"
+SHIRO says: ""Let's go form Voltron!"
+PALADINS says: ""Yeah!"
+HUNK says: ""Actually, I was thinking dessert."
+HUNK says: "But, yeah!"
+HUNK says: "Let's do it!"
+HUNK cheers but ends up making the Paladins fall over as they are still handcuffed. The Paladins all successfully make it to their Lions. SHIRO takes the controls of the Black Lion.
+SHIRO says: ""Everyone ready to do this?"
+PIGDE takes control of the Green Lion.
+PIDGE says: ""Roger that!"
+LANCE takes control of the Blue Lion.
+LANCE says: ""It's on!"
+KEITH takes control of the Red Lion.
+KEITH says: ""Yes, sir!"
+HUNK takes control of the Yellow Lion.
+HUNK says: ""I was born ready!"
+SHIRO says: ""Then let's go!"
+PALADINS says: ""Yeah!"
+The Lions form Voltron. ALLURA and CORAN stand outside the Castle of Lions.
+ALLURA says: ""I told you I could get them to do it."
+ALLURA says: "They just needed a common enemy."
+CORAN says: ""It's true."
+CORAN says: "Like the old proverb says, 'A man can be driven to do anything, if a beautiful woman is just really, really mean to him."
+ALLURA looks unamused. In the Castle Lounge, the Paladins recount their success.
+LANCE says: ""Man, that was cool!"
+LANCE says: "I'm so charged up, I don't know if I'm going to be able to sleep tonight."
+KEITH says: ""Not me."
+KEITH says: "When my head hits the pillow, I'm going to be lights out."
+HUNK says: ""I just want you to know that I realized when we were in Voltron, we're brothers, man."
+HUNK says: "You know?"
+HUNK says: "Like, we're totally connected."
+HUNK says: "No secrets, no barriers, no nothing."
+HUNK says: "Brothers all the way."
+HUNK says: "I love you guys."
+KEITH says: ""G-forces mess with your head a little bit?"
+HUNK says: ""Yeah, maybe a little."
+HUNK says: "I-I don't know."
+HUNK says: "It's been a tough few days."
+The Paladins head to bed, sans PIDGE. SHIRO stops.
+SHIRO says: ""Going to bed, Pidge?"
+PIDGE says: ""In a minute."
+SHIRO says: ""Good work today."
+SHIRO says: "We're really coming together."
+SHIRO leaves. PIDGE frowns and looks at the photograph that appeared during the mental training. At the Galra Empire's Central Command, ZARKON watches the Galactic Gladiator prepare to be launched.
+ZARKON says: ""This beast will allow us to destroy the Paladins."
+ZARKON says: "And then, Voltron will be ours."
+Episode Ends with the Robeast being launched into space, hurling towards Arus.

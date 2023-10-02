@@ -1,0 +1,3601 @@
+Document: ID=Waiting_transcript | Encyclopedia SpongeBobia | Fandom.html.txt.txt (98 sentences, 1161 tokens)
+
+Sentence #1 (9 tokens):
+SpongeBob says: "What's this?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=0 CharacterOffsetEnd=9 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=10 CharacterOffsetEnd=14 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=14 CharacterOffsetEnd=15 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=16 CharacterOffsetEnd=17 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=17 CharacterOffsetEnd=21 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=21 CharacterOffsetEnd=23 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=this CharacterOffsetBegin=24 CharacterOffsetEnd=28 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=28 CharacterOffsetEnd=29 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=29 CharacterOffsetEnd=30 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+ccomp(says-2, What-5)
+cop(What-5, 's-6)
+nsubj(What-5, this-7)
+punct(says-2, ?-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8746192470177523
+
+Sentence #2 (13 tokens):
+SpongeBob says: "How you doing over there, Gary?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=31 CharacterOffsetEnd=40 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=41 CharacterOffsetEnd=45 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=45 CharacterOffsetEnd=46 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=47 CharacterOffsetEnd=48 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=How CharacterOffsetBegin=48 CharacterOffsetEnd=51 PartOfSpeech=WRB Lemma=how NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=52 CharacterOffsetEnd=55 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=doing CharacterOffsetBegin=56 CharacterOffsetEnd=61 PartOfSpeech=VBG Lemma=do NamedEntityTag=O]
+[Text=over CharacterOffsetBegin=62 CharacterOffsetEnd=66 PartOfSpeech=RB Lemma=over NamedEntityTag=O]
+[Text=there CharacterOffsetBegin=67 CharacterOffsetEnd=72 PartOfSpeech=RB Lemma=there NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=72 CharacterOffsetEnd=73 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Gary CharacterOffsetBegin=74 CharacterOffsetEnd=78 PartOfSpeech=NNP Lemma=Gary NamedEntityTag=PERSON]
+[Text=? CharacterOffsetBegin=78 CharacterOffsetEnd=79 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=79 CharacterOffsetEnd=80 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(doing-7, How-5)
+nsubj(doing-7, you-6)
+ccomp(says-2, doing-7)
+advmod(there-9, over-8)
+advmod(doing-7, there-9)
+punct(doing-7, ,-10)
+obj(doing-7, Gary-11)
+punct(says-2, ?-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8285913220412039
+Gary	PERSON	PERSON:0.9985587534142218
+
+Sentence #3 (7 tokens):
+Gary says: "Meow."
+
+Tokens:
+[Text=Gary CharacterOffsetBegin=81 CharacterOffsetEnd=85 PartOfSpeech=NNP Lemma=Gary NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=86 CharacterOffsetEnd=90 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=90 CharacterOffsetEnd=91 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=92 CharacterOffsetEnd=93 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Meow CharacterOffsetBegin=93 CharacterOffsetEnd=97 PartOfSpeech=NNP Lemma=Meow NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=97 CharacterOffsetEnd=98 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=98 CharacterOffsetEnd=99 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Gary-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Meow-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Gary	PERSON	PERSON:0.9971754613494299
+
+Sentence #4 (7 tokens):
+Gary says: "Meow."
+
+Tokens:
+[Text=Gary CharacterOffsetBegin=100 CharacterOffsetEnd=104 PartOfSpeech=NNP Lemma=Gary NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=105 CharacterOffsetEnd=109 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=109 CharacterOffsetEnd=110 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=111 CharacterOffsetEnd=112 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Meow CharacterOffsetBegin=112 CharacterOffsetEnd=116 PartOfSpeech=NNP Lemma=Meow NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=116 CharacterOffsetEnd=117 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=117 CharacterOffsetEnd=118 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Gary-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Meow-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Gary	PERSON	PERSON:0.9971754613494299
+
+Sentence #5 (20 tokens):
+SpongeBob says: "Send in the box tops..."
+SpongeBob says: "I'm waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=119 CharacterOffsetEnd=128 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=129 CharacterOffsetEnd=133 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=133 CharacterOffsetEnd=134 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=135 CharacterOffsetEnd=136 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Send CharacterOffsetBegin=136 CharacterOffsetEnd=140 PartOfSpeech=VB Lemma=send NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=141 CharacterOffsetEnd=143 PartOfSpeech=RP Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=144 CharacterOffsetEnd=147 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=box CharacterOffsetBegin=148 CharacterOffsetEnd=151 PartOfSpeech=NN Lemma=box NamedEntityTag=O]
+[Text=tops CharacterOffsetBegin=152 CharacterOffsetEnd=156 PartOfSpeech=VBZ Lemma=top NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=156 CharacterOffsetEnd=159 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=159 CharacterOffsetEnd=160 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=161 CharacterOffsetEnd=170 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=171 CharacterOffsetEnd=175 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=175 CharacterOffsetEnd=176 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=177 CharacterOffsetEnd=178 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=178 CharacterOffsetEnd=179 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=179 CharacterOffsetEnd=181 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=182 CharacterOffsetEnd=189 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=189 CharacterOffsetEnd=190 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=190 CharacterOffsetEnd=191 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(tops-9, Send-5)
+compound:prt(Send-5, in-6)
+det(box-8, the-7)
+nsubj(tops-9, box-8)
+ccomp(says-2, tops-9)
+punct(tops-9, ...-10)
+punct(tops-9, "-11)
+nsubj(says-13, SpongeBob-12)
+ccomp(tops-9, says-13)
+punct(says-13, :-14)
+punct(says-13, "-15)
+nsubj(waiting-18, I-16)
+aux(waiting-18, 'm-17)
+ccomp(says-13, waiting-18)
+punct(says-2, .-19)
+punct(says-2, "-20)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7807981138002408
+SpongeBob	PERSON	PERSON:0.6965696453846675
+
+Sentence #6 (9 tokens):
+SpongeBob says: "I'm waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=192 CharacterOffsetEnd=201 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=202 CharacterOffsetEnd=206 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=206 CharacterOffsetEnd=207 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=208 CharacterOffsetEnd=209 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=209 CharacterOffsetEnd=210 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=210 CharacterOffsetEnd=212 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=213 CharacterOffsetEnd=220 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=220 CharacterOffsetEnd=221 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=221 CharacterOffsetEnd=222 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, I-5)
+aux(waiting-7, 'm-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8893239265819546
+
+Sentence #7 (9 tokens):
+SpongeBob says: "I'm waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=223 CharacterOffsetEnd=232 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=233 CharacterOffsetEnd=237 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=237 CharacterOffsetEnd=238 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=239 CharacterOffsetEnd=240 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=240 CharacterOffsetEnd=241 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=241 CharacterOffsetEnd=243 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=244 CharacterOffsetEnd=251 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=251 CharacterOffsetEnd=252 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=252 CharacterOffsetEnd=253 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, I-5)
+aux(waiting-7, 'm-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8893239265819546
+
+Sentence #8 (9 tokens):
+Patrick says: "I'm waiting."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=254 CharacterOffsetEnd=261 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=262 CharacterOffsetEnd=266 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=266 CharacterOffsetEnd=267 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=268 CharacterOffsetEnd=269 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=269 CharacterOffsetEnd=270 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=270 CharacterOffsetEnd=272 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=273 CharacterOffsetEnd=280 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=280 CharacterOffsetEnd=281 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=281 CharacterOffsetEnd=282 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, I-5)
+aux(waiting-7, 'm-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9772195972508707
+
+Sentence #9 (9 tokens):
+Patrick says: "I'm waiting."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=283 CharacterOffsetEnd=290 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=291 CharacterOffsetEnd=295 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=295 CharacterOffsetEnd=296 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=297 CharacterOffsetEnd=298 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=298 CharacterOffsetEnd=299 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=299 CharacterOffsetEnd=301 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=302 CharacterOffsetEnd=309 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=309 CharacterOffsetEnd=310 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=310 CharacterOffsetEnd=311 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, I-5)
+aux(waiting-7, 'm-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9772195972508707
+
+Sentence #10 (9 tokens):
+SpongeBob says: "We're waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=312 CharacterOffsetEnd=321 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=322 CharacterOffsetEnd=326 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=326 CharacterOffsetEnd=327 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=328 CharacterOffsetEnd=329 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=329 CharacterOffsetEnd=331 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=331 CharacterOffsetEnd=334 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=335 CharacterOffsetEnd=342 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=342 CharacterOffsetEnd=343 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=343 CharacterOffsetEnd=344 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.9488905515018365
+
+Sentence #11 (9 tokens):
+Patrick says: "We're waiting."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=345 CharacterOffsetEnd=352 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=353 CharacterOffsetEnd=357 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=357 CharacterOffsetEnd=358 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=359 CharacterOffsetEnd=360 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=360 CharacterOffsetEnd=362 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=362 CharacterOffsetEnd=365 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=366 CharacterOffsetEnd=373 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=373 CharacterOffsetEnd=374 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=374 CharacterOffsetEnd=375 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9879221522077726
+
+Sentence #12 (9 tokens):
+SpongeBob says: "We're waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=376 CharacterOffsetEnd=385 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=386 CharacterOffsetEnd=390 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=390 CharacterOffsetEnd=391 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=392 CharacterOffsetEnd=393 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=393 CharacterOffsetEnd=395 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=395 CharacterOffsetEnd=398 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=399 CharacterOffsetEnd=406 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=406 CharacterOffsetEnd=407 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=407 CharacterOffsetEnd=408 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.9488905515018365
+
+Sentence #13 (9 tokens):
+Patrick says: "We're waiting."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=409 CharacterOffsetEnd=416 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=417 CharacterOffsetEnd=421 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=421 CharacterOffsetEnd=422 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=423 CharacterOffsetEnd=424 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=424 CharacterOffsetEnd=426 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=426 CharacterOffsetEnd=429 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=430 CharacterOffsetEnd=437 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=437 CharacterOffsetEnd=438 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=438 CharacterOffsetEnd=439 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9879221522077726
+
+Sentence #14 (9 tokens):
+SpongeBob says: "We're waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=440 CharacterOffsetEnd=449 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=450 CharacterOffsetEnd=454 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=454 CharacterOffsetEnd=455 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=456 CharacterOffsetEnd=457 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=459 CharacterOffsetEnd=462 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=463 CharacterOffsetEnd=470 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=470 CharacterOffsetEnd=471 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=471 CharacterOffsetEnd=472 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.9488905515018365
+
+Sentence #15 (13 tokens):
+Patrick says: "SpongeBob, what are we waiting for?"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=473 CharacterOffsetEnd=480 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=481 CharacterOffsetEnd=485 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=485 CharacterOffsetEnd=486 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=487 CharacterOffsetEnd=488 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=488 CharacterOffsetEnd=497 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=497 CharacterOffsetEnd=498 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=499 CharacterOffsetEnd=503 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=504 CharacterOffsetEnd=507 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=508 CharacterOffsetEnd=510 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=511 CharacterOffsetEnd=518 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=519 CharacterOffsetEnd=522 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=522 CharacterOffsetEnd=523 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=523 CharacterOffsetEnd=524 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(waiting-10, SpongeBob-5)
+punct(waiting-10, ,-6)
+dep(waiting-10, what-7)
+aux(waiting-10, are-8)
+nsubj(waiting-10, we-9)
+ccomp(says-2, waiting-10)
+compound:prt(waiting-10, for-11)
+punct(says-2, ?-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9370066395466291
+
+Sentence #16 (12 tokens):
+SpongeBob says: "We're waiting for the mailman."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=525 CharacterOffsetEnd=534 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=535 CharacterOffsetEnd=539 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=539 CharacterOffsetEnd=540 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=541 CharacterOffsetEnd=542 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=542 CharacterOffsetEnd=544 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=544 CharacterOffsetEnd=547 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=548 CharacterOffsetEnd=555 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=556 CharacterOffsetEnd=559 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=560 CharacterOffsetEnd=563 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=mailman CharacterOffsetBegin=564 CharacterOffsetEnd=571 PartOfSpeech=NN Lemma=mailman NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=571 CharacterOffsetEnd=572 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=572 CharacterOffsetEnd=573 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+case(mailman-10, for-8)
+det(mailman-10, the-9)
+obl:for(waiting-7, mailman-10)
+punct(says-2, .-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.9488905512816475
+
+Sentence #17 (13 tokens):
+SpongeBob says: "He's bringing me a free toy."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=574 CharacterOffsetEnd=583 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=584 CharacterOffsetEnd=588 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=588 CharacterOffsetEnd=589 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=590 CharacterOffsetEnd=591 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=He CharacterOffsetBegin=591 CharacterOffsetEnd=593 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=593 CharacterOffsetEnd=595 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=bringing CharacterOffsetBegin=596 CharacterOffsetEnd=604 PartOfSpeech=VBG Lemma=bring NamedEntityTag=O]
+[Text=me CharacterOffsetBegin=605 CharacterOffsetEnd=607 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=608 CharacterOffsetEnd=609 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=free CharacterOffsetBegin=610 CharacterOffsetEnd=614 PartOfSpeech=JJ Lemma=free NamedEntityTag=O]
+[Text=toy CharacterOffsetBegin=615 CharacterOffsetEnd=618 PartOfSpeech=NN Lemma=toy NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=618 CharacterOffsetEnd=619 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=619 CharacterOffsetEnd=620 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(bringing-7, He-5)
+aux(bringing-7, 's-6)
+ccomp(says-2, bringing-7)
+iobj(bringing-7, me-8)
+det(toy-11, a-9)
+amod(toy-11, free-10)
+obj(bringing-7, toy-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8521348879314498
+He	PERSON	-
+
+Sentence #18 (9 tokens):
+Patrick says: "I love toys!"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=621 CharacterOffsetEnd=628 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=629 CharacterOffsetEnd=633 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=633 CharacterOffsetEnd=634 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=635 CharacterOffsetEnd=636 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=636 CharacterOffsetEnd=637 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=love CharacterOffsetBegin=638 CharacterOffsetEnd=642 PartOfSpeech=VBP Lemma=love NamedEntityTag=O]
+[Text=toys CharacterOffsetBegin=643 CharacterOffsetEnd=647 PartOfSpeech=NNS Lemma=toy NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=647 CharacterOffsetEnd=648 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=648 CharacterOffsetEnd=649 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(love-6, I-5)
+ccomp(says-2, love-6)
+obj(love-6, toys-7)
+punct(says-2, !-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9597986987509052
+
+Sentence #19 (14 tokens):
+Patrick says: "Can I wait for your toy with you?"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=650 CharacterOffsetEnd=657 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=658 CharacterOffsetEnd=662 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=662 CharacterOffsetEnd=663 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=664 CharacterOffsetEnd=665 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Can CharacterOffsetBegin=665 CharacterOffsetEnd=668 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=669 CharacterOffsetEnd=670 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=wait CharacterOffsetBegin=671 CharacterOffsetEnd=675 PartOfSpeech=VB Lemma=wait NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=676 CharacterOffsetEnd=679 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=your CharacterOffsetBegin=680 CharacterOffsetEnd=684 PartOfSpeech=PRP$ Lemma=you NamedEntityTag=O]
+[Text=toy CharacterOffsetBegin=685 CharacterOffsetEnd=688 PartOfSpeech=NN Lemma=toy NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=689 CharacterOffsetEnd=693 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=694 CharacterOffsetEnd=697 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=697 CharacterOffsetEnd=698 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=698 CharacterOffsetEnd=699 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+aux(wait-7, Can-5)
+nsubj(wait-7, I-6)
+dep(says-2, wait-7)
+case(toy-10, for-8)
+nmod:poss(toy-10, your-9)
+obl:for(wait-7, toy-10)
+case(you-12, with-11)
+obl:with(wait-7, you-12)
+punct(says-2, ?-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9418480690560715
+
+Sentence #20 (9 tokens):
+SpongeBob says: "Why, sure."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=700 CharacterOffsetEnd=709 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=710 CharacterOffsetEnd=714 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=714 CharacterOffsetEnd=715 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=716 CharacterOffsetEnd=717 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Why CharacterOffsetBegin=717 CharacterOffsetEnd=720 PartOfSpeech=WRB Lemma=why NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=720 CharacterOffsetEnd=721 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=sure CharacterOffsetBegin=722 CharacterOffsetEnd=726 PartOfSpeech=JJ Lemma=sure NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=726 CharacterOffsetEnd=727 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=727 CharacterOffsetEnd=728 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(sure-7, Why-5)
+punct(sure-7, ,-6)
+ccomp(says-2, sure-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.6662140856611062
+
+Sentence #21 (9 tokens):
+Both says: "We're waiting."
+
+Tokens:
+[Text=Both CharacterOffsetBegin=729 CharacterOffsetEnd=733 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=734 CharacterOffsetEnd=738 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=738 CharacterOffsetEnd=739 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=740 CharacterOffsetEnd=741 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=741 CharacterOffsetEnd=743 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=743 CharacterOffsetEnd=746 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=747 CharacterOffsetEnd=754 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=754 CharacterOffsetEnd=755 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=755 CharacterOffsetEnd=756 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Both-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+
+Sentence #22 (9 tokens):
+Both says: "We're waiting."
+
+Tokens:
+[Text=Both CharacterOffsetBegin=757 CharacterOffsetEnd=761 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=762 CharacterOffsetEnd=766 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=766 CharacterOffsetEnd=767 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=768 CharacterOffsetEnd=769 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=769 CharacterOffsetEnd=771 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=771 CharacterOffsetEnd=774 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=775 CharacterOffsetEnd=782 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=782 CharacterOffsetEnd=783 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=783 CharacterOffsetEnd=784 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Both-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+
+Sentence #23 (9 tokens):
+Both says: "We're waiting."
+
+Tokens:
+[Text=Both CharacterOffsetBegin=785 CharacterOffsetEnd=789 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=790 CharacterOffsetEnd=794 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=794 CharacterOffsetEnd=795 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=796 CharacterOffsetEnd=797 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=We CharacterOffsetBegin=797 CharacterOffsetEnd=799 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='re CharacterOffsetBegin=799 CharacterOffsetEnd=802 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=803 CharacterOffsetEnd=810 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=810 CharacterOffsetEnd=811 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=811 CharacterOffsetEnd=812 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Both-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waiting-7, We-5)
+aux(waiting-7, 're-6)
+ccomp(says-2, waiting-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+
+Sentence #24 (10 tokens):
+Patrick says: "There's the mailman!"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=813 CharacterOffsetEnd=820 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=821 CharacterOffsetEnd=825 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=825 CharacterOffsetEnd=826 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=827 CharacterOffsetEnd=828 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=There CharacterOffsetBegin=828 CharacterOffsetEnd=833 PartOfSpeech=EX Lemma=there NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=833 CharacterOffsetEnd=835 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=836 CharacterOffsetEnd=839 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=mailman CharacterOffsetBegin=840 CharacterOffsetEnd=847 PartOfSpeech=NN Lemma=mailman NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=847 CharacterOffsetEnd=848 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=848 CharacterOffsetEnd=849 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+expl('s-6, There-5)
+ccomp(says-2, 's-6)
+det(mailman-8, the-7)
+nsubj('s-6, mailman-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9575518484569078
+
+Sentence #25 (10 tokens):
+Mailfish says: "Are you SpongeBob SquarePants?"
+
+Tokens:
+[Text=Mailfish CharacterOffsetBegin=850 CharacterOffsetEnd=858 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=859 CharacterOffsetEnd=863 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=863 CharacterOffsetEnd=864 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=865 CharacterOffsetEnd=866 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Are CharacterOffsetBegin=866 CharacterOffsetEnd=869 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=870 CharacterOffsetEnd=873 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=874 CharacterOffsetEnd=883 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=SquarePants CharacterOffsetBegin=884 CharacterOffsetEnd=895 PartOfSpeech=NNPS Lemma=SquarePants NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=895 CharacterOffsetEnd=896 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=896 CharacterOffsetEnd=897 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Mailfish-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cop(SquarePants-8, Are-5)
+nsubj(SquarePants-8, you-6)
+compound(SquarePants-8, SpongeBob-7)
+dep(says-2, SquarePants-8)
+punct(says-2, ?-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Mailfish	PERSON	PERSON:0.8029964358812299
+
+Sentence #26 (7 tokens):
+SpongeBob says: "Yup."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=898 CharacterOffsetEnd=907 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=908 CharacterOffsetEnd=912 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=912 CharacterOffsetEnd=913 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=914 CharacterOffsetEnd=915 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yup CharacterOffsetBegin=915 CharacterOffsetEnd=918 PartOfSpeech=UH Lemma=yup NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=918 CharacterOffsetEnd=919 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=919 CharacterOffsetEnd=920 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Yup-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7872276648603771
+
+Sentence #27 (11 tokens):
+SpongeBob says: "Isn't there anything else?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=921 CharacterOffsetEnd=930 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=931 CharacterOffsetEnd=935 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=935 CharacterOffsetEnd=936 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=937 CharacterOffsetEnd=938 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Is CharacterOffsetBegin=938 CharacterOffsetEnd=940 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=940 CharacterOffsetEnd=943 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=there CharacterOffsetBegin=944 CharacterOffsetEnd=949 PartOfSpeech=RB Lemma=there NamedEntityTag=O]
+[Text=anything CharacterOffsetBegin=950 CharacterOffsetEnd=958 PartOfSpeech=NN Lemma=anything NamedEntityTag=O]
+[Text=else CharacterOffsetBegin=959 CharacterOffsetEnd=963 PartOfSpeech=JJ Lemma=else NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=963 CharacterOffsetEnd=964 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=964 CharacterOffsetEnd=965 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cop(anything-8, Is-5)
+advmod(anything-8, n't-6)
+advmod(anything-8, there-7)
+dep(says-2, anything-8)
+amod(anything-8, else-9)
+punct(says-2, ?-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7146554969355265
+
+Sentence #28 (10 tokens):
+Mailfish says: "Nope, sorry kid."
+
+Tokens:
+[Text=Mailfish CharacterOffsetBegin=966 CharacterOffsetEnd=974 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=975 CharacterOffsetEnd=979 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=979 CharacterOffsetEnd=980 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=981 CharacterOffsetEnd=982 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Nope CharacterOffsetBegin=982 CharacterOffsetEnd=986 PartOfSpeech=UH Lemma=nope NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=986 CharacterOffsetEnd=987 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=sorry CharacterOffsetBegin=988 CharacterOffsetEnd=993 PartOfSpeech=JJ Lemma=sorry NamedEntityTag=O]
+[Text=kid CharacterOffsetBegin=994 CharacterOffsetEnd=997 PartOfSpeech=NN Lemma=kid NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=997 CharacterOffsetEnd=998 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=998 CharacterOffsetEnd=999 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Mailfish-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(kid-8, Nope-5)
+punct(kid-8, ,-6)
+amod(kid-8, sorry-7)
+ccomp(says-2, kid-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Mailfish	PERSON	PERSON:0.8435483662938947
+
+Sentence #29 (13 tokens):
+SpongeBob says: "Guess we'll have to keep waiting."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1000 CharacterOffsetEnd=1009 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1010 CharacterOffsetEnd=1014 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1014 CharacterOffsetEnd=1015 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1016 CharacterOffsetEnd=1017 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Guess CharacterOffsetBegin=1017 CharacterOffsetEnd=1022 PartOfSpeech=VB Lemma=guess NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=1023 CharacterOffsetEnd=1025 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text='ll CharacterOffsetBegin=1025 CharacterOffsetEnd=1028 PartOfSpeech=MD Lemma=will NamedEntityTag=O]
+[Text=have CharacterOffsetBegin=1029 CharacterOffsetEnd=1033 PartOfSpeech=VB Lemma=have NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1034 CharacterOffsetEnd=1036 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=keep CharacterOffsetBegin=1037 CharacterOffsetEnd=1041 PartOfSpeech=VB Lemma=keep NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=1042 CharacterOffsetEnd=1049 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1049 CharacterOffsetEnd=1050 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1050 CharacterOffsetEnd=1051 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(have-8, Guess-5)
+nsubj(have-8, we-6)
+aux(have-8, 'll-7)
+ccomp(says-2, have-8)
+mark(keep-10, to-9)
+ccomp(have-8, keep-10)
+xcomp(keep-10, waiting-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8021905474494644
+
+Sentence #30 (13 tokens):
+Patrick says: "Hey, SpongeBob, I'm hungry."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1052 CharacterOffsetEnd=1059 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1060 CharacterOffsetEnd=1064 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1064 CharacterOffsetEnd=1065 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1066 CharacterOffsetEnd=1067 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hey CharacterOffsetBegin=1067 CharacterOffsetEnd=1070 PartOfSpeech=UH Lemma=hey NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1070 CharacterOffsetEnd=1071 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=1072 CharacterOffsetEnd=1081 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1081 CharacterOffsetEnd=1082 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1083 CharacterOffsetEnd=1084 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=1084 CharacterOffsetEnd=1086 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=hungry CharacterOffsetBegin=1087 CharacterOffsetEnd=1093 PartOfSpeech=JJ Lemma=hungry NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1093 CharacterOffsetEnd=1094 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1094 CharacterOffsetEnd=1095 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(hungry-11, Hey-5)
+punct(hungry-11, ,-6)
+nsubj(hungry-11, SpongeBob-7)
+punct(hungry-11, ,-8)
+nsubj(hungry-11, I-9)
+cop(hungry-11, 'm-10)
+ccomp(says-2, hungry-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9370050860550879
+
+Sentence #31 (9 tokens):
+SpongeBob says: "Me, too."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1096 CharacterOffsetEnd=1105 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1106 CharacterOffsetEnd=1110 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1110 CharacterOffsetEnd=1111 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1112 CharacterOffsetEnd=1113 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Me CharacterOffsetBegin=1113 CharacterOffsetEnd=1115 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1115 CharacterOffsetEnd=1116 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=too CharacterOffsetBegin=1117 CharacterOffsetEnd=1120 PartOfSpeech=RB Lemma=too NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1120 CharacterOffsetEnd=1121 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1121 CharacterOffsetEnd=1122 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Me-5)
+punct(Me-5, ,-6)
+advmod(Me-5, too-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7729884393563203
+
+Sentence #32 (18 tokens):
+Patrick says: "Let's go down to the Krusty Krab for a Krabby Patty."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1123 CharacterOffsetEnd=1130 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1131 CharacterOffsetEnd=1135 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1135 CharacterOffsetEnd=1136 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1137 CharacterOffsetEnd=1138 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Let CharacterOffsetBegin=1138 CharacterOffsetEnd=1141 PartOfSpeech=VB Lemma=let NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1141 CharacterOffsetEnd=1143 PartOfSpeech=PRP Lemma='s NamedEntityTag=O]
+[Text=go CharacterOffsetBegin=1144 CharacterOffsetEnd=1146 PartOfSpeech=VB Lemma=go NamedEntityTag=O]
+[Text=down CharacterOffsetBegin=1147 CharacterOffsetEnd=1151 PartOfSpeech=RP Lemma=down NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1152 CharacterOffsetEnd=1154 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1155 CharacterOffsetEnd=1158 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Krusty CharacterOffsetBegin=1159 CharacterOffsetEnd=1165 PartOfSpeech=NNP Lemma=Krusty NamedEntityTag=LOCATION]
+[Text=Krab CharacterOffsetBegin=1166 CharacterOffsetEnd=1170 PartOfSpeech=NNP Lemma=Krab NamedEntityTag=LOCATION]
+[Text=for CharacterOffsetBegin=1171 CharacterOffsetEnd=1174 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1175 CharacterOffsetEnd=1176 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=Krabby CharacterOffsetBegin=1177 CharacterOffsetEnd=1183 PartOfSpeech=NNP Lemma=Krabby NamedEntityTag=O]
+[Text=Patty CharacterOffsetBegin=1184 CharacterOffsetEnd=1189 PartOfSpeech=NNP Lemma=Patty NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=1189 CharacterOffsetEnd=1190 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1190 CharacterOffsetEnd=1191 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Let-5)
+nsubj(go-7, 's-6)
+ccomp(Let-5, go-7)
+compound:prt(go-7, down-8)
+case(Krab-12, to-9)
+det(Krab-12, the-10)
+compound(Krab-12, Krusty-11)
+obl:to(go-7, Krab-12)
+case(Patty-16, for-13)
+det(Patty-16, a-14)
+compound(Patty-16, Krabby-15)
+obl:for(go-7, Patty-16)
+punct(says-2, .-17)
+punct(says-2, "-18)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9220897670245459
+Krusty Krab	LOCATION	LOCATION:0.6202829999288036
+Patty	PERSON	PERSON:0.9541485756017474
+
+Sentence #33 (10 tokens):
+SpongeBob says: "Great idea, Patrick."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1192 CharacterOffsetEnd=1201 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1202 CharacterOffsetEnd=1206 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1206 CharacterOffsetEnd=1207 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1208 CharacterOffsetEnd=1209 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Great CharacterOffsetBegin=1209 CharacterOffsetEnd=1214 PartOfSpeech=JJ Lemma=great NamedEntityTag=O]
+[Text=idea CharacterOffsetBegin=1215 CharacterOffsetEnd=1219 PartOfSpeech=NN Lemma=idea NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1219 CharacterOffsetEnd=1220 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=1221 CharacterOffsetEnd=1228 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=1228 CharacterOffsetEnd=1229 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1229 CharacterOffsetEnd=1230 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+amod(idea-6, Great-5)
+obj(says-2, idea-6)
+punct(idea-6, ,-7)
+appos(idea-6, Patrick-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8597607733703989
+Patrick	PERSON	PERSON:0.9686388786222654
+
+Sentence #34 (20 tokens):
+SpongeBob says: "Krusty Krab, here we..."
+SpongeBob says: "wait a minute."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1231 CharacterOffsetEnd=1240 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1241 CharacterOffsetEnd=1245 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1245 CharacterOffsetEnd=1246 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1247 CharacterOffsetEnd=1248 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Krusty CharacterOffsetBegin=1248 CharacterOffsetEnd=1254 PartOfSpeech=NNP Lemma=Krusty NamedEntityTag=PERSON]
+[Text=Krab CharacterOffsetBegin=1255 CharacterOffsetEnd=1259 PartOfSpeech=NNP Lemma=Krab NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1259 CharacterOffsetEnd=1260 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=1261 CharacterOffsetEnd=1265 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=1266 CharacterOffsetEnd=1268 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1268 CharacterOffsetEnd=1271 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1271 CharacterOffsetEnd=1272 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=1273 CharacterOffsetEnd=1282 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1283 CharacterOffsetEnd=1287 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1287 CharacterOffsetEnd=1288 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1289 CharacterOffsetEnd=1290 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=wait CharacterOffsetBegin=1290 CharacterOffsetEnd=1294 PartOfSpeech=VB Lemma=wait NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1295 CharacterOffsetEnd=1296 PartOfSpeech=DT Lemma=a NamedEntityTag=DURATION NormalizedNamedEntityTag=PT1M Timex=<TIMEX3 tid="t1" type="DURATION" value="PT1M">a minute</TIMEX3>]
+[Text=minute CharacterOffsetBegin=1297 CharacterOffsetEnd=1303 PartOfSpeech=NN Lemma=minute NamedEntityTag=DURATION NormalizedNamedEntityTag=PT1M Timex=<TIMEX3 tid="t1" type="DURATION" value="PT1M">a minute</TIMEX3>]
+[Text=. CharacterOffsetBegin=1303 CharacterOffsetEnd=1304 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1304 CharacterOffsetEnd=1305 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+compound(Krab-6, Krusty-5)
+dep(says-2, Krab-6)
+punct(Krab-6, ,-7)
+advmod(we-9, here-8)
+appos(Krab-6, we-9)
+punct(we-9, ...-10)
+punct(we-9, "-11)
+nsubj(says-13, SpongeBob-12)
+dep(we-9, says-13)
+punct(says-13, :-14)
+punct(wait-16, "-15)
+ccomp(says-13, wait-16)
+det(minute-18, a-17)
+obj(wait-16, minute-18)
+punct(says-2, .-19)
+punct(says-2, "-20)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.773245532690806
+Krusty Krab	PERSON	PERSON:0.7985910208310748
+SpongeBob	PERSON	PERSON:0.6620807227185814
+a minute	DURATION	DURATION:-1.0
+
+Sentence #35 (15 tokens):
+SpongeBob says: "What if the mailman comes when I'm gone?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1306 CharacterOffsetEnd=1315 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1316 CharacterOffsetEnd=1320 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1320 CharacterOffsetEnd=1321 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1322 CharacterOffsetEnd=1323 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=1323 CharacterOffsetEnd=1327 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=if CharacterOffsetBegin=1328 CharacterOffsetEnd=1330 PartOfSpeech=IN Lemma=if NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1331 CharacterOffsetEnd=1334 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=mailman CharacterOffsetBegin=1335 CharacterOffsetEnd=1342 PartOfSpeech=NN Lemma=mailman NamedEntityTag=O]
+[Text=comes CharacterOffsetBegin=1343 CharacterOffsetEnd=1348 PartOfSpeech=VBZ Lemma=come NamedEntityTag=O]
+[Text=when CharacterOffsetBegin=1349 CharacterOffsetEnd=1353 PartOfSpeech=WRB Lemma=when NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1354 CharacterOffsetEnd=1355 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=1355 CharacterOffsetEnd=1357 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=gone CharacterOffsetBegin=1358 CharacterOffsetEnd=1362 PartOfSpeech=VBN Lemma=go NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=1362 CharacterOffsetEnd=1363 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1363 CharacterOffsetEnd=1364 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, What-5)
+mark(comes-9, if-6)
+det(mailman-8, the-7)
+nsubj(comes-9, mailman-8)
+dep(What-5, comes-9)
+advmod(gone-13, when-10)
+nsubj:pass(gone-13, I-11)
+aux:pass(gone-13, 'm-12)
+advcl(comes-9, gone-13)
+punct(says-2, ?-14)
+punct(says-2, "-15)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8380422492912323
+
+Sentence #36 (10 tokens):
+Patrick says: "What's wrong SpongeBob?"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1365 CharacterOffsetEnd=1372 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1373 CharacterOffsetEnd=1377 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1377 CharacterOffsetEnd=1378 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1379 CharacterOffsetEnd=1380 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=1380 CharacterOffsetEnd=1384 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1384 CharacterOffsetEnd=1386 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=wrong CharacterOffsetBegin=1387 CharacterOffsetEnd=1392 PartOfSpeech=JJ Lemma=wrong NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=1393 CharacterOffsetEnd=1402 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=1402 CharacterOffsetEnd=1403 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1403 CharacterOffsetEnd=1404 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+ccomp(says-2, What-5)
+cop(What-5, 's-6)
+amod(SpongeBob-8, wrong-7)
+nsubj(What-5, SpongeBob-8)
+punct(says-2, ?-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.962720959583446
+
+Sentence #37 (19 tokens):
+SpongeBob says: "If I leave, the mailman might come and I might miss him."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1405 CharacterOffsetEnd=1414 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1415 CharacterOffsetEnd=1419 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1419 CharacterOffsetEnd=1420 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1421 CharacterOffsetEnd=1422 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=If CharacterOffsetBegin=1422 CharacterOffsetEnd=1424 PartOfSpeech=IN Lemma=if NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1425 CharacterOffsetEnd=1426 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=leave CharacterOffsetBegin=1427 CharacterOffsetEnd=1432 PartOfSpeech=VBP Lemma=leave NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1432 CharacterOffsetEnd=1433 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1434 CharacterOffsetEnd=1437 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=mailman CharacterOffsetBegin=1438 CharacterOffsetEnd=1445 PartOfSpeech=NN Lemma=mailman NamedEntityTag=O]
+[Text=might CharacterOffsetBegin=1446 CharacterOffsetEnd=1451 PartOfSpeech=MD Lemma=might NamedEntityTag=O]
+[Text=come CharacterOffsetBegin=1452 CharacterOffsetEnd=1456 PartOfSpeech=VB Lemma=come NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1457 CharacterOffsetEnd=1460 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1461 CharacterOffsetEnd=1462 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=might CharacterOffsetBegin=1463 CharacterOffsetEnd=1468 PartOfSpeech=MD Lemma=might NamedEntityTag=O]
+[Text=miss CharacterOffsetBegin=1469 CharacterOffsetEnd=1473 PartOfSpeech=VB Lemma=miss NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=1474 CharacterOffsetEnd=1477 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1477 CharacterOffsetEnd=1478 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1478 CharacterOffsetEnd=1479 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+mark(leave-7, If-5)
+nsubj(leave-7, I-6)
+advcl:if(come-12, leave-7)
+punct(come-12, ,-8)
+det(mailman-10, the-9)
+nsubj(come-12, mailman-10)
+aux(come-12, might-11)
+ccomp(says-2, come-12)
+cc(miss-16, and-13)
+nsubj(miss-16, I-14)
+aux(miss-16, might-15)
+ccomp(says-2, miss-16)
+conj:and(come-12, miss-16)
+obj(miss-16, him-17)
+punct(says-2, .-18)
+punct(says-2, "-19)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8554535110622922
+him	PERSON	-
+
+Sentence #38 (15 tokens):
+Patrick says: "Oh, I'm gonna take off then."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1480 CharacterOffsetEnd=1487 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1488 CharacterOffsetEnd=1492 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1492 CharacterOffsetEnd=1493 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1494 CharacterOffsetEnd=1495 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=1495 CharacterOffsetEnd=1497 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1497 CharacterOffsetEnd=1498 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1499 CharacterOffsetEnd=1500 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=1500 CharacterOffsetEnd=1502 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=gon CharacterOffsetBegin=1503 CharacterOffsetEnd=1506 PartOfSpeech=VBG Lemma=gon NamedEntityTag=O]
+[Text=na CharacterOffsetBegin=1506 CharacterOffsetEnd=1508 PartOfSpeech=TO Lemma=na NamedEntityTag=O]
+[Text=take CharacterOffsetBegin=1509 CharacterOffsetEnd=1513 PartOfSpeech=VB Lemma=take NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=1514 CharacterOffsetEnd=1517 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=1518 CharacterOffsetEnd=1522 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1522 CharacterOffsetEnd=1523 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1523 CharacterOffsetEnd=1524 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(gon-9, Oh-5)
+punct(gon-9, ,-6)
+nsubj(gon-9, I-7)
+nsubj:xsubj(take-11, I-7)
+aux(gon-9, 'm-8)
+ccomp(says-2, gon-9)
+mark(take-11, na-10)
+xcomp(gon-9, take-11)
+compound:prt(take-11, off-12)
+advmod(take-11, then-13)
+punct(says-2, .-14)
+punct(says-2, "-15)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9301125288408837
+
+Sentence #39 (18 tokens):
+Patrick says: "I don't think my arm can stand much more of this."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1525 CharacterOffsetEnd=1532 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1533 CharacterOffsetEnd=1537 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1537 CharacterOffsetEnd=1538 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1539 CharacterOffsetEnd=1540 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1540 CharacterOffsetEnd=1541 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=1542 CharacterOffsetEnd=1544 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=1544 CharacterOffsetEnd=1547 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=think CharacterOffsetBegin=1548 CharacterOffsetEnd=1553 PartOfSpeech=VB Lemma=think NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=1554 CharacterOffsetEnd=1556 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=arm CharacterOffsetBegin=1557 CharacterOffsetEnd=1560 PartOfSpeech=NN Lemma=arm NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=1561 CharacterOffsetEnd=1564 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=stand CharacterOffsetBegin=1565 CharacterOffsetEnd=1570 PartOfSpeech=VB Lemma=stand NamedEntityTag=O]
+[Text=much CharacterOffsetBegin=1571 CharacterOffsetEnd=1575 PartOfSpeech=RB Lemma=much NamedEntityTag=O]
+[Text=more CharacterOffsetBegin=1576 CharacterOffsetEnd=1580 PartOfSpeech=JJR Lemma=more NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1581 CharacterOffsetEnd=1583 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=this CharacterOffsetBegin=1584 CharacterOffsetEnd=1588 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1588 CharacterOffsetEnd=1589 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1589 CharacterOffsetEnd=1590 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(think-8, I-5)
+aux(think-8, do-6)
+advmod(think-8, n't-7)
+ccomp(says-2, think-8)
+nmod:poss(arm-10, my-9)
+nsubj(stand-12, arm-10)
+aux(stand-12, can-11)
+ccomp(think-8, stand-12)
+advmod(more-14, much-13)
+obj(stand-12, more-14)
+case(this-16, of-15)
+nmod:of(more-14, this-16)
+punct(says-2, .-17)
+punct(says-2, "-18)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9571804110313713
+
+Sentence #40 (7 tokens):
+Sandy says: "Hiya!"
+
+Tokens:
+[Text=Sandy CharacterOffsetBegin=1591 CharacterOffsetEnd=1596 PartOfSpeech=NNP Lemma=Sandy NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1597 CharacterOffsetEnd=1601 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1601 CharacterOffsetEnd=1602 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1603 CharacterOffsetEnd=1604 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hiya CharacterOffsetBegin=1604 CharacterOffsetEnd=1608 PartOfSpeech=NNP Lemma=Hiya NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1608 CharacterOffsetEnd=1609 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1609 CharacterOffsetEnd=1610 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Sandy-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Hiya-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Sandy	PERSON	PERSON:0.9476510076525186
+
+Sentence #41 (21 tokens):
+Sandy says: "Hey, SpongeBob, want to do some karaaaaaa..."
+Sandy says: "!"
+
+Tokens:
+[Text=Sandy CharacterOffsetBegin=1611 CharacterOffsetEnd=1616 PartOfSpeech=NNP Lemma=Sandy NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1617 CharacterOffsetEnd=1621 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1621 CharacterOffsetEnd=1622 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1623 CharacterOffsetEnd=1624 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hey CharacterOffsetBegin=1624 CharacterOffsetEnd=1627 PartOfSpeech=UH Lemma=hey NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1627 CharacterOffsetEnd=1628 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=1629 CharacterOffsetEnd=1638 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1638 CharacterOffsetEnd=1639 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=want CharacterOffsetBegin=1640 CharacterOffsetEnd=1644 PartOfSpeech=VBP Lemma=want NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1645 CharacterOffsetEnd=1647 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=1648 CharacterOffsetEnd=1650 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=some CharacterOffsetBegin=1651 CharacterOffsetEnd=1655 PartOfSpeech=DT Lemma=some NamedEntityTag=O]
+[Text=karaaaaaa CharacterOffsetBegin=1656 CharacterOffsetEnd=1665 PartOfSpeech=NN Lemma=karaaaaaa NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1665 CharacterOffsetEnd=1668 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1668 CharacterOffsetEnd=1669 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=Sandy CharacterOffsetBegin=1670 CharacterOffsetEnd=1675 PartOfSpeech=NNP Lemma=Sandy NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1676 CharacterOffsetEnd=1680 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1680 CharacterOffsetEnd=1681 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1682 CharacterOffsetEnd=1683 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1683 CharacterOffsetEnd=1684 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1684 CharacterOffsetEnd=1685 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Sandy-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(want-9, Hey-5)
+punct(want-9, ,-6)
+nsubj(want-9, SpongeBob-7)
+nsubj:xsubj(do-11, SpongeBob-7)
+punct(want-9, ,-8)
+ccomp(says-2, want-9)
+mark(do-11, to-10)
+xcomp(want-9, do-11)
+det(karaaaaaa-13, some-12)
+obj(do-11, karaaaaaa-13)
+punct(says-2, ...-14)
+punct(says-2, "-15)
+nsubj(says-17, Sandy-16)
+ccomp(says-2, says-17)
+punct(says-17, :-18)
+punct(says-17, "-19)
+punct(says-2, !-20)
+punct(says-2, "-21)
+
+Extracted the following NER entity mentions:
+Sandy	PERSON	PERSON:0.9541765444741631
+Sandy	PERSON	PERSON:0.9863000729524821
+
+Sentence #42 (12 tokens):
+SpongeBob says: "Not now, I'm busy."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1686 CharacterOffsetEnd=1695 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1696 CharacterOffsetEnd=1700 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1700 CharacterOffsetEnd=1701 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1702 CharacterOffsetEnd=1703 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Not CharacterOffsetBegin=1703 CharacterOffsetEnd=1706 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=now CharacterOffsetBegin=1707 CharacterOffsetEnd=1710 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">now</TIMEX3>]
+[Text=, CharacterOffsetBegin=1710 CharacterOffsetEnd=1711 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1712 CharacterOffsetEnd=1713 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=1713 CharacterOffsetEnd=1715 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=busy CharacterOffsetBegin=1716 CharacterOffsetEnd=1720 PartOfSpeech=JJ Lemma=busy NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1720 CharacterOffsetEnd=1721 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1721 CharacterOffsetEnd=1722 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(now-6, Not-5)
+advmod(busy-10, now-6)
+punct(busy-10, ,-7)
+nsubj(busy-10, I-8)
+cop(busy-10, 'm-9)
+ccomp(says-2, busy-10)
+punct(says-2, .-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8528609926341892
+now	DATE	DATE:-1.0
+
+Sentence #43 (23 tokens):
+SpongeBob says: "But..."
+SpongeBob says: "must wait..."
+SpongeBob says: "for toy."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1723 CharacterOffsetEnd=1732 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1733 CharacterOffsetEnd=1737 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1737 CharacterOffsetEnd=1738 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1739 CharacterOffsetEnd=1740 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=But CharacterOffsetBegin=1740 CharacterOffsetEnd=1743 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1743 CharacterOffsetEnd=1746 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1746 CharacterOffsetEnd=1747 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=1748 CharacterOffsetEnd=1757 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1758 CharacterOffsetEnd=1762 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1762 CharacterOffsetEnd=1763 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1764 CharacterOffsetEnd=1765 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=must CharacterOffsetBegin=1765 CharacterOffsetEnd=1769 PartOfSpeech=MD Lemma=must NamedEntityTag=O]
+[Text=wait CharacterOffsetBegin=1770 CharacterOffsetEnd=1774 PartOfSpeech=VB Lemma=wait NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1774 CharacterOffsetEnd=1777 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1777 CharacterOffsetEnd=1778 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=1779 CharacterOffsetEnd=1788 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1789 CharacterOffsetEnd=1793 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1793 CharacterOffsetEnd=1794 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1795 CharacterOffsetEnd=1796 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=1796 CharacterOffsetEnd=1799 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=toy CharacterOffsetBegin=1800 CharacterOffsetEnd=1803 PartOfSpeech=NN Lemma=toy NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1803 CharacterOffsetEnd=1804 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1804 CharacterOffsetEnd=1805 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(says-9, But-5)
+punct(says-9, ...-6)
+punct(says-9, "-7)
+nsubj(says-9, SpongeBob-8)
+conj:but(says-2, says-9)
+punct(says-9, :-10)
+punct(says-9, "-11)
+aux(wait-13, must-12)
+dep(says-17, wait-13)
+punct(says-17, ...-14)
+punct(says-17, "-15)
+nsubj(says-17, SpongeBob-16)
+ccomp(says-9, says-17)
+punct(says-17, :-18)
+punct(says-17, "-19)
+case(toy-21, for-20)
+obl:for(says-17, toy-21)
+punct(says-2, .-22)
+punct(says-2, "-23)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.6529246240186664
+SpongeBob	PERSON	PERSON:0.524471470625742
+
+Sentence #44 (9 tokens):
+Patrick says: "Hey, buddy."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1806 CharacterOffsetEnd=1813 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1814 CharacterOffsetEnd=1818 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1818 CharacterOffsetEnd=1819 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1820 CharacterOffsetEnd=1821 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hey CharacterOffsetBegin=1821 CharacterOffsetEnd=1824 PartOfSpeech=UH Lemma=hey NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1824 CharacterOffsetEnd=1825 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=buddy CharacterOffsetBegin=1826 CharacterOffsetEnd=1831 PartOfSpeech=NN Lemma=buddy NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1831 CharacterOffsetEnd=1832 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1832 CharacterOffsetEnd=1833 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(buddy-7, Hey-5)
+punct(buddy-7, ,-6)
+ccomp(says-2, buddy-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9370050862080315
+
+Sentence #45 (10 tokens):
+SpongeBob says: "This better be good."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=1834 CharacterOffsetEnd=1843 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1844 CharacterOffsetEnd=1848 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1848 CharacterOffsetEnd=1849 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1850 CharacterOffsetEnd=1851 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=This CharacterOffsetBegin=1851 CharacterOffsetEnd=1855 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=better CharacterOffsetBegin=1856 CharacterOffsetEnd=1862 PartOfSpeech=JJR Lemma=better NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=1863 CharacterOffsetEnd=1865 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=good CharacterOffsetBegin=1866 CharacterOffsetEnd=1870 PartOfSpeech=JJ Lemma=good NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1870 CharacterOffsetEnd=1871 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1871 CharacterOffsetEnd=1872 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(good-8, This-5)
+advmod(good-8, better-6)
+cop(good-8, be-7)
+ccomp(says-2, good-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.925676673117563
+
+Sentence #46 (29 tokens):
+Patrick says: "You missed your surprise birthday party, so I just wanted to bring you a present and some cake because you missed it."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=1873 CharacterOffsetEnd=1880 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1881 CharacterOffsetEnd=1885 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1885 CharacterOffsetEnd=1886 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1887 CharacterOffsetEnd=1888 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=1888 CharacterOffsetEnd=1891 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=missed CharacterOffsetBegin=1892 CharacterOffsetEnd=1898 PartOfSpeech=VBD Lemma=miss NamedEntityTag=O]
+[Text=your CharacterOffsetBegin=1899 CharacterOffsetEnd=1903 PartOfSpeech=PRP$ Lemma=you NamedEntityTag=O]
+[Text=surprise CharacterOffsetBegin=1904 CharacterOffsetEnd=1912 PartOfSpeech=NN Lemma=surprise NamedEntityTag=O]
+[Text=birthday CharacterOffsetBegin=1913 CharacterOffsetEnd=1921 PartOfSpeech=NN Lemma=birthday NamedEntityTag=O]
+[Text=party CharacterOffsetBegin=1922 CharacterOffsetEnd=1927 PartOfSpeech=NN Lemma=party NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1927 CharacterOffsetEnd=1928 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=1929 CharacterOffsetEnd=1931 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1932 CharacterOffsetEnd=1933 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=1934 CharacterOffsetEnd=1938 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=wanted CharacterOffsetBegin=1939 CharacterOffsetEnd=1945 PartOfSpeech=VBD Lemma=want NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1946 CharacterOffsetEnd=1948 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=bring CharacterOffsetBegin=1949 CharacterOffsetEnd=1954 PartOfSpeech=VB Lemma=bring NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1955 CharacterOffsetEnd=1958 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1959 CharacterOffsetEnd=1960 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=present CharacterOffsetBegin=1961 CharacterOffsetEnd=1968 PartOfSpeech=JJ Lemma=present NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">present</TIMEX3>]
+[Text=and CharacterOffsetBegin=1969 CharacterOffsetEnd=1972 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=some CharacterOffsetBegin=1973 CharacterOffsetEnd=1977 PartOfSpeech=DT Lemma=some NamedEntityTag=O]
+[Text=cake CharacterOffsetBegin=1978 CharacterOffsetEnd=1982 PartOfSpeech=NN Lemma=cake NamedEntityTag=O]
+[Text=because CharacterOffsetBegin=1983 CharacterOffsetEnd=1990 PartOfSpeech=IN Lemma=because NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=1991 CharacterOffsetEnd=1994 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=missed CharacterOffsetBegin=1995 CharacterOffsetEnd=2001 PartOfSpeech=VBD Lemma=miss NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=2002 CharacterOffsetEnd=2004 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2004 CharacterOffsetEnd=2005 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2005 CharacterOffsetEnd=2006 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(missed-6, You-5)
+ccomp(says-2, missed-6)
+nmod:poss(party-10, your-7)
+compound(party-10, surprise-8)
+compound(party-10, birthday-9)
+obj(missed-6, party-10)
+punct(missed-6, ,-11)
+advmod(wanted-15, so-12)
+nsubj(wanted-15, I-13)
+nsubj:xsubj(bring-17, I-13)
+advmod(wanted-15, just-14)
+parataxis(missed-6, wanted-15)
+mark(bring-17, to-16)
+xcomp(wanted-15, bring-17)
+iobj(bring-17, you-18)
+det(present-20, a-19)
+obj(bring-17, present-20)
+cc(cake-23, and-21)
+det(cake-23, some-22)
+obj(bring-17, cake-23)
+conj:and(present-20, cake-23)
+mark(missed-26, because-24)
+nsubj(missed-26, you-25)
+advcl:because(bring-17, missed-26)
+obj(missed-26, it-27)
+punct(says-2, .-28)
+punct(says-2, "-29)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9620802109257871
+present	DATE	DATE:-1.0
+
+Sentence #47 (23 tokens):
+SpongeBob says: "I missed..."
+SpongeBob says: "my..."
+SpongeBob says: "birthday party?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2007 CharacterOffsetEnd=2016 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2017 CharacterOffsetEnd=2021 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2021 CharacterOffsetEnd=2022 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2023 CharacterOffsetEnd=2024 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2024 CharacterOffsetEnd=2025 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=missed CharacterOffsetBegin=2026 CharacterOffsetEnd=2032 PartOfSpeech=VBD Lemma=miss NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=2032 CharacterOffsetEnd=2035 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2035 CharacterOffsetEnd=2036 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=2037 CharacterOffsetEnd=2046 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2047 CharacterOffsetEnd=2051 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2051 CharacterOffsetEnd=2052 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2053 CharacterOffsetEnd=2054 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=2054 CharacterOffsetEnd=2056 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=2056 CharacterOffsetEnd=2059 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2059 CharacterOffsetEnd=2060 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=2061 CharacterOffsetEnd=2070 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2071 CharacterOffsetEnd=2075 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2075 CharacterOffsetEnd=2076 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2077 CharacterOffsetEnd=2078 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=birthday CharacterOffsetBegin=2078 CharacterOffsetEnd=2086 PartOfSpeech=NN Lemma=birthday NamedEntityTag=O]
+[Text=party CharacterOffsetBegin=2087 CharacterOffsetEnd=2092 PartOfSpeech=NN Lemma=party NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=2092 CharacterOffsetEnd=2093 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2093 CharacterOffsetEnd=2094 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(missed-6, I-5)
+ccomp(says-2, missed-6)
+punct(missed-6, ...-7)
+punct(missed-6, "-8)
+nsubj(says-10, SpongeBob-9)
+ccomp(missed-6, says-10)
+punct(says-10, :-11)
+punct(says-10, "-12)
+nsubj(says-17, my-13)
+punct(says-17, ...-14)
+punct(says-17, "-15)
+nsubj(says-17, SpongeBob-16)
+ccomp(says-10, says-17)
+punct(says-17, :-18)
+punct(says-17, "-19)
+compound(party-21, birthday-20)
+obj(says-17, party-21)
+punct(says-2, ?-22)
+punct(says-2, "-23)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8345180261483162
+SpongeBob	PERSON	PERSON:0.489557313532751
+SpongeBob	PERSON	PERSON:0.7876787190678419
+
+Sentence #48 (9 tokens):
+Patrick says: "Yeah, see?"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2095 CharacterOffsetEnd=2102 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2103 CharacterOffsetEnd=2107 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2107 CharacterOffsetEnd=2108 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2109 CharacterOffsetEnd=2110 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=2110 CharacterOffsetEnd=2114 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2114 CharacterOffsetEnd=2115 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=see CharacterOffsetBegin=2116 CharacterOffsetEnd=2119 PartOfSpeech=VB Lemma=see NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=2119 CharacterOffsetEnd=2120 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2120 CharacterOffsetEnd=2121 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(see-7, Yeah-5)
+punct(see-7, ,-6)
+ccomp(says-2, see-7)
+punct(says-2, ?-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9370032820912544
+
+Sentence #49 (13 tokens):
+Patrick says: "Here's a present and your cake."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2122 CharacterOffsetEnd=2129 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2130 CharacterOffsetEnd=2134 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2134 CharacterOffsetEnd=2135 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2136 CharacterOffsetEnd=2137 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Here CharacterOffsetBegin=2137 CharacterOffsetEnd=2141 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=2141 CharacterOffsetEnd=2143 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2144 CharacterOffsetEnd=2145 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=present CharacterOffsetBegin=2146 CharacterOffsetEnd=2153 PartOfSpeech=JJ Lemma=present NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">present</TIMEX3>]
+[Text=and CharacterOffsetBegin=2154 CharacterOffsetEnd=2157 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=your CharacterOffsetBegin=2158 CharacterOffsetEnd=2162 PartOfSpeech=PRP$ Lemma=you NamedEntityTag=O]
+[Text=cake CharacterOffsetBegin=2163 CharacterOffsetEnd=2167 PartOfSpeech=NN Lemma=cake NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2167 CharacterOffsetEnd=2168 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2168 CharacterOffsetEnd=2169 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(present-8, Here-5)
+cop(present-8, 's-6)
+det(present-8, a-7)
+ccomp(says-2, present-8)
+cc(cake-11, and-9)
+nmod:poss(cake-11, your-10)
+ccomp(says-2, cake-11)
+conj:and(present-8, cake-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9833819865010532
+present	DATE	DATE:-1.0
+
+Sentence #50 (9 tokens):
+SpongeBob says: "My birthday cake."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2170 CharacterOffsetEnd=2179 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2180 CharacterOffsetEnd=2184 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2184 CharacterOffsetEnd=2185 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2186 CharacterOffsetEnd=2187 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=My CharacterOffsetBegin=2187 CharacterOffsetEnd=2189 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=birthday CharacterOffsetBegin=2190 CharacterOffsetEnd=2198 PartOfSpeech=NN Lemma=birthday NamedEntityTag=O]
+[Text=cake CharacterOffsetBegin=2199 CharacterOffsetEnd=2203 PartOfSpeech=NN Lemma=cake NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2203 CharacterOffsetEnd=2204 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2204 CharacterOffsetEnd=2205 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nmod:poss(cake-7, My-5)
+compound(cake-7, birthday-6)
+obj(says-2, cake-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8077985659529526
+
+Sentence #51 (7 tokens):
+Patrick says: "Yeah."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2206 CharacterOffsetEnd=2213 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2214 CharacterOffsetEnd=2218 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2218 CharacterOffsetEnd=2219 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2220 CharacterOffsetEnd=2221 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=2221 CharacterOffsetEnd=2225 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2225 CharacterOffsetEnd=2226 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2226 CharacterOffsetEnd=2227 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Yeah-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9351338576986999
+
+Sentence #52 (18 tokens):
+Patrick says: "Let me just get you a fork so you can eat it."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2228 CharacterOffsetEnd=2235 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2236 CharacterOffsetEnd=2240 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2240 CharacterOffsetEnd=2241 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2242 CharacterOffsetEnd=2243 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Let CharacterOffsetBegin=2243 CharacterOffsetEnd=2246 PartOfSpeech=VB Lemma=let NamedEntityTag=O]
+[Text=me CharacterOffsetBegin=2247 CharacterOffsetEnd=2249 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=2250 CharacterOffsetEnd=2254 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=get CharacterOffsetBegin=2255 CharacterOffsetEnd=2258 PartOfSpeech=VBP Lemma=get NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=2259 CharacterOffsetEnd=2262 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2263 CharacterOffsetEnd=2264 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=fork CharacterOffsetBegin=2265 CharacterOffsetEnd=2269 PartOfSpeech=NN Lemma=fork NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=2270 CharacterOffsetEnd=2272 PartOfSpeech=IN Lemma=so NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=2273 CharacterOffsetEnd=2276 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=2277 CharacterOffsetEnd=2280 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=eat CharacterOffsetBegin=2281 CharacterOffsetEnd=2284 PartOfSpeech=VB Lemma=eat NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=2285 CharacterOffsetEnd=2287 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2287 CharacterOffsetEnd=2288 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2288 CharacterOffsetEnd=2289 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Let-5)
+nsubj(get-8, me-6)
+advmod(get-8, just-7)
+ccomp(Let-5, get-8)
+iobj(get-8, you-9)
+det(fork-11, a-10)
+obj(get-8, fork-11)
+mark(eat-15, so-12)
+nsubj(eat-15, you-13)
+aux(eat-15, can-14)
+advcl:so(get-8, eat-15)
+obj(eat-15, it-16)
+punct(says-2, .-17)
+punct(says-2, "-18)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.8004910695894477
+
+Sentence #53 (7 tokens):
+Patrick says: "Oops."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2290 CharacterOffsetEnd=2297 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2298 CharacterOffsetEnd=2302 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2302 CharacterOffsetEnd=2303 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2304 CharacterOffsetEnd=2305 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oops CharacterOffsetBegin=2305 CharacterOffsetEnd=2309 PartOfSpeech=UH Lemma=oops NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2309 CharacterOffsetEnd=2310 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2310 CharacterOffsetEnd=2311 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Oops-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9351338613987972
+
+Sentence #54 (10 tokens):
+SpongeBob says: "What is the present?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2312 CharacterOffsetEnd=2321 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2322 CharacterOffsetEnd=2326 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2326 CharacterOffsetEnd=2327 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2328 CharacterOffsetEnd=2329 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=2329 CharacterOffsetEnd=2333 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=2334 CharacterOffsetEnd=2336 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=2337 CharacterOffsetEnd=2340 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=present CharacterOffsetBegin=2341 CharacterOffsetEnd=2348 PartOfSpeech=JJ Lemma=present NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">present</TIMEX3>]
+[Text=? CharacterOffsetBegin=2348 CharacterOffsetEnd=2349 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2349 CharacterOffsetEnd=2350 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+ccomp(says-2, What-5)
+cop(What-5, is-6)
+det(present-8, the-7)
+nsubj(What-5, present-8)
+punct(says-2, ?-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8138895054394115
+present	DATE	DATE:-1.0
+
+Sentence #55 (9 tokens):
+Patrick says: "Oh, yeah."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2351 CharacterOffsetEnd=2358 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2359 CharacterOffsetEnd=2363 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2363 CharacterOffsetEnd=2364 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2365 CharacterOffsetEnd=2366 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=2366 CharacterOffsetEnd=2368 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2368 CharacterOffsetEnd=2369 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=yeah CharacterOffsetBegin=2370 CharacterOffsetEnd=2374 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2374 CharacterOffsetEnd=2375 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2375 CharacterOffsetEnd=2376 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Oh-5)
+punct(Oh-5, ,-6)
+dep(Oh-5, yeah-7)
+punct(says-2, .-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9301100289518756
+
+Sentence #56 (8 tokens):
+Patrick says: "The fork!"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2377 CharacterOffsetEnd=2384 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2385 CharacterOffsetEnd=2389 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2389 CharacterOffsetEnd=2390 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2391 CharacterOffsetEnd=2392 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=2392 CharacterOffsetEnd=2395 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=fork CharacterOffsetBegin=2396 CharacterOffsetEnd=2400 PartOfSpeech=NN Lemma=fork NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=2400 CharacterOffsetEnd=2401 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2401 CharacterOffsetEnd=2402 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(fork-6, The-5)
+dep(says-2, fork-6)
+punct(says-2, !-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9406667111571373
+
+Sentence #57 (10 tokens):
+SpongeBob's smile distorts and he breaks down crying.
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2403 CharacterOffsetEnd=2412 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=2412 CharacterOffsetEnd=2414 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=smile CharacterOffsetBegin=2415 CharacterOffsetEnd=2420 PartOfSpeech=NN Lemma=smile NamedEntityTag=O]
+[Text=distorts CharacterOffsetBegin=2421 CharacterOffsetEnd=2429 PartOfSpeech=VBZ Lemma=distort NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=2430 CharacterOffsetEnd=2433 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=2434 CharacterOffsetEnd=2436 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=breaks CharacterOffsetBegin=2437 CharacterOffsetEnd=2443 PartOfSpeech=VBZ Lemma=break NamedEntityTag=O]
+[Text=down CharacterOffsetBegin=2444 CharacterOffsetEnd=2448 PartOfSpeech=RP Lemma=down NamedEntityTag=O]
+[Text=crying CharacterOffsetBegin=2449 CharacterOffsetEnd=2455 PartOfSpeech=VBG Lemma=cry NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2455 CharacterOffsetEnd=2456 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, distorts-4)
+nmod:poss(smile-3, SpongeBob-1)
+case(SpongeBob-1, 's-2)
+nsubj(distorts-4, smile-3)
+cc(breaks-7, and-5)
+nsubj(breaks-7, he-6)
+conj:and(distorts-4, breaks-7)
+compound:prt(breaks-7, down-8)
+obj(breaks-7, crying-9)
+punct(distorts-4, .-10)
+
+Extracted the following NER entity mentions:
+he	PERSON	-
+
+Sentence #58 (9 tokens):
+SpongeBob says: "That stupid toy!"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2457 CharacterOffsetEnd=2466 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2467 CharacterOffsetEnd=2471 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2471 CharacterOffsetEnd=2472 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2473 CharacterOffsetEnd=2474 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=That CharacterOffsetBegin=2474 CharacterOffsetEnd=2478 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=stupid CharacterOffsetBegin=2479 CharacterOffsetEnd=2485 PartOfSpeech=JJ Lemma=stupid NamedEntityTag=O]
+[Text=toy CharacterOffsetBegin=2486 CharacterOffsetEnd=2489 PartOfSpeech=NN Lemma=toy NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=2489 CharacterOffsetEnd=2490 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2490 CharacterOffsetEnd=2491 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(toy-7, That-5)
+amod(toy-7, stupid-6)
+obj(says-2, toy-7)
+punct(says-2, !-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8360836210746735
+
+Sentence #59 (14 tokens):
+SpongeBob says: "I wasted my whole life waiting for it!"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2492 CharacterOffsetEnd=2501 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2502 CharacterOffsetEnd=2506 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2506 CharacterOffsetEnd=2507 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2508 CharacterOffsetEnd=2509 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2509 CharacterOffsetEnd=2510 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=wasted CharacterOffsetBegin=2511 CharacterOffsetEnd=2517 PartOfSpeech=VBD Lemma=waste NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=2518 CharacterOffsetEnd=2520 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=whole CharacterOffsetBegin=2521 CharacterOffsetEnd=2526 PartOfSpeech=JJ Lemma=whole NamedEntityTag=O]
+[Text=life CharacterOffsetBegin=2527 CharacterOffsetEnd=2531 PartOfSpeech=NN Lemma=life NamedEntityTag=O]
+[Text=waiting CharacterOffsetBegin=2532 CharacterOffsetEnd=2539 PartOfSpeech=VBG Lemma=wait NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=2540 CharacterOffsetEnd=2543 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=2544 CharacterOffsetEnd=2546 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=2546 CharacterOffsetEnd=2547 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2547 CharacterOffsetEnd=2548 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(wasted-6, I-5)
+ccomp(says-2, wasted-6)
+nmod:poss(life-9, my-7)
+amod(life-9, whole-8)
+nsubj(waiting-10, life-9)
+dep(wasted-6, waiting-10)
+case(it-12, for-11)
+obl:for(waiting-10, it-12)
+punct(says-2, !-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8270621530830299
+
+Sentence #60 (15 tokens):
+Patrick says: "Actually, you've only been here 20 minutes."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2549 CharacterOffsetEnd=2556 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2557 CharacterOffsetEnd=2561 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2561 CharacterOffsetEnd=2562 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2563 CharacterOffsetEnd=2564 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Actually CharacterOffsetBegin=2564 CharacterOffsetEnd=2572 PartOfSpeech=RB Lemma=actually NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2572 CharacterOffsetEnd=2573 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=2574 CharacterOffsetEnd=2577 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text='ve CharacterOffsetBegin=2577 CharacterOffsetEnd=2580 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=only CharacterOffsetBegin=2581 CharacterOffsetEnd=2585 PartOfSpeech=RB Lemma=only NamedEntityTag=O]
+[Text=been CharacterOffsetBegin=2586 CharacterOffsetEnd=2590 PartOfSpeech=VBN Lemma=be NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=2591 CharacterOffsetEnd=2595 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=20 CharacterOffsetBegin=2596 CharacterOffsetEnd=2598 PartOfSpeech=CD Lemma=20 NamedEntityTag=DURATION NormalizedNamedEntityTag=PT20M Timex=<TIMEX3 tid="t6" type="DURATION" value="PT20M">20 minutes</TIMEX3>]
+[Text=minutes CharacterOffsetBegin=2599 CharacterOffsetEnd=2606 PartOfSpeech=NNS Lemma=minute NamedEntityTag=DURATION NormalizedNamedEntityTag=PT20M Timex=<TIMEX3 tid="t6" type="DURATION" value="PT20M">20 minutes</TIMEX3>]
+[Text=. CharacterOffsetBegin=2606 CharacterOffsetEnd=2607 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2607 CharacterOffsetEnd=2608 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(been-10, Actually-5)
+punct(been-10, ,-6)
+nsubj(been-10, you-7)
+aux(been-10, 've-8)
+advmod(been-10, only-9)
+ccomp(says-2, been-10)
+advmod(been-10, here-11)
+nummod(minutes-13, 20-12)
+obl:tmod(been-10, minutes-13)
+punct(says-2, .-14)
+punct(says-2, "-15)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9370048753380149
+20 minutes	DURATION	DURATION:-1.0
+
+Sentence #61 (34 tokens):
+SpongeBob says: "I've been mean to Gary and I flipped Sandy, and now you hate me cause..."
+SpongeBob says: "I'm a big jerk!"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2609 CharacterOffsetEnd=2618 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2619 CharacterOffsetEnd=2623 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2623 CharacterOffsetEnd=2624 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2625 CharacterOffsetEnd=2626 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2626 CharacterOffsetEnd=2627 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='ve CharacterOffsetBegin=2627 CharacterOffsetEnd=2630 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=been CharacterOffsetBegin=2631 CharacterOffsetEnd=2635 PartOfSpeech=VBN Lemma=be NamedEntityTag=O]
+[Text=mean CharacterOffsetBegin=2636 CharacterOffsetEnd=2640 PartOfSpeech=JJ Lemma=mean NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=2641 CharacterOffsetEnd=2643 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=Gary CharacterOffsetBegin=2644 CharacterOffsetEnd=2648 PartOfSpeech=NNP Lemma=Gary NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=2649 CharacterOffsetEnd=2652 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2653 CharacterOffsetEnd=2654 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=flipped CharacterOffsetBegin=2655 CharacterOffsetEnd=2662 PartOfSpeech=VBD Lemma=flip NamedEntityTag=O]
+[Text=Sandy CharacterOffsetBegin=2663 CharacterOffsetEnd=2668 PartOfSpeech=NNP Lemma=Sandy NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=2668 CharacterOffsetEnd=2669 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=2670 CharacterOffsetEnd=2673 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=now CharacterOffsetBegin=2674 CharacterOffsetEnd=2677 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">now</TIMEX3>]
+[Text=you CharacterOffsetBegin=2678 CharacterOffsetEnd=2681 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=hate CharacterOffsetBegin=2682 CharacterOffsetEnd=2686 PartOfSpeech=VBP Lemma=hate NamedEntityTag=O]
+[Text=me CharacterOffsetBegin=2687 CharacterOffsetEnd=2689 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=cause CharacterOffsetBegin=2690 CharacterOffsetEnd=2695 PartOfSpeech=VB Lemma=cause NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=2695 CharacterOffsetEnd=2698 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2698 CharacterOffsetEnd=2699 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=2700 CharacterOffsetEnd=2709 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2710 CharacterOffsetEnd=2714 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2714 CharacterOffsetEnd=2715 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2716 CharacterOffsetEnd=2717 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2717 CharacterOffsetEnd=2718 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=2718 CharacterOffsetEnd=2720 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2721 CharacterOffsetEnd=2722 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=big CharacterOffsetBegin=2723 CharacterOffsetEnd=2726 PartOfSpeech=JJ Lemma=big NamedEntityTag=O]
+[Text=jerk CharacterOffsetBegin=2727 CharacterOffsetEnd=2731 PartOfSpeech=NN Lemma=jerk NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=2731 CharacterOffsetEnd=2732 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2732 CharacterOffsetEnd=2733 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(mean-8, I-5)
+aux(mean-8, 've-6)
+cop(mean-8, been-7)
+ccomp(says-2, mean-8)
+case(Gary-10, to-9)
+obl:to(mean-8, Gary-10)
+cc(flipped-13, and-11)
+nsubj(flipped-13, I-12)
+ccomp(says-2, flipped-13)
+conj:and(mean-8, flipped-13)
+obj(flipped-13, Sandy-14)
+punct(mean-8, ,-15)
+cc(hate-19, and-16)
+advmod(hate-19, now-17)
+nsubj(hate-19, you-18)
+ccomp(says-2, hate-19)
+conj:and(mean-8, hate-19)
+nsubj(cause-21, me-20)
+ccomp(hate-19, cause-21)
+punct(says-25, ...-22)
+punct(says-25, "-23)
+nsubj(says-25, SpongeBob-24)
+ccomp(cause-21, says-25)
+punct(says-25, :-26)
+punct(says-25, "-27)
+nsubj(jerk-32, I-28)
+cop(jerk-32, 'm-29)
+det(jerk-32, a-30)
+amod(jerk-32, big-31)
+ccomp(says-25, jerk-32)
+punct(says-2, !-33)
+punct(says-2, "-34)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8464373608124389
+Gary	PERSON	PERSON:0.9946839139283009
+Sandy	PERSON	PERSON:0.9947999750891776
+now	DATE	DATE:-1.0
+SpongeBob	PERSON	PERSON:0.8424684621854025
+
+Sentence #62 (11 tokens):
+Patrick says: "No, I don't."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2734 CharacterOffsetEnd=2741 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2742 CharacterOffsetEnd=2746 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2746 CharacterOffsetEnd=2747 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2748 CharacterOffsetEnd=2749 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=No CharacterOffsetBegin=2749 CharacterOffsetEnd=2751 PartOfSpeech=UH Lemma=no NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2751 CharacterOffsetEnd=2752 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2753 CharacterOffsetEnd=2754 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=2755 CharacterOffsetEnd=2757 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=n't CharacterOffsetBegin=2757 CharacterOffsetEnd=2760 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2760 CharacterOffsetEnd=2761 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2761 CharacterOffsetEnd=2762 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(do-8, No-5)
+punct(do-8, ,-6)
+nsubj(do-8, I-7)
+ccomp(says-2, do-8)
+advmod(do-8, n't-9)
+punct(says-2, .-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9337688868747169
+
+Sentence #63 (10 tokens):
+SpongeBob says: "Yes, you do."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=2763 CharacterOffsetEnd=2772 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2773 CharacterOffsetEnd=2777 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2777 CharacterOffsetEnd=2778 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2779 CharacterOffsetEnd=2780 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yes CharacterOffsetBegin=2780 CharacterOffsetEnd=2783 PartOfSpeech=UH Lemma=yes NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=2783 CharacterOffsetEnd=2784 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=2785 CharacterOffsetEnd=2788 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=2789 CharacterOffsetEnd=2791 PartOfSpeech=VBP Lemma=do NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2791 CharacterOffsetEnd=2792 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2792 CharacterOffsetEnd=2793 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(do-8, Yes-5)
+punct(do-8, ,-6)
+nsubj(do-8, you-7)
+ccomp(says-2, do-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8557488173962601
+
+Sentence #64 (8 tokens):
+Mailfish says: "SpongeBob SquarePants?"
+
+Tokens:
+[Text=Mailfish CharacterOffsetBegin=2794 CharacterOffsetEnd=2802 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2803 CharacterOffsetEnd=2807 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2807 CharacterOffsetEnd=2808 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2809 CharacterOffsetEnd=2810 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=2810 CharacterOffsetEnd=2819 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=SquarePants CharacterOffsetBegin=2820 CharacterOffsetEnd=2831 PartOfSpeech=NNPS Lemma=SquarePants NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=2831 CharacterOffsetEnd=2832 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2832 CharacterOffsetEnd=2833 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Mailfish-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+compound(SquarePants-6, SpongeBob-5)
+dep(says-2, SquarePants-6)
+punct(says-2, ?-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+Mailfish	PERSON	PERSON:0.845123737514022
+
+Sentence #65 (11 tokens):
+Patrick says: "Could you come back later?"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2834 CharacterOffsetEnd=2841 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2842 CharacterOffsetEnd=2846 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2846 CharacterOffsetEnd=2847 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2848 CharacterOffsetEnd=2849 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Could CharacterOffsetBegin=2849 CharacterOffsetEnd=2854 PartOfSpeech=MD Lemma=could NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=2855 CharacterOffsetEnd=2858 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=come CharacterOffsetBegin=2859 CharacterOffsetEnd=2863 PartOfSpeech=VB Lemma=come NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=2864 CharacterOffsetEnd=2868 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=later CharacterOffsetBegin=2869 CharacterOffsetEnd=2874 PartOfSpeech=RB Lemma=later NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=2874 CharacterOffsetEnd=2875 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2875 CharacterOffsetEnd=2876 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+aux(come-7, Could-5)
+nsubj(come-7, you-6)
+dep(says-2, come-7)
+advmod(come-7, back-8)
+advmod(come-7, later-9)
+punct(says-2, ?-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9284325748967261
+
+Sentence #66 (11 tokens):
+Patrick says: "He's having a moment."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=2877 CharacterOffsetEnd=2884 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2885 CharacterOffsetEnd=2889 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2889 CharacterOffsetEnd=2890 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2891 CharacterOffsetEnd=2892 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=He CharacterOffsetBegin=2892 CharacterOffsetEnd=2894 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=2894 CharacterOffsetEnd=2896 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=having CharacterOffsetBegin=2897 CharacterOffsetEnd=2903 PartOfSpeech=VBG Lemma=have NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2904 CharacterOffsetEnd=2905 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=moment CharacterOffsetBegin=2906 CharacterOffsetEnd=2912 PartOfSpeech=NN Lemma=moment NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2912 CharacterOffsetEnd=2913 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2913 CharacterOffsetEnd=2914 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(having-7, He-5)
+aux(having-7, 's-6)
+ccomp(says-2, having-7)
+det(moment-9, a-8)
+obj(having-7, moment-9)
+punct(says-2, .-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9546768458143056
+He	PERSON	-
+
+Sentence #67 (7 tokens):
+Mailfish says: "Yeah."
+
+Tokens:
+[Text=Mailfish CharacterOffsetBegin=2915 CharacterOffsetEnd=2923 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2924 CharacterOffsetEnd=2928 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2928 CharacterOffsetEnd=2929 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2930 CharacterOffsetEnd=2931 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=2931 CharacterOffsetEnd=2935 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=2935 CharacterOffsetEnd=2936 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2936 CharacterOffsetEnd=2937 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Mailfish-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Yeah-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Mailfish	PERSON	PERSON:0.8358661016381366
+
+Sentence #68 (25 tokens):
+Mailfish says: "I just need a signature for..."
+Patrick says: "I said he's having a moment!"
+
+Tokens:
+[Text=Mailfish CharacterOffsetBegin=2938 CharacterOffsetEnd=2946 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2947 CharacterOffsetEnd=2951 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2951 CharacterOffsetEnd=2952 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2953 CharacterOffsetEnd=2954 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=2954 CharacterOffsetEnd=2955 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=2956 CharacterOffsetEnd=2960 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=need CharacterOffsetBegin=2961 CharacterOffsetEnd=2965 PartOfSpeech=VBP Lemma=need NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=2966 CharacterOffsetEnd=2967 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=signature CharacterOffsetBegin=2968 CharacterOffsetEnd=2977 PartOfSpeech=NN Lemma=signature NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=2978 CharacterOffsetEnd=2981 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=2981 CharacterOffsetEnd=2984 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=2984 CharacterOffsetEnd=2985 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=2986 CharacterOffsetEnd=2993 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=2994 CharacterOffsetEnd=2998 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=2998 CharacterOffsetEnd=2999 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3000 CharacterOffsetEnd=3001 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3001 CharacterOffsetEnd=3002 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=said CharacterOffsetBegin=3003 CharacterOffsetEnd=3007 PartOfSpeech=VBD Lemma=say NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=3008 CharacterOffsetEnd=3010 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=3010 CharacterOffsetEnd=3012 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=having CharacterOffsetBegin=3013 CharacterOffsetEnd=3019 PartOfSpeech=VBG Lemma=have NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=3020 CharacterOffsetEnd=3021 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=moment CharacterOffsetBegin=3022 CharacterOffsetEnd=3028 PartOfSpeech=NN Lemma=moment NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3028 CharacterOffsetEnd=3029 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3029 CharacterOffsetEnd=3030 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Mailfish-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(need-7, I-5)
+advmod(need-7, just-6)
+ccomp(says-2, need-7)
+det(signature-9, a-8)
+obj(need-7, signature-9)
+case(says-14, for-10)
+punct(says-14, ...-11)
+punct(says-14, "-12)
+nsubj(says-14, Patrick-13)
+acl:for(signature-9, says-14)
+punct(says-14, :-15)
+punct(says-14, "-16)
+nsubj(said-18, I-17)
+ccomp(says-14, said-18)
+nsubj(having-21, he-19)
+aux(having-21, 's-20)
+ccomp(said-18, having-21)
+det(moment-23, a-22)
+obj(having-21, moment-23)
+punct(says-2, !-24)
+punct(says-2, "-25)
+
+Extracted the following NER entity mentions:
+Mailfish	PERSON	PERSON:0.8694651078778638
+Patrick	PERSON	PERSON:0.9783013704910156
+he	PERSON	-
+
+Sentence #69 (10 tokens):
+Patrick says: "Now leave him alone!"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=3031 CharacterOffsetEnd=3038 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3039 CharacterOffsetEnd=3043 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3043 CharacterOffsetEnd=3044 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3045 CharacterOffsetEnd=3046 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Now CharacterOffsetBegin=3046 CharacterOffsetEnd=3049 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Now</TIMEX3>]
+[Text=leave CharacterOffsetBegin=3050 CharacterOffsetEnd=3055 PartOfSpeech=VB Lemma=leave NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=3056 CharacterOffsetEnd=3059 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=alone CharacterOffsetBegin=3060 CharacterOffsetEnd=3065 PartOfSpeech=RB Lemma=alone NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3065 CharacterOffsetEnd=3066 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3066 CharacterOffsetEnd=3067 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(leave-6, Now-5)
+ccomp(says-2, leave-6)
+obj(leave-6, him-7)
+advmod(leave-6, alone-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9399056122446932
+Now	DATE	DATE:-1.0
+him	PERSON	-
+
+Sentence #70 (32 tokens):
+Mailfish says: "But I just..."
+SpongeBob says: "I get so caught up in..."
+Mailfish says: "Oh, here ya go."
+
+Tokens:
+[Text=Mailfish CharacterOffsetBegin=3068 CharacterOffsetEnd=3076 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3077 CharacterOffsetEnd=3081 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3081 CharacterOffsetEnd=3082 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3083 CharacterOffsetEnd=3084 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=But CharacterOffsetBegin=3084 CharacterOffsetEnd=3087 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3088 CharacterOffsetEnd=3089 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=3090 CharacterOffsetEnd=3094 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=3094 CharacterOffsetEnd=3097 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3097 CharacterOffsetEnd=3098 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=3099 CharacterOffsetEnd=3108 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3109 CharacterOffsetEnd=3113 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3113 CharacterOffsetEnd=3114 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3115 CharacterOffsetEnd=3116 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3116 CharacterOffsetEnd=3117 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=get CharacterOffsetBegin=3118 CharacterOffsetEnd=3121 PartOfSpeech=VBP Lemma=get NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=3122 CharacterOffsetEnd=3124 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=caught CharacterOffsetBegin=3125 CharacterOffsetEnd=3131 PartOfSpeech=VBN Lemma=catch NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=3132 CharacterOffsetEnd=3134 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=3135 CharacterOffsetEnd=3137 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=3137 CharacterOffsetEnd=3140 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3140 CharacterOffsetEnd=3141 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Mailfish CharacterOffsetBegin=3142 CharacterOffsetEnd=3150 PartOfSpeech=NNP Lemma=Mailfish NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3151 CharacterOffsetEnd=3155 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3155 CharacterOffsetEnd=3156 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3157 CharacterOffsetEnd=3158 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=3158 CharacterOffsetEnd=3160 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3160 CharacterOffsetEnd=3161 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=3162 CharacterOffsetEnd=3166 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=ya CharacterOffsetBegin=3167 CharacterOffsetEnd=3169 PartOfSpeech=PRP Lemma=ya NamedEntityTag=O]
+[Text=go CharacterOffsetBegin=3170 CharacterOffsetEnd=3172 PartOfSpeech=VB Lemma=go NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3172 CharacterOffsetEnd=3173 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3173 CharacterOffsetEnd=3174 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Mailfish-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(says-11, But-5)
+nsubj(says-11, I-6)
+advmod(says-11, just-7)
+punct(says-11, ...-8)
+punct(says-11, "-9)
+nsubj(says-11, SpongeBob-10)
+ccomp(says-2, says-11)
+punct(says-11, :-12)
+punct(says-11, "-13)
+nsubj:pass(caught-17, I-14)
+aux:pass(caught-17, get-15)
+advmod(caught-17, so-16)
+ccomp(says-11, caught-17)
+compound:prt(caught-17, up-18)
+case(says-23, in-19)
+punct(says-23, ...-20)
+punct(says-23, "-21)
+nsubj(says-23, Mailfish-22)
+advcl:in(caught-17, says-23)
+punct(says-23, :-24)
+punct(says-23, "-25)
+discourse(ya-29, Oh-26)
+punct(ya-29, ,-27)
+advmod(ya-29, here-28)
+ccomp(says-23, ya-29)
+dep(ya-29, go-30)
+punct(says-2, .-31)
+punct(says-2, "-32)
+
+Extracted the following NER entity mentions:
+Mailfish	PERSON	PERSON:0.8348571632000749
+SpongeBob	PERSON	PERSON:0.7992086154204204
+Mailfish	PERSON	PERSON:0.6566054251070987
+
+Sentence #71 (7 tokens):
+SpongeBob says: "Whoo!"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=3175 CharacterOffsetEnd=3184 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3185 CharacterOffsetEnd=3189 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3189 CharacterOffsetEnd=3190 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3191 CharacterOffsetEnd=3192 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Whoo CharacterOffsetBegin=3192 CharacterOffsetEnd=3196 PartOfSpeech=FW Lemma=whoo NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3196 CharacterOffsetEnd=3197 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3197 CharacterOffsetEnd=3198 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Whoo-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7741190583617902
+
+Sentence #72 (7 tokens):
+Both says: "Whoo!"
+
+Tokens:
+[Text=Both CharacterOffsetBegin=3199 CharacterOffsetEnd=3203 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3204 CharacterOffsetEnd=3208 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3208 CharacterOffsetEnd=3209 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3210 CharacterOffsetEnd=3211 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Whoo CharacterOffsetBegin=3211 CharacterOffsetEnd=3215 PartOfSpeech=FW Lemma=whoo NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3215 CharacterOffsetEnd=3216 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3216 CharacterOffsetEnd=3217 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Both-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Whoo-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #73 (7 tokens):
+Both says: "Yeah!"
+
+Tokens:
+[Text=Both CharacterOffsetBegin=3218 CharacterOffsetEnd=3222 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3223 CharacterOffsetEnd=3227 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3227 CharacterOffsetEnd=3228 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3229 CharacterOffsetEnd=3230 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=3230 CharacterOffsetEnd=3234 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3234 CharacterOffsetEnd=3235 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3235 CharacterOffsetEnd=3236 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Both-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Yeah-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #74 (15 tokens):
+SpongeBob says: "Patrick, are you thinking what I'm thinking?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=3237 CharacterOffsetEnd=3246 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3247 CharacterOffsetEnd=3251 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3251 CharacterOffsetEnd=3252 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3253 CharacterOffsetEnd=3254 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=3254 CharacterOffsetEnd=3261 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=3261 CharacterOffsetEnd=3262 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=3263 CharacterOffsetEnd=3266 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=3267 CharacterOffsetEnd=3270 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=thinking CharacterOffsetBegin=3271 CharacterOffsetEnd=3279 PartOfSpeech=VBG Lemma=think NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=3280 CharacterOffsetEnd=3284 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3285 CharacterOffsetEnd=3286 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=3286 CharacterOffsetEnd=3288 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=thinking CharacterOffsetBegin=3289 CharacterOffsetEnd=3297 PartOfSpeech=VBG Lemma=think NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3297 CharacterOffsetEnd=3298 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3298 CharacterOffsetEnd=3299 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(thinking-9, Patrick-5)
+punct(thinking-9, ,-6)
+aux(thinking-9, are-7)
+nsubj(thinking-9, you-8)
+ccomp(says-2, thinking-9)
+obj(thinking-13, what-10)
+nsubj(thinking-13, I-11)
+aux(thinking-13, 'm-12)
+ccomp(thinking-9, thinking-13)
+punct(says-2, ?-14)
+punct(says-2, "-15)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8267546587830733
+Patrick	PERSON	PERSON:0.9712886676061335
+
+Sentence #75 (7 tokens):
+Patrick says: "Yup."
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=3300 CharacterOffsetEnd=3307 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3308 CharacterOffsetEnd=3312 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3312 CharacterOffsetEnd=3313 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3314 CharacterOffsetEnd=3315 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yup CharacterOffsetBegin=3315 CharacterOffsetEnd=3318 PartOfSpeech=UH Lemma=yup NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3318 CharacterOffsetEnd=3319 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3319 CharacterOffsetEnd=3320 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Yup-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9351338603274604
+
+Sentence #76 (9 tokens):
+Both says: "It's beautiful!"
+
+Tokens:
+[Text=Both CharacterOffsetBegin=3321 CharacterOffsetEnd=3325 PartOfSpeech=DT Lemma=both NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3326 CharacterOffsetEnd=3330 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3330 CharacterOffsetEnd=3331 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3332 CharacterOffsetEnd=3333 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=It CharacterOffsetBegin=3333 CharacterOffsetEnd=3335 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=3335 CharacterOffsetEnd=3337 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=beautiful CharacterOffsetBegin=3338 CharacterOffsetEnd=3347 PartOfSpeech=JJ Lemma=beautiful NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3347 CharacterOffsetEnd=3348 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3348 CharacterOffsetEnd=3349 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Both-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(beautiful-7, It-5)
+cop(beautiful-7, 's-6)
+ccomp(says-2, beautiful-7)
+punct(says-2, !-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+
+Sentence #77 (7 tokens):
+Patrick says: "SpongeBob?"
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=3350 CharacterOffsetEnd=3357 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3358 CharacterOffsetEnd=3362 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3362 CharacterOffsetEnd=3363 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3364 CharacterOffsetEnd=3365 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=3365 CharacterOffsetEnd=3374 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3374 CharacterOffsetEnd=3375 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3375 CharacterOffsetEnd=3376 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, SpongeBob-5)
+punct(says-2, ?-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9339948325392968
+
+Sentence #78 (17 tokens):
+SpongeBob says: "I waited so long..."
+Patrick says: "SpongeBob?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=3377 CharacterOffsetEnd=3386 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3387 CharacterOffsetEnd=3391 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3391 CharacterOffsetEnd=3392 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3393 CharacterOffsetEnd=3394 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3394 CharacterOffsetEnd=3395 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=waited CharacterOffsetBegin=3396 CharacterOffsetEnd=3402 PartOfSpeech=VBD Lemma=wait NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=3403 CharacterOffsetEnd=3405 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=long CharacterOffsetBegin=3406 CharacterOffsetEnd=3410 PartOfSpeech=JJ Lemma=long NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=3410 CharacterOffsetEnd=3413 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3413 CharacterOffsetEnd=3414 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=3415 CharacterOffsetEnd=3422 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3423 CharacterOffsetEnd=3427 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3427 CharacterOffsetEnd=3428 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3429 CharacterOffsetEnd=3430 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=3430 CharacterOffsetEnd=3439 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3439 CharacterOffsetEnd=3440 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3440 CharacterOffsetEnd=3441 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(waited-6, I-5)
+ccomp(says-2, waited-6)
+advmod(long-8, so-7)
+advmod(waited-6, long-8)
+punct(says-2, ...-9)
+punct(says-2, "-10)
+nsubj(says-12, Patrick-11)
+ccomp(says-2, says-12)
+punct(says-12, :-13)
+punct(says-12, "-14)
+obj(says-12, SpongeBob-15)
+punct(says-2, ?-16)
+punct(says-2, "-17)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8367888235734684
+Patrick	PERSON	PERSON:0.9665046325424278
+
+Sentence #79 (20 tokens):
+SpongeBob says: "And you broke it..."
+Patrick says: "You okay, buddy?"
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=3442 CharacterOffsetEnd=3451 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3452 CharacterOffsetEnd=3456 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3456 CharacterOffsetEnd=3457 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3458 CharacterOffsetEnd=3459 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=And CharacterOffsetBegin=3459 CharacterOffsetEnd=3462 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=3463 CharacterOffsetEnd=3466 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=broke CharacterOffsetBegin=3467 CharacterOffsetEnd=3472 PartOfSpeech=VBD Lemma=break NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=3473 CharacterOffsetEnd=3475 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=3475 CharacterOffsetEnd=3478 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3478 CharacterOffsetEnd=3479 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=3480 CharacterOffsetEnd=3487 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3488 CharacterOffsetEnd=3492 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3492 CharacterOffsetEnd=3493 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3494 CharacterOffsetEnd=3495 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=3495 CharacterOffsetEnd=3498 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=okay CharacterOffsetBegin=3499 CharacterOffsetEnd=3503 PartOfSpeech=RB Lemma=okay NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3503 CharacterOffsetEnd=3504 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=buddy CharacterOffsetBegin=3505 CharacterOffsetEnd=3510 PartOfSpeech=NN Lemma=buddy NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3510 CharacterOffsetEnd=3511 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3511 CharacterOffsetEnd=3512 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(broke-7, And-5)
+nsubj(broke-7, you-6)
+conj:and(says-2, broke-7)
+obj(broke-7, it-8)
+punct(broke-7, ...-9)
+punct(broke-7, "-10)
+nsubj(says-12, Patrick-11)
+ccomp(broke-7, says-12)
+punct(says-12, :-13)
+punct(says-12, "-14)
+dep(buddy-18, You-15)
+advmod(buddy-18, okay-16)
+punct(buddy-18, ,-17)
+ccomp(says-12, buddy-18)
+punct(says-2, ?-19)
+punct(says-2, "-20)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8491869861668595
+Patrick	PERSON	PERSON:0.99149519794852
+
+Sentence #80 (12 tokens):
+SpongeBob says: "Yes, yes I'm okay."
+
+Tokens:
+[Text=SpongeBob CharacterOffsetBegin=3513 CharacterOffsetEnd=3522 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3523 CharacterOffsetEnd=3527 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3527 CharacterOffsetEnd=3528 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3529 CharacterOffsetEnd=3530 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yes CharacterOffsetBegin=3530 CharacterOffsetEnd=3533 PartOfSpeech=UH Lemma=yes NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3533 CharacterOffsetEnd=3534 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=yes CharacterOffsetBegin=3535 CharacterOffsetEnd=3538 PartOfSpeech=UH Lemma=yes NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3539 CharacterOffsetEnd=3540 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=3540 CharacterOffsetEnd=3542 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=okay CharacterOffsetBegin=3543 CharacterOffsetEnd=3547 PartOfSpeech=JJ Lemma=okay NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3547 CharacterOffsetEnd=3548 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3548 CharacterOffsetEnd=3549 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, SpongeBob-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(okay-10, Yes-5)
+punct(okay-10, ,-6)
+discourse(okay-10, yes-7)
+nsubj(okay-10, I-8)
+cop(okay-10, 'm-9)
+ccomp(says-2, okay-10)
+punct(says-2, .-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.8557490020395493
+
+Sentence #81 (10 tokens):
+Patrick says: "For a sec, I..
+
+Tokens:
+[Text=Patrick CharacterOffsetBegin=3550 CharacterOffsetEnd=3557 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3558 CharacterOffsetEnd=3562 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3562 CharacterOffsetEnd=3563 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3564 CharacterOffsetEnd=3565 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=For CharacterOffsetBegin=3565 CharacterOffsetEnd=3568 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=3569 CharacterOffsetEnd=3570 PartOfSpeech=DT Lemma=a NamedEntityTag=DURATION NormalizedNamedEntityTag=PT1S Timex=<TIMEX3 tid="t9" type="DURATION" value="PT1S">a sec</TIMEX3>]
+[Text=sec CharacterOffsetBegin=3571 CharacterOffsetEnd=3574 PartOfSpeech=NN Lemma=sec NamedEntityTag=DURATION NormalizedNamedEntityTag=PT1S Timex=<TIMEX3 tid="t9" type="DURATION" value="PT1S">a sec</TIMEX3>]
+[Text=, CharacterOffsetBegin=3574 CharacterOffsetEnd=3575 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I. CharacterOffsetBegin=3576 CharacterOffsetEnd=3578 PartOfSpeech=NNP Lemma=I. NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3578 CharacterOffsetEnd=3579 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Patrick-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+case(sec-7, For-5)
+det(sec-7, a-6)
+obl:for(I.-9, sec-7)
+punct(I.-9, ,-8)
+ccomp(says-2, I.-9)
+punct(says-2, .-10)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9441691494098415
+a sec	DURATION	DURATION:-1.0
+
+Sentence #82 (1 tokens):
+.
+
+Tokens:
+[Text=. CharacterOffsetBegin=3579 CharacterOffsetEnd=3580 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, .-1)
+
+Extracted the following NER entity mentions:
+
+Sentence #83 (7 tokens):
+"
+SpongeBob says: "You!
+
+Tokens:
+[Text=" CharacterOffsetBegin=3580 CharacterOffsetEnd=3581 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=3582 CharacterOffsetEnd=3591 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3592 CharacterOffsetEnd=3596 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3596 CharacterOffsetEnd=3597 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3598 CharacterOffsetEnd=3599 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=3599 CharacterOffsetEnd=3602 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3602 CharacterOffsetEnd=3603 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, SpongeBob-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+dep(says-3, You-6)
+punct(says-3, !-7)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7835537795320977
+
+Sentence #84 (11 tokens):
+"
+SpongeBob says: "You ruined my free toy!
+
+Tokens:
+[Text=" CharacterOffsetBegin=3603 CharacterOffsetEnd=3604 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=3605 CharacterOffsetEnd=3614 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3615 CharacterOffsetEnd=3619 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3619 CharacterOffsetEnd=3620 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3621 CharacterOffsetEnd=3622 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=3622 CharacterOffsetEnd=3625 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=ruined CharacterOffsetBegin=3626 CharacterOffsetEnd=3632 PartOfSpeech=VBD Lemma=ruin NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=3633 CharacterOffsetEnd=3635 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=free CharacterOffsetBegin=3636 CharacterOffsetEnd=3640 PartOfSpeech=JJ Lemma=free NamedEntityTag=O]
+[Text=toy CharacterOffsetBegin=3641 CharacterOffsetEnd=3644 PartOfSpeech=NN Lemma=toy NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3644 CharacterOffsetEnd=3645 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, SpongeBob-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(ruined-7, You-6)
+ccomp(says-3, ruined-7)
+nmod:poss(toy-10, my-8)
+amod(toy-10, free-9)
+obj(ruined-7, toy-10)
+punct(says-3, !-11)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7831009580366796
+
+Sentence #85 (9 tokens):
+"
+Patrick says: "I'm sorry.
+
+Tokens:
+[Text=" CharacterOffsetBegin=3645 CharacterOffsetEnd=3646 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=3647 CharacterOffsetEnd=3654 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3655 CharacterOffsetEnd=3659 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3659 CharacterOffsetEnd=3660 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3661 CharacterOffsetEnd=3662 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=3662 CharacterOffsetEnd=3663 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=3663 CharacterOffsetEnd=3665 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=sorry CharacterOffsetBegin=3666 CharacterOffsetEnd=3671 PartOfSpeech=JJ Lemma=sorry NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3671 CharacterOffsetEnd=3672 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Patrick-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj(sorry-8, I-6)
+cop(sorry-8, 'm-7)
+ccomp(says-3, sorry-8)
+punct(says-3, .-9)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9936976824983786
+
+Sentence #86 (24 tokens):
+"
+Patrick says: "Oh, maybe if you just..."
+Squidward says: "Alright, what's going on?
+
+Tokens:
+[Text=" CharacterOffsetBegin=3672 CharacterOffsetEnd=3673 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=3674 CharacterOffsetEnd=3681 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3682 CharacterOffsetEnd=3686 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3686 CharacterOffsetEnd=3687 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3688 CharacterOffsetEnd=3689 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=3689 CharacterOffsetEnd=3691 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3691 CharacterOffsetEnd=3692 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=maybe CharacterOffsetBegin=3693 CharacterOffsetEnd=3698 PartOfSpeech=RB Lemma=maybe NamedEntityTag=O]
+[Text=if CharacterOffsetBegin=3699 CharacterOffsetEnd=3701 PartOfSpeech=IN Lemma=if NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=3702 CharacterOffsetEnd=3705 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=just CharacterOffsetBegin=3706 CharacterOffsetEnd=3710 PartOfSpeech=RB Lemma=just NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=3710 CharacterOffsetEnd=3713 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3713 CharacterOffsetEnd=3714 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3715 CharacterOffsetEnd=3724 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3725 CharacterOffsetEnd=3729 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3729 CharacterOffsetEnd=3730 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3731 CharacterOffsetEnd=3732 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Alright CharacterOffsetBegin=3732 CharacterOffsetEnd=3739 PartOfSpeech=UH Lemma=alright NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3739 CharacterOffsetEnd=3740 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=3741 CharacterOffsetEnd=3745 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=3745 CharacterOffsetEnd=3747 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=going CharacterOffsetBegin=3748 CharacterOffsetEnd=3753 PartOfSpeech=VBG Lemma=go NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=3754 CharacterOffsetEnd=3756 PartOfSpeech=RP Lemma=on NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3756 CharacterOffsetEnd=3757 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Patrick-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(says-15, Oh-6)
+punct(says-15, ,-7)
+advmod(says-15, maybe-8)
+mark(says-15, if-9)
+nsubj(says-15, you-10)
+advmod(says-15, just-11)
+punct(says-15, ...-12)
+punct(says-15, "-13)
+nsubj(says-15, Squidward-14)
+ccomp(says-3, says-15)
+punct(says-15, :-16)
+punct(says-15, "-17)
+discourse(going-22, Alright-18)
+punct(going-22, ,-19)
+nsubj(going-22, what-20)
+aux(going-22, 's-21)
+ccomp(says-15, going-22)
+compound:prt(going-22, on-23)
+punct(says-3, ?-24)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9806755506902054
+
+Sentence #87 (11 tokens):
+"
+Squidward says: "Why are you two crying?
+
+Tokens:
+[Text=" CharacterOffsetBegin=3757 CharacterOffsetEnd=3758 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3759 CharacterOffsetEnd=3768 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3769 CharacterOffsetEnd=3773 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3773 CharacterOffsetEnd=3774 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3775 CharacterOffsetEnd=3776 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Why CharacterOffsetBegin=3776 CharacterOffsetEnd=3779 PartOfSpeech=WRB Lemma=why NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=3780 CharacterOffsetEnd=3783 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=3784 CharacterOffsetEnd=3787 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=two CharacterOffsetBegin=3788 CharacterOffsetEnd=3791 PartOfSpeech=CD Lemma=two NamedEntityTag=NUMBER NormalizedNamedEntityTag=2.0]
+[Text=crying CharacterOffsetBegin=3792 CharacterOffsetEnd=3798 PartOfSpeech=VBG Lemma=cry NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3798 CharacterOffsetEnd=3799 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+ccomp(says-3, Why-6)
+dep(Why-6, are-7)
+nsubj(are-7, you-8)
+dep(you-8, two-9)
+amod(two-9, crying-10)
+punct(says-3, ?-11)
+
+Extracted the following NER entity mentions:
+two	NUMBER	NUMBER:-1.0
+
+Sentence #88 (7 tokens):
+"
+Squidward says: "There.
+
+Tokens:
+[Text=" CharacterOffsetBegin=3799 CharacterOffsetEnd=3800 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3801 CharacterOffsetEnd=3810 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=3811 CharacterOffsetEnd=3815 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3815 CharacterOffsetEnd=3816 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3817 CharacterOffsetEnd=3818 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=There CharacterOffsetBegin=3818 CharacterOffsetEnd=3823 PartOfSpeech=EX Lemma=there NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3823 CharacterOffsetEnd=3824 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(says-3, There-6)
+punct(says-3, .-7)
+
+Extracted the following NER entity mentions:
+Squidward	ORGANIZATION	ORGANIZATION:0.5332701541999231
+
+Sentence #89 (8 tokens):
+"
+Squidward says: "Now see?
+
+Tokens:
+[Text=" CharacterOffsetBegin=3824 CharacterOffsetEnd=3825 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3826 CharacterOffsetEnd=3835 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3836 CharacterOffsetEnd=3840 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3840 CharacterOffsetEnd=3841 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3842 CharacterOffsetEnd=3843 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Now CharacterOffsetBegin=3843 CharacterOffsetEnd=3846 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Now</TIMEX3>]
+[Text=see CharacterOffsetBegin=3847 CharacterOffsetEnd=3850 PartOfSpeech=VB Lemma=see NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=3850 CharacterOffsetEnd=3851 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+advmod(see-7, Now-6)
+dep(says-3, see-7)
+punct(says-3, ?-8)
+
+Extracted the following NER entity mentions:
+Now	DATE	DATE:-1.0
+
+Sentence #90 (12 tokens):
+"
+Squidward says: "It's supposed to do that.
+
+Tokens:
+[Text=" CharacterOffsetBegin=3851 CharacterOffsetEnd=3852 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3853 CharacterOffsetEnd=3862 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3863 CharacterOffsetEnd=3867 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3867 CharacterOffsetEnd=3868 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3869 CharacterOffsetEnd=3870 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=It CharacterOffsetBegin=3870 CharacterOffsetEnd=3872 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=3872 CharacterOffsetEnd=3874 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=supposed CharacterOffsetBegin=3875 CharacterOffsetEnd=3883 PartOfSpeech=VBN Lemma=suppose NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=3884 CharacterOffsetEnd=3886 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=3887 CharacterOffsetEnd=3889 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=3890 CharacterOffsetEnd=3894 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3894 CharacterOffsetEnd=3895 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+nsubj:pass(supposed-8, It-6)
+nsubj:xsubj(do-10, It-6)
+aux:pass(supposed-8, 's-7)
+ccomp(says-3, supposed-8)
+mark(do-10, to-9)
+xcomp(supposed-8, do-10)
+obj(do-10, that-11)
+punct(says-3, .-12)
+
+Extracted the following NER entity mentions:
+
+Sentence #91 (12 tokens):
+"
+SpongeBob says: "Hey, my toy's okay!
+
+Tokens:
+[Text=" CharacterOffsetBegin=3895 CharacterOffsetEnd=3896 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=3897 CharacterOffsetEnd=3906 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=3907 CharacterOffsetEnd=3911 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3911 CharacterOffsetEnd=3912 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3913 CharacterOffsetEnd=3914 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hey CharacterOffsetBegin=3914 CharacterOffsetEnd=3917 PartOfSpeech=UH Lemma=hey NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=3917 CharacterOffsetEnd=3918 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=my CharacterOffsetBegin=3919 CharacterOffsetEnd=3921 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=toy CharacterOffsetBegin=3922 CharacterOffsetEnd=3925 PartOfSpeech=NN Lemma=toy NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=3925 CharacterOffsetEnd=3927 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=okay CharacterOffsetBegin=3928 CharacterOffsetEnd=3932 PartOfSpeech=JJ Lemma=okay NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=3932 CharacterOffsetEnd=3933 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, SpongeBob-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(okay-11, Hey-6)
+punct(okay-11, ,-7)
+nmod:poss(toy-9, my-8)
+nmod:poss(okay-11, toy-9)
+case(toy-9, 's-10)
+ccomp(says-3, okay-11)
+punct(says-3, !-12)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.6778932840725361
+
+Sentence #92 (7 tokens):
+"
+Squidward says: "Good.
+
+Tokens:
+[Text=" CharacterOffsetBegin=3933 CharacterOffsetEnd=3934 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3935 CharacterOffsetEnd=3944 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3945 CharacterOffsetEnd=3949 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3949 CharacterOffsetEnd=3950 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3951 CharacterOffsetEnd=3952 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Good CharacterOffsetBegin=3952 CharacterOffsetEnd=3956 PartOfSpeech=NNP Lemma=Good NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=3956 CharacterOffsetEnd=3957 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+obj(says-3, Good-6)
+punct(says-3, .-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #93 (12 tokens):
+"
+Squidward says: "Now will you two be quiet?
+
+Tokens:
+[Text=" CharacterOffsetBegin=3957 CharacterOffsetEnd=3958 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=3959 CharacterOffsetEnd=3968 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=3969 CharacterOffsetEnd=3973 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=3973 CharacterOffsetEnd=3974 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=3975 CharacterOffsetEnd=3976 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Now CharacterOffsetBegin=3976 CharacterOffsetEnd=3979 PartOfSpeech=RB Lemma=now NamedEntityTag=DATE NormalizedNamedEntityTag=PRESENT_REF Timex=<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Now</TIMEX3>]
+[Text=will CharacterOffsetBegin=3980 CharacterOffsetEnd=3984 PartOfSpeech=MD Lemma=will NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=3985 CharacterOffsetEnd=3988 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=two CharacterOffsetBegin=3989 CharacterOffsetEnd=3992 PartOfSpeech=CD Lemma=two NamedEntityTag=NUMBER NormalizedNamedEntityTag=2.0]
+[Text=be CharacterOffsetBegin=3993 CharacterOffsetEnd=3995 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=quiet CharacterOffsetBegin=3996 CharacterOffsetEnd=4001 PartOfSpeech=JJ Lemma=quiet NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=4001 CharacterOffsetEnd=4002 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+advmod(quiet-11, Now-6)
+aux(quiet-11, will-7)
+nsubj(quiet-11, you-8)
+nsubj(quiet-11, two-9)
+cop(quiet-11, be-10)
+dep(says-3, quiet-11)
+punct(says-3, ?-12)
+
+Extracted the following NER entity mentions:
+Now	DATE	DATE:-1.0
+two	NUMBER	NUMBER:-1.0
+
+Sentence #94 (13 tokens):
+"
+SpongeBob says: "Look, Patrick, Squidward fixed it.
+
+Tokens:
+[Text=" CharacterOffsetBegin=4002 CharacterOffsetEnd=4003 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=4004 CharacterOffsetEnd=4013 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=4014 CharacterOffsetEnd=4018 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=4018 CharacterOffsetEnd=4019 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=4020 CharacterOffsetEnd=4021 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Look CharacterOffsetBegin=4021 CharacterOffsetEnd=4025 PartOfSpeech=VB Lemma=look NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=4025 CharacterOffsetEnd=4026 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=4027 CharacterOffsetEnd=4034 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=4034 CharacterOffsetEnd=4035 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=4036 CharacterOffsetEnd=4045 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=MISC]
+[Text=fixed CharacterOffsetBegin=4046 CharacterOffsetEnd=4051 PartOfSpeech=VBD Lemma=fix NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=4052 CharacterOffsetEnd=4054 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=4054 CharacterOffsetEnd=4055 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, SpongeBob-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(fixed-11, Look-6)
+punct(fixed-11, ,-7)
+nsubj(fixed-11, Patrick-8)
+punct(fixed-11, ,-9)
+nsubj(fixed-11, Squidward-10)
+ccomp(says-3, fixed-11)
+obj(fixed-11, it-12)
+punct(says-3, .-13)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7145663693427022
+Patrick	PERSON	PERSON:0.9696250845134194
+Squidward	MISC	MISC:0.40287954333777687
+
+Sentence #95 (12 tokens):
+"
+SpongeBob says: "How can we ever thank you?
+
+Tokens:
+[Text=" CharacterOffsetBegin=4055 CharacterOffsetEnd=4056 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=SpongeBob CharacterOffsetBegin=4057 CharacterOffsetEnd=4066 PartOfSpeech=NNP Lemma=SpongeBob NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=4067 CharacterOffsetEnd=4071 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=4071 CharacterOffsetEnd=4072 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=4073 CharacterOffsetEnd=4074 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=How CharacterOffsetBegin=4074 CharacterOffsetEnd=4077 PartOfSpeech=WRB Lemma=how NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=4078 CharacterOffsetEnd=4081 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=4082 CharacterOffsetEnd=4084 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=ever CharacterOffsetBegin=4085 CharacterOffsetEnd=4089 PartOfSpeech=RB Lemma=ever NamedEntityTag=O]
+[Text=thank CharacterOffsetBegin=4090 CharacterOffsetEnd=4095 PartOfSpeech=VBP Lemma=thank NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=4096 CharacterOffsetEnd=4099 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=4099 CharacterOffsetEnd=4100 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, SpongeBob-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+advmod(thank-10, How-6)
+aux(thank-10, can-7)
+nsubj(thank-10, we-8)
+advmod(thank-10, ever-9)
+ccomp(says-3, thank-10)
+obj(thank-10, you-11)
+punct(says-3, ?-12)
+
+Extracted the following NER entity mentions:
+SpongeBob	PERSON	PERSON:0.7031646308471902
+
+Sentence #96 (13 tokens):
+"
+Patrick says: "Yeah, how can we thank you?
+
+Tokens:
+[Text=" CharacterOffsetBegin=4100 CharacterOffsetEnd=4101 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Patrick CharacterOffsetBegin=4102 CharacterOffsetEnd=4109 PartOfSpeech=NNP Lemma=Patrick NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=4110 CharacterOffsetEnd=4114 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=4114 CharacterOffsetEnd=4115 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=4116 CharacterOffsetEnd=4117 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=4117 CharacterOffsetEnd=4121 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=4121 CharacterOffsetEnd=4122 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=how CharacterOffsetBegin=4123 CharacterOffsetEnd=4126 PartOfSpeech=WRB Lemma=how NamedEntityTag=O]
+[Text=can CharacterOffsetBegin=4127 CharacterOffsetEnd=4130 PartOfSpeech=MD Lemma=can NamedEntityTag=O]
+[Text=we CharacterOffsetBegin=4131 CharacterOffsetEnd=4133 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=thank CharacterOffsetBegin=4134 CharacterOffsetEnd=4139 PartOfSpeech=VBP Lemma=thank NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=4140 CharacterOffsetEnd=4143 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=4143 CharacterOffsetEnd=4144 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Patrick-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+discourse(thank-11, Yeah-6)
+punct(thank-11, ,-7)
+advmod(thank-11, how-8)
+aux(thank-11, can-9)
+nsubj(thank-11, we-10)
+ccomp(says-3, thank-11)
+obj(thank-11, you-12)
+punct(says-3, ?-13)
+
+Extracted the following NER entity mentions:
+Patrick	PERSON	PERSON:0.9826642206891475
+
+Sentence #97 (10 tokens):
+"
+Squidward says: "Move to another neighborhood.
+
+Tokens:
+[Text=" CharacterOffsetBegin=4144 CharacterOffsetEnd=4145 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Squidward CharacterOffsetBegin=4146 CharacterOffsetEnd=4155 PartOfSpeech=NNP Lemma=Squidward NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=4156 CharacterOffsetEnd=4160 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=4160 CharacterOffsetEnd=4161 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=4162 CharacterOffsetEnd=4163 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Move CharacterOffsetBegin=4163 CharacterOffsetEnd=4167 PartOfSpeech=VB Lemma=move NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=4168 CharacterOffsetEnd=4170 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=another CharacterOffsetBegin=4171 CharacterOffsetEnd=4178 PartOfSpeech=DT Lemma=another NamedEntityTag=O]
+[Text=neighborhood CharacterOffsetBegin=4179 CharacterOffsetEnd=4191 PartOfSpeech=NN Lemma=neighborhood NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=4191 CharacterOffsetEnd=4192 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+punct(says-3, "-1)
+nsubj(says-3, Squidward-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+dep(says-3, Move-6)
+case(neighborhood-9, to-7)
+det(neighborhood-9, another-8)
+obl:to(Move-6, neighborhood-9)
+punct(says-3, .-10)
+
+Extracted the following NER entity mentions:
+
+Sentence #98 (1 tokens):
+"
+
+Tokens:
+[Text=" CharacterOffsetBegin=4192 CharacterOffsetEnd=4193 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, "-1)
+
+Extracted the following NER entity mentions:
+
+Coreference set:
+	(11,5,[5,6]) -> (10,5,[5,6]), that is: "We" -> "We"
+	(12,5,[5,6]) -> (10,5,[5,6]), that is: "We" -> "We"
+	(13,5,[5,6]) -> (10,5,[5,6]), that is: "We" -> "We"
+	(14,5,[5,6]) -> (10,5,[5,6]), that is: "We" -> "We"
+	(15,9,[9,10]) -> (10,5,[5,6]), that is: "we" -> "We"
+	(16,5,[5,6]) -> (10,5,[5,6]), that is: "We" -> "We"
+
+Coreference set:
+	(59,12,[12,13]) -> (59,9,[7,10]), that is: "it" -> "my whole life"
+
+Coreference set:
+	(84,10,[8,11]) -> (17,11,[9,12]), that is: "my free toy" -> "a free toy"
+	(91,9,[8,11]) -> (17,11,[9,12]), that is: "my toy 's" -> "a free toy"
+
+Coreference set:
+	(4,5,[5,6]) -> (3,5,[5,6]), that is: "Meow" -> "Meow"
+
+Coreference set:
+	(21,5,[5,6]) -> (21,1,[1,2]), that is: "We" -> "Both"
+	(22,1,[1,2]) -> (21,1,[1,2]), that is: "Both" -> "Both"
+	(22,5,[5,6]) -> (21,1,[1,2]), that is: "We" -> "Both"
+	(23,1,[1,2]) -> (21,1,[1,2]), that is: "Both" -> "Both"
+	(23,5,[5,6]) -> (21,1,[1,2]), that is: "We" -> "Both"
+	(29,6,[6,7]) -> (21,1,[1,2]), that is: "we" -> "Both"
+	(32,6,[6,7]) -> (21,1,[1,2]), that is: "'s" -> "Both"
+
+Coreference set:
+	(3,1,[1,2]) -> (2,11,[11,12]), that is: "Gary" -> "Gary"
+	(4,1,[1,2]) -> (2,11,[11,12]), that is: "Gary" -> "Gary"
+	(61,10,[10,11]) -> (2,11,[11,12]), that is: "Gary" -> "Gary"
+
+Coreference set:
+	(8,5,[5,6]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(9,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(9,5,[5,6]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(11,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(13,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(15,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(18,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(18,5,[5,6]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(19,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(19,6,[6,7]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(24,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(25,6,[6,7]) -> (8,1,[1,2]), that is: "you" -> "Patrick"
+	(30,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(30,9,[9,10]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(32,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(33,8,[8,9]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(36,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(38,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(38,7,[7,8]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(39,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(39,5,[5,6]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(39,9,[9,10]) -> (8,1,[1,2]), that is: "my" -> "Patrick"
+	(40,1,[1,2]) -> (8,1,[1,2]), that is: "Sandy" -> "Patrick"
+	(41,1,[1,2]) -> (8,1,[1,2]), that is: "Sandy" -> "Patrick"
+	(41,16,[16,17]) -> (8,1,[1,2]), that is: "Sandy" -> "Patrick"
+	(44,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(46,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(46,13,[13,14]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(48,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(49,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(51,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(52,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(52,6,[6,7]) -> (8,1,[1,2]), that is: "me" -> "Patrick"
+	(53,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(55,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(56,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(57,6,[6,7]) -> (8,1,[1,2]), that is: "he" -> "Patrick"
+	(60,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(61,14,[14,15]) -> (8,1,[1,2]), that is: "Sandy" -> "Patrick"
+	(62,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(62,7,[7,8]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(65,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(66,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(68,13,[13,14]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(68,19,[19,20]) -> (8,1,[1,2]), that is: "he" -> "Patrick"
+	(69,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(69,7,[7,8]) -> (8,1,[1,2]), that is: "him" -> "Patrick"
+	(74,5,[5,6]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(75,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(77,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(78,11,[11,12]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(79,11,[11,12]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(81,1,[1,2]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(85,2,[2,3]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(85,6,[6,7]) -> (8,1,[1,2]), that is: "I" -> "Patrick"
+	(86,2,[2,3]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(94,8,[8,9]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+	(96,2,[2,3]) -> (8,1,[1,2]), that is: "Patrick" -> "Patrick"
+
+Coreference set:
+	(19,12,[12,13]) -> (19,9,[9,10]), that is: "you" -> "your"
+
+Coreference set:
+	(87,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(88,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(89,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(90,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(92,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(93,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(94,10,[10,11]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+	(97,2,[2,3]) -> (86,14,[14,15]), that is: "Squidward" -> "Squidward"
+
+Coreference set:
+	(1,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(2,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(5,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(5,12,[12,13]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(5,16,[16,17]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(6,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(6,5,[5,6]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(7,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(7,5,[5,6]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(10,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(12,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(14,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(15,5,[5,6]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(16,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(17,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(17,8,[8,9]) -> (34,6,[5,19]), that is: "me" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(20,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(26,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(27,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(29,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(30,7,[7,8]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(31,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(31,5,[5,6]) -> (34,6,[5,19]), that is: "Me" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(33,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(34,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(34,12,[12,13]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(35,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(35,11,[11,12]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(36,8,[7,9]) -> (34,6,[5,19]), that is: "wrong SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(37,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(37,6,[6,7]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(37,14,[14,15]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(41,7,[7,8]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(42,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(42,8,[8,9]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(43,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(43,8,[8,9]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(43,16,[16,17]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(45,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(46,5,[5,6]) -> (34,6,[5,19]), that is: "You" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(46,7,[7,8]) -> (34,6,[5,19]), that is: "your" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(46,18,[18,19]) -> (34,6,[5,19]), that is: "you" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(46,25,[25,26]) -> (34,6,[5,19]), that is: "you" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(47,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(47,5,[5,6]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(47,9,[9,10]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(47,13,[13,14]) -> (34,6,[5,19]), that is: "my" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(47,16,[16,17]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(49,10,[10,11]) -> (34,6,[5,19]), that is: "your" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(50,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(50,5,[5,6]) -> (34,6,[5,19]), that is: "My" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(52,9,[9,10]) -> (34,6,[5,19]), that is: "you" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(52,13,[13,14]) -> (34,6,[5,19]), that is: "you" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(54,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(57,1,[1,3]) -> (34,6,[5,19]), that is: "SpongeBob 's" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(58,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(59,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(59,5,[5,6]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(59,7,[7,8]) -> (34,6,[5,19]), that is: "my" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(61,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(61,5,[5,6]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(61,12,[12,13]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(61,20,[20,21]) -> (34,6,[5,19]), that is: "me" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(61,24,[24,25]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(61,28,[28,29]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(63,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(70,10,[10,11]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(71,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(74,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(74,11,[11,12]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(77,5,[5,6]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(78,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(78,5,[5,6]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(78,15,[15,16]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(79,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(80,1,[1,2]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(80,8,[8,9]) -> (34,6,[5,19]), that is: "I" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(83,2,[2,3]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(84,2,[2,3]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(84,8,[8,9]) -> (34,6,[5,19]), that is: "my" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(91,2,[2,3]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(91,8,[8,9]) -> (34,6,[5,19]), that is: "my" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(94,2,[2,3]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+	(95,2,[2,3]) -> (34,6,[5,19]), that is: "SpongeBob" -> "Krusty Krab , here we ... " SpongeBob says : " wait a minute"
+
+Coreference set:
+	(52,16,[16,17]) -> (52,11,[10,12]), that is: "it" -> "a fork"
+
+Coreference set:
+	(95,11,[11,12]) -> (93,8,[8,9]), that is: "you" -> "you"
+	(96,12,[12,13]) -> (93,8,[8,9]), that is: "you" -> "you"
+
+Coreference set:
+	(96,10,[10,11]) -> (95,8,[8,9]), that is: "we" -> "we"
+
+Coreference set:
+	(46,27,[27,28]) -> (46,23,[21,24]), that is: "it" -> "and some cake"
+
+Coreference set:
+	(24,8,[7,9]) -> (16,10,[9,11]), that is: "the mailman" -> "the mailman"
+	(35,8,[7,9]) -> (16,10,[9,11]), that is: "the mailman" -> "the mailman"
+	(37,10,[9,11]) -> (16,10,[9,11]), that is: "the mailman" -> "the mailman"
+	(37,17,[17,18]) -> (16,10,[9,11]), that is: "him" -> "the mailman"
+
+Coreference set:
+	(79,15,[15,16]) -> (79,6,[6,7]), that is: "You" -> "you"
+	(83,6,[6,7]) -> (79,6,[6,7]), that is: "You" -> "you"
+	(84,6,[6,7]) -> (79,6,[6,7]), that is: "You" -> "you"
+	(86,10,[10,11]) -> (79,6,[6,7]), that is: "you" -> "you"
+	(87,8,[8,9]) -> (79,6,[6,7]), that is: "you" -> "you"
+
+Coreference set:
+	(28,1,[1,2]) -> (25,1,[1,2]), that is: "Mailfish" -> "Mailfish"
+	(64,1,[1,2]) -> (25,1,[1,2]), that is: "Mailfish" -> "Mailfish"
+	(65,6,[6,7]) -> (25,1,[1,2]), that is: "you" -> "Mailfish"
+	(67,1,[1,2]) -> (25,1,[1,2]), that is: "Mailfish" -> "Mailfish"
+	(68,1,[1,2]) -> (25,1,[1,2]), that is: "Mailfish" -> "Mailfish"
+	(68,5,[5,6]) -> (25,1,[1,2]), that is: "I" -> "Mailfish"
+	(68,17,[17,18]) -> (25,1,[1,2]), that is: "I" -> "Mailfish"
+	(70,1,[1,2]) -> (25,1,[1,2]), that is: "Mailfish" -> "Mailfish"
+	(70,6,[6,7]) -> (25,1,[1,2]), that is: "I" -> "Mailfish"
+	(70,14,[14,15]) -> (25,1,[1,2]), that is: "I" -> "Mailfish"
+	(70,22,[22,23]) -> (25,1,[1,2]), that is: "Mailfish" -> "Mailfish"
+
+Coreference set:
+	(73,1,[1,2]) -> (72,1,[1,2]), that is: "Both" -> "Both"
+	(76,1,[1,2]) -> (72,1,[1,2]), that is: "Both" -> "Both"

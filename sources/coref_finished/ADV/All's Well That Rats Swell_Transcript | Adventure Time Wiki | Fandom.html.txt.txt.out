@@ -1,0 +1,1441 @@
+Document: ID=All's Well That Rats Swell_Transcript | Adventure Time Wiki | Fandom.html.txt.txt (41 sentences, 473 tokens)
+
+Sentence #1 (13 tokens):
+The short begins with BMO going to the fridge in the morning.
+
+Tokens:
+[Text=The CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=short CharacterOffsetBegin=4 CharacterOffsetEnd=9 PartOfSpeech=JJ Lemma=short NamedEntityTag=O]
+[Text=begins CharacterOffsetBegin=10 CharacterOffsetEnd=16 PartOfSpeech=VBZ Lemma=begin NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=17 CharacterOffsetEnd=21 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=22 CharacterOffsetEnd=25 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=going CharacterOffsetBegin=26 CharacterOffsetEnd=31 PartOfSpeech=VBG Lemma=go NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=32 CharacterOffsetEnd=34 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=35 CharacterOffsetEnd=38 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=fridge CharacterOffsetBegin=39 CharacterOffsetEnd=45 PartOfSpeech=NN Lemma=fridge NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=46 CharacterOffsetEnd=48 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=49 CharacterOffsetEnd=52 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=morning CharacterOffsetBegin=53 CharacterOffsetEnd=60 PartOfSpeech=NN Lemma=morning NamedEntityTag=TIME NormalizedNamedEntityTag=TMO Timex=<TIMEX3 tid="t1" type="TIME" value="TMO">morning</TIMEX3>]
+[Text=. CharacterOffsetBegin=60 CharacterOffsetEnd=61 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, begins-3)
+det(short-2, The-1)
+nsubj(begins-3, short-2)
+mark(going-6, with-4)
+nsubj(going-6, BMO-5)
+advcl:with(begins-3, going-6)
+case(fridge-9, to-7)
+det(fridge-9, the-8)
+obl:to(going-6, fridge-9)
+case(morning-12, in-10)
+det(morning-12, the-11)
+obl:in(going-6, morning-12)
+punct(begins-3, .-13)
+
+Extracted the following NER entity mentions:
+morning	TIME	TIME:0.5489913941988224
+
+Sentence #2 (7 tokens):
+BMO says: "Ugh!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=62 CharacterOffsetEnd=65 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=66 CharacterOffsetEnd=70 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=70 CharacterOffsetEnd=71 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=72 CharacterOffsetEnd=73 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ugh CharacterOffsetBegin=73 CharacterOffsetEnd=76 PartOfSpeech=UH Lemma=ugh NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=76 CharacterOffsetEnd=77 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=77 CharacterOffsetEnd=78 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Ugh-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #3 (11 tokens):
+BMO proceeds to hold every egg from the carton individually.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=79 CharacterOffsetEnd=82 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=proceeds CharacterOffsetBegin=83 CharacterOffsetEnd=91 PartOfSpeech=VBZ Lemma=proceed NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=92 CharacterOffsetEnd=94 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=hold CharacterOffsetBegin=95 CharacterOffsetEnd=99 PartOfSpeech=VB Lemma=hold NamedEntityTag=O]
+[Text=every CharacterOffsetBegin=100 CharacterOffsetEnd=105 PartOfSpeech=DT Lemma=every NamedEntityTag=O]
+[Text=egg CharacterOffsetBegin=106 CharacterOffsetEnd=109 PartOfSpeech=NN Lemma=egg NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=110 CharacterOffsetEnd=114 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=115 CharacterOffsetEnd=118 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=carton CharacterOffsetBegin=119 CharacterOffsetEnd=125 PartOfSpeech=NN Lemma=carton NamedEntityTag=O]
+[Text=individually CharacterOffsetBegin=126 CharacterOffsetEnd=138 PartOfSpeech=RB Lemma=individually NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=138 CharacterOffsetEnd=139 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, proceeds-2)
+nsubj(proceeds-2, BMO-1)
+nsubj:xsubj(hold-4, BMO-1)
+mark(hold-4, to-3)
+xcomp(proceeds-2, hold-4)
+det(egg-6, every-5)
+obj(hold-4, egg-6)
+case(carton-9, from-7)
+det(carton-9, the-8)
+obl:from(hold-4, carton-9)
+advmod(hold-4, individually-10)
+punct(proceeds-2, .-11)
+
+Extracted the following NER entity mentions:
+
+Sentence #4 (22 tokens):
+BMO says: "..."
+Transition to BMO watering a flower, dousing it from water held in his arms.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=140 CharacterOffsetEnd=143 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=144 CharacterOffsetEnd=148 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=148 CharacterOffsetEnd=149 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=150 CharacterOffsetEnd=151 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=151 CharacterOffsetEnd=154 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=154 CharacterOffsetEnd=155 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Transition CharacterOffsetBegin=156 CharacterOffsetEnd=166 PartOfSpeech=NN Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=167 CharacterOffsetEnd=169 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=170 CharacterOffsetEnd=173 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=watering CharacterOffsetBegin=174 CharacterOffsetEnd=182 PartOfSpeech=VBG Lemma=water NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=183 CharacterOffsetEnd=184 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=flower CharacterOffsetBegin=185 CharacterOffsetEnd=191 PartOfSpeech=NN Lemma=flower NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=191 CharacterOffsetEnd=192 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=dousing CharacterOffsetBegin=193 CharacterOffsetEnd=200 PartOfSpeech=VBG Lemma=douse NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=201 CharacterOffsetEnd=203 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=204 CharacterOffsetEnd=208 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=water CharacterOffsetBegin=209 CharacterOffsetEnd=214 PartOfSpeech=NN Lemma=water NamedEntityTag=O]
+[Text=held CharacterOffsetBegin=215 CharacterOffsetEnd=219 PartOfSpeech=VBN Lemma=hold NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=220 CharacterOffsetEnd=222 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=223 CharacterOffsetEnd=226 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=arms CharacterOffsetBegin=227 CharacterOffsetEnd=231 PartOfSpeech=NNS Lemma=arm NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=231 CharacterOffsetEnd=232 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+punct(says-2, ...-5)
+punct(says-2, "-6)
+nsubj(held-18, Transition-7)
+case(BMO-9, to-8)
+nmod:to(Transition-7, BMO-9)
+acl(BMO-9, watering-10)
+det(flower-12, a-11)
+obj(watering-10, flower-12)
+punct(Transition-7, ,-13)
+acl(Transition-7, dousing-14)
+obj(dousing-14, it-15)
+case(water-17, from-16)
+obl:from(dousing-14, water-17)
+ccomp(says-2, held-18)
+case(arms-21, in-19)
+nmod:poss(arms-21, his-20)
+obl:in(held-18, arms-21)
+punct(says-2, .-22)
+
+Extracted the following NER entity mentions:
+his	PERSON	-
+
+Sentence #5 (8 tokens):
+BMO says: "Drank up!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=233 CharacterOffsetEnd=236 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=237 CharacterOffsetEnd=241 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=241 CharacterOffsetEnd=242 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=243 CharacterOffsetEnd=244 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Drank CharacterOffsetBegin=244 CharacterOffsetEnd=249 PartOfSpeech=VBD Lemma=drink NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=250 CharacterOffsetEnd=252 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=252 CharacterOffsetEnd=253 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=253 CharacterOffsetEnd=254 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Drank-5)
+compound:prt(Drank-5, up-6)
+punct(says-2, !-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #6 (19 tokens):
+In the following scene, BMO drags a bag of bread and tosses a slice at a duck.
+
+Tokens:
+[Text=In CharacterOffsetBegin=255 CharacterOffsetEnd=257 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=258 CharacterOffsetEnd=261 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=following CharacterOffsetBegin=262 CharacterOffsetEnd=271 PartOfSpeech=JJ Lemma=following NamedEntityTag=O]
+[Text=scene CharacterOffsetBegin=272 CharacterOffsetEnd=277 PartOfSpeech=NN Lemma=scene NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=277 CharacterOffsetEnd=278 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=279 CharacterOffsetEnd=282 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=drags CharacterOffsetBegin=283 CharacterOffsetEnd=288 PartOfSpeech=VBZ Lemma=drag NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=289 CharacterOffsetEnd=290 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=bag CharacterOffsetBegin=291 CharacterOffsetEnd=294 PartOfSpeech=NN Lemma=bag NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=295 CharacterOffsetEnd=297 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=bread CharacterOffsetBegin=298 CharacterOffsetEnd=303 PartOfSpeech=NN Lemma=bread NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=304 CharacterOffsetEnd=307 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=tosses CharacterOffsetBegin=308 CharacterOffsetEnd=314 PartOfSpeech=VBZ Lemma=toss NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=315 CharacterOffsetEnd=316 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=slice CharacterOffsetBegin=317 CharacterOffsetEnd=322 PartOfSpeech=NN Lemma=slice NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=323 CharacterOffsetEnd=325 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=326 CharacterOffsetEnd=327 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=duck CharacterOffsetBegin=328 CharacterOffsetEnd=332 PartOfSpeech=NN Lemma=duck NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=332 CharacterOffsetEnd=333 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, drags-7)
+case(scene-4, In-1)
+det(scene-4, the-2)
+amod(scene-4, following-3)
+obl:in(drags-7, scene-4)
+punct(drags-7, ,-5)
+nsubj(drags-7, BMO-6)
+nsubj(tosses-13, BMO-6)
+det(bag-9, a-8)
+obj(drags-7, bag-9)
+case(bread-11, of-10)
+nmod:of(bag-9, bread-11)
+cc(tosses-13, and-12)
+conj:and(drags-7, tosses-13)
+det(slice-15, a-14)
+obj(tosses-13, slice-15)
+case(duck-18, at-16)
+det(duck-18, a-17)
+obl:at(tosses-13, duck-18)
+punct(drags-7, .-19)
+
+Extracted the following NER entity mentions:
+
+Sentence #7 (17 tokens):
+BMO is then seen climbing on Finn and then plucking a hair growing above his lip.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=334 CharacterOffsetEnd=337 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=338 CharacterOffsetEnd=340 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=341 CharacterOffsetEnd=345 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=seen CharacterOffsetBegin=346 CharacterOffsetEnd=350 PartOfSpeech=VBN Lemma=see NamedEntityTag=O]
+[Text=climbing CharacterOffsetBegin=351 CharacterOffsetEnd=359 PartOfSpeech=VBG Lemma=climb NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=360 CharacterOffsetEnd=362 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=363 CharacterOffsetEnd=367 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=368 CharacterOffsetEnd=371 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=372 CharacterOffsetEnd=376 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=plucking CharacterOffsetBegin=377 CharacterOffsetEnd=385 PartOfSpeech=VBG Lemma=pluck NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=386 CharacterOffsetEnd=387 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=hair CharacterOffsetBegin=388 CharacterOffsetEnd=392 PartOfSpeech=NN Lemma=hair NamedEntityTag=O]
+[Text=growing CharacterOffsetBegin=393 CharacterOffsetEnd=400 PartOfSpeech=VBG Lemma=grow NamedEntityTag=O]
+[Text=above CharacterOffsetBegin=401 CharacterOffsetEnd=406 PartOfSpeech=IN Lemma=above NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=407 CharacterOffsetEnd=410 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=lip CharacterOffsetBegin=411 CharacterOffsetEnd=414 PartOfSpeech=NN Lemma=lip NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=414 CharacterOffsetEnd=415 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, seen-4)
+nsubj:pass(seen-4, BMO-1)
+aux:pass(seen-4, is-2)
+advmod(seen-4, then-3)
+dep(seen-4, climbing-5)
+case(Finn-7, on-6)
+obl:on(climbing-5, Finn-7)
+cc(plucking-10, and-8)
+advmod(plucking-10, then-9)
+dep(seen-4, plucking-10)
+conj:and(climbing-5, plucking-10)
+det(hair-12, a-11)
+obj(plucking-10, hair-12)
+acl(hair-12, growing-13)
+case(lip-16, above-14)
+nmod:poss(lip-16, his-15)
+obl:above(growing-13, lip-16)
+punct(seen-4, .-17)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.503645877948939
+his	PERSON	-
+
+Sentence #8 (8 tokens):
+BMO says: "Forever young."
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=416 CharacterOffsetEnd=419 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=420 CharacterOffsetEnd=424 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=424 CharacterOffsetEnd=425 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=426 CharacterOffsetEnd=427 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Forever CharacterOffsetBegin=427 CharacterOffsetEnd=434 PartOfSpeech=RB Lemma=forever NamedEntityTag=O]
+[Text=young CharacterOffsetBegin=435 CharacterOffsetEnd=440 PartOfSpeech=JJ Lemma=young NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=440 CharacterOffsetEnd=441 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=441 CharacterOffsetEnd=442 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(young-6, Forever-5)
+xcomp(says-2, young-6)
+punct(says-2, .-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #9 (17 tokens):
+BMO sings "Mustaches Belong In The Cupboard" as he walks over to the cabinet.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=443 CharacterOffsetEnd=446 PartOfSpeech=NNP Lemma=BMO NamedEntityTag=O]
+[Text=sings CharacterOffsetBegin=447 CharacterOffsetEnd=452 PartOfSpeech=VBZ Lemma=sing NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=453 CharacterOffsetEnd=454 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Mustaches CharacterOffsetBegin=454 CharacterOffsetEnd=463 PartOfSpeech=NNPS Lemma=Mustaches NamedEntityTag=O]
+[Text=Belong CharacterOffsetBegin=464 CharacterOffsetEnd=470 PartOfSpeech=NNP Lemma=Belong NamedEntityTag=O]
+[Text=In CharacterOffsetBegin=471 CharacterOffsetEnd=473 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=474 CharacterOffsetEnd=477 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Cupboard CharacterOffsetBegin=478 CharacterOffsetEnd=486 PartOfSpeech=NN Lemma=cupboard NamedEntityTag=MISC]
+[Text=" CharacterOffsetBegin=486 CharacterOffsetEnd=487 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=488 CharacterOffsetEnd=490 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=491 CharacterOffsetEnd=493 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=walks CharacterOffsetBegin=494 CharacterOffsetEnd=499 PartOfSpeech=VBZ Lemma=walk NamedEntityTag=O]
+[Text=over CharacterOffsetBegin=500 CharacterOffsetEnd=504 PartOfSpeech=IN Lemma=over NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=505 CharacterOffsetEnd=507 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=508 CharacterOffsetEnd=511 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=cabinet CharacterOffsetBegin=512 CharacterOffsetEnd=519 PartOfSpeech=NN Lemma=cabinet NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=519 CharacterOffsetEnd=520 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, sings-2)
+nsubj(sings-2, BMO-1)
+punct(sings-2, "-3)
+compound(Belong-5, Mustaches-4)
+obj(sings-2, Belong-5)
+case(Cupboard-8, In-6)
+det(Cupboard-8, The-7)
+nmod:in(Belong-5, Cupboard-8)
+punct(sings-2, "-9)
+mark(walks-12, as-10)
+nsubj(walks-12, he-11)
+advcl:as(sings-2, walks-12)
+compound:prt(walks-12, over-13)
+case(cabinet-16, to-14)
+det(cabinet-16, the-15)
+obl:to(walks-12, cabinet-16)
+punct(sings-2, .-17)
+
+Extracted the following NER entity mentions:
+Cupboard	MISC	MISC:0.9298796874279011
+he	PERSON	-
+
+Sentence #10 (13 tokens):
+BMO says: "AIIIIIIIII..."
+BMO says: "!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=521 CharacterOffsetEnd=524 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=525 CharacterOffsetEnd=529 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=529 CharacterOffsetEnd=530 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=531 CharacterOffsetEnd=532 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=AIIIIIIIII CharacterOffsetBegin=532 CharacterOffsetEnd=542 PartOfSpeech=NNP Lemma=AIIIIIIIII NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=542 CharacterOffsetEnd=545 PartOfSpeech=: Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=545 CharacterOffsetEnd=546 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=547 CharacterOffsetEnd=550 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=551 CharacterOffsetEnd=555 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=555 CharacterOffsetEnd=556 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=557 CharacterOffsetEnd=558 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=558 CharacterOffsetEnd=559 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=559 CharacterOffsetEnd=560 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(says-9, AIIIIIIIII-5)
+punct(says-9, ...-6)
+punct(says-9, "-7)
+nsubj(says-9, BMO-8)
+ccomp(says-2, says-9)
+punct(says-9, :-10)
+punct(says-9, "-11)
+punct(says-2, !-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+
+Sentence #11 (7 tokens):
+BMO says: "Oh!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=561 CharacterOffsetEnd=564 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=565 CharacterOffsetEnd=569 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=569 CharacterOffsetEnd=570 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=571 CharacterOffsetEnd=572 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Oh CharacterOffsetBegin=572 CharacterOffsetEnd=574 PartOfSpeech=UH Lemma=oh NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=574 CharacterOffsetEnd=575 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=575 CharacterOffsetEnd=576 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Oh-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #12 (11 tokens):
+BMO says: "Ooh I'm so simmering!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=577 CharacterOffsetEnd=580 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=581 CharacterOffsetEnd=585 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=585 CharacterOffsetEnd=586 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=587 CharacterOffsetEnd=588 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ooh CharacterOffsetBegin=588 CharacterOffsetEnd=591 PartOfSpeech=NNP Lemma=Ooh NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=592 CharacterOffsetEnd=593 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=593 CharacterOffsetEnd=595 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=596 CharacterOffsetEnd=598 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=simmering CharacterOffsetBegin=599 CharacterOffsetEnd=608 PartOfSpeech=VBG Lemma=simmer NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=608 CharacterOffsetEnd=609 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=609 CharacterOffsetEnd=610 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(simmering-9, Ooh-5)
+nsubj(simmering-9, I-6)
+aux(simmering-9, 'm-7)
+advmod(simmering-9, so-8)
+ccomp(says-2, simmering-9)
+punct(says-2, !-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+
+Sentence #13 (25 tokens):
+BMO says: "I'm so..."
+BMO says: "I'm so..."
+BMO says: "Ooh!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=611 CharacterOffsetEnd=614 PartOfSpeech=NN Lemma=bmo NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=615 CharacterOffsetEnd=619 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=619 CharacterOffsetEnd=620 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=621 CharacterOffsetEnd=622 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=622 CharacterOffsetEnd=623 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=623 CharacterOffsetEnd=625 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=626 CharacterOffsetEnd=628 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=628 CharacterOffsetEnd=631 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=631 CharacterOffsetEnd=632 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=633 CharacterOffsetEnd=636 PartOfSpeech=NN Lemma=bmo NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=637 CharacterOffsetEnd=641 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=641 CharacterOffsetEnd=642 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=643 CharacterOffsetEnd=644 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=644 CharacterOffsetEnd=645 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=645 CharacterOffsetEnd=647 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=648 CharacterOffsetEnd=650 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=650 CharacterOffsetEnd=653 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=653 CharacterOffsetEnd=654 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=655 CharacterOffsetEnd=658 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=659 CharacterOffsetEnd=663 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=663 CharacterOffsetEnd=664 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=665 CharacterOffsetEnd=666 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Ooh CharacterOffsetBegin=666 CharacterOffsetEnd=669 PartOfSpeech=NNP Lemma=Ooh NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=669 CharacterOffsetEnd=670 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=670 CharacterOffsetEnd=671 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(says-11, I-5)
+aux(says-11, 'm-6)
+advmod(says-11, so-7)
+punct(says-11, ...-8)
+punct(says-11, "-9)
+nsubj(says-11, BMO-10)
+ccomp(says-2, says-11)
+punct(says-11, :-12)
+punct(says-11, "-13)
+nsubj(says-20, I-14)
+aux(says-20, 'm-15)
+advmod(says-20, so-16)
+punct(says-20, ...-17)
+punct(says-20, "-18)
+nsubj(says-20, BMO-19)
+ccomp(says-11, says-20)
+punct(says-20, :-21)
+punct(says-20, "-22)
+obj(says-20, Ooh-23)
+punct(says-2, !-24)
+punct(says-2, "-25)
+
+Extracted the following NER entity mentions:
+BMO	ORGANIZATION	ORGANIZATION:0.4938133537349904
+BMO	ORGANIZATION	ORGANIZATION:0.523398195817529
+
+Sentence #14 (10 tokens):
+BMO says: "I'm so mad!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=672 CharacterOffsetEnd=675 PartOfSpeech=NN Lemma=bmo NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=676 CharacterOffsetEnd=680 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=680 CharacterOffsetEnd=681 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=682 CharacterOffsetEnd=683 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=683 CharacterOffsetEnd=684 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=684 CharacterOffsetEnd=686 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=687 CharacterOffsetEnd=689 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=mad CharacterOffsetBegin=690 CharacterOffsetEnd=693 PartOfSpeech=JJ Lemma=mad NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=693 CharacterOffsetEnd=694 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=694 CharacterOffsetEnd=695 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(mad-8, I-5)
+cop(mad-8, 'm-6)
+advmod(mad-8, so-7)
+ccomp(says-2, mad-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+BMO	ORGANIZATION	ORGANIZATION:0.4938130656167805
+
+Sentence #15 (11 tokens):
+BMO says: "A rat in the flour?!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=696 CharacterOffsetEnd=699 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=700 CharacterOffsetEnd=704 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=704 CharacterOffsetEnd=705 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=706 CharacterOffsetEnd=707 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=A CharacterOffsetBegin=707 CharacterOffsetEnd=708 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=rat CharacterOffsetBegin=709 CharacterOffsetEnd=712 PartOfSpeech=NN Lemma=rat NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=713 CharacterOffsetEnd=715 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=716 CharacterOffsetEnd=719 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=flour CharacterOffsetBegin=720 CharacterOffsetEnd=725 PartOfSpeech=NN Lemma=flour NamedEntityTag=O]
+[Text=?! CharacterOffsetBegin=725 CharacterOffsetEnd=727 PartOfSpeech=. Lemma=?! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=727 CharacterOffsetEnd=728 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(rat-6, A-5)
+obj(says-2, rat-6)
+case(flour-9, in-7)
+det(flour-9, the-8)
+nmod:in(rat-6, flour-9)
+punct(says-2, ?!-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+
+Sentence #16 (6 tokens):
+BMO says: "!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=729 CharacterOffsetEnd=732 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=733 CharacterOffsetEnd=737 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=737 CharacterOffsetEnd=738 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=739 CharacterOffsetEnd=740 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=740 CharacterOffsetEnd=741 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=741 CharacterOffsetEnd=742 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+punct(says-2, !-5)
+punct(says-2, "-6)
+
+Extracted the following NER entity mentions:
+
+Sentence #17 (11 tokens):
+BMO says: "A rat in the flour?!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=743 CharacterOffsetEnd=746 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=747 CharacterOffsetEnd=751 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=751 CharacterOffsetEnd=752 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=753 CharacterOffsetEnd=754 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=A CharacterOffsetBegin=754 CharacterOffsetEnd=755 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=rat CharacterOffsetBegin=756 CharacterOffsetEnd=759 PartOfSpeech=NN Lemma=rat NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=760 CharacterOffsetEnd=762 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=763 CharacterOffsetEnd=766 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=flour CharacterOffsetBegin=767 CharacterOffsetEnd=772 PartOfSpeech=NN Lemma=flour NamedEntityTag=O]
+[Text=?! CharacterOffsetBegin=772 CharacterOffsetEnd=774 PartOfSpeech=. Lemma=?! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=774 CharacterOffsetEnd=775 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(rat-6, A-5)
+obj(says-2, rat-6)
+case(flour-9, in-7)
+det(flour-9, the-8)
+nmod:in(rat-6, flour-9)
+punct(says-2, ?!-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+
+Sentence #18 (6 tokens):
+BMO says: "!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=776 CharacterOffsetEnd=779 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=780 CharacterOffsetEnd=784 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=784 CharacterOffsetEnd=785 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=786 CharacterOffsetEnd=787 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=787 CharacterOffsetEnd=788 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=788 CharacterOffsetEnd=789 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+punct(says-2, !-5)
+punct(says-2, "-6)
+
+Extracted the following NER entity mentions:
+
+Sentence #19 (10 tokens):
+BMO says: "I'm so smoked!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=790 CharacterOffsetEnd=793 PartOfSpeech=NN Lemma=bmo NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=794 CharacterOffsetEnd=798 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=798 CharacterOffsetEnd=799 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=800 CharacterOffsetEnd=801 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=801 CharacterOffsetEnd=802 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=802 CharacterOffsetEnd=804 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=so CharacterOffsetBegin=805 CharacterOffsetEnd=807 PartOfSpeech=RB Lemma=so NamedEntityTag=O]
+[Text=smoked CharacterOffsetBegin=808 CharacterOffsetEnd=814 PartOfSpeech=VBN Lemma=smoke NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=814 CharacterOffsetEnd=815 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=815 CharacterOffsetEnd=816 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj:pass(smoked-8, I-5)
+aux:pass(smoked-8, 'm-6)
+advmod(smoked-8, so-7)
+ccomp(says-2, smoked-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+BMO	ORGANIZATION	ORGANIZATION:0.49381309954442193
+
+Sentence #20 (11 tokens):
+BMO says: "I'm a hot log!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=817 CharacterOffsetEnd=820 PartOfSpeech=NN Lemma=bmo NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=821 CharacterOffsetEnd=825 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=825 CharacterOffsetEnd=826 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=827 CharacterOffsetEnd=828 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=828 CharacterOffsetEnd=829 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=829 CharacterOffsetEnd=831 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=832 CharacterOffsetEnd=833 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=hot CharacterOffsetBegin=834 CharacterOffsetEnd=837 PartOfSpeech=JJ Lemma=hot NamedEntityTag=O]
+[Text=log CharacterOffsetBegin=838 CharacterOffsetEnd=841 PartOfSpeech=NN Lemma=log NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=841 CharacterOffsetEnd=842 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=842 CharacterOffsetEnd=843 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(log-9, I-5)
+cop(log-9, 'm-6)
+det(log-9, a-7)
+amod(log-9, hot-8)
+ccomp(says-2, log-9)
+punct(says-2, !-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+BMO	ORGANIZATION	ORGANIZATION:0.4938127400106429
+
+Sentence #21 (11 tokens):
+BMO says: "I gotta thumb war!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=844 CharacterOffsetEnd=847 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=848 CharacterOffsetEnd=852 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=852 CharacterOffsetEnd=853 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=854 CharacterOffsetEnd=855 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=855 CharacterOffsetEnd=856 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=got CharacterOffsetBegin=857 CharacterOffsetEnd=860 PartOfSpeech=VBP Lemma=get NamedEntityTag=O]
+[Text=ta CharacterOffsetBegin=860 CharacterOffsetEnd=862 PartOfSpeech=IN Lemma=ta NamedEntityTag=O]
+[Text=thumb CharacterOffsetBegin=863 CharacterOffsetEnd=868 PartOfSpeech=NN Lemma=thumb NamedEntityTag=O]
+[Text=war CharacterOffsetBegin=869 CharacterOffsetEnd=872 PartOfSpeech=NN Lemma=war NamedEntityTag=CAUSE_OF_DEATH]
+[Text=! CharacterOffsetBegin=872 CharacterOffsetEnd=873 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=873 CharacterOffsetEnd=874 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(got-6, I-5)
+ccomp(says-2, got-6)
+case(war-9, ta-7)
+compound(war-9, thumb-8)
+obl:ta(got-6, war-9)
+punct(says-2, !-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+war	CAUSE_OF_DEATH	-
+
+Sentence #22 (8 tokens):
+BMO says: "Thumb war!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=875 CharacterOffsetEnd=878 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=879 CharacterOffsetEnd=883 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=883 CharacterOffsetEnd=884 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=885 CharacterOffsetEnd=886 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Thumb CharacterOffsetBegin=886 CharacterOffsetEnd=891 PartOfSpeech=NN Lemma=thumb NamedEntityTag=O]
+[Text=war CharacterOffsetBegin=892 CharacterOffsetEnd=895 PartOfSpeech=NN Lemma=war NamedEntityTag=CAUSE_OF_DEATH]
+[Text=! CharacterOffsetBegin=895 CharacterOffsetEnd=896 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=896 CharacterOffsetEnd=897 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+compound(war-6, Thumb-5)
+obj(says-2, war-6)
+punct(says-2, !-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+war	CAUSE_OF_DEATH	-
+
+Sentence #23 (12 tokens):
+Rat bites BMO's thumb, leaving a visible bite mark.
+
+Tokens:
+[Text=Rat CharacterOffsetBegin=898 CharacterOffsetEnd=901 PartOfSpeech=NN Lemma=rat NamedEntityTag=O]
+[Text=bites CharacterOffsetBegin=902 CharacterOffsetEnd=907 PartOfSpeech=NNS Lemma=bite NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=908 CharacterOffsetEnd=911 PartOfSpeech=NNP Lemma=BMO NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=911 CharacterOffsetEnd=913 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=thumb CharacterOffsetBegin=914 CharacterOffsetEnd=919 PartOfSpeech=NN Lemma=thumb NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=919 CharacterOffsetEnd=920 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=leaving CharacterOffsetBegin=921 CharacterOffsetEnd=928 PartOfSpeech=VBG Lemma=leave NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=929 CharacterOffsetEnd=930 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=visible CharacterOffsetBegin=931 CharacterOffsetEnd=938 PartOfSpeech=JJ Lemma=visible NamedEntityTag=O]
+[Text=bite CharacterOffsetBegin=939 CharacterOffsetEnd=943 PartOfSpeech=NN Lemma=bite NamedEntityTag=O]
+[Text=mark CharacterOffsetBegin=944 CharacterOffsetEnd=948 PartOfSpeech=NN Lemma=mark NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=948 CharacterOffsetEnd=949 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, bites-2)
+compound(bites-2, Rat-1)
+nmod:poss(thumb-5, BMO-3)
+case(BMO-3, 's-4)
+dep(bites-2, thumb-5)
+punct(bites-2, ,-6)
+acl(bites-2, leaving-7)
+det(mark-11, a-8)
+amod(mark-11, visible-9)
+compound(mark-11, bite-10)
+obj(leaving-7, mark-11)
+punct(bites-2, .-12)
+
+Extracted the following NER entity mentions:
+
+Sentence #24 (7 tokens):
+BMO says: "Aahhhh!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=950 CharacterOffsetEnd=953 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=954 CharacterOffsetEnd=958 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=958 CharacterOffsetEnd=959 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=960 CharacterOffsetEnd=961 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Aahhhh CharacterOffsetBegin=961 CharacterOffsetEnd=967 PartOfSpeech=FW Lemma=aahhhh NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=967 CharacterOffsetEnd=968 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=968 CharacterOffsetEnd=969 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Aahhhh-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #25 (7 tokens):
+BMO says: "Aahhhh!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=970 CharacterOffsetEnd=973 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=974 CharacterOffsetEnd=978 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=978 CharacterOffsetEnd=979 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=980 CharacterOffsetEnd=981 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Aahhhh CharacterOffsetBegin=981 CharacterOffsetEnd=987 PartOfSpeech=FW Lemma=aahhhh NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=987 CharacterOffsetEnd=988 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=988 CharacterOffsetEnd=989 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Aahhhh-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #26 (7 tokens):
+BMO says: "Finn!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=990 CharacterOffsetEnd=993 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=994 CharacterOffsetEnd=998 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=998 CharacterOffsetEnd=999 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1000 CharacterOffsetEnd=1001 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=1001 CharacterOffsetEnd=1005 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=NATIONALITY]
+[Text=! CharacterOffsetBegin=1005 CharacterOffsetEnd=1006 PartOfSpeech=. Lemma=! NamedEntityTag=MISC]
+[Text=" CharacterOffsetBegin=1006 CharacterOffsetEnd=1007 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Finn-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Finn	NATIONALITY	MISC:0.5278009661662117
+!	MISC	MISC:0.5278009661662117
+
+Sentence #27 (10 tokens):
+Finn says: "My lip hurts again."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=1008 CharacterOffsetEnd=1012 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1013 CharacterOffsetEnd=1017 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1017 CharacterOffsetEnd=1018 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1019 CharacterOffsetEnd=1020 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=My CharacterOffsetBegin=1020 CharacterOffsetEnd=1022 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=lip CharacterOffsetBegin=1023 CharacterOffsetEnd=1026 PartOfSpeech=NN Lemma=lip NamedEntityTag=O]
+[Text=hurts CharacterOffsetBegin=1027 CharacterOffsetEnd=1032 PartOfSpeech=VBZ Lemma=hurt NamedEntityTag=O]
+[Text=again CharacterOffsetBegin=1033 CharacterOffsetEnd=1038 PartOfSpeech=RB Lemma=again NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1038 CharacterOffsetEnd=1039 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1039 CharacterOffsetEnd=1040 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nmod:poss(lip-6, My-5)
+nsubj(hurts-7, lip-6)
+ccomp(says-2, hurts-7)
+advmod(hurts-7, again-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9601313004017706
+
+Sentence #28 (7 tokens):
+BMO says: "Finn!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1041 CharacterOffsetEnd=1044 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1045 CharacterOffsetEnd=1049 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1049 CharacterOffsetEnd=1050 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1051 CharacterOffsetEnd=1052 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=1052 CharacterOffsetEnd=1056 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=NATIONALITY]
+[Text=! CharacterOffsetBegin=1056 CharacterOffsetEnd=1057 PartOfSpeech=. Lemma=! NamedEntityTag=MISC]
+[Text=" CharacterOffsetBegin=1057 CharacterOffsetEnd=1058 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, Finn-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Finn	NATIONALITY	MISC:0.5278009661662117
+!	MISC	MISC:0.5278009661662117
+
+Sentence #29 (30 tokens):
+BMO says: "Finn, I ha—"
+BMO says: "I hav—"
+BMO says: "I have a boo-boo!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1059 CharacterOffsetEnd=1062 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1063 CharacterOffsetEnd=1067 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1067 CharacterOffsetEnd=1068 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1069 CharacterOffsetEnd=1070 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=1070 CharacterOffsetEnd=1074 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=NATIONALITY]
+[Text=, CharacterOffsetBegin=1074 CharacterOffsetEnd=1075 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1076 CharacterOffsetEnd=1077 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=ha CharacterOffsetBegin=1078 CharacterOffsetEnd=1080 PartOfSpeech=UH Lemma=ha NamedEntityTag=O]
+[Text=— CharacterOffsetBegin=1080 CharacterOffsetEnd=1081 PartOfSpeech=: Lemma=— NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1081 CharacterOffsetEnd=1082 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=1083 CharacterOffsetEnd=1086 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1087 CharacterOffsetEnd=1091 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1091 CharacterOffsetEnd=1092 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1093 CharacterOffsetEnd=1094 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1094 CharacterOffsetEnd=1095 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=hav CharacterOffsetBegin=1096 CharacterOffsetEnd=1099 PartOfSpeech=VBP Lemma=hav NamedEntityTag=O]
+[Text=— CharacterOffsetBegin=1099 CharacterOffsetEnd=1100 PartOfSpeech=, Lemma=— NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1100 CharacterOffsetEnd=1101 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=1102 CharacterOffsetEnd=1105 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1106 CharacterOffsetEnd=1110 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1110 CharacterOffsetEnd=1111 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1112 CharacterOffsetEnd=1113 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1113 CharacterOffsetEnd=1114 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=have CharacterOffsetBegin=1115 CharacterOffsetEnd=1119 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1120 CharacterOffsetEnd=1121 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=boo CharacterOffsetBegin=1122 CharacterOffsetEnd=1125 PartOfSpeech=VB Lemma=boo NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=1125 CharacterOffsetEnd=1126 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=boo CharacterOffsetBegin=1126 CharacterOffsetEnd=1129 PartOfSpeech=VB Lemma=boo NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1129 CharacterOffsetEnd=1130 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1130 CharacterOffsetEnd=1131 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Finn-5)
+punct(Finn-5, ,-6)
+dep(Finn-5, I-7)
+dep(I-7, ha-8)
+punct(I-7, —-9)
+punct(BMO-11, "-10)
+nsubj(says-12, BMO-11)
+dep(I-7, says-12)
+punct(says-12, :-13)
+punct(says-12, "-14)
+nsubj(hav-16, I-15)
+ccomp(says-12, hav-16)
+punct(hav-16, —-17)
+punct(says-20, "-18)
+nsubj(says-20, BMO-19)
+ccomp(hav-16, says-20)
+punct(says-20, :-21)
+punct(says-20, "-22)
+nsubj(have-24, I-23)
+ccomp(says-20, have-24)
+det(boo-28, a-25)
+dep(boo-28, boo-26)
+punct(boo-28, --27)
+obj(have-24, boo-28)
+punct(says-2, !-29)
+punct(says-2, "-30)
+
+Extracted the following NER entity mentions:
+Finn	NATIONALITY	MISC:0.6281505635445612
+
+Sentence #30 (8 tokens):
+BMO says: "Kiss it."
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1132 CharacterOffsetEnd=1135 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1136 CharacterOffsetEnd=1140 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1140 CharacterOffsetEnd=1141 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1142 CharacterOffsetEnd=1143 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Kiss CharacterOffsetBegin=1143 CharacterOffsetEnd=1147 PartOfSpeech=VB Lemma=kiss NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=1148 CharacterOffsetEnd=1150 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1150 CharacterOffsetEnd=1151 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1151 CharacterOffsetEnd=1152 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Kiss-5)
+obj(Kiss-5, it-6)
+punct(says-2, .-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #31 (10 tokens):
+Finn says: "That tastes like rat."
+
+Tokens:
+[Text=Finn CharacterOffsetBegin=1153 CharacterOffsetEnd=1157 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1158 CharacterOffsetEnd=1162 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1162 CharacterOffsetEnd=1163 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1164 CharacterOffsetEnd=1165 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=That CharacterOffsetBegin=1165 CharacterOffsetEnd=1169 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text=tastes CharacterOffsetBegin=1170 CharacterOffsetEnd=1176 PartOfSpeech=VBZ Lemma=taste NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=1177 CharacterOffsetEnd=1181 PartOfSpeech=IN Lemma=like NamedEntityTag=O]
+[Text=rat CharacterOffsetBegin=1182 CharacterOffsetEnd=1185 PartOfSpeech=NN Lemma=rat NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1185 CharacterOffsetEnd=1186 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1186 CharacterOffsetEnd=1187 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Finn-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(tastes-6, That-5)
+ccomp(says-2, tastes-6)
+case(rat-8, like-7)
+obl:like(tastes-6, rat-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Finn	PERSON	PERSON:0.9632024663155214
+
+Sentence #32 (14 tokens):
+Scene transitions to Finn sick in bed moaning as Jake feeds him soup.
+
+Tokens:
+[Text=Scene CharacterOffsetBegin=1188 CharacterOffsetEnd=1193 PartOfSpeech=NN Lemma=scene NamedEntityTag=O]
+[Text=transitions CharacterOffsetBegin=1194 CharacterOffsetEnd=1205 PartOfSpeech=NNS Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1206 CharacterOffsetEnd=1208 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=Finn CharacterOffsetBegin=1209 CharacterOffsetEnd=1213 PartOfSpeech=NNP Lemma=Finn NamedEntityTag=NATIONALITY]
+[Text=sick CharacterOffsetBegin=1214 CharacterOffsetEnd=1218 PartOfSpeech=JJ Lemma=sick NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1219 CharacterOffsetEnd=1221 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=bed CharacterOffsetBegin=1222 CharacterOffsetEnd=1225 PartOfSpeech=NN Lemma=bed NamedEntityTag=O]
+[Text=moaning CharacterOffsetBegin=1226 CharacterOffsetEnd=1233 PartOfSpeech=VBG Lemma=moan NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1234 CharacterOffsetEnd=1236 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=Jake CharacterOffsetBegin=1237 CharacterOffsetEnd=1241 PartOfSpeech=NNP Lemma=Jake NamedEntityTag=PERSON]
+[Text=feeds CharacterOffsetBegin=1242 CharacterOffsetEnd=1247 PartOfSpeech=VBZ Lemma=feed NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=1248 CharacterOffsetEnd=1251 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=soup CharacterOffsetBegin=1252 CharacterOffsetEnd=1256 PartOfSpeech=NN Lemma=soup NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1256 CharacterOffsetEnd=1257 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, transitions-2)
+compound(transitions-2, Scene-1)
+case(Finn-4, to-3)
+nmod:to(transitions-2, Finn-4)
+amod(Finn-4, sick-5)
+case(bed-7, in-6)
+nmod:in(transitions-2, bed-7)
+acl(bed-7, moaning-8)
+mark(feeds-11, as-9)
+nsubj(feeds-11, Jake-10)
+advcl:as(moaning-8, feeds-11)
+iobj(feeds-11, him-12)
+obj(feeds-11, soup-13)
+punct(transitions-2, .-14)
+
+Extracted the following NER entity mentions:
+Finn	NATIONALITY	-
+Jake	PERSON	PERSON:0.9870726728879821
+him	PERSON	-
+
+Sentence #33 (7 tokens):
+BMO walks back to the kitchen.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1258 CharacterOffsetEnd=1261 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=walks CharacterOffsetBegin=1262 CharacterOffsetEnd=1267 PartOfSpeech=VBZ Lemma=walk NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=1268 CharacterOffsetEnd=1272 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1273 CharacterOffsetEnd=1275 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1276 CharacterOffsetEnd=1279 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=kitchen CharacterOffsetBegin=1280 CharacterOffsetEnd=1287 PartOfSpeech=NN Lemma=kitchen NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1287 CharacterOffsetEnd=1288 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, walks-2)
+nsubj(walks-2, BMO-1)
+advmod(walks-2, back-3)
+case(kitchen-6, to-4)
+det(kitchen-6, the-5)
+obl:to(back-3, kitchen-6)
+punct(walks-2, .-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #34 (11 tokens):
+BMO says: "What's worse than BMO?"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1289 CharacterOffsetEnd=1292 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1293 CharacterOffsetEnd=1297 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1297 CharacterOffsetEnd=1298 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1299 CharacterOffsetEnd=1300 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=What CharacterOffsetBegin=1300 CharacterOffsetEnd=1304 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1304 CharacterOffsetEnd=1306 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=worse CharacterOffsetBegin=1307 CharacterOffsetEnd=1312 PartOfSpeech=JJR Lemma=worse NamedEntityTag=O]
+[Text=than CharacterOffsetBegin=1313 CharacterOffsetEnd=1317 PartOfSpeech=IN Lemma=than NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=1318 CharacterOffsetEnd=1321 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=1321 CharacterOffsetEnd=1322 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1322 CharacterOffsetEnd=1323 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+ccomp(says-2, What-5)
+cop(What-5, 's-6)
+nsubj(What-5, worse-7)
+case(BMO-9, than-8)
+obl:than(worse-7, BMO-9)
+punct(says-2, ?-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+
+Sentence #35 (10 tokens):
+BMO walks over to cabinet and opens the door.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1324 CharacterOffsetEnd=1327 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=walks CharacterOffsetBegin=1328 CharacterOffsetEnd=1333 PartOfSpeech=VBZ Lemma=walk NamedEntityTag=O]
+[Text=over CharacterOffsetBegin=1334 CharacterOffsetEnd=1338 PartOfSpeech=IN Lemma=over NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1339 CharacterOffsetEnd=1341 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=cabinet CharacterOffsetBegin=1342 CharacterOffsetEnd=1349 PartOfSpeech=NN Lemma=cabinet NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1350 CharacterOffsetEnd=1353 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=opens CharacterOffsetBegin=1354 CharacterOffsetEnd=1359 PartOfSpeech=VBZ Lemma=open NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1360 CharacterOffsetEnd=1363 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=door CharacterOffsetBegin=1364 CharacterOffsetEnd=1368 PartOfSpeech=NN Lemma=door NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1368 CharacterOffsetEnd=1369 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, walks-2)
+nsubj(walks-2, BMO-1)
+nsubj(opens-7, BMO-1)
+compound:prt(walks-2, over-3)
+case(cabinet-5, to-4)
+obl:to(walks-2, cabinet-5)
+cc(opens-7, and-6)
+conj:and(walks-2, opens-7)
+det(door-9, the-8)
+obj(opens-7, door-9)
+punct(walks-2, .-10)
+
+Extracted the following NER entity mentions:
+
+Sentence #36 (7 tokens):
+BMO says: "You!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1370 CharacterOffsetEnd=1373 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1374 CharacterOffsetEnd=1378 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1378 CharacterOffsetEnd=1379 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1380 CharacterOffsetEnd=1381 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=You CharacterOffsetBegin=1381 CharacterOffsetEnd=1384 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1384 CharacterOffsetEnd=1385 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1385 CharacterOffsetEnd=1386 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+obj(says-2, You-5)
+punct(says-2, !-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+
+Sentence #37 (8 tokens):
+BMO says: "Thumb war!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1387 CharacterOffsetEnd=1390 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1391 CharacterOffsetEnd=1395 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1395 CharacterOffsetEnd=1396 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1397 CharacterOffsetEnd=1398 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Thumb CharacterOffsetBegin=1398 CharacterOffsetEnd=1403 PartOfSpeech=NN Lemma=thumb NamedEntityTag=O]
+[Text=war CharacterOffsetBegin=1404 CharacterOffsetEnd=1407 PartOfSpeech=NN Lemma=war NamedEntityTag=CAUSE_OF_DEATH]
+[Text=! CharacterOffsetBegin=1407 CharacterOffsetEnd=1408 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1408 CharacterOffsetEnd=1409 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+compound(war-6, Thumb-5)
+obj(says-2, war-6)
+punct(says-2, !-7)
+punct(says-2, "-8)
+
+Extracted the following NER entity mentions:
+war	CAUSE_OF_DEATH	-
+
+Sentence #38 (13 tokens):
+Rats scampers away and BMO throws flour on his face huffing heavily.
+
+Tokens:
+[Text=Rats CharacterOffsetBegin=1410 CharacterOffsetEnd=1414 PartOfSpeech=NNS Lemma=rat NamedEntityTag=O]
+[Text=scampers CharacterOffsetBegin=1415 CharacterOffsetEnd=1423 PartOfSpeech=VBZ Lemma=scamper NamedEntityTag=O]
+[Text=away CharacterOffsetBegin=1424 CharacterOffsetEnd=1428 PartOfSpeech=RB Lemma=away NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1429 CharacterOffsetEnd=1432 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=1433 CharacterOffsetEnd=1436 PartOfSpeech=NNP Lemma=BMO NamedEntityTag=O]
+[Text=throws CharacterOffsetBegin=1437 CharacterOffsetEnd=1443 PartOfSpeech=VBZ Lemma=throw NamedEntityTag=O]
+[Text=flour CharacterOffsetBegin=1444 CharacterOffsetEnd=1449 PartOfSpeech=NN Lemma=flour NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=1450 CharacterOffsetEnd=1452 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1453 CharacterOffsetEnd=1456 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=face CharacterOffsetBegin=1457 CharacterOffsetEnd=1461 PartOfSpeech=NN Lemma=face NamedEntityTag=O]
+[Text=huffing CharacterOffsetBegin=1462 CharacterOffsetEnd=1469 PartOfSpeech=NN Lemma=huffing NamedEntityTag=O]
+[Text=heavily CharacterOffsetBegin=1470 CharacterOffsetEnd=1477 PartOfSpeech=RB Lemma=heavily NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1477 CharacterOffsetEnd=1478 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, scampers-2)
+nsubj(scampers-2, Rats-1)
+advmod(scampers-2, away-3)
+cc(throws-6, and-4)
+nsubj(throws-6, BMO-5)
+conj:and(scampers-2, throws-6)
+obj(throws-6, flour-7)
+case(huffing-11, on-8)
+nmod:poss(huffing-11, his-9)
+compound(huffing-11, face-10)
+obl:on(throws-6, huffing-11)
+advmod(throws-6, heavily-12)
+punct(scampers-2, .-13)
+
+Extracted the following NER entity mentions:
+his	PERSON	-
+
+Sentence #39 (27 tokens):
+BMO says: "I WIII..."
+BMO runs to the top of the Tree Fort holding "win" until he reaches the top.
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1479 CharacterOffsetEnd=1482 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1483 CharacterOffsetEnd=1487 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1487 CharacterOffsetEnd=1488 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1489 CharacterOffsetEnd=1490 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1490 CharacterOffsetEnd=1491 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=WIII CharacterOffsetBegin=1492 CharacterOffsetEnd=1496 PartOfSpeech=VBP Lemma=wiii NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1496 CharacterOffsetEnd=1499 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1499 CharacterOffsetEnd=1500 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=1501 CharacterOffsetEnd=1504 PartOfSpeech=NNP Lemma=BMO NamedEntityTag=O]
+[Text=runs CharacterOffsetBegin=1505 CharacterOffsetEnd=1509 PartOfSpeech=VBZ Lemma=run NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1510 CharacterOffsetEnd=1512 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1513 CharacterOffsetEnd=1516 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=top CharacterOffsetBegin=1517 CharacterOffsetEnd=1520 PartOfSpeech=NN Lemma=top NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1521 CharacterOffsetEnd=1523 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1524 CharacterOffsetEnd=1527 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Tree CharacterOffsetBegin=1528 CharacterOffsetEnd=1532 PartOfSpeech=NNP Lemma=Tree NamedEntityTag=O]
+[Text=Fort CharacterOffsetBegin=1533 CharacterOffsetEnd=1537 PartOfSpeech=NNP Lemma=Fort NamedEntityTag=O]
+[Text=holding CharacterOffsetBegin=1538 CharacterOffsetEnd=1545 PartOfSpeech=VBG Lemma=hold NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1546 CharacterOffsetEnd=1547 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=win CharacterOffsetBegin=1547 CharacterOffsetEnd=1550 PartOfSpeech=VB Lemma=win NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1550 CharacterOffsetEnd=1551 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=until CharacterOffsetBegin=1552 CharacterOffsetEnd=1557 PartOfSpeech=IN Lemma=until NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=1558 CharacterOffsetEnd=1560 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=reaches CharacterOffsetBegin=1561 CharacterOffsetEnd=1568 PartOfSpeech=VBZ Lemma=reach NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1569 CharacterOffsetEnd=1572 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=top CharacterOffsetBegin=1573 CharacterOffsetEnd=1576 PartOfSpeech=NN Lemma=top NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1576 CharacterOffsetEnd=1577 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(WIII-6, I-5)
+ccomp(says-2, WIII-6)
+punct(WIII-6, ...-7)
+punct(WIII-6, "-8)
+nsubj(runs-10, BMO-9)
+ccomp(WIII-6, runs-10)
+case(top-13, to-11)
+det(top-13, the-12)
+obl:to(runs-10, top-13)
+case(Fort-17, of-14)
+det(Fort-17, the-15)
+compound(Fort-17, Tree-16)
+nmod:of(top-13, Fort-17)
+amod(Fort-17, holding-18)
+punct(Fort-17, "-19)
+dep(Fort-17, win-20)
+punct(Fort-17, "-21)
+mark(reaches-24, until-22)
+nsubj(reaches-24, he-23)
+advcl:until(runs-10, reaches-24)
+det(top-26, the-25)
+obj(reaches-24, top-26)
+punct(says-2, .-27)
+
+Extracted the following NER entity mentions:
+he	PERSON	-
+
+Sentence #40 (13 tokens):
+BMO says: "..."
+BMO says: "IIIIN!"
+
+Tokens:
+[Text=BMO CharacterOffsetBegin=1578 CharacterOffsetEnd=1581 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1582 CharacterOffsetEnd=1586 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1586 CharacterOffsetEnd=1587 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1588 CharacterOffsetEnd=1589 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1589 CharacterOffsetEnd=1592 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1592 CharacterOffsetEnd=1593 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=BMO CharacterOffsetBegin=1594 CharacterOffsetEnd=1597 PartOfSpeech=NN Lemma=bmo NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1598 CharacterOffsetEnd=1602 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1602 CharacterOffsetEnd=1603 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1604 CharacterOffsetEnd=1605 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=IIIIN CharacterOffsetBegin=1605 CharacterOffsetEnd=1610 PartOfSpeech=FW Lemma=iiiin NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1610 CharacterOffsetEnd=1611 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1611 CharacterOffsetEnd=1612 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, BMO-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+punct(says-8, ...-5)
+punct(says-8, "-6)
+nsubj(says-8, BMO-7)
+ccomp(says-2, says-8)
+punct(says-8, :-9)
+punct(says-8, "-10)
+xcomp(says-8, IIIIN-11)
+punct(says-2, !-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+
+Sentence #41 (3 tokens):
+Short ends.
+
+Tokens:
+[Text=Short CharacterOffsetBegin=1613 CharacterOffsetEnd=1618 PartOfSpeech=JJ Lemma=short NamedEntityTag=O]
+[Text=ends CharacterOffsetBegin=1619 CharacterOffsetEnd=1623 PartOfSpeech=NNS Lemma=end NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1623 CharacterOffsetEnd=1624 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, ends-2)
+amod(ends-2, Short-1)
+punct(ends-2, .-3)
+
+Extracted the following NER entity mentions:
+
+Coreference set:
+	(1,5,[5,6]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(2,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(3,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(4,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(5,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(6,6,[6,7]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(7,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(8,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(9,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(10,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(10,8,[8,9]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(11,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(12,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(12,6,[6,7]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(13,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(13,5,[5,6]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(13,10,[10,11]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(13,14,[14,15]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(13,19,[19,20]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(14,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(14,5,[5,6]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(15,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(16,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(17,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(18,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(19,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(19,5,[5,6]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(20,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(20,5,[5,6]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(21,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(21,5,[5,6]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(22,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(24,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(25,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(26,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(28,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(29,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(29,7,[7,8]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(29,11,[11,12]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(29,15,[15,16]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(29,19,[19,20]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(29,23,[23,24]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(30,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(30,6,[6,7]) -> (23,3,[3,5]), that is: "it" -> "BMO 's"
+	(33,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(34,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(35,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(36,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(37,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(38,5,[5,6]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(38,9,[9,10]) -> (23,3,[3,5]), that is: "his" -> "BMO 's"
+	(39,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(39,5,[5,6]) -> (23,3,[3,5]), that is: "I" -> "BMO 's"
+	(39,9,[9,10]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(39,23,[23,24]) -> (23,3,[3,5]), that is: "he" -> "BMO 's"
+	(40,1,[1,2]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+	(40,7,[7,8]) -> (23,3,[3,5]), that is: "BMO" -> "BMO 's"
+
+Coreference set:
+	(17,9,[8,10]) -> (15,9,[8,10]), that is: "the flour" -> "the flour"
+
+Coreference set:
+	(17,6,[5,10]) -> (15,6,[5,10]), that is: "A rat in the flour" -> "A rat in the flour"
+
+Coreference set:
+	(13,23,[23,24]) -> (12,5,[5,6]), that is: "Ooh" -> "Ooh"
+
+Coreference set:
+	(27,6,[5,7]) -> (7,16,[15,17]), that is: "My lip" -> "his lip"
+
+Coreference set:
+	(7,7,[7,8]) -> (32,4,[4,6]), that is: "Finn" -> "Finn sick"
+	(7,15,[15,16]) -> (32,4,[4,6]), that is: "his" -> "Finn sick"
+	(9,11,[11,12]) -> (32,4,[4,6]), that is: "he" -> "Finn sick"
+	(27,1,[1,2]) -> (32,4,[4,6]), that is: "Finn" -> "Finn sick"
+	(27,5,[5,6]) -> (32,4,[4,6]), that is: "My" -> "Finn sick"
+	(29,5,[5,6]) -> (32,4,[4,6]), that is: "Finn" -> "Finn sick"
+	(31,1,[1,2]) -> (32,4,[4,6]), that is: "Finn" -> "Finn sick"
+	(32,12,[12,13]) -> (32,4,[4,6]), that is: "him" -> "Finn sick"
+
+Coreference set:
+	(4,15,[15,16]) -> (4,12,[11,13]), that is: "it" -> "a flower"
+
+Coreference set:
+	(28,6,[5,7]) -> (26,6,[5,7]), that is: "Finn !" -> "Finn !"

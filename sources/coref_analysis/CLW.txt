@@ -1,0 +1,202 @@
+STATS:
+[34, 16, 10, 6]
+
+
+
+speaker: ANAKIN
+addressee: GHA NACKT
+
+speaker: AHSOKA
+addressee: REX
+
+speaker: ANAKIN
+addressee: KENOBI
+
+speaker: AHSOKA
+addressee: KENOBI
+
+speaker: ANAKIN
+addressee: AHSOKA
+
+speaker: GUNRAY
+addressee: PADME
+
+speaker: GUNRAY
+addressee: PADME
+
+speaker: GUNRAY
+addressee: PADME
+
+speaker: ANAKIN
+addressee: JAYBO
+
+speaker: ANAKIN
+addressee: JAYBO
+
+speaker: ANAKIN
+addressee: PADMÉ
+
+speaker: TYPHO
+addressee: PADMÉ
+
+speaker: JAYBO
+addressee: ANAKIN
+
+speaker: AHSOKA
+addressee: ANAKIN
+
+speaker: YODA
+addressee: KATUUNKO
+
+speaker: YODA
+addressee: THIRE
+
+speaker: DOOKU
+addressee: DOOKU
+
+speaker: AHSOKA
+addressee: LUMINARA
+
+speaker: AHSOKA
+addressee: LUMINARA
+
+speaker: ANAKIN
+addressee: DOOKU
+
+speaker: DOOKU
+addressee: DOOKU
+
+speaker: TURK
+addressee: HONDO
+
+speaker: TURK
+addressee: HONDO
+
+speaker: HONDO
+addressee: ANAKIN
+
+speaker: ANAKIN
+addressee: ANAKIN
+
+speaker: HONDO
+addressee: ANAKIN
+
+speaker: ANAKIN
+addressee: ANAKIN
+
+speaker: GRIEVOUS
+addressee: GENERAL GRIEVOUS
+
+speaker: AHSOKA
+addressee: GENERAL GRIEVOUS
+
+speaker: AHSOKA
+addressee: ANAKIN
+
+speaker: ANAKIN
+addressee: REX
+
+speaker: AHSOKA
+addressee: AHSOKA
+
+speaker: GRIEVOUS
+addressee: AHSOKA
+
+speaker: REX
+addressee: AHSOKA
+
+speaker: AHSOKA
+addressee: AHSOKA
+
+speaker: GRIEVOUS
+addressee: AHSOKA
+
+speaker: GRIEVOUS
+addressee: GHA NACKT
+
+speaker: GRIEVOUS
+addressee: GHA NACKT
+
+speaker: CHOPPER
+addressee: CHO
+
+speaker: RIYO
+addressee: CHO
+
+speaker: RIYO
+addressee: CHO
+
+speaker: CHOPPER
+addressee: REX
+
+speaker: ANAKIN
+addressee: REX
+
+speaker: CHOPPER
+addressee: REX
+
+speaker: RIYO
+addressee: REX
+
+speaker: RIYO
+addressee: ANAKIN
+
+speaker: CHOPPER
+addressee: RIYO
+
+speaker: ANAKIN
+addressee: TYPHO
+
+speaker: TYPHO
+addressee: PADMÉ
+
+speaker: NUVO
+addressee: PADMÉ
+
+speaker: ANAKIN
+addressee: PADMÉ
+
+speaker: ANAKIN
+addressee: PADMÉ
+
+speaker: REX
+addressee: ANAKIN
+
+speaker: NUVO
+addressee: ANAKIN
+
+speaker: ANAKIN
+addressee: AHSOKA
+
+speaker: AHSOKA
+addressee: AHSOKA
+
+speaker: ANAKIN
+addressee: KENOBI
+
+speaker: ANAKIN
+addressee: KENOBI
+
+speaker: ANAKIN
+addressee: KENOBI
+
+speaker: ANAKIN
+addressee: KENOBI
+
+speaker: ANAKIN
+addressee: KENOBI
+
+speaker: DOOKU
+addressee: HONDO
+
+speaker: YULAREN
+addressee: ANAKIN
+
+speaker: AHSOKA
+addressee: ANAKIN
+
+speaker: AHSOKA
+addressee: AHSOKA
+
+speaker: ANAKIN
+addressee: AHSOKA

@@ -1,0 +1,985 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Adventure Time Wiki}%
+}{%
+{Adventure Time Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+adv}
+\APACinsertmetastar {%
+adv}%
+\begin{APACrefauthors}%
+{Adventure Time Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {ADV Transcripts.} {Adv transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://adventuretime.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Agarval%
+, Zheng%
+, Kamath%
+, Balasubramanian%
+\BCBL {}\ \BBA {} Dey%
+}{%
+Agarval%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+otherbechdelresearch}
+\APACinsertmetastar {%
+otherbechdelresearch}%
+\begin{APACrefauthors}%
+Agarval, A.%
+, Zheng, J.%
+, Kamath, S\BPBI V.%
+, Balasubramanian, S.%
+\BCBL {}\ \BBA {} Dey, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Key Female Characters in Film Have More to Talk About
+  Besides Men: Automating the Bechdel Test} {Key female characters in film have
+  more to talk about besides men: Automating the bechdel test}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Association for Computational Linguistics.} {Association
+  for computational linguistics.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Avatar: The Last Airbender Wiki}%
+}{%
+{Avatar: The Last Airbender Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+atl}
+\APACinsertmetastar {%
+atl}%
+\begin{APACrefauthors}%
+{Avatar: The Last Airbender Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {ATL Transcripts.} {Atl transcripts.}
+\newblock
+\begin{APACrefURL} \url{https://avatar.fandom.com/wiki/Avatar_Wiki:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Avatar: The Legend of Korra Wiki}%
+}{%
+{Avatar: The Legend of Korra Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+kor}
+\APACinsertmetastar {%
+kor}%
+\begin{APACrefauthors}%
+{Avatar: The Legend of Korra Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {KOR Transcripts.} {Kor transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://avatar.fandom.com/wiki/Category:The_Legend_of_Korra_episode_transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baldwin%
+}{%
+Baldwin%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+baldwin}
+\APACinsertmetastar {%
+baldwin}%
+\begin{APACrefauthors}%
+Baldwin, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Cogniac: High precision coreference with limited
+  knowledge and linguistic resources} {Cogniac: High precision coreference with
+  limited knowledge and linguistic resources}.{\BBCQ}
+\newblock
+\BIn{} (\BPG~38-45).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bechdel%
+}{%
+Bechdel%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+testy}
+\APACinsertmetastar {%
+testy}%
+\begin{APACrefauthors}%
+Bechdel, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{11}{}.
+\newblock
+\APACrefbtitle {Testy.} {Testy.}
+\newblock
+\begin{APACrefURL} \url{https://dykestowatchoutfor.com/testy/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bechdel%
+}{%
+Bechdel%
+}{%
+{\protect \APACyear {circa 1985}}%
+}]{%
+bechdel}
+\APACinsertmetastar {%
+bechdel}%
+\begin{APACrefauthors}%
+Bechdel, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{circa 1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Portion of "The Rule" in Dykes to Watch Out For}
+  {Portion of "the rule" in dykes to watch out for}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bechdel's Flickr}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Clark%
+\ \BBA {} Manning%
+}{%
+Clark%
+\ \BBA {} Manning%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+clark2015entity}
+\APACinsertmetastar {%
+clark2015entity}%
+\begin{APACrefauthors}%
+Clark, K.%
+\BCBT {}\ \BBA {} Manning, C\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Entity-Centric Coreference Resolution with Model
+  Stacking} {Entity-centric coreference resolution with model stacking}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Association for Computational Linguistics (ACL).}
+  {Association for computational linguistics (acl).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Clark%
+\ \BBA {} Manning%
+}{%
+Clark%
+\ \BBA {} Manning%
+}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+clark2016deep}
+\APACinsertmetastar {%
+clark2016deep}%
+\begin{APACrefauthors}%
+Clark, K.%
+\BCBT {}\ \BBA {} Manning, C\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Reinforcement Learning for Mention-Ranking
+  Coreference Models} {Deep reinforcement learning for mention-ranking
+  coreference models}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Empirical Methods on Natural Language Processing.}
+  {Empirical methods on natural language processing.}
+\newblock
+\begin{APACrefURL} \url{https://nlp.stanford.edu/pubs/clark2016deep.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Clark%
+\ \BBA {} Manning%
+}{%
+Clark%
+\ \BBA {} Manning%
+}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+clark2016impr}
+\APACinsertmetastar {%
+clark2016impr}%
+\begin{APACrefauthors}%
+Clark, K.%
+\BCBT {}\ \BBA {} Manning, C\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Improving Coreference Resolution by Learning
+  Entity-Level Distributed Representations} {Improving coreference resolution
+  by learning entity-level distributed representations}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Association for Computational Linguistics (ACL).}
+  {Association for computational linguistics (acl).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Crystal%
+}{%
+Crystal%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+dictionary}
+\APACinsertmetastar {%
+dictionary}%
+\begin{APACrefauthors}%
+Crystal, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1997}.
+\newblock
+\APACrefbtitle {A dictionary of linguistics and phonetics} {A dictionary of
+  linguistics and phonetics}\ (\PrintOrdinal{4th}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Cambridge, MA: Blackwell Publishing}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{DuckTales Wiki}%
+}{%
+{DuckTales Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+duc}
+\APACinsertmetastar {%
+duc}%
+\begin{APACrefauthors}%
+{DuckTales Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {DUC Transcripts.} {Duc transcripts.}
+\newblock
+\begin{APACrefURL} \url{https://ducktales.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{European Women's Audiovisual Network}%
+}{%
+{European Women's Audiovisual Network}%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+swedes}
+\APACinsertmetastar {%
+swedes}%
+\begin{APACrefauthors}%
+{European Women's Audiovisual Network}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {Swedish cinemas take aim at gender bias with Bechdel test
+  rating.} {Swedish cinemas take aim at gender bias with bechdel test rating.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.theguardian.com/world/2013/nov/06/swedish-cinemas-bechdel-test-films-gender-bias}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ferraro%
+\ \BBA {} Kane%
+}{%
+Ferraro%
+\ \BBA {} Kane%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+glaad}
+\APACinsertmetastar {%
+glaad}%
+\begin{APACrefauthors}%
+Ferraro, R.%
+\BCBT {}\ \BBA {} Kane, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{08}{}.
+\newblock
+\APACrefbtitle {GLAAD Introduces 'Studio Responsibility Index,' Report on LGBT
+  Images in Films Released by 'Big Six' Studios.} {Glaad introduces 'studio
+  responsibility index,' report on lgbt images in films released by 'big six'
+  studios.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.glaad.org/releases/glaad-introduces-studio-responsibility-index-report-lgbt-images-films-released-big-six}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Futurama Wiki}%
+}{%
+{Futurama Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+fut}
+\APACinsertmetastar {%
+fut}%
+\begin{APACrefauthors}%
+{Futurama Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {FUT Transcripts.} {Fut transcripts.}
+\newblock
+\begin{APACrefURL} \url{https://theinfosphere.org/Episode_Transcript_Listing}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garcia%
+, Weber%
+, Rama%
+\BCBL {}\ \BBA {} Garimella%
+}{%
+Garcia%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+bechdeltwitter}
+\APACinsertmetastar {%
+bechdeltwitter}%
+\begin{APACrefauthors}%
+Garcia, D.%
+, Weber, I.%
+, Rama, V.%
+\BCBL {}\ \BBA {} Garimella, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gender Asymmetries in Reality and Fiction: The Bechdel
+  Test of Social Media} {Gender asymmetries in reality and fiction: The bechdel
+  test of social media}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {ICWSM.} {Icwsm.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Gravity Falls Wiki}%
+}{%
+{Gravity Falls Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+gra}
+\APACinsertmetastar {%
+gra}%
+\begin{APACrefauthors}%
+{Gravity Falls Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {GRA Transcripts.} {Gra transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://gravityfalls.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jurafsky%
+\ \BBA {} Martin%
+}{%
+Jurafsky%
+\ \BBA {} Martin%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+jurafsky}
+\APACinsertmetastar {%
+jurafsky}%
+\begin{APACrefauthors}%
+Jurafsky, D.%
+\BCBT {}\ \BBA {} Martin, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Speech and Language Processing: An Introduction to Natural
+  Language Processing, Computational Linguistics, and Speech Recognition}
+  {Speech and language processing: An introduction to natural language
+  processing, computational linguistics, and speech recognition}\ (\BVOL~2).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lappin%
+\ \BBA {} Leass%
+}{%
+Lappin%
+\ \BBA {} Leass%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+lappin}
+\APACinsertmetastar {%
+lappin}%
+\begin{APACrefauthors}%
+Lappin, S.%
+\BCBT {}\ \BBA {} Leass, H\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An Algorithm for Pronominal Anaphora Resolution} {An
+  algorithm for pronominal anaphora resolution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Linguistics}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lee%
+\ \protect \BOthers {.}}{%
+Lee%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+lee-Etal}
+\APACinsertmetastar {%
+lee-Etal}%
+\begin{APACrefauthors}%
+Lee, H.%
+, Chang, A.%
+, Peirsman, Y.%
+, Chambers, N.%
+, Surdeanu, M.%
+\BCBL {}\ \BBA {} Jurafsky, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deterministic coreference resolution based on
+  entity-centric, precision-ranked rules} {Deterministic coreference resolution
+  based on entity-centric, precision-ranked rules}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Linguistics 39(4)}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lee%
+\ \protect \BOthers {.}}{%
+Lee%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+lee11conllst}
+\APACinsertmetastar {%
+lee11conllst}%
+\begin{APACrefauthors}%
+Lee, H.%
+, Peirsman, Y.%
+, Chang, A.%
+, Chambers, N.%
+, Surdeanu, M.%
+\BCBL {}\ \BBA {} Jurafsky, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stanford's Multi-Pass Sieve Coreference Resolution
+  System at the CoNLL-2011 Shared Task} {Stanford's multi-pass sieve
+  coreference resolution system at the conll-2011 shared task}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Conference on Natural Language Learning (CoNLL) Shared
+  Task.} {Conference on natural language learning (conll) shared task.}
+\newblock
+\begin{APACrefURL} \url{pubs/conllst2011-coref.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Manning%
+\ \protect \BOthers {.}}{%
+Manning%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+manning-EtAl:2014:P14-5}
+\APACinsertmetastar {%
+manning-EtAl:2014:P14-5}%
+\begin{APACrefauthors}%
+Manning, C\BPBI D.%
+, Surdeanu, M.%
+, Bauer, J.%
+, Finkel, J.%
+, Bethard, S\BPBI J.%
+\BCBL {}\ \BBA {} McClosky, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {Stanford} {CoreNLP} Natural Language Processing
+  Toolkit} {The {Stanford} {CoreNLP} natural language processing
+  toolkit}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Association for Computational Linguistics (ACL) System
+  Demonstrations} {Association for computational linguistics (acl) system
+  demonstrations}\ (\BPGS\ 55--60).
+\newblock
+\begin{APACrefURL} \url{http://www.aclweb.org/anthology/P/P14/P14-5010}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McGuinness%
+}{%
+McGuinness%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+pacificrim}
+\APACinsertmetastar {%
+pacificrim}%
+\begin{APACrefauthors}%
+McGuinness, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{July}{}.
+\newblock
+\APACrefbtitle {The Bechdel test and why Hollywood is a man's, man's, man's
+  world.} {The bechdel test and why hollywood is a man's, man's, man's world.}
+\newblock
+\begin{APACrefURL}
+  \url{https://metro.co.uk/2013/07/18/movie-lovers-hit-back-at-hollywood-misogyny-with-the-bechdel-test-3886103/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{My Little Pony: Friendship is Magic Wiki}%
+}{%
+{My Little Pony: Friendship is Magic Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+mlp}
+\APACinsertmetastar {%
+mlp}%
+\begin{APACrefauthors}%
+{My Little Pony: Friendship is Magic Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {MLP Transcripts.} {Mlp transcripts.}
+\newblock
+\begin{APACrefURL} \url{https://mlp.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Raghunathan%
+\ \protect \BOthers {.}}{%
+Raghunathan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+raghunathan2010}
+\APACinsertmetastar {%
+raghunathan2010}%
+\begin{APACrefauthors}%
+Raghunathan, K.%
+, Lee, H.%
+, Rangarajan, S.%
+, Chambers, N.%
+, Surdeanu, M.%
+, Jurafsky, D.%
+\BCBL {}\ \BBA {} Manning, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Multi-Pass Sieve for Coreference Resolution} {A
+  multi-pass sieve for coreference resolution}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Empirical Methods in Natural Language Processing
+  (EMNLP).} {Empirical methods in natural language processing (emnlp).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Recasens%
+, {de Marneffe}%
+\BCBL {}\ \BBA {} Potts%
+}{%
+Recasens%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+recasens_demarneffe_potts2013}
+\APACinsertmetastar {%
+recasens_demarneffe_potts2013}%
+\begin{APACrefauthors}%
+Recasens, M.%
+, {de Marneffe}, M\BHBI C.%
+\BCBL {}\ \BBA {} Potts, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Life and Death of Discourse Entities: Identifying
+  Singleton Mentions} {The life and death of discourse entities: Identifying
+  singleton mentions}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {North American Association for Computational Linguistics
+  (NAACL).} {North american association for computational linguistics (naacl).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Rick and Morty Wiki}%
+}{%
+{Rick and Morty Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ram}
+\APACinsertmetastar {%
+ram}%
+\begin{APACrefauthors}%
+{Rick and Morty Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {RAM Transcripts.} {Ram transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://rickandmorty.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{She-Ra and the Princesses of Power Wiki}%
+}{%
+{She-Ra and the Princesses of Power Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+she}
+\APACinsertmetastar {%
+she}%
+\begin{APACrefauthors}%
+{She-Ra and the Princesses of Power Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {SHE Transcripts.} {She transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://she-raandtheprincessesofpower.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{SpongeBob SquarePants Wiki}%
+}{%
+{SpongeBob SquarePants Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+spo}
+\APACinsertmetastar {%
+spo}%
+\begin{APACrefauthors}%
+{SpongeBob SquarePants Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {SPO Transcripts.} {Spo transcripts.}
+\newblock
+\begin{APACrefURL} \url{https://spongebob.fandom.com/wiki/List_of_transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Steven Universe Wiki}%
+}{%
+{Steven Universe Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+stu}
+\APACinsertmetastar {%
+stu}%
+\begin{APACrefauthors}%
+{Steven Universe Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {STU Transcripts.} {Stu transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://steven-universe.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{The Amazing World of Gumball Wiki}%
+}{%
+{The Amazing World of Gumball Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+gum}
+\APACinsertmetastar {%
+gum}%
+\begin{APACrefauthors}%
+{The Amazing World of Gumball Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {GUM Transcripts.} {Gum transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://theamazingworldofgumball.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{The Owl House Wiki}%
+}{%
+{The Owl House Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+owl}
+\APACinsertmetastar {%
+owl}%
+\begin{APACrefauthors}%
+{The Owl House Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {OWL Transcripts.} {Owl transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://theowlhouse.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{The Powerpuff Girls Wiki}%
+}{%
+{The Powerpuff Girls Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ppg}
+\APACinsertmetastar {%
+ppg}%
+\begin{APACrefauthors}%
+{The Powerpuff Girls Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {PPG Transcripts.} {Ppg transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://powerpuffgirls.fandom.com/wiki/Category:Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Transcripts Wiki}%
+}{%
+{Transcripts Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+clw}
+\APACinsertmetastar {%
+clw}%
+\begin{APACrefauthors}%
+{Transcripts Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {CLW Transcripts.} {Clw transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://transcripts.fandom.com/wiki/Star_Wars:_The_Clone_Wars}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Voltron: Legendary Defender Wiki}%
+}{%
+{Voltron: Legendary Defender Wiki}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+vol}
+\APACinsertmetastar {%
+vol}%
+\begin{APACrefauthors}%
+{Voltron: Legendary Defender Wiki}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {VOL Transcripts.} {Vol transcripts.}
+\newblock
+\begin{APACrefURL}
+  \url{https://vld.fandom.com/wiki/Category:Episode_Transcripts}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wagner%
+, Garcia%
+, Jadidi%
+\BCBL {}\ \BBA {} Strohmaier%
+}{%
+Wagner%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+bechdelwiki}
+\APACinsertmetastar {%
+bechdelwiki}%
+\begin{APACrefauthors}%
+Wagner, C.%
+, Garcia, D.%
+, Jadidi, M.%
+\BCBL {}\ \BBA {} Strohmaier, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {It's a Man's Wikipedia? Assessing Gender Inequality in
+  an Online Encyclopedia} {It's a man's wikipedia? assessing gender inequality
+  in an online encyclopedia}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {ICWSM.} {Icwsm.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Woolf%
+}{%
+Woolf%
+}{%
+{\protect \APACyear {1929}}%
+}]{%
+woolf}
+\APACinsertmetastar {%
+woolf}%
+\begin{APACrefauthors}%
+Woolf, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1929}.
+\newblock
+\APACrefbtitle {A Room of One's Own} {A room of one's own}.
+\newblock
+\APACaddressPublisher{}{John Wiley and Sons, Ltd.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeisler%
+}{%
+Zeisler%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+zeisler}
+\APACinsertmetastar {%
+zeisler}%
+\begin{APACrefauthors}%
+Zeisler, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {We Were Feminists Once: From Riot Grrrl to CoverGirl, the
+  Buying and Selling of a Political Movement.} {We were feminists once: From
+  riot grrrl to covergirl, the buying and selling of a political movement.}
+\newblock
+\APACaddressPublisher{}{PublicAffairs}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

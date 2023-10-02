@@ -1,0 +1,2446 @@
+STATS:
+[358, 196, 171, 89]
+
+
+
+speaker: SOKKA
+addressee: MECHANIST
+
+speaker: SOKKA
+addressee: MECHANIST
+
+speaker: HAKODA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: HAKODA
+
+speaker: KATARA
+addressee: HAKODA
+
+speaker: SOKKA
+addressee: HAKODA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: DUE
+addressee: KATARA
+
+speaker: KATARA
+addressee: AANG
+
+speaker: TOPH
+addressee: AANG
+
+speaker: TOPH
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: TOPH
+addressee: AANG
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: TOPH
+addressee: SOKKA
+
+speaker: AANG
+addressee: TOPH
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: JET
+addressee: LI
+
+speaker: JET
+addressee: LI
+
+speaker: JET
+addressee: LI
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: TOPH
+
+speaker: YOUNG ZUKO
+addressee: TOPH
+
+speaker: YOUNG ZUKO
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: TOPH
+addressee: SOKKA
+
+speaker: JET
+addressee: IROH
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: KATARA
+addressee: AANG
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG ZUKO
+addressee: AZULA
+
+speaker: MECHANIST
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: MECHANIST
+addressee: AZULA
+
+speaker: YOUNG ZUKO
+addressee: LO
+
+speaker: MAI
+addressee: ZUKO
+
+speaker: SENLIN VILLAGE LEADER
+addressee: ZUKO
+
+speaker: LO
+addressee: ZUKO
+
+speaker: SENLIN VILLAGE LEADER
+addressee: ZUKO
+
+speaker: YOUNG AZULA
+addressee: ZUKO
+
+speaker: LO
+addressee: MAI
+
+speaker: MECHANIST
+addressee: MAI
+
+speaker: JET
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: JET
+addressee: SOKKA
+
+speaker: SMELLERBEE
+addressee: SOKKA
+
+speaker: SUKI
+addressee: IROH
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: JUNE
+addressee: TOPH
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: TOPH
+addressee: ZUKO
+
+speaker: ROKU
+addressee: KYOSHI
+
+speaker: AANG
+addressee: KYOSHI
+
+speaker: ROKU
+addressee: KYOSHI
+
+speaker: KATARA
+addressee: PAKKU
+
+speaker: FONG
+addressee: AANG
+
+speaker: FONG
+addressee: AANG
+
+speaker: FONG
+addressee: AANG
+
+speaker: FONG
+addressee: AANG
+
+speaker: CAPTAIN
+addressee: ZUKO
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: PAKKU
+addressee: FONG
+
+speaker: PAKKU
+addressee: FONG
+
+speaker: IROH
+addressee: FONG
+
+speaker: AANG
+addressee: FONG
+
+speaker: YOUNG ZUKO
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: IROH
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: WU
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: MENG
+addressee: KATARA
+
+speaker: MENG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: YOUNG AZULA
+addressee: ZUKO
+
+speaker: YOUNG AZULA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: OZAI
+addressee: MAI
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: TOPH
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: SUKI
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: TOPH
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: SUKI
+addressee: KATARA
+
+speaker: SUKI
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: SUKI
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: KATARA
+addressee: SUKI
+
+speaker: PAKKU
+addressee: AANG
+
+speaker: PAKKU
+addressee: AANG
+
+speaker: ARNOOK
+addressee: AANG
+
+speaker: YUE
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: YUE
+addressee: AANG
+
+speaker: PAKKU
+addressee: AANG
+
+speaker: SOKKA
+addressee: ZHAO
+
+speaker: SOKKA
+addressee: ZHAO
+
+speaker: AANG
+addressee: ZHAO
+
+speaker: KATARA
+addressee: PAKKU
+
+speaker: KATARA
+addressee: PAKKU
+
+speaker: KATARA
+addressee: PAKKU
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: SUKI
+addressee: MAI
+
+speaker: AANG
+addressee: OZAI
+
+speaker: AANG
+addressee: OZAI
+
+speaker: AANG
+addressee: OZAI
+
+speaker: YOUNG AZULA
+addressee: KATARA
+
+speaker: YOUNG AZULA
+addressee: KATARA
+
+speaker: YOUNG AZULA
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: KATARA
+addressee: SMELLERBEE
+
+speaker: SOZIN
+addressee: ROKU
+
+speaker: TOPH
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG AZULA
+addressee: MAI
+
+speaker: YOUNG AZULA
+addressee: MAI
+
+speaker: MAI
+addressee: KATARA
+
+speaker: MAI
+addressee: KATARA
+
+speaker: MAI
+addressee: KATARA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: YOUNG AZULA
+addressee: LI
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: SENLIN VILLAGE LEADER
+addressee: AANG
+
+speaker: LO
+addressee: AANG
+
+speaker: SENLIN VILLAGE LEADER
+addressee: AANG
+
+speaker: MAI
+addressee: AANG
+
+speaker: YOUNG AZULA
+addressee: AANG
+
+speaker: AANG
+addressee: SUN WARRIOR CHIEF
+
+speaker: YOUNG ZUKO
+addressee: SUN WARRIOR CHIEF
+
+speaker: YOUNG ZUKO
+addressee: SUN WARRIOR CHIEF
+
+speaker: YOUNG ZUKO
+addressee: SUN WARRIOR CHIEF
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: CAPTAIN
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: SHYU
+
+speaker: KATARA
+addressee: SHYU
+
+speaker: SOKKA
+addressee: SHYU
+
+speaker: KATARA
+addressee: SHYU
+
+speaker: ROKU
+addressee: ZHAO
+
+speaker: ROKU
+addressee: ZHAO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: IROH
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: OYAJI
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: KATARA
+addressee: HAMA
+
+speaker: KATARA
+addressee: HAMA
+
+speaker: KATARA
+addressee: HAMA
+
+speaker: KATARA
+addressee: HAMA
+
+speaker: SOKKA
+addressee: HAMA
+
+speaker: SOKKA
+addressee: HAMA
+
+speaker: SOKKA
+addressee: HAMA
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: SMELLERBEE
+addressee: TY LEE
+
+speaker: KATARA
+addressee: MAI
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: YOUNG ZUKO
+addressee: MAI
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: WARDEN
+addressee: HAKODA
+
+speaker: WARDEN
+addressee: SOKKA
+
+speaker: WARDEN
+addressee: SOKKA
+
+speaker: HAKODA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: WARDEN
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: ZHAO
+addressee: ZUKO
+
+speaker: ZHAO
+addressee: ZUKO
+
+speaker: ZHAO
+addressee: ZUKO
+
+speaker: ZHAO
+addressee: ZUKO
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: CHEY
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: AANG
+addressee: CHEY
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: AANG
+addressee: BUMI
+
+speaker: TOPH
+addressee: LI
+
+speaker: AANG
+addressee: LI
+
+speaker: KATARA
+addressee: LI
+
+speaker: TOPH
+addressee: LI
+
+speaker: KATARA
+addressee: AANG
+
+speaker: TOPH
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: SHINU
+addressee: OZAI
+
+speaker: TOPH
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: TOPH
+addressee: SOKKA
+
+speaker: MAI
+addressee: KUEI
+
+speaker: PATHIK
+addressee: TOPH
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: YOUNG AZULA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: AZULA
+
+speaker: IROH
+addressee: AZULA
+
+speaker: IROH
+addressee: AZULA
+
+speaker: SOKKA
+addressee: AZULA
+
+speaker: YOUNG ZUKO
+addressee: YUE
+
+speaker: YOUNG ZUKO
+addressee: YUE
+
+speaker: SOKKA
+addressee: HAHN
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YUE
+addressee: SOKKA
+
+speaker: HAHN
+addressee: SOKKA
+
+speaker: YUE
+addressee: AANG
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: ZHAO
+addressee: YUE
+
+speaker: IROH
+addressee: YUE
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: ZHAO
+addressee: IROH
+
+speaker: ZHAO
+addressee: IROH
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: TOPH
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: SUKI
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SUKI
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: SUKI
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: YOUNG ZUKO
+addressee: SUKI
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: HUU
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: HUU
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: HUU
+addressee: AANG
+
+speaker: HUU
+addressee: AANG
+
+speaker: HUU
+addressee: AANG
+
+speaker: AANG
+addressee: BUMI
+
+speaker: KATARA
+addressee: HARU
+
+speaker: KATARA
+addressee: HARU
+
+speaker: AANG
+addressee: HARU
+
+speaker: KATARA
+addressee: HARU
+
+speaker: KATARA
+addressee: HARU
+
+speaker: KATARA
+addressee: HARU
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: HARU
+addressee: KATARA
+
+speaker: HARU
+addressee: KATARA
+
+speaker: HARU
+addressee: KATARA
+
+speaker: HARU
+addressee: KATARA
+
+speaker: HARU
+addressee: KATARA
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: WARDEN
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: YUE
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: TONG
+
+speaker: KATARA
+addressee: TONG
+
+speaker: TONG
+addressee: AANG
+
+speaker: OYAJI
+addressee: SUKI
+
+speaker: AANG
+addressee: ROKU
+
+speaker: CHAN
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: IROH
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: AANG
+addressee: SENLIN VILLAGE LEADER
+
+speaker: KATARA
+addressee: SENLIN VILLAGE LEADER
+
+speaker: KATARA
+addressee: SENLIN VILLAGE LEADER
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: JIN
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: JIN
+addressee: ZUKO
+
+speaker: JIN
+addressee: ZUKO
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: HAKODA
+addressee: SOKKA
+
+speaker: HAKODA
+addressee: SOKKA
+
+speaker: BATO
+addressee: SOKKA
+
+speaker: BATO
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: BATO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: IROH
+addressee: KATARA
+
+speaker: IROH
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: MAI
+addressee: TOPH
+
+speaker: PATHIK
+addressee: TOPH
+
+speaker: PATHIK
+addressee: TOPH
+
+speaker: PATHIK
+addressee: TOPH
+
+speaker: PATHIK
+addressee: TOPH
+
+speaker: HAKODA
+addressee: BATO
+
+speaker: HAKODA
+addressee: BATO
+
+speaker: HAKODA
+addressee: BATO
+
+speaker: IROH
+addressee: BATO
+
+speaker: YOUNG ZUKO
+addressee: BATO
+
+speaker: IROH
+addressee: BATO
+
+speaker: IROH
+addressee: BATO
+
+speaker: PATHIK
+addressee: BATO
+
+speaker: PATHIK
+addressee: BATO
+
+speaker: PATHIK
+addressee: BATO
+
+speaker: TOPH
+addressee: PATHIK
+
+speaker: KATARA
+addressee: PATHIK
+
+speaker: KATARA
+addressee: PATHIK
+
+speaker: SOKKA
+addressee: PATHIK
+
+speaker: SOKKA
+addressee: PATHIK
+
+speaker: HAKODA
+addressee: PATHIK
+
+speaker: HAKODA
+addressee: PATHIK
+
+speaker: HAKODA
+addressee: PATHIK
+
+speaker: YOUNG AZULA
+addressee: PATHIK
+
+speaker: YOUNG AZULA
+addressee: PATHIK
+
+speaker: YOUNG AZULA
+addressee: PATHIK
+
+speaker: YOUNG AZULA
+addressee: PATHIK
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: PATHIK
+addressee: KATARA
+
+speaker: KING BUMI
+addressee: SOKKA
+
+speaker: AANG
+addressee: BUMI
+
+speaker: AANG
+addressee: BUMI
+
+speaker: KING BUMI
+addressee: AANG
+
+speaker: KING BUMI
+addressee: AANG
+
+speaker: KING BUMI
+addressee: AANG
+
+speaker: KING BUMI
+addressee: AANG
+
+speaker: KING BUMI
+addressee: AANG
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: THE BOULDER
+
+speaker: AANG
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: AANG
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: TOPH
+addressee: THE BOULDER
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: TOPH
+addressee: WARDEN
+
+speaker: KATARA
+addressee: WARDEN
+
+speaker: SOKKA
+addressee: PIANDAO
+
+speaker: YOUNG AZULA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG ZUKO
+addressee: AZULA
+
+speaker: URSA
+addressee: AZULA
+
+speaker: URSA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: LONG FENG
+
+speaker: OZAI
+addressee: LO
+
+speaker: AANG
+addressee: LO
+
+speaker: OZAI
+addressee: LO
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: TOPH
+addressee: IROH
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: LONG FENG
+
+speaker: SOKKA
+addressee: LONG FENG
+
+speaker: KUEI
+addressee: LONG FENG
+
+speaker: TOPH
+addressee: SOKKA
+
+speaker: KUEI
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: TY LEE
+
+speaker: MAI
+addressee: TY LEE
+
+speaker: YOUNG ZUKO
+addressee: TY LEE
+
+speaker: YOUNG AZULA
+addressee: TY LEE
+
+speaker: YOUNG ZUKO
+addressee: TY LEE
+
+speaker: YOUNG AZULA
+addressee: TY LEE
+
+speaker: YOUNG AZULA
+addressee: TY LEE
+
+speaker: YOUNG ZUKO
+addressee: TY LEE
+
+speaker: YOUNG AZULA
+addressee: TY LEE
+
+speaker: YOUNG ZUKO
+addressee: AZULA
+
+speaker: YOUNG ZUKO
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: KWAN
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: YOUNG ZUKO
+addressee: SOKKA
+
+speaker: BATO
+addressee: OZAI
+
+speaker: SENLIN VILLAGE LEADER
+addressee: LO
+
+speaker: SOKKA
+addressee: HAKODA
+
+speaker: SOKKA
+addressee: HAKODA
+
+speaker: KATARA
+addressee: HAKODA
+
+speaker: ROKU
+addressee: HAKODA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: SENLIN VILLAGE LEADER
+addressee: KATARA
+
+speaker: HAKODA
+addressee: KATARA
+
+speaker: MAI
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: AANG
+addressee: GYATSO
+
+speaker: GYATSO
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: LI
+
+speaker: IROH
+addressee: LI
+
+speaker: IROH
+addressee: LI
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: SOKKA
+addressee: FISHERMAN
+
+speaker: KATARA
+addressee: FISHERMAN
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: YOUNG AZULA
+addressee: AANG
+
+speaker: YOUNG AZULA
+addressee: AZULA
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: AANG
+addressee: TOPH
+
+speaker: TOPH
+addressee: IROH
+
+speaker: TOPH
+addressee: IROH
+
+speaker: TOPH
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: SUKI
+
+speaker: SOKKA
+addressee: SUKI
+
+speaker: YOUNG ZUKO
+addressee: SUKI
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: AANG
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: KATARA
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: KATARA
+addressee: YON RHA
+
+speaker: KATARA
+addressee: YON RHA
+
+speaker: KATARA
+addressee: YON RHA
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: IROH
+addressee: ZUKO
+
+speaker: HERBALIST
+addressee: AANG
+
+speaker: ZHAO
+addressee: AANG
+
+speaker: ZHAO
+addressee: AANG
+
+speaker: ZHAO
+addressee: AANG
+
+speaker: AANG
+addressee: IROH
+
+speaker: SOKKA
+addressee: IROH
+
+speaker: SOKKA
+addressee: IROH
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: YOUNG AZULA
+addressee: AANG
+
+speaker: SOKKA
+addressee: TOPH
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: HAKODA
+addressee: KATARA
+
+speaker: HAKODA
+addressee: KATARA
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: OZAI
+addressee: ZUKO
+
+speaker: YOUNG AZULA
+addressee: SOKKA
+
+speaker: YOUNG AZULA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: SOKKA
+addressee: ZEI
+
+speaker: SOKKA
+addressee: ZEI
+
+speaker: TOPH
+addressee: ZEI
+
+speaker: SOKKA
+addressee: ZEI
+
+speaker: SOKKA
+addressee: ZEI
+
+speaker: SOKKA
+addressee: ZEI
+
+speaker: KATARA
+addressee: TOPH
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: ZEI
+addressee: AANG
+
+speaker: ZEI
+addressee: AANG
+
+speaker: AANG
+addressee: MECHANIST
+
+speaker: AANG
+addressee: MECHANIST
+
+speaker: SOKKA
+addressee: MECHANIST
+
+speaker: SOKKA
+addressee: MECHANIST
+
+speaker: TEO
+addressee: SOKKA
+
+speaker: TEO
+addressee: AANG
+
+speaker: TEO
+addressee: AANG
+
+speaker: MECHANIST
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: THO
+
+speaker: AANG
+addressee: THO
+
+speaker: AANG
+addressee: TEO
+
+speaker: AANG
+addressee: TEO
+
+speaker: AANG
+addressee: TEO
+
+speaker: KATARA
+addressee: TEO
+
+speaker: TEO
+addressee: KATARA
+
+speaker: AANG
+addressee: QIN
+
+speaker: YUE
+addressee: AANG
+
+speaker: KYOSHI
+addressee: AANG
+
+speaker: KYOSHI
+addressee: AANG
+
+speaker: KURUK
+addressee: AANG
+
+speaker: KURUK
+addressee: AANG
+
+speaker: KURUK
+addressee: AANG
+
+speaker: KURUK
+addressee: AANG
+
+speaker: AANG
+addressee: KURUK
+
+speaker: AANG
+addressee: ROKU
+
+speaker: URSA
+addressee: YOUNG AZULA
+
+speaker: URSA
+addressee: YOUNG AZULA
+
+speaker: YOUNG ZUKO
+addressee: SELA
+
+speaker: LEE
+addressee: ZUKO
+
+speaker: LEE
+addressee: ZUKO
+
+speaker: SELA
+addressee: ZUKO
+
+speaker: LEE
+addressee: ZUKO
+
+speaker: LEE
+addressee: ZUKO
+
+speaker: URSA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: LO
+addressee: ZUKO
+
+speaker: LO
+addressee: ZUKO
+
+speaker: URSA
+addressee: ZUKO
+
+speaker: URSA
+addressee: ZUKO
+
+speaker: LEE
+addressee: SELA
+
+speaker: YOUNG ZUKO
+addressee: SELA
+
+speaker: YOUNG ZUKO
+addressee: SELA
+
+speaker: YOUNG ZUKO
+addressee: SELA
+
+speaker: YOUNG ZUKO
+addressee: SELA
+
+speaker: LEE
+addressee: SELA
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: AANG
+addressee: KATARA
+
+speaker: SOKKA
+addressee: KATARA
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: AANG
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: KATARA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: YOUNG ZUKO
+addressee: IROH
+
+speaker: SOKKA
+addressee: CHONG
+
+speaker: AANG
+addressee: CHONG
+
+speaker: SONG
+addressee: CHONG
+
+speaker: SONG
+addressee: CHONG
+
+speaker: IROH
+addressee: CHONG
+
+speaker: IROH
+addressee: CHONG
+
+speaker: IROH
+addressee: CHONG
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SONG
+addressee: SOKKA
+
+speaker: SONG
+addressee: SOKKA
+
+speaker: SONG
+addressee: SOKKA
+
+speaker: CHONG
+addressee: SOKKA
+
+speaker: IROH
+addressee: CHONG
+
+speaker: AANG
+addressee: JIN
+
+speaker: AANG
+addressee: JIN
+
+speaker: KATARA
+addressee: JIN
+
+speaker: KATARA
+addressee: JIN
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: SOKKA
+
+speaker: AANG
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: KANNA
+
+speaker: KATARA
+addressee: SOKKA
+
+speaker: KANNA
+addressee: ZUKO
+
+speaker: SOKKA
+addressee: ZUKO
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: YOUNG ZUKO
+addressee: AANG
+
+speaker: SOKKA
+addressee: AANG
+
+speaker: KANNA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: AANG
+
+speaker: KATARA
+addressee: SOKKA

@@ -1,0 +1,448 @@
+HAGGAR says: ""Sire, the beast is almost to Arus."
+ZARKON says: ""This Quintessence gives me so much power, I could fight the Paladins myself."
+HAGGAR says: ""There is no need."
+HAGGAR says: "My creature will destroy them and capture the Voltron Lions for you."
+HAGGAR says: "Then, the most powerful weapon in the universe will be ours."
+A Paladin Lunch.
+The Galactic Gladiator heads towards Arus. Meanwhile, the Paladins enter the dinning hall of the Castle of Lions.
+SHIRO says: ""Great job training today, guys."
+SHIRO says: "We're really getting the hang of Voltron."
+LANCE says: ""Seriously, how far do you think my Lion kicked that broken alien ship?"
+LANCE says: "Must have been like a mile!"
+KEITH says: ""Yeah, that'll come in handy when the Galra challenges Voltron to a soccer match."
+LANCE says: ""Hey, I did something cool and you can't handle it."
+LANCE says: "I get it."
+KEITH says: ""Your kick ruined our balance."
+KEITH says: "We fell."
+LANCE says: ""Well that falling part was Hunk's fault."
+HUNK says: ""Hey!"
+SHIRO says: ""All right, save your energy for fighting Zarkon."
+The Paladins sit at the table. CORAN enters.
+CORAN says: ""Hello, guys!"
+CORAN says: "How was the Voltron workout?"
+SHIRO says: ""We're getting there."
+SHIRO says: "Are you and Allura almost done fixing the Castle so we can leave this planet?"
+SHIRO says: "I feel like we're sitting ducks here on Arus."
+CORAN says: ""Just about."
+CORAN says: "In the meantime, to get your minds off those duck seats you're worried about, I made you guys an authentic ancient Paladin lunch!"
+CORAN reveals an abomination he cooked up. Everyone is disgusted.
+HUNK says: ""Coran, you just got me hooked on that goo and now you're switching it up?"
+CORAN says: ""This is packed with nutrients."
+HUNK and CORAN sniff the strange food.
+HUNK says: ""Oh, it smells disgusting!"
+CORAN says: ""I know!"
+CORAN says: "That's how you know it's healthy!"
+HUNK has an alien plant in hand.
+HUNK says: ""Coran, we're on a planet now with fresh herbs, spices, and..."
+HUNK says: "whatever this thing is."
+HUNK says: "A tuber?"
+HUNK says: "Now, if you'll excuse me, I'm going to head back to the kitchen and spice things up."
+HUNK leaves. LANCE and KEITH sit at the other end of the table to wait.
+SHIRO says: ""Where's Pidge?"
+CORAN eats the strange food and speaks with a mouthful.
+CORAN says: ""—"
+CORAN says: "He's probably checking on those..."
+CORAN says: "prisoners we rescued from Zarkon."
+CORAN says: "They'll all be waking soon in the infirmary."
+SHIRO stands to leave; CORAN offers him a spork full of yellow nastiness.
+CORAN says: ""Open the hatch."
+CORAN says: "Food Lion coming in!"
+CORAN makes jet sounds.
+SHIRO says: ""No."
+SHIRO says: "Just..."
+SHIRO says: "no."
+SHIRO leaves.
+CORAN says: ""You don't know what you're missing!"
+SHIRO enters the Sleep Chamber; PIDGE is impatiently waiting, tapping a leg on the floor.
+SHIRO says: ""You're as anxious as me."
+PIDGE says: ""These aliens we saved know something about my family."
+PIDGE says: "They have to!"
+SHIRO says: ""I hope so."
+PIDGE says: ""They recognized you, didn't they?"
+PIDGE says: "They called you "Champion."
+PIDGE says: "" What does that even mean?"
+SHIRO says: ""I don't know."
+SHIRO says: "I can't remember very much from that time."
+SHIRO says: "But the way those guys looked at me when we freed them..."
+SHIRO says: "I don't know if I want to find out."
+The pod containing the Xi, who recognized SHIRO, opens. In the dining hall, HUNK brings KEITH and LANCE visibly appealing and tastier food. The two Paladins wolf the food down while CORAN watches. ALLURA enters.
+ALLURA says: ""They like the Paladin lunch!"
+CORAN is offended.
+CORAN says: ""I don't want to talk about it."
+ALLURA says: ""I just got the final nebulon booster working."
+ALLURA says: "We should be able to leave Planet Arus tomorrow and take the fight to Zarkon."
+The Castleship alarms blare. KEITH and LANCE stop eating. ALLURA brings up a screen showing KLAIZAP approaching the Castle.
+KEITH says: ""What is that?"
+ALLURA says: ""I don't know what it is."
+ALLURA says: "Maybe it's a local Arusian."
+ALLURA says: "He's approaching the Castle."
+KLAIZAP yells as he comes closer and hides behind rocks.
+HUNK says: ""Aw!"
+LANCE says: ""Doesn't look too dangerous."
+KEITH says: ""You never know."
+KEITH summons his Bayard.
+ALLURA says: ""No."
+ALLURA says: "Alteans believe in peace first."
+ALLURA says: "Let's go welcome them."
+ALLURA leaves with CORAN.
+HUNK says: ""That's adorable."
+LANCE says: ""Hey, maybe we can knit him a little sweater!"
+KEITH says: ""I'm not taking any chances."
+LANCE, HUNK, and KEITH follow ALLURA and CORAN.
+The Arusians.
+Bravest of Warriors.
+KLAIZAP flees and hides as everyone exits the Castle. They approach where he is hiding.
+ALLURA says: ""Greetings."
+ALLURA says: "We know you're there."
+ALLURA says: "No harm will come to you."
+KLAIZAP jumps out and brandishes his sword.
+HUNK says: ""Aw!"
+KEITH stands between KLAIZAP and ALLURA with his Bayard ready.
+KEITH says: ""Wait!"
+KEITH says: "He could be dangerous."
+KEITH says: "Drop your weapon!"
+KLAIZAP says: ""No one takes Klaizap's weapon!"
+ALLURA says: ""Keith, put that away!"
+ALLURA says: "Please, kind sir, accept my most humble apologies."
+KEITH relents. KLAIZAP is calmed.
+KLAIZAP says: ""I am Klaizap, bravest of our warriors."
+KLAIZAP says: "Our village is over Gazrel Hill."
+KLAIZAP says: "I come seeking answers as to why the Lion Goddess is angered with her followers."
+CORAN says: ""Followers?"
+HUNK says: ""Lion Goddess?"
+KLAIZAP says: ""The one the ancients spoke of."
+KLAIZAP gestures to a carving of a Lion-headed deity being worshiped by Arusians.
+ALLURA says: ""What makes you think she's angered?"
+KLAIZAP says: ""Destruction is everywhere."
+KLAIZAP says: "In the past few suns, fire has rained from the heavens and a giant has danced in the sky."
+HUNK whispers to LANCE.
+HUNK says: ""I think he's talking about Voltron."
+LANCE says: ""Yeah, I got that."
+ALLURA says: ""You have not angered the Lion Goddess."
+KLAIZAP says: ""How can you be certain?"
+ALLURA says: ""Because I am Allura and this is my Castle."
+KLAIZAP says: ""Huh?!"
+KLAIZAP says: "!"
+KLAIZAP says: "Lion Goddess!"
+KLAIZAP bows.
+ALLURA says: ""Please, bravest warrior, take us to your village so that we may meet our neighbors."
+KEITH says: ""What about our mission to get off this planet and fight Zarkon?"
+ALLURA says: ""Part of the Paladins' mission is to spread peace and diplomacy."
+ALLURA says: "Arus has been our host for 10,000 years."
+ALLURA says: "These people deserve our thanks."
+Shiro the Champion.
+SHIRO and PIDGE tend to the awakened prisoners in the Castle's Sleep Chamber.
+PIDGE says: ""So, how long were you held captive by Zarkon?"
+XI says: ""Some for years."
+XI says: "Decades, maybe."
+XI says: "It's hard to tell."
+XI says: "Time becomes a blur."
+PIDGE says: ""Then you must have been there when my dad and brother arrived."
+PIDGE says: "Sam and Matt Holt?"
+XI says: ""I never knew their names, but I certainly remember the other two Earthlings that arrived with Champion."
+SHIRO says: """Champion."
+SHIRO says: "" Why do you keep calling me that?"
+XI says: ""You really don't remember?"
+XI says: "Unbelievable!"
+XI says: "You were a legendary gladiator, undefeated in the ring."
+XI says: "You defeated an infamous Galra gladiator known as Myzax."
+XI says: "That was the day you earned the name "Champion."
+XI says: "" I was there, as was the young Earthling."
+XI recounts his memories of the Arena. SHIRO and MATT were lined up with other prisoners ready to fight MYZAX.
+XI says: ""We were all prisoners, forced to fight for the entertainment of Zarkon."
+XI says: "That day, we were set to fight Myzax, a vile beast many thought could never be defeated."
+XI says: "Slaughter awaited us all."
+XI says: "This 'Matt' was the first of us sent to fight."
+XI says: "But fate had other plans."
+A Galra Sentry offered MATT a blade; SHIRO was seen to steal the blade and attack MATT.
+XI says: ""You were so thirsty for blood, you injured your fellow Earthling."
+The scene returns to present. PIDGE is enraged at SHIRO.
+PIDGE says: ""You attacked my brother?"
+PIDGE says: "Why?!"
+PIDGE says: "!"
+SHIRO says: ""No..."
+SHIRO says: "it can't be true."
+XI says: ""I was there."
+XI says: "We all were."
+PIDGE says: ""After my brother was injured, where was he taken?"
+XI says: ""I know not."
+SHIRO says: ""I don't believe it."
+SHIRO says: "There's got to be more to the story."
+SHIRO says: "I-I couldn't have hurt my friend."
+SHIRO says: "Wait."
+SHIRO says: "That ship we were held captive on crash-landed on this planet."
+SHIRO says: "They'll have logs of prisoners, some..."
+SHIRO says: "information."
+PIDGE says: ""I'm coming with you."
+Dance of Apology.
+ARUSIAN KING says: ""Oh, Lion Goddess, I, King of the Arusians, formally beg your forgiveness."
+ARUSIAN KING says: "Please have mercy on us and accept our traditional Dance of Apology as atonement for our wrongdoings."
+The ARUSIAN KING claps to summon MOONTOW to dance.
+ARUSIAN KING says: ""Commence Dance of Apology!"
+ARUSIAN KING says: "Hoorah!"
+MOONTOW dances to music.
+ALLURA says: ""Please, there's no need for this."
+ARUSIAN KING says: ""Moontow, halt!"
+MOONTOW freezes on one foot.
+ARUSIAN KING says: ""The Goddess has refused the apology."
+ARUSIAN KING says: "Start the sacrificial fire."
+ARUSIAN KING says: "We must throw ourselves in."
+The Arusians light an enormous pyre.
+ALLURA says: ""No!"
+ALLURA says: "No sacrifices!"
+The Arusians are about to burn one of their own.
+ARUSIAN KING says: ""So, we may proceed with the dance?"
+ALLURA says: ""That's a better alternative."
+MOONTOW dances and the Arusians bow to ALLURA.
+ALLURA says: ""Oh, my!"
+ALLURA says: "Please, please, rise."
+ALLURA says: "Thank you for that, but I am not a great being worthy of your worship."
+ALLURA says: "I accidentally put you all in danger."
+ALLURA says: "It is I who should be apologizing to you."
+ALLURA says: "I am Princess Allura and these are the Voltron Paladins."
+ALLURA says: "Although we originally came from different worlds..."
+ALLURA says: "and have very, very, very different traditions, we wish to live alongside you as friends."
+ARUSIAN KING says: ""But the mighty robotic angel..."
+ARUSIAN KING says: "has it not come to destroy us because of our immoral ways?"
+ALLURA says: ""Voltron?"
+ALLURA says: "No."
+ALLURA says: "In fact, that mighty robot is here to protect you."
+ALLURA says: "Let it be known that Voltron will protect every innocent being throughout the universe!"
+The Arusians cheer and celebrate by hugging the team. KEITH tries to leave but an Arusian clings to him.
+KEITH says: ""I don't..."
+KEITH says: "usually hug strangers, but, uh..."
+KEITH says: "Man, you are cuddly."
+The Arusian speaks in a contrastingly deep voice.
+ARUSIAN says: ""Thank you."
+KEITH is shocked.
+The Galactic Gladiator.
+Arrival.
+SHIRO and PIDGE investigate SENDAK's fallen warship.
+PIDGE says: ""This looks like the master control board, but there's no power."
+ALLURA says: ""All you need is power?"
+PIDGE says: ""Yeah, but one that's compatible with Galra tech."
+SHIRO activates his prosthetic arm and powers up the computer by touching it.
+PIDGE says: ""Whoa..."
+PIDGE says: "I can't believe you got this to work."
+PIDGE starts downloading the data.
+PIDGE says: ""My dad's and Matt's whereabouts must be logged in here somewhere."
+PIDGE says: "Once I download this information, I'll find some way to decode it back at the Castle."
+SHIRO hears a rumbling.
+SHIRO says: ""Wha—"
+SHIRO says: "?"
+The ship carrying the Galactic Gladiator appears in the sky.
+SHIRO says: ""Oh, no."
+PIDGE says: ""What is it?"
+SHIRO says: ""Something just entered the atmosphere."
+SHIRO says: "I'm not exactly sure what it is, but it's big, it's Galra, and it's coming right for us."
+SHIRO says: "We gotta go!"
+SHIRO tries to leave, lifting his hand. PIDGE slams it down.
+PIDGE says: ""Shiro, don't."
+PIDGE says: "Move."
+PIDGE says: "I'm only 15 percent done."
+PIDGE says: "I'm not going anywhere."
+SHIRO eyes the incoming spacecraft and cannot wait for the download to finish.
+SHIRO says: ""Pidge, I'm sorry!"
+PIDGE says: ""No!"
+SHIRO grabs PIDGE and uses his jetpack to escape.
+SHIRO says: ""Team, come in!"
+SHIRO says: "We need backup!"
+ALLURA is with KEITH and the Arusians. SHIRO's voice relays over her communication earrings.
+SHIRO says: ""Hello?"
+ALLURA says: ""Shiro?"
+SHIRO says: ""Where is everyone?"
+KEITH says: ""What's going on?"
+The incoming spacecraft causes rumbling across the surface of Arus. KEITH and ALLURA finally see the threat.
+KEITH says: ""Oh, no."
+KEITH says: "We gotta get to our Lions!"
+The Arusians start running to hide.
+ALLURA says: ""Everyone get inside and stay down!"
+HUNK says: ""I'm on it!"
+ALLURA says: ""Huh?"
+HUNK tries to flee with the Arusians; KEITH drags him back towards the Lions.
+KEITH says: ""Not you!"
+SHIRO and PIDGE are still by the fallen warship.
+PIDGE says: ""No!"
+PIDGE says: "Shiro, let me go!"
+PIDGE says: "My father!"
+SHIRO says: ""Huh?"
+SHIRO sees the Galra spacecraft is on a collision course with the warship.
+SHIRO says: ""Run!"
+SHIRO and PIDGE use their jetpacks to escape the collision; The Green Lion and Black Lion suddenly appear to protect them from the blast.
+A Galactic Threat.
+The Green Lion and Black Lion move away to reveal their Paladins are safe.
+SHIRO says: ""Our Lions just saved us."
+PIDGE says: ""I didn't know they could do that."
+PIDGE says: "Huh?"
+PIDGE says: "Um..."
+PIDGE says: "Shiro?!"
+PIDGE says: "!"
+PIDGE points to the Galra spacecraft. The Galactic Gladiator starts up and notices SHIRO.
+SHIRO says: ""Get in your Lion!"
+The Paladins enter their Lions and dodge the Galactic Gladiator's attacks. The Robeast can control an energy orb remotely and the Green Lion's mouth cannon is not powerful enough to stop it; the Green Lion is hit and falls to the surface. The Galactic Gladiator charges at the fallen Lion. SHIRO tries to stop it but fails. The other Lions arrive and fire at the Robeast.
+KEITH says: ""Lay down some covering fire so they can get out of there!"
+KEITH fires the Red Lion's mouth cannon.
+LANCE says: ""I'm on it!"
+LANCE fires the Blue Lion's tail cannon. The Galactic Gladiator is stalled under the fire.
+HUNK says: ""Check this out!"
+HUNK says: "Battle-Lion head-butt!"
+HUNK charges the Yellow Lion at the Robeast and knocks it forward.
+KEITH says: ""You guys okay down there?"
+SHIRO says: ""Still alive for now."
+SHIRO, HUNK, and PIDGE group with the other Lions.
+HUNK says: ""Are the Galra behind this?"
+SHIRO says: ""I think so, but I've never seen anything like it."
+LANCE says: ""So, what's the plan?"
+LANCE says: "Shoot at it with everything we've got?"
+LANCE says: "Take out its weapon?"
+LANCE says: "Call it names?"
+SHIRO says: ""If we want to take this monster down, there's only one way to do it."
+SHIRO says: "Form Voltron!"
+The team forms Voltron.
+SHIRO says: ""Remember, we are one unit, fighting with one goal."
+The Galactic Gladiator and Voltron fight, seemingly at equal strength until Voltron is hit by the Robeast's energy orb.
+ALL says: ""Huh?!"
+ALL says: "!"
+Pancked, Voltron narrowly dodges the attacks.
+KEITH says: ""I thought Voltron was the most powerful weapon in the universe!"
+HUNK says: ""Yeah, so how is this monster kicking our butts?"
+Distracted by the orb, Voltron is hit by the Galactic Gladiator and thrown near the Arusian village.
+SHIRO says: ""Oh, no!"
+SHIRO says: "The village!"
+SHIRO says: "We have to protect those people!"
+The Galactic Gladiator fires an energy orb. Voltron takes the hit, narrowly misses landing on the village, and flies off to lure the Robeast away from the village.
+Clues in Memories.
+The Galactic Gladiator follows Voltron.
+SHIRO says: ""That was close!"
+PIDGE says: ""We got him away from the Arusians, but we can't take him down!"
+LANCE says: ""I got it!"
+LANCE says: "I'm going to power-kick that orb thing!"
+KEITH says: ""No!"
+KEITH says: "The last time you did a kick, we fell!"
+LANCE says: ""Stop living in the past!"
+LANCE has Voltron charge at the Robeast and perform a flying kick at an energy orb. The kick misses the orb.
+LANCE says: ""Oh, no!"
+The orb hits Voltron out of the air.
+SHIRO says: ""Pidge, fire lasers now!"
+PIDGE says: ""Got it!"
+PIDGE says: "Fire!"
+PIDGE summons Voltron's shield instead.
+PIDGE says: ""Oops!"
+PIDGE says: "Ah!"
+PIDGE says: "Uh.."
+PIDGE says: "!"
+PIDGE scrambles to dismiss the shield.
+SHIRO says: ""No!"
+SHIRO says: "Lasers!"
+SHIRO says: "Lasers!"
+The Galactic Gladiator hits Voltron twice.
+HUNK says: ""Every time we focus on that orb, we're blindsided by the monster, and every time we focus on the monster, the orb hits us!"
+LANCE says: ""Then what do we do?"
+HUNK says: ""Orb!"
+An energy orb blindsides Voltron, knocking them into a cliff.
+KEITH says: ""Shiro, we gotta move!"
+KEITH says: "Shiro, are you there?"
+KEITH says: "Shiro!"
+SHIRO recalls memories and recognizes the Robeast as Myzax.
+SHIRO says: ""That sound..."
+SHIRO says: "I recognize this monster from my time in Zarkon's prison."
+SHIRO says: "I know how to beat him!"
+The Galactic Gladiator strikes but Shiro recognizes the attack and easily dodges with Voltron.
+SHIRO says: ""Listen, there's a loud sound when the orb returns to the base of the weapon, and every third time, that orb needs to charge up."
+SHIRO says: "That's this monster's weakest point."
+SHIRO says: "That's when we strike."
+HUNK says: ""Okay, so what do we do in the meantime?"
+SHIRO says: ""Defense!"
+The Galactic Gladiator throws an energy orb.
+SHIRO says: ""Pidge, we need that shield!"
+The energy orb strikes Voltron's shield.
+SHIRO says: ""That's one."
+SHIRO says: "Two more to go!"
+Another strike hits the shield.
+HUNK says: ""We can't take much more!"
+SHIRO says: ""Last one!"
+SHIRO says: "Everyone brace for impact!"
+SHIRO says: ""Now!"
+KEITH fires the Red Lion's mouth cannon. The strike lands but the Galactic Gladiator still stands.
+PIDGE says: ""It didn't work!"
+LANCE says: ""So, now what?"
+An energy orb hits Voltron.
+SHIRO says: ""When I attacked him before, I had a sword!"
+HUNK says: ""Orb!"
+HUNK says: "Orb!"
+A second strike from the orb hits.
+PIDGE says: ""We can't take another shot like that!"
+The Red Lion communicates with KEITH and displays the Bayard keyhole.
+KEITH says: ""Wait a second, guys!"
+KEITH says: "I think my Lion's telling me what to do."
+LANCE says: ""Well whatever it is, hurry up and do it!"
+LANCE says: "He's about to fire his third shot!"
+KEITH tries to use his Bayard but the energy orb hits a third time, shaking Voltron. The Galactic Gladiator jumps in the air to deliver a final blow but KEITH inserts his Bayard into the Red Lion's keyhole console and summons a saber for Voltron to wield, slicing the Robeast once so it explodes.
+ALL says: ""Yeah!"
+PIDGE says: ""We did it!"
+HUNK says: ""How did you do that?"
+KEITH is stunned and looks at his Bayard, but smiles.
+KEITH says: ""Whoa..."
+KEITH says: "Heheh."
+KEITH says: "Thanks, Red."
+Sunset on Arus.
+The Galra Plot.
+At the Galra Empire's Central Command, HAGGAR witnesses her Robeast fail thanks to a drone.
+HAGGAR says: ""No!"
+HAGGAR says: "I'll make another, more powerful."
+ZARKON says: ""That won't be necessary."
+ZARKON says: "Sendak is still alive on Arus."
+ZARKON says: "I've given him instructions for how to proceed."
+HAGGAR says: ""Can he be trusted?"
+ZARKON says: ""I trained him and he has his mission."
+ZARKON says: "He fights in the name of Galra."
+ZARKON says: "Only success or death will stop him."
+On Arus, Sentries gather supply crates for SENDAK and HAXUS near the Arusian village.
+SENDAK says: ""Zarkon has challenged us to rise from the mud and prove our worth."
+SENDAK says: "We will not let him down."
+HAXUS says: ""Sir, how are we going to take the Castle with just the two of us and five damaged Sentries?"
+SENDAK says: ""By exploiting our enemy's weaknesses."
+HAXUS says: ""What weaknesses?"
+SENDAK says: ""The worst weakness of all: they value the lives of others."
+Secrets Safe.
+Inside the Castle of Lions, the former Galra prisoners prepare to leave in a flight pod. Everyone but SHIRO and PIDGE see them leave.
+LANCE says: ""Good luck out there."
+XI says: ""Thank you all for everything."
+XI says: "We never dreamed we'd see our families again."
+XI says: "But you gave us hope."
+XI says: "You gave the universe hope."
+PIDGE sits outside the Castle with the Altean Mice. SHIRO approaches.
+SHIRO says: ""Pidge, there you are."
+PIDGE says: ""Why would you hurt my brother?"
+PIDGE says: "You were friends."
+SHIRO says: ""I did it to save him."
+PIDGE says: ""What?"
+SHIRO says: ""My memory of the event came back when we were fighting the monster."
+SHIRO says: "Your dad was being sent off with the weaker prisoners to a work camp."
+SHIRO says: "Meanwhile, Matt and I were forced to fight in the gladiator Arena."
+SHIRO says: "Matt was going to fight first, but he was scared."
+SHIRO says: "We all were."
+SHIRO recalls the past.
+Matt says: ""I'm not going to make it."
+Matt says: "I'll never see my family again!"
+SHIRO says: ""You can do this."
+A Sentry offered MATT a sword; Matt recoiled in fear. SHIRO stole the blade.
+SHIRO says: ""This is my fight!"
+SHIRO injured MATT and tackled him.
+SHIRO says: ""I want blood!"
+SHIRO whispered to MATT.
+SHIRO says: ""Take care of your father."
+SHIRO is dragged away to fight. SHIRO's memories end. The scene returns to the present.
+PIDGE says: ""You saved him?"
+PIDGE says: "You attacked him so they would choose you instead."
+PIDGE hugs SHIRO.
+PIDGE says: ""I'm so sorry I doubted you!"
+PIDGE says: "Thank you!"
+PIDGE says: "Thank you so much!"
+SHIRO returns the hug.
+SHIRO says: ""I can tell you really miss them."
+SHIRO says: "I know they miss you, too."
+SHIRO says: "Your brother and father would be proud of you, Katie."
+PIDGE is surprised her secret is known.
+SHIRO says: ""Don't worry, your secret's safe with me."
+SHIRO and PIDGE watch the sunset together.

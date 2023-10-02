@@ -1,0 +1,844 @@
+STATS:
+[143, 50, 79, 8]
+
+
+
+speaker: KEITH
+addressee: ALLURA
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: SHIRO
+addressee: CORAN
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: SHIRO
+addressee: CORAN
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: LANCE
+addressee: PLAXUM
+
+speaker: BLUMFUMP
+addressee: PLAXUM
+
+speaker: HUNK
+addressee: QUEEN LUXIA
+
+speaker: LANCE
+addressee: HUNK
+
+speaker: LANCE
+addressee: HUNK
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: BLUMFUMP
+addressee: LANCE
+
+speaker: BLUMFUMP
+addressee: LANCE
+
+speaker: PLAXUM
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: KOLIVAN
+addressee: SHIRO
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: KOLIVAN
+addressee: SHIRO
+
+speaker: HAGGAR
+addressee: THACE
+
+speaker: HAGGAR
+addressee: THACE
+
+speaker: SHIRO
+addressee: KOLIVAN
+
+speaker: KEITH
+addressee: KOLIVAN
+
+speaker: SHIRO
+addressee: KOLIVAN
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: PIDGE
+addressee: LANCE
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: HUNK
+addressee: SHAY
+
+speaker: LANCE
+addressee: SHAY
+
+speaker: KEITH
+addressee: SHAY
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: LANCE
+addressee: SHIRO
+
+speaker: HUNK
+addressee: SHIRO
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: PIDGE
+addressee: KEITH
+
+speaker: PIDGE
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: PIDGE
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: LANCE
+addressee: KEITH
+
+speaker: HAXUS
+addressee: SENDAK
+
+speaker: LANCE
+addressee: CORAN
+
+speaker: LANCE
+addressee: CORAN
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: SENDAK
+addressee: SHIRO
+
+speaker: SENDAK
+addressee: SHIRO
+
+speaker: PIDGE
+addressee: KEITH
+
+speaker: ALLURA
+addressee: KEITH
+
+speaker: SHIRO
+addressee: KEITH
+
+speaker: SHIRO
+addressee: KEITH
+
+speaker: PIDGE
+addressee: KEITH
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: QUEEN LUXIA
+addressee: LANCE
+
+speaker: QUEEN LUXIA
+addressee: LANCE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: CORAN
+addressee: PIDGE
+
+speaker: HUNK
+addressee: PIDGE
+
+speaker: HUNK
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: QUEEN LUXIA
+addressee: PIDGE
+
+speaker: QUEEN LUXIA
+addressee: PIDGE
+
+speaker: QUEEN LUXIA
+addressee: PIDGE
+
+speaker: QUEEN LUXIA
+addressee: PIDGE
+
+speaker: QUEEN LUXIA
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: KING ALFOR
+addressee: HONERVA
+
+speaker: ZARKON
+addressee: KING ALFOR
+
+speaker: HONERVA
+addressee: KING ALFOR
+
+speaker: KING ALFOR
+addressee: ALLURA
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: CORAN
+addressee: LANCE
+
+speaker: ALLURA
+addressee: HUNK
+
+speaker: HUNK
+addressee: SHIRO
+
+speaker: SHIRO
+addressee: ALLURA
+
+speaker: SHIRO
+addressee: ALLURA
+
+speaker: LOTOR
+addressee: CORAN
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: BANDOR
+addressee: ROMELLE
+
+speaker: ROMELLE
+addressee: CORAN
+
+speaker: SHIRO
+addressee: PIDGE
+
+speaker: HUNK
+addressee: CORAN
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: HUNK
+addressee: RYNER
+
+speaker: LANCE
+addressee: RYNER
+
+speaker: RYNER
+addressee: SHIRO
+
+speaker: HUNK
+addressee: SHIRO
+
+speaker: RYNER
+addressee: SHIRO
+
+speaker: RYNER
+addressee: SHIRO
+
+speaker: RYNER
+addressee: SHIRO
+
+speaker: PIDGE
+addressee: SHIRO
+
+speaker: RYNER
+addressee: SHIRO
+
+speaker: CORAN
+addressee: LANCE
+
+speaker: LANCE
+addressee: ZARKON
+
+speaker: KEITH
+addressee: ZARKON
+
+speaker: HUNK
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: KEITH
+addressee: ALLURA
+
+speaker: ZARKON
+addressee: ALLURA
+
+speaker: SHIRO
+addressee: ALLURA
+
+speaker: LANCE
+addressee: ALLURA
+
+speaker: ALLURA
+addressee: KING ALFOR
+
+speaker: SHIRO
+addressee: KING ALFOR
+
+speaker: ALLURA
+addressee: KING ALFOR
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: KEITH
+addressee: CORAN
+
+speaker: SHIRO
+addressee: LANCE
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: LANCE
+addressee: SHIRO
+
+speaker: CORAN
+addressee: SHIRO
+
+speaker: CORAN
+addressee: SHIRO
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: SHIRO
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: ROLO
+addressee: PROROK
+
+speaker: ROLO
+addressee: HUNK
+
+speaker: ALLURA
+addressee: ROLO
+
+speaker: NYMA
+addressee: ROLO
+
+speaker: KEITH
+addressee: ALLURA
+
+speaker: LANCE
+addressee: ALLURA
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: ULAZ
+addressee: SHIRO
+
+speaker: ULAZ
+addressee: SHIRO
+
+speaker: ULAZ
+addressee: SHIRO
+
+speaker: ULAZ
+addressee: SHIRO
+
+speaker: ULAZ
+addressee: SHIRO
+
+speaker: ULAZ
+addressee: SHIRO
+
+speaker: PROROK
+addressee: SHIRO
+
+speaker: HAGGAR
+addressee: SHIRO
+
+speaker: HAGGAR
+addressee: SHIRO
+
+speaker: HAGGAR
+addressee: SHIRO
+
+speaker: PIDGE
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: KEITH
+addressee: SHIRO
+
+speaker: HAGGAR
+addressee: PROROK
+
+speaker: ALLURA
+addressee: ULAZ
+
+speaker: ALLURA
+addressee: ULAZ
+
+speaker: KEITH
+addressee: ULAZ
+
+speaker: KEITH
+addressee: ULAZ
+
+speaker: ALLURA
+addressee: ULAZ
+
+speaker: SHIRO
+addressee: ULAZ
+
+speaker: HUNK
+addressee: CORAN
+
+speaker: SENDAK
+addressee: SHIRO
+
+speaker: SHAY
+addressee: HUNK
+
+speaker: RAX
+addressee: HUNK
+
+speaker: SAM
+addressee: ALLURA
+
+speaker: SAM
+addressee: ALLURA
+
+speaker: SAM
+addressee: ALLURA
+
+speaker: SAM
+addressee: ALLURA
+
+speaker: SAM
+addressee: ALLURA
+
+speaker: SHAY
+addressee: HUNK
+
+speaker: SHAY
+addressee: HUNK
+
+speaker: RAX
+addressee: HUNK
+
+speaker: PIDGE
+addressee: SHIRO
+
+speaker: RAX
+addressee: SENDAK
+
+speaker: HUNK
+addressee: SENDAK
+
+speaker: HUNK
+addressee: SENDAK
+
+speaker: CORAN
+addressee: SENDAK
+
+speaker: CORAN
+addressee: SENDAK
+
+speaker: ALLURA
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: PIDGE
+addressee: LANCE
+
+speaker: HUNK
+addressee: LANCE
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: PIDGE
+addressee: SHIRO
+
+speaker: HUNK
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: THROK
+addressee: KEITH
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: HUNK
+addressee: VARKON
+
+speaker: SHIRO
+addressee: VARKON
+
+speaker: SHIRO
+addressee: VARKON
+
+speaker: SHIRO
+addressee: VARKON
+
+speaker: ZARKON
+addressee: VARKON
+
+speaker: SHIRO
+addressee: VARKON
+
+speaker: ZARKON
+addressee: SHIRO
+
+speaker: ZARKON
+addressee: SHIRO
+
+speaker: KEITH
+addressee: LANCE
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: PIDGE
+addressee: LANCE
+
+speaker: LANCE
+addressee: ZARKON
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: HUNK
+addressee: KEITH
+
+speaker: CORAN
+addressee: PIDGE
+
+speaker: KEITH
+addressee: ZARKON
+
+speaker: CORAN
+addressee: ZARKON
+
+speaker: CORAN
+addressee: ZARKON
+
+speaker: KEITH
+addressee: ZARKON
+
+speaker: HAGGAR
+addressee: LANCE
+
+speaker: HAGGAR
+addressee: LANCE
+
+speaker: HAGGAR
+addressee: LANCE
+
+speaker: ZARKON
+addressee: LANCE
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: ZARKON
+addressee: ALLURA
+
+speaker: ZARKON
+addressee: ALLURA
+
+speaker: HUNK
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: SHAY
+addressee: ALLURA
+
+speaker: ALLURA
+addressee: SHAY
+
+speaker: CORAN
+addressee: SHAY
+
+speaker: ALLURA
+addressee: SHAY
+
+speaker: CORAN
+addressee: SHAY
+
+speaker: HUNK
+addressee: SHAY
+
+speaker: HUNK
+addressee: SHAY
+
+speaker: ALLURA
+addressee: KOLIVAN
+
+speaker: ALLURA
+addressee: KOLIVAN
+
+speaker: CORAN
+addressee: KOLIVAN
+
+speaker: CORAN
+addressee: KOLIVAN
+
+speaker: LANCE
+addressee: PIDGE
+
+speaker: CORAN
+addressee: ALLURA
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: LANCE
+
+speaker: ALLURA
+addressee: SHIRO
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: CORAN
+addressee: KEITH
+
+speaker: ALLURA
+addressee: KEITH
+
+speaker: ALLURA
+addressee: KEITH
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: ALLURA
+addressee: CORAN
+
+speaker: HUNK
+addressee: CORAN

@@ -1,0 +1,3883 @@
+STATS:
+[416, 318, 334, 204]
+
+
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: YOUNG RONALDO
+addressee: JENNY
+
+speaker: PEEDEE
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: PEEDEE
+
+speaker: JENNY
+addressee: STEVEN
+
+speaker: JENNY
+addressee: STEVEN
+
+speaker: JENNY
+addressee: NANEFUA
+
+speaker: KOFI
+addressee: KIKI
+
+speaker: KOFI
+addressee: KIKI
+
+speaker: KOFI
+addressee: JENNY
+
+speaker: KOFI
+addressee: JENNY
+
+speaker: KOFI
+addressee: JENNY
+
+speaker: KOFI
+addressee: JENNY
+
+speaker: NANEFUA
+addressee: JENNY
+
+speaker: KOFI
+addressee: JENNY
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: KOFI
+
+speaker: YELLOW PEARL
+addressee: KOFI
+
+speaker: KOFI
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: PINK DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: PINK DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: PINK DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: PINK DIAMOND
+
+speaker: YELLOW PEARL
+addressee: PINK DIAMOND
+
+speaker: YELLOW PEARL
+addressee: PINK DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: BARBARA
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: BARBARA
+addressee: SADIE
+
+speaker: BARBARA
+addressee: SADIE
+
+speaker: BARBARA
+addressee: SADIE
+
+speaker: JENNY
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: BARBARA
+addressee: SADIE
+
+speaker: BARBARA
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: ANDY
+addressee: GREG
+
+speaker: ANDY
+addressee: GREG
+
+speaker: ANDY
+addressee: PERIDOT
+
+speaker: YELLOW PEARL
+addressee: PERIDOT
+
+speaker: GREG
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: ANDY
+addressee: STEVEN
+
+speaker: ANDY
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: YELLOW PEARL
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: MR. SMILEY
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVONNIE
+
+speaker: KEVIN
+addressee: STEVONNIE
+
+speaker: KEVIN
+addressee: STEVONNIE
+
+speaker: KEVIN
+addressee: STEVONNIE
+
+speaker: CACTUS STEVEN
+addressee: STEVONNIE
+
+speaker: CONNIE
+addressee: STEVONNIE
+
+speaker: CACTUS STEVEN
+addressee: STEVONNIE
+
+speaker: STEVONNIE
+addressee: KEVIN
+
+speaker: STEVONNIE
+addressee: KEVIN
+
+speaker: STEVONNIE
+addressee: KEVIN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: GREG
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: ROSE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: AQUAMARINE
+addressee: LARS
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: LAPIS
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: YELLOW PEARL
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: JAMIE
+addressee: STEVEN
+
+speaker: JAMIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: JAMIE
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: MR. SMILEY
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: MR. SMILEY
+
+speaker: YELLOW PEARL
+addressee: JASPER
+
+speaker: YELLOW PEARL
+addressee: JASPER
+
+speaker: PAST GARNET
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: AMETHYST
+
+speaker: CACTUS STEVEN
+addressee: AMETHYST
+
+speaker: YELLOW PEARL
+addressee: AMETHYST
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: BUCK
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: KIKI
+addressee: JENNY
+
+speaker: AMETHYST
+addressee: PERIDOT
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: PERIDOT
+addressee: GARNET
+
+speaker: PERIDOT
+addressee: GARNET
+
+speaker: SMOKY QUARTZ
+addressee: SARDONYX
+
+speaker: SMOKY QUARTZ
+addressee: SARDONYX
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: FLUORITE
+
+speaker: PADPARADSCHA
+addressee: GARNET
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: MR. MAHESWARAN
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: CONNIE
+
+speaker: KEVIN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: STEVONNIE
+
+speaker: CONNIE
+addressee: STEVONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: DOUG
+
+speaker: CONNIE
+addressee: DOUG
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: GREG
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: LAPIS
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: GREG
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PINK DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: PINK DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: MR. SMILEY
+
+speaker: CACTUS STEVEN
+addressee: MR. SMILEY
+
+speaker: AMETHYST
+addressee: MR. SMILEY
+
+speaker: CACTUS STEVEN
+addressee: MR. SMILEY
+
+speaker: AMETHYST
+addressee: MR. SMILEY
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: LAPIS
+
+speaker: CACTUS STEVEN
+addressee: LAPIS
+
+speaker: CACTUS STEVEN
+addressee: LAPIS
+
+speaker: GREG
+addressee: LAPIS
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: PAST GARNET
+addressee: GREG
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: JENNY
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: SADIE
+addressee: JENNY
+
+speaker: SADIE
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: BUCK
+addressee: SADIE
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: LARS
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: GREG
+addressee: PEARL
+
+speaker: GREG
+addressee: PEARL
+
+speaker: GREG
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: JASPER
+addressee: ROSE
+
+speaker: JASPER
+addressee: ROSE
+
+speaker: PAST GARNET
+addressee: AMETHYST
+
+speaker: PAST GARNET
+addressee: AMETHYST
+
+speaker: PAST GARNET
+addressee: AMETHYST
+
+speaker: PAST GARNET
+addressee: AMETHYST
+
+speaker: PAST GARNET
+addressee: AMETHYST
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: RUBY
+addressee: STEVEN
+
+speaker: RUBY
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: CACTUS STEVEN
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: GREG
+addressee: MARTY
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: HOPPER
+addressee: RINGO
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: CONNIE
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: BISMUTH
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: BUCK
+addressee: LARS
+
+speaker: LAPIS
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: BILL
+
+speaker: CACTUS STEVEN
+addressee: BILL
+
+speaker: CACTUS STEVEN
+addressee: BILL
+
+speaker: CACTUS STEVEN
+addressee: NANEFUA
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: PERIDOT
+
+speaker: YELLOW PEARL
+addressee: PERIDOT
+
+speaker: PAST GARNET
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: JASPER
+addressee: PERIDOT
+
+speaker: JASPER
+addressee: PERIDOT
+
+speaker: JASPER
+addressee: PERIDOT
+
+speaker: JASPER
+addressee: PERIDOT
+
+speaker: JASPER
+addressee: PERIDOT
+
+speaker: AMETHYST
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: RUBY
+addressee: GARNET
+
+speaker: SAPPHIRE
+addressee: GARNET
+
+speaker: SAPPHIRE
+addressee: PEARL
+
+speaker: SAPPHIRE
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: LARS
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: CACTUS STEVEN
+addressee: KIKI
+
+speaker: KIKI
+addressee: JENNY
+
+speaker: KIKI
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: KIKI
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: KIKI
+addressee: JENNY
+
+speaker: KIKI
+addressee: JENNY
+
+speaker: KIKI
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: BISMUTH
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: BISMUTH
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: GREG
+addressee: ROSE
+
+speaker: VIDALIA
+addressee: ROSE
+
+speaker: VIDALIA
+addressee: ROSE
+
+speaker: VIDALIA
+addressee: ROSE
+
+speaker: VIDALIA
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: CACTUS STEVEN
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: ROSE
+addressee: GREG
+
+speaker: GREG
+addressee: VIDALIA
+
+speaker: GREG
+addressee: VIDALIA
+
+speaker: ROSE
+addressee: GREG
+
+speaker: ROSE
+addressee: GREG
+
+speaker: YOUNG RONALDO
+addressee: LARS
+
+speaker: YOUNG RONALDO
+addressee: LARS
+
+speaker: YOUNG RONALDO
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: SADIE
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: YOUNG RONALDO
+addressee: SADIE
+
+speaker: BISMUTH
+addressee: PERIDOT
+
+speaker: BISMUTH
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: BLUE DIAMOND
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: LARS
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PRIYANKA
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: LAPIS
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: PAST GARNET
+addressee: STEVONNIE
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CONNIE
+addressee: GARNET
+
+speaker: CONNIE
+addressee: GARNET
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: BUCK
+addressee: STEVEN
+
+speaker: GREG
+addressee: SADIE
+
+speaker: BUCK
+addressee: SADIE
+
+speaker: GREG
+addressee: SADIE
+
+speaker: GREG
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: JAMIE
+addressee: STEVEN
+
+speaker: JAMIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PEEDEE
+addressee: RONALDO
+
+speaker: PEEDEE
+addressee: RONALDO
+
+speaker: PEEDEE
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: YOUNG RONALDO
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: AMETHYST
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: VIDALIA
+addressee: AMETHYST
+
+speaker: CONNIE
+addressee: DR. MAHESWARAN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: AMETHYST
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: PAST GARNET
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LARS
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: LARS
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: YELLOW PEARL
+addressee: ROSE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CONNIE
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: JAMIE
+
+speaker: CONNIE
+addressee: JAMIE
+
+speaker: CONNIE
+addressee: JAMIE
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: RUBY
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: GREG
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: SAPPHIRE
+addressee: STEVEN
+
+speaker: SAPPHIRE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: YELLOW PEARL
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: VIDALIA
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: AMETHYST
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: RUBY
+addressee: STEVEN
+
+speaker: RUBY
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: BISMUTH
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: BISMUTH
+addressee: STEVEN
+
+speaker: BISMUTH
+addressee: GARNET
+
+speaker: BISMUTH
+addressee: GARNET
+
+speaker: BISMUTH
+addressee: GARNET
+
+speaker: BISMUTH
+addressee: ROSE
+
+speaker: BISMUTH
+addressee: ROSE
+
+speaker: BISMUTH
+addressee: ROSE
+
+speaker: BISMUTH
+addressee: ROSE
+
+speaker: BISMUTH
+addressee: ROSE
+
+speaker: AMETHYST
+addressee: ROSE
+
+speaker: BISMUTH
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: JENNY
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: AMETHYST
+addressee: CONNIE
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: LARS
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: SADIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: CACTUS STEVEN
+addressee: JASPER
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: JASPER
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: MAYOR DEWEY
+
+speaker: YELLOW PEARL
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: NANEFUA
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: AMETHYST
+addressee: MAYOR DEWEY
+
+speaker: CACTUS STEVEN
+addressee: MAYOR DEWEY
+
+speaker: NANEFUA
+addressee: JENNY
+
+speaker: NANEFUA
+addressee: JENNY
+
+speaker: LARS
+addressee: SADIE
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: SADIE
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: BUCK
+addressee: SADIE
+
+speaker: JENNY
+addressee: SADIE
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: BUCK
+addressee: JENNY
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: GREG
+addressee: PERIDOT
+
+speaker: PAST GARNET
+addressee: PERIDOT
+
+speaker: AMETHYST
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: LARS
+
+speaker: SADIE
+addressee: LARS
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: YELLOW PEARL
+addressee: SUGILITE
+
+speaker: SUGILITE
+addressee: AMETHYST
+
+speaker: SUGILITE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: LAPIS
+
+speaker: YELLOW PEARL
+addressee: CONNIE
+
+speaker: BISMUTH
+addressee: PERIDOT
+
+speaker: BISMUTH
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: AQUAMARINE
+addressee: GREG
+
+speaker: AQUAMARINE
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: PEARL
+addressee: GREG
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: HOLLY BLUE
+
+speaker: YELLOW PEARL
+addressee: HOLLY BLUE
+
+speaker: YELLOW PEARL
+addressee: HOLLY BLUE
+
+speaker: CACTUS STEVEN
+addressee: HOLLY BLUE
+
+speaker: GREG
+addressee: HOLLY BLUE
+
+speaker: GREG
+addressee: HOLLY BLUE
+
+speaker: CACTUS STEVEN
+addressee: HOLLY BLUE
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: MR. GUS
+
+speaker: YELLOW PEARL
+addressee: UNCLE GRANDPA
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: YELLOW PEARL
+addressee: CONNIE
+
+speaker: YELLOW PEARL
+addressee: CONNIE
+
+speaker: YELLOW PEARL
+addressee: CONNIE
+
+speaker: YELLOW PEARL
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: SADIE
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: GREG
+
+speaker: PAST GARNET
+addressee: GREG
+
+speaker: AMETHYST
+addressee: GREG
+
+speaker: CONNIE
+addressee: GREG
+
+speaker: GREG
+addressee: CONNIE
+
+speaker: GREG
+addressee: CONNIE
+
+speaker: GREG
+addressee: CONNIE
+
+speaker: GREG
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: ANDY
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: RONALDO
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: SAPPHIRE
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: AMETHYST
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: CONNIE
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: AQUAMARINE
+addressee: JAMIE
+
+speaker: AQUAMARINE
+addressee: JAMIE
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: LAPIS
+addressee: GREG
+
+speaker: LAPIS
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: LAPIS
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PEEDEE
+addressee: MR. FRYMAN
+
+speaker: PEEDEE
+addressee: MR. FRYMAN
+
+speaker: KIKI
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: MARTY
+addressee: GREG
+
+speaker: AMETHYST
+addressee: ROSE
+
+speaker: YELLOW PEARL
+addressee: MR. FRYMAN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: SAPPHIRE
+
+speaker: LARIMAR
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: CONNIE
+addressee: DR. MAHESWARAN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: CONNIE
+addressee: STEVEN
+
+speaker: STEVONNIE
+addressee: KEVIN
+
+speaker: STEVONNIE
+addressee: KEVIN
+
+speaker: KEVIN
+addressee: STEVONNIE
+
+speaker: ROSE
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: YELLOW PEARL
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: PERIDOT
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: PERIDOT
+
+speaker: AMETHYST
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: PERIDOT
+addressee: GARNET
+
+speaker: PAST GARNET
+addressee: GARNET
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: RUBY
+addressee: GREG
+
+speaker: RUBY
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: SAPPHIRE
+addressee: RUBY
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: SAPPHIRE
+addressee: RUBY
+
+speaker: SAPPHIRE
+addressee: RUBY
+
+speaker: SAPPHIRE
+addressee: RUBY
+
+speaker: SAPPHIRE
+addressee: RUBY
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: CONNIE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: ROSE
+
+speaker: GREG
+addressee: CONNIE
+
+speaker: GREG
+addressee: CONNIE
+
+speaker: CACTUS STEVEN
+addressee: PEARL
+
+speaker: ROSE
+addressee: PEARL
+
+speaker: ROSE
+addressee: PEARL
+
+speaker: PAST GARNET
+addressee: PEARL
+
+speaker: ROSE
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: YELLOW PEARL
+addressee: PEARL
+
+speaker: GREG
+addressee: PEARL
+
+speaker: ROSE
+addressee: PEARL
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: PERIDOT
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: CACTUS STEVEN
+addressee: PERIDOT
+
+speaker: BUCK
+addressee: MAYOR DEWEY
+
+speaker: SADIE
+addressee: MAYOR DEWEY
+
+speaker: YOUNG RONALDO
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: RONALDO
+
+speaker: EMERALD
+addressee: LARS
+
+speaker: STEVONNIE
+addressee: LARS
+
+speaker: EMERALD
+addressee: LARS
+
+speaker: STEVONNIE
+addressee: LARS
+
+speaker: EMERALD
+addressee: LARS
+
+speaker: EMERALD
+addressee: LARS
+
+speaker: STEVONNIE
+addressee: LARS
+
+speaker: STEVONNIE
+addressee: LARS
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: CACTUS STEVEN
+addressee: RHODONITE
+
+speaker: CACTUS STEVEN
+addressee: RHODONITE
+
+speaker: LARS
+addressee: RHODONITE
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: CACTUS STEVEN
+addressee: RHODONITE
+
+speaker: CACTUS STEVEN
+addressee: RHODONITE
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: CACTUS STEVEN
+addressee: RHODONITE
+
+speaker: CONNIE
+addressee: RHODONITE
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: YELLOW PEARL
+addressee: GARNET
+
+speaker: AMETHYST
+addressee: GARNET
+
+speaker: CACTUS STEVEN
+addressee: GREG
+
+speaker: GREG
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: HOLLY BLUE
+
+speaker: SAPPHIRE
+addressee: HOLLY BLUE
+
+speaker: CACTUS STEVEN
+addressee: RUBY
+
+speaker: AMETHYST
+addressee: JASPER
+
+speaker: YELLOW PEARL
+addressee: JASPER
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: CACTUS STEVEN
+addressee: STEVEN
+
+speaker: YELLOW PEARL
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: STEVEN
+
+speaker: PAST GARNET
+addressee: JASPER
+
+speaker: SUNSTONE
+addressee: JASPER

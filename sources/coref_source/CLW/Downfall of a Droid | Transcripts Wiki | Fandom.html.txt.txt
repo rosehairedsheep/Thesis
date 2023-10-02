@@ -1,0 +1,384 @@
+Narrator says: "Trust in your friends, and they’ll have reason to trust in you."
+Narrator says: "After suffering a series of disastrous defeats at the hands of General Grievous, the Republic’s foothold in the Outer Rim is in jeopardy."
+Narrator says: "Commissioned to protect the strategic world of Bothawui, Anakin Skywalker and his weary battle group are all that stands between the system and domination by the Droid Army."
+REPUBLIC CRUISER.
+Obi-Wan Kenobi says: "Among our most recent losses was the battle group at Falleen."
+Obi-Wan Kenobi says: "The Separatist fleet commanded by General Grievous is headed your way."
+Anakin Skywalker says: "Seems like that coward always knows where and when to attack us."
+Obi-Wan says: "You’re heavily outnumbered, Anakin."
+Obi-Wan says: "I advise retreat."
+Anakin says: "If we run, the Separatists will take control of this sector."
+Anakin says: "I can’t let them do that."
+Obi-Wan says: "And that is your problem."
+Ahsoka Tano says: "Master Kenobi is right."
+Ahsoka Tano says: "We should regroup."
+Ahsoka says: "Suicide is not the Jedi way, Master."
+Obi-Wan says: "You should listen to your Padawan."
+Anakin says: "As you listen to yours, my old master?"
+Anakin says: "No, we’re going to stay and fight."
+Anakin says: "And I think I know how to beat Grievous at his own game."
+SEPARATIST WARSHIP.
+Random Droid says: "Our spies were right, General."
+Random Droid says: "The Jedi have positioned a fleet beyond the planetary rings."
+General Grievous says: "Move our ships through the asteroid field to engage them."
+Random Droid says: "Through the field, sir?"
+Grievous says: "If we attack from above, they will have the advantage."
+Grievous says: "So we will go through the rocks."
+Random Droid says: "That didn’t sound good."
+Grievous says: "All power to the forward shields."
+Random Droid says: "What if they attack us from behind?"
+Grievous says: "They can’t."
+Grievous says: "The asteroids will protect us."
+GOLD SQUADRON.
+Anakin Skywalker says: "Gold Squadron, tighten formation."
+Anakin Skywalker says: "Slow approach."
+Anakin Skywalker says: "Let’s draw them in."
+Random Clone says: "Yes, sir."
+R2-D2 expresses his fear.
+Anakin says: "Don’t worry R2."
+Anakin says: "Grievous is falling right into our trap."
+Random Clone says: "Resolute command to Gold Leader."
+Random Clone says: "We are standing by."
+Ahsoka says: "Enemy closing to Zone 6."
+Ahsoka says: "Zone 4."
+Ahsoka says: "Zone 3."
+SEPARATIST WARSHIP.
+Random Droid says: "General, we have a clear shot at their cruisers."
+General Grievous says: "Good."
+General Grievous says: "Good!"
+REPUBLIC CRUISER.
+Random Clone says: "They’re right on top of us!"
+Random Clone says: "Should we commence firing?"
+SEPARATIST WARSHIP.
+General Grievous says: "Concentrate fire on the closest Republic cruiser."
+Random Droid says: "Roger, roger."
+They fire at the Republic Cruiser. A space battle starts.
+GOLD SQUADRON.
+Ahsoka Tano says: "We’re outgunned!"
+Ahsoka Tano says: "We’re not gonna last a Mynock minute out here!"
+Anakin Skywalker says: "Hang on, Ahsoka."
+Anakin Skywalker says: "We’ve got them right where we want them."
+Anakin Skywalker says: "Watch your stabilizer, Gold 6!"
+Gold 6 says: "It’s no good."
+Gold 6 says: "Incoming’s too heavy."
+Gold 6 gets shot and crashes into another ship.
+Anakin says: "Gold Squadron, take evasive action!"
+Random Clone says: "Sir, yes, sir!"
+Random Clone says: "Breaking off!"
+R2-D2 asks if they’re retreating.
+Anakin says: "No, R2, we’re not retreating."
+Anakin says: "Good thing you gave us that extra power."
+SEPARATIST WARSHIP.
+General Grievous says: "Let’s finish them off!"
+REPUBLIC CRUISER.
+Anakin Skywalker says: "Ahsoka, they’re in position."
+Anakin Skywalker says: "Unveil our little surprise."
+Ahsoka Tano says: "Right away, Master."
+Ahsoka Tano says: "Rex, old boy, it’s time you joined the party."
+Captain Rex says: "With pleasure, sir."
+SEPARATIST WARSHIP.
+Random Droid says: "General, we’ve been outflanked."
+REPUBLIC CRUISER.
+Ahsoka Tano says: "All units, fire at will!"
+They proceed to fire at will.
+SEPARATIST WARSHIP.
+General Grievous says: "Impossible!"
+REPUBLIC CRUISER.
+Ahsoka Tano says: "Forward cannon, let them have it!"
+Anakin Skywalker says: "This is too easy!"
+SEPARATIST WARSHIP.
+General Grievous says: "Get us out of here!"
+Random Droid says: "Uh, where are we supposed to go?"
+Grievous leaves.
+Random Droid says: "Uh, General?"
+Random Droid says: "Well, I guess I’m in charge now."
+Grievous leaves the Warship in his personal ship. The Warship is destroyed.
+GOLD SQUADRON.
+Anakin Skywalker sees General Grievous escaping.
+Anakin Skywalker says: "Grievous!"
+REPUBLIC CRUISER.
+Ahsoka Tano says: "Let’s finish this."
+Ahsoka Tano says: "All batteries, target that command bucket!"
+GOLD SQUADRON.
+Grievous powers up his hyperdrive.
+Anakin Skywalker says: "He’s powering up his hyperdrive, R2."
+Anakin Skywalker says: "Hang on!"
+Anakin Skywalker says: "More speed, R2!"
+They hit the Separatist Warship, get damage.
+Anakin says: "See what you can do about that, buddy."
+Grievous escapes, Anakin’s cruiser’s damage intensifies.
+Anakin says: "Uh-oh."
+Anakin says: "I got a bad feeling about this."
+Anakin’s ship catches fire, a part of it explodes. Anakin gets lost in the asteroid field.
+REPUBLIC CRUISER MEDICAL STATION.
+Anakin Skywalker wakes up.
+Anakin Skywalker says: "What happened?"
+Ahsoka Tano says: "You owe Rexter your skin, Skyguy."
+Captain Rex says: "Just doing my job, sir."
+Captain Rex says: "It was your plan that won the day."
+Ahsoka says: "Grievous is AWOL, but his fleet of tinnies is nothing but spare parts."
+Anakin says: "Good work, both of you."
+Anakin says: "Where’s R2?"
+Ahsoka says: "I’m sorry, Master, he’s gone."
+Anakin is stunned.
+REPUBLIC CRUISER.
+Obi-Wan Kenobi says: "Congratulations, Anakin."
+Obi-Wan Kenobi says: "Your resourcefulness always amazes me."
+Anakin Skywalker says: "Thank you, Master."
+Obi-Wan says: "You look troubled."
+Anakin says: "I lost R2 in the field."
+Obi-Wan says: "Well, R2 units are a dime a dozen."
+Obi-Wan says: "I’m sure you’ll find a suitable replacement."
+Anakin says: "I could take a squad out there, track him down."
+Obi-Wan says: "Anakin, it’s only a droid."
+Obi-Wan says: "You know attachment is not acceptable for a Jedi."
+Anakin says: "It’s not just that, Master."
+Anakin says: "How do I put this?"
+Anakin says: "I didn’t wipe R2’s memory."
+Obi-Wan says: "What?"
+Obi-Wan says: "He’s still programmed with our tactic and base locations?"
+Obi-Wan says: "If the Separatists get a hold of him… What possessed you not to erase that droid’s memory?"
+Ahsoka Tano says: "Master Obi-Wan, sometimes R2 having that extra information has come in handy."
+Obi-Wan says: "Well, then find that droid, Anakin."
+Obi-Wan says: "Our necks might very well depend on it."
+Anakin says: "Right away, Master."
+REPUBLIC CRUISER LANDING BAY.
+Anakin Skywalker says: "You ready to go, Snips?"
+Ahsoka Tano says: "Master, they just delivered your replacement astromech droid."
+Ahsoka Tano says: "This is R3-S6."
+Ahsoka Tano says: "I’ve heard that the new R3s are far faster in thinking skills and more powerful than the old R2 units."
+Ahsoka Tano says: "And best of all, Master, he’s gold!"
+Ahsoka Tano says: "A gold droid for Gold Leader of Gold Squadron?"
+Anakin says: "You can’t replace R2."
+R3-S6 is disappointed.
+Ahsoka says: "Don’t worry, Goldie."
+Ahsoka says: "You’ll get to know him later."
+Ahsoka says: "Come on."
+ANAKIN AND AHSOKA IN SPACE.
+They find Anakin Skywalker’s ship.
+Anakin Skywalker says: "There’s my ship!"
+R2-D2 is missing.
+Anakin says: "He must have escaped."
+Anakin says: "He’s gotta be around here somewhere."
+Ahsoka Tano says: "R2 isn’t on the scanners, but there is a ship out there."
+Anakin says: "Looks like a Trandoshan scavenger, probably combing the battlefield for salvage."
+Anakin and Ahsoka approach the Trandoshan Scavenger’s ship.
+GHA NACKT’S SHIP.
+Anakin Skywalker says: "Archive texts can only teach you a part of the picture, my young Padawan."
+Anakin Skywalker says: "You’ll learn a lot more through some hands-on experience."
+Ahsoka says: "What’s that smell?"
+Ahsoka says: "Ugh."
+Anakin says: "You’ll get used to it."
+A little droid camera comes out the front door.
+Anakin says: "Hey!"
+Anakin says: "We’d like to buy a droid."
+Anakin says: "You selling?"
+Gah Nackt comes out of the front door.
+Gha Nackt says: "Ugh!"
+Anakin says: "We’re looking for an R2 unit."
+Anakin says: "You happen to pick up any recently?"
+Gha Nackt says: "An R series?"
+Gha Nackt says: "No, no, not for a long time."
+Anakin says: "Pookums here really has her heart set on another R2."
+Anakin says: "She lost the last one."
+Ahsoka says: "“Pookums”?"
+Ahsoka says: "Oh, brother."
+Gha Nackt sees R3-S6.
+Gha Nackt says: "Nice R3 unit."
+Gha Nackt says: "Trade for a C-14?"
+Ahsoka says: "Not on your life, lizardo."
+Anakin says: "Now, let’s see how much I have here."
+Shows a lot of credits.
+Gha Nackt says: "Tell you what, I may have an R2 unit buried somewhere in the hold."
+Opens the door.
+Gha Nackt says: "Help yourself, but be careful."
+Gha Nackt says: "There are many unique items down here."
+THE HOLD.
+Ahsoka Tano says: "Master?"
+Shows IG units that are shut down.
+Anakin Skywalker says: "These must be the unique items we were warned about."
+Anakin Skywalker says: "These assassin droids can be very unpredictable."
+Ahsoka says: "They’re switched off."
+Ahsoka says: "They don’t look so tough to me."
+Anakin says: "Nothing looks tough to you."
+Anakin says: "Take my word for it, they’re deadly."
+Anakin says: "R3, access the computer and find the inventory manifest."
+Anakin says: "R2’s got to be around here somewhere."
+A sound similar to R2-D2 is heard.
+Anakin says: "Did you hear that?"
+Ahsoka says: "Hear what?"
+Anakin says: "That sounded like R2!"
+Ahsoka says: "How can you tell the difference?"
+Anakin says: "It came from down here."
+Anakin says: "R3, get this open."
+R3 messes up and switches the lights on.
+Anakin says: "We don’t need the lights on!"
+Ahsoka says: "No, Goldie, the hatch."
+Anakin says: "Never mind."
+Anakin says: "I’ll do it myself."
+R3 switches the IG units on. They attack Ahsoka.
+Ahsoka says: "Master!"
+Ahsoka says: "Goldie, shut these droids down!"
+Anakin says: "I’m afraid R3 is a little slow on the uptake."
+A fight starts between them and the IG units.
+Ahsoka says: "Back at you, piston head!"
+Ahsoka says: "You were right about the hands-on experience, gramps."
+Ahsoka says: "Much better than the archives."
+Anakin says: "Good job, but you missed one."
+He destroys the last IG unit.
+Anakin says: "As for you, stubby, you’d make a poor excuse for a light switch."
+Ahsoka says: "I’m sure he did his best."
+Anakin says: "His best to get us killed?"
+Anakin says: "R2 would have never made that mistake!"
+Anakin says: "R3 can’t even get the door open."
+R3 finally manages to open the door.
+Anakin says: "A little late, stubby."
+Gha Nackt appears. Anakin switches on his lightsaber.
+Gha Nackt says: "If you didn’t have a lightsaber, you’d be a dead man."
+Anakin says: "Where’s my droid?"
+Anakin menaces the Gha Nackt.
+Ahsoka says: "Master!"
+Ahsoka says: "What are you doing?"
+Ahsoka says: "R2’s not here."
+Anakin says: "Let’s get out of here."
+Gha Nackt says: "I told you there were no R2 droids down here!"
+Gha Nackt says: "Look at this mess you made!"
+Gha Nackt says: "You owe me, Jedi!"
+Gha Nackt says: "You’ll be sorry you ever came aboard my ship, Jedi."
+Gha Nackt says: "I’m about to make your life miserable."
+Anakin and Ahsoka leave. Gha Nackt calls General Grievous.
+General Grievous says: "What is it?"
+Gha Nackt says: "I’m en route to the rendezvous point, General."
+Gha Nackt says: "I’ve got the merchandise you were looking for."
+Gha Nackt says: "It must be valuable."
+Gha Nackt says: "A Jedi came looking for it."
+Gha Nackt says: "Maybe it is worth more than we negotiated."
+Grievous says: "Don’t push me, slime."
+Grievous says: "You bring that R2 unit to me as fast as you can get here, or else!"
+Gha Nackt says: "Ah."
+Gha Nackt says: "Yes, of course, General."
+Gha Nackt says: "Just kidding."
+REPUBLIC CRUISER.
+Obi-Wan Kenobi says: "We have to assume that R2 was destroyed in the explosion that claimed your ship."
+Anakin Skywalker says: "Yes, Master."
+Obi-Wan says: "Our intelligence has confirmed that Grievous’ spies have been intercepting our transmissions."
+Ahsoka Tano says: "He must have some sort of secret listening post out there somewhere."
+Anakin says: "That would explain how he’s been able to ambush our fleets."
+Obi-Wan says: "Split up your squadrons, Anakin."
+Obi-Wan says: "Find that base and destroy it."
+Anakin says: "It’s as good as done, Master Kenobi."
+Obi-Wan says: "May the Force be with you both."
+Obi-Wan leaves.
+Anakin says: "I’ll sweep the outer corridor, while the rest of your ships focus on the center."
+Captain Rex says: "Are you sure you want to go alone?"
+Anakin says: "I’m sure."
+Anakin says: "More than one fighter will just draw too much attention."
+Rex says: "Yes, sir."
+Ahsoka says: "Master, you’ll need a droid to help you navigate."
+Shows R3-S6.
+Anakin says: "I think stubby is defective."
+Ahsoka says: "Give him another chance, Master."
+Ahsoka says: "This is the perfect time for you and him to, you know, bond."
+Anakin hesitates.
+Anakin says: "All right."
+Anakin says: "Come on, stubby."
+Ahsoka says: "May the Force be with you, Master."
+GHA NACKT'S SHIPS.
+R2-D2 manages to break free and to throw an IG unit in space, before being discovered by Gha Nackt.
+Gha Nackt says: "Removed your restraining bolt, have you?"
+Gha Nackt says: "What were you up to?"
+ANAKIN SKYWALKER IN SPACEAnakin Skywalker says: "R3, have you verified those coordinates on the search grid."
+R3-S6 expresses that he hasn’t.
+Anakin says: "Okay, let’s see what we can find."
+Anakin says: "Activate long-range scanners."
+R3-S6 activates the tracking beacon.
+Anakin says: "No, not the tracking beacon!"
+Anakin says: "Shut it down, R3!"
+Anakin says: "Shut it down!"
+REPUBLIC CRUISER.
+Ahsoka Tano says: "That’s Master Skywalker’s tracking beacon."
+Ahsoka Tano says: "What’s he doing?"
+Ahsoka Tano says: "Rex, get a hold of as many men as you can."
+Captain Rex says: "Right away, sir."
+SEPARATIST WARSHIP.
+General Grievous says: "A-ha!"
+General Grievous says: "There’s our Jedi tracking beacon."
+General Grievous says: "Skywalker, now you have fallen into my trap!"
+ANAKIN SKYWALKER IN SPACE.
+Anakin Skywalker says: "Why do I have to do everything?"
+Shuts down tracking beacon.
+Anakin says: "Let’s hope Grievous didn’t hear that."
+Separatist Fleet comes out of hyperspace.
+Anakin says: "Yeah, he heard it."
+Separatist Fleet starts shooting at Anakin.
+Anakin says: "Time to leave."
+Anakin says: "Plot a course out of here and prep the hyperdrive engines."
+R3-S6 drops the hyperdrive engines.
+Anakin says: "What are you doing?"
+Anakin says: "I said, prep them, not drop them!"
+Anakin says: "Where’s R2 when I need him?"
+SEPARATIST WARSHIP.
+General Grievous says: "Launch everything we have!"
+Random Droid says: "Sir, it’s only one fighter."
+Random Droid says: "He can’t escape."
+Grievous says: "Everything!"
+ANAKIN SKYWALKER IN SPACE.
+Missiles are launched onto Anakin Skywalker. R3-S6 expresses his fear.
+Anakin says: "I know."
+Anakin says: "I know!"
+Anakin says: "Missiles."
+Anakin says: "I hate missiles."
+Anakin says: "We’re going on the offensive, R3."
+Anakin says: "Get ready to cut the engines."
+R3-S6 doesn’t do so.
+Anakin says: "Will you just do what I tell you?"
+Anakin cuts the engines and faces the Separatist Fighters, starts firing at them.
+Anakin says: "Hit the stabilisers, R3."
+SEPARATIST WARSHIP.
+Random Droid says: "Hey, that was clever."
+General Grievous says: "Silence!"
+General Grievous says: "Move the cruisers into attack position."
+ANAKIN SKYWALKER IN SPACE.
+Anakin Skywalker says: "Alright, R3."
+Anakin Skywalker says: "Let’s get turned around before those fighters can catch up to us."
+R3-S6 expresses his fear.
+Anakin says: "You know, if this ship blows up, you go with it!"
+R3-S6 explains that the laser guns won’t fire.
+Anakin says: "What do you mean, the laser guns won’t fire!"
+Ahsoka Tano finally arrives with Captain Rex.
+Ahsoka Tano says: "Cargo bay doors open."
+Ahsoka Tano says: "You better get inside."
+Anakin says: "I’d love to, but R3’s having a problem with the engines."
+SEPARATIST WARSHIP.
+General Grievous says: "Destroy those ships!"
+General Grievous says: "Don’t let them get away!"
+AHSOKA TANO IN SPACE.
+Ahsoka Tano says: "Let’s give him some cover, boys."
+Captain Rex says: "Yes, sir."
+Anakin Skywalker avoids the shots and gets closer to Ahsoka’s ship.
+Anakin Skywalker says: "Steady."
+Anakin Skywalker says: "Almost there."
+Anakin gets inside.
+Anakin says: "I’m inside."
+Anakin says: "Now let’s get out of here, Ahsoka."
+Ahsoka says: "Power it up, Rex."
+Ahsoka says: "We’re going right between those tin cans."
+They advance between the Separatist Fleet.
+Ahsoka says: "Hit it, Rex."
+They leave the battle.
+SEPARATIST WARSHIP.
+Random Droid says: "Uh, they got away, sir."
+General Grievous destroys the droid.
+AHSOKA TANO AND ANAKIN SKYWALKER IN SPACE.
+Ahsoka Tano says: "Hey, Goldie."
+Ahsoka Tano says: "What did you think of your first adventure?"
+Anakin Skywalker says: "I’ll tell you what I think."
+Anakin Skywalker says: "I think I’m lucky to be alive!"
+R3-S6 gets sad and leaves.
+Ahsoka says: "Great!"
+Ahsoka says: "Now you hurt his feelings."
+Anakin says: "His feelings!"
+Anakin says: "What about R2?"
+Anakin says: "He’s still out there."
+Anakin says: "I know it."
+They return to the Republic Cruisers.

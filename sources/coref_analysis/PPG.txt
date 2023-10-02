@@ -1,0 +1,631 @@
+STATS:
+[24, 22, 20, 143]
+
+
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: MOJO JOJO
+addressee: MS. KEANE
+
+speaker: MOJO JOJO
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: MAYLYN
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BUBBLES
+addressee: MS. BELLUM
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: MS. KEANE
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: BLISS
+
+speaker: BUTTERCUP DOUBLE
+addressee: BLISS
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BLISS
+addressee: SILICO
+
+speaker: * BLOSSOM
+addressee: MORBUCKS
+
+speaker: * BLOSSOM
+addressee: MORBUCKS
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BUBBLES
+addressee: MOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: MOJO JOJO
+addressee: BUTTERCUP
+
+speaker: MOJO JOJO
+addressee: BUTTERCUP
+
+speaker: MOJO JOJO
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: SEDUSA
+
+speaker: * BLOSSOM
+addressee: MOJO JOJO
+
+speaker: * BLOSSOM
+addressee: MOJO JOJO
+
+speaker: PROFESSOR UTONIUM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MOJO JOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: MOJO JOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: MOJO JOJO
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BUBBLES
+addressee: MOJO
+
+speaker: * BUBBLES
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: PROFESSOR UTONIUM
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: BRICKOWSKI
+addressee: MOJO
+
+speaker: BRICKOWSKI
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: PROFESSOR UTONIUM
+addressee: MS. BELLUM
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: MS. BELLUM
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: SEDUSA
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. BELLUM
+
+speaker: * BLOSSOM
+addressee: MS. BELLUM
+
+speaker: SEDUSA
+addressee: MS. BELLUM
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. BELLUM
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: FUZZY
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: MOJO JOJO
+addressee: MOJO
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: PROFESSOR UTONIUM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: BUTTERCUP DOUBLE
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BUBBLES
+addressee: MS. KEANE
+
+speaker: * BLOSSOM
+addressee: MAX
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: MORBUCKS
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: BUTTERCUP DOUBLE
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: BUTTERCUP
+
+speaker: * BLOSSOM
+addressee: BUTTERCUP
+
+speaker: * BUBBLES
+addressee: ACE
+
+speaker: * BUBBLES
+addressee: PROFESSOR UTONIUM
+
+speaker: MOJO JOJO
+addressee: BUTTERCUP

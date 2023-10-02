@@ -1,0 +1,475 @@
+SENDAK says: ""Haxus!"
+SENDAK says: "I want whoever's in this ship found and terminated!"
+HAXUS says: ""Commander Sendak, I've received a transmission generating from somewhere inside."
+HAXUS plays Team Voltron's communication channel out loud. ALLURA and PIDGE are heard speaking.
+ALLURA says: ""There's not much time before they get the ship running again."
+ALLURA says: "You must shut off the particle barrier so we can get in."
+PIDGE says: ""You got it."
+PIDGE says: "Tell me what to do."
+ALLURA says: ""The particle barrier generator is beneath the main hull."
+HAXUS says: ""She's telling the intruder how to take down our defenses."
+SENDAK says: ""Yes, but she's also giving away his location."
+SENDAK says: "Find that room."
+SENDAK says: "Kill the Paladin!"
+Galra Sentries leave.
+SENDAK says: ""Repair the engine."
+SENDAK says: "Emperor Zarkon has commanded us to bring him Voltron."
+SENDAK says: "This ship will rise before day's end."
+The Balmerans.
+In the bottom of the mine on the Balmera, two aliens approach HUNK and CORAN from the darkness. HUNK raises his cannon Bayard in defense.
+HUNK says: ""Okay, don't come any closer!"
+HUNK says: "I don't know how to use this very well."
+The aliens step into the lights; they are SHAY and RAX, two local Balmerans.
+HUNK says: ""Wait a minute."
+HUNK says: "You're not Galra."
+SHAY says: ""Nor are you!"
+A Galra fighter jet slowly descends the mine.
+RAX says: ""A patrol!"
+RAX says: ""Shay, we must take leave from these ones, now."
+CORAN says: ""Wait, please!"
+CORAN says: "We need your help."
+CORAN says: "If the Galra find us, they'll kill us."
+HUNK says: ""Or torture us."
+CORAN says: ""Or keep us as some sort of creepy pet to play with how they please."
+RAX says: ""Not our problem, Hairy Lip."
+RAX says: "Galra see us near you and they kill both you and us."
+RAX says: "Shay, exeunt!"
+SHAY says: ""No!"
+SHAY says: "These many years only Galra have been seen here."
+SHAY says: "I will not turn my back on the skylings."
+RAX says: ""..."
+RAX says: "Vex!"
+SHAY and RAX approach the Altean flight pod.
+RAX says: ""Grab a side."
+RAX says: "In here."
+RAX says: "Hurry!"
+SHAY and RAX push the flight pod out of sight; HUNK and CORAN follow. The Galra patrol passes by without detecting them.
+HUNK says: ""Thanks for saving us."
+HUNK says: "I'm Hunk."
+SHAY says: ""Shay."
+SHAY says: "And this one, my brother Rax."
+SHAY says: "How did you fall to us?"
+HUNK says: ""Well, we came looking for something."
+HUNK says: "And you guys might be the right people to help us find it."
+Unwavering Will.
+Katie Holt.
+[PIDGE is inside the Castle of Lions at the Generator Room says: "a long hall of energy arcs."
+[PIDGE is inside the Castle of Lions at the Generator Room says: "PIDGE speaks to ALLURA through the team's communication channel."
+ALLURA says: ""Pidge, have you made it to the Generator Room?"
+PIDGE says: ""I'm in."
+PIDGE says: "This technology is so advanced, I don't know if I can figure it out."
+ALLURA says: ""Yes, you can."
+ALLURA says: "The lives of your fellow Paladins are at stake."
+ALLURA says: "You can't give up."
+PIDGE reflects on her past. In the past, she sat with her family at dinner.
+SAM says: ""Hope you enjoy this home-cooked meal, Matt."
+SAM says: "After our launch to Kerberos tomorrow, we'll be eating freeze-dried peas for the next two months."
+MATT says: ""Don't lie."
+MATT says: "I know you love those peas, Dad."
+BALMERAN says: ""It's true."
+BALMERAN says: "Those Garrison chefs really know how to genetically manufacture a delicious vegetable."
+KATIE sighed.
+KATIE says: ""I wish I was going up with you guys."
+SAM says: ""Just you wait, kiddo."
+SAM says: "Something tells me that you're going to have your own crew someday."
+SAM says: "And you're going to fly with them to worlds so far away, we can't even imagine."
+SAM says: "I bet my bottom dollar you're going to be part of something that makes the whole universe sit up and take notice."
+KATIE smiled. Later, she witnessed the news broadcast of the Kerberos Mission Disaster along with her mother.
+TELEVISION says: ""The Galaxy Garrison mission to the distant moon of Kerberos is missing, and all crew members are believed to be dead."
+TELEVISION says: "The Galaxy Garrison has said the crash was presumably caused by pilot error."
+TELEVISION says: "It is, indeed, a sad day for all humanity."
+KATIE became enraged and hacked into computers at the Galaxy Garrison. IVERSON finds her in his office.
+IVERSON says: ""You again?"
+IVERSON says: "Get off my computer!"
+IVERSON says: "How did you get past the guards?"
+KATIE says: ""You said the spacecraft went down due to pilot error."
+KATIE says: "I saw the video feeds from your probes."
+KATIE says: "There's no evidence of a crash anywhere on Kerberos!"
+IVERSON says: ""Those feeds are classified!"
+IVERSON says: "I could charge you with treason for hacking into them."
+IVERSON grabbed KATIE and dragged her into the hall to a guard.
+KATIE says: ""Where's my family?!"
+KATIE says: "!"
+IVERSON says: ""Escort Miss Holt off the premises and make sure every guard knows she's never allowed on Garrison property ever again."
+The guard restrained KATIE.
+KATIE says: ""You can't keep me out!"
+KATIE says: "I'll find the truth!"
+KATIE says: "I'll never stop!"
+The flashback ends. PIDGE speaks to ALLURA through the communication channel.
+PIDGE says: ""Okay."
+PIDGE says: "Talk me through it, Allura."
+ALLURA says: ""Shutting down the barrier from this room can be dangerous."
+ALLURA says: "Remember, the barrier is also a weapon."
+ALLURA says: "So, stay away from the energy arcs."
+PIDGE says: ""Don't touch the giant lightning bolts."
+PIDGE says: "Got it."
+ALLURA says: ""Now, what I'm going to need you to do is—"
+ROVER shoves PIDGE aside just as a Galra Sentry fires lasers at her.
+ALLURA says: ""Pidge!"
+ALLURA says: "Hello?"
+ALLURA says: "Are you there?"
+PIDGE flees from the Sentries. ALLURA stands outside the Castleship with KEITH.
+ALLURA says: ""Pidge, what's going on?"
+ALLURA says: "..."
+ALLURA says: "Wait..."
+ALLURA says: "the mice!"
+ALLURA says: "Maybe they can help."
+ALLURA focuses and telepathically speaks to the Altean Mice.
+ALLURA says: ""Friends, I need your help."
+The Mice are sleeping in ALLURA's room. They wake up and scurry off. PIDGE is trapped behind a structure in the Generator Room under laser fire; her map shows an exit shaft above her.
+PIDGE says: ""My only way out is two floors up?"
+PIDGE says: "Seriously?"
+PIDGE yells and avoids being shot. She generates a hologram of herself from her armor.
+PIDGE says: ""Let's try this."
+The hologram of PIDGE runs towards the energy arcs.
+GALRA SENTRY says: ""There!"
+A Sentry fires at the hologram, destroying it and hitting the energy arc, causing it to explode and take out a Sentry. PIDGE runs for the exit shaft above, using her grappling hook to reach it.
+PIDGE says: ""Whoa!"
+PIDGE says: "Can't believe that worked!"
+The Sentries fire lasers at PIDGE; she flees with ROVER. One Sentry instructs the others.
+GALRA SENTRY says: ""You stay and guard the generator."
+One Sentry stays behind as two pursue PIDGE. PIDGE exits the shaft at the Training Deck. The two Sentries attack but PIDGE defends with her shield and accesses the invisible maze.
+PIDGE says: ""The invisible maze."
+PIDGE says: "Let's see them get through this."
+The Sentries are trapped by the maze; one is destroyed by the maze's shocks. PIDGE escapes through another shaft and the remaining Sentry pursues her. PIDGE is hit by laser fire and falls down a shaft; she stops herself and drags the Sentry into the shaft with her Bayard. The Sentry falls and explodes, producing shock waves that make PIDGE lose her footing. ROVER stops PIDGE from falling to her death.
+PIDGE says: ""Rover!"
+PIDGE says: "Nice save, buddy."
+Freedom and Family.
+HUNK and CORAN sit with SHAY and RAX and their Balmeran family around a fire.
+HUNK says: ""Thanks for the delicious soup."
+HUNK says: "Are these potatoes in here?"
+HUNK and CORAN sip at bowls of soup.
+SHAY says: ""Grandma's special dish for special visitors."
+SHAY says: "Cave-root for the skin."
+SHAY says: "Cave bugs for the soul."
+CORAN says: ""Oh!"
+HUNK and CORAN retch. CORAN tries to remain polite.
+CORAN says: ""Eheh..."
+CORAN says: "Thank you for the bugs."
+SHAY'S GRANDMOTHER gives CORAN more soup.
+CORAN says: ""Okay, I think that's too many."
+HUNK says: ""So, how many of you are down here?"
+SHAY'S FATHER says: ""There are thousands here on Balmera."
+SHAY'S FATHER says: "We work and live in these mines."
+SHAY says: ""We harvest Crystals for Zarkon."
+HUNK says: ""Zarkon."
+HUNK says: "That's so..."
+HUNK says: "sad that he's enslaved an entire planet."
+SHAY'S FATHER says: ""Zarkon may rule, but we still have family."
+SHAY'S FATHER says: "That's where true happiness comes from."
+RAX says: ""The Galra would tear our family asunder if they found these ones!"
+RAX says: "Everyone comes to Balmera and takes, but gives nothing in return."
+SHAY says: ""In the past, those who took the Balmera's Crystals would replenish her with energy."
+SHAY says: "It was an equal exchange."
+SHAY says: "But the Galra only take."
+SHAY says: "It is no wonder we can feel her suffering."
+SHAY places her hand on the ground; it glows, and the Balmera is heard.
+HUNK says: ""I'm sorry that we put everyone in this situation, but the faster we get the Crystal and get out, the faster everyone is out of danger."
+CORAN says: ""We're looking for a battleship-class Crystal."
+SHAY'S FATHER says: ""Battleship-class Crystal?"
+SHAY'S FATHER says: "Those are most rare."
+SHAY'S FATHER says: "Galra soldiers guard them ceaselessly until their harvest."
+SHAY'S FATHER says: "Your quest is in vain."
+SHAY says: ""There is one, found only weeks ago."
+SHAY says: "It is almost excavated."
+RAX says: ""Quiet!"
+RAX says: "Even if they could steal the Crystal from the Galra, battle patrols wait to take down their ship."
+RAX says: "These ones have no chance of getting out of here alive, with Crystal or without."
+HUNK says: ""Okay, so this Crystal we need is basically the hardest thing in the universe to get."
+CORAN says: ""Well, I don't know about the hardest."
+CORAN says: "There is the scaultrite mineral found only in the stomachs of giant weblums."
+CORAN says: "Collecting that stuff's no picnic."
+CORAN says: "Uh, but, yes, th-this seems very difficult."
+SHAY says: ""You may stay here until Balmera gives another Crystal."
+SHAY says: "One that is hidden from Galra eyes."
+HUNK says: ""We don't have that kind of time."
+HUNK says: "I got an injured friend who needs to get into a magic healing machine, stat."
+CORAN says: ""Hunk, you fix the pod."
+CORAN says: "I'm going to do some reconnaissance and see if I can come up with another plan."
+CORAN leaves HUNK with the Balmerans.
+The Path of a Paladin.
+A Lone Cadet.
+PIDGE exits the shafts into an empty hallway of the Castle of Lions and recalls the day she took on the identity as PIDGE. In the past, KATIE HOLT stood before a mirror in a Garrison cadet uniform.
+KATIE says: ""First day of school."
+KATIE says: "Time for a haircut."
+KATIE took a pair of scissors and cut off her hair. At the Galaxy Garrison, LANCE and HUNK stood before a list of names.
+LANCE says: ""I made it!"
+LANCE says: "I'm a fighter pilot."
+LANCE says: "Hasta la later, Keith!"
+LANCE danced in celebration.
+LANCE says: ""And look, you're my engineer!"
+HUNK says: ""Cool."
+HUNK says: "Uh, can I do that from the ground?"
+LANCE frowned.
+LANCE says: ""And our communications officer is..."
+LANCE says: "Who the heck is Pidge Gunderson?"
+PIDGE says: ""Right here."
+LANCE and HUNK turned to see PIDGE.
+LANCE says: ""Welcome to the team, Gunderson."
+LANCE says: "I'm Lance, your fighter pilot."
+HUNK says: ""Hey, I'm Hunk."
+LANCE says: ""We got a lot of great times ahead, so we should probably start bonding now."
+LANCE says: "What do say we sneak off campus—"
+PIDGE overheard IVERSON talking to another Garrison officer.
+IVERSON says: ""—"
+IVERSON says: "just a minute."
+IVERSON says: "Security for the Galaxy Garrison's mainframe is our first priority."
+IVERSON says: "It's been breached once."
+IVERSON says: "And by a little girl, no less."
+IVERSON says: "It cannot happen again!"
+IVERSON turned and walked towards LANCE, HUNK, and PIDGE. PIDGE saluted with her left arm to hide her face.
+IVERSON says: ""Wrong arm, cadet."
+PIDGE saluted correctly; LANCE and HUNK were startled and salute as well. IVERSON walked by without noticing anything amiss. PIDGE sighed in relief.
+LANCE says: ""Hello?"
+LANCE says: "Pizza?"
+LANCE says: "Girls?"
+LANCE says: "Astronauts?"
+PIDGE says: ""Sorry, I don't have time to mess around with you guys."
+PIDGE says: "See you in the simulator."
+PIDGE walked away.
+LANCE says: ""What's his problem?"
+LANCE and HUNK left. PIDGE turned to watch them before leaving. The Flashback ends; PIDGE is frowning.
+PIDGE says: ""You know, Rover, I haven't always been there for my team."
+PIDGE says: "But this time I will be."
+PIDGE says: "Come on."
+PIDGE runs off with ROVER. The Altean Mice are also infiltrating the Castle.
+The Sky.
+HUNK is repairing the Altean flight pod as SHAY watches.
+SHAY says: ""Tell me, what is the sky like?"
+HUNK says: ""The sky?"
+HUNK says: "You seriously have never even seen the sky?"
+SHAY climbs on top of the flight pod.
+SHAY says: ""No..."
+SHAY says: "but, at night, I sneak up as high as I dare, trying to imagine what it is like."
+SHAY says: "Oh, lucky are you to fly in this machine to worlds far from here."
+HUNK says: ""Well, it doesn't have to be like this."
+HUNK says: "You can be free, too."
+SHAY says: ""Free?"
+HUNK says: ""Yeah, free."
+HUNK says: "It means you can go where you want, be what you want, do what you want."
+HUNK says: "No Galra masters to tell you what to do."
+SHAY says: ""It makes no sense."
+SHAY says: "Zarkon controls everything."
+HUNK says: ""Nope."
+HUNK says: "No, things are changing."
+HUNK says: "Have you heard of Voltron?"
+SHAY says: ""A child's tale."
+HUNK says: ""It's real."
+HUNK says: "I'm one of the Paladins, and Voltron is going to defeat Zarkon."
+SHAY says: ""You are?"
+RAX appears.
+RAX says: ""Stop filling this one's head with your shadow show!"
+RAX says: "The cavern is our home."
+RAX says: "This will never change."
+RAX says: "Come."
+SHAY reluctantly leaves with her brother. HUNK frowns as they leave.
+Triumph or Death.
+HAXUS is in the Central Energy Chamber of the Castle of Lions and speaking with SENDAK through the computer.
+HAXUS says: ""Powering sub panels."
+Sendak says: ""Sub panel energy transducer is go."
+HAXUS says: "Aye, sir."
+HAXUS says: "Opening pathway to link with Bridge."
+HAXUS says: "Initializing main cluster reboot."
+PIDGE is climbing a ladder on the wall to hack into the Castle's computer system through an open panel using her armor's computer.
+PIDGE says: ""Gotcha."
+HAXUS says: ""Initializing complete."
+HAXUS says: "I'm set for main power up."
+SENDAK says: ""The Bridge is go."
+HAXUS says: ""Powering up."
+HAXUS powers up the engine; PIDGE hacks it to overload the engine using her armor's computer.
+PIDGE says: ""And up, and up, and up."
+PIDGE says: "I would not want to be touching a metal surface when this thing overloads."
+Alarms blare.
+HAXUS says: ""Sir, something is wrong."
+The engine overloads and explodes in energy; HAXUS is caught in the blast and wounded. PIDGE grabs ROVER as it hovers to avoid being electrocuted. ROVER brings PIDGE to HAXUS.
+HAXUS says: ""You're the one causing all this trouble?"
+HAXUS says: "A child?"
+PIDGE says: ""I'm not a child."
+PIDGE says: "I'm a Paladin of Voltron."
+HAXUS laughs.
+HAXUS says: ""Let me tell you something, child."
+HAXUS draws his sword.
+HAXUS says: ""I'm a soldier of the Galra Empire."
+HAXUS says: "Nothing stops me but triumph or death."
+HAXUS yells and battles PIDGE. PIDGE strikes HAXUS with her grappling hook. He catches the rope and throws PIDGE aside.
+HAXUS says: ""Nowhere left to run."
+HAXUS says: "Nowhere left to hide."
+HAXUS prepares to kill PIDGE. ROVER appears to distract him. PIDGE dives between HAXUS' legs and throws him off-balance on the catwalk. ROVER slams into HAXUS to knock him over but HAXUS grabs ROVER to avoid falling.
+PIDGE says: ""Rover!"
+ROVER deactivates to let HAXUS fall.
+PIDGE says: ""No!"
+PIDGE rushes after ROVER but is too late to grab the drone. HAXUS and ROVER fall to their end.
+HAXUS says: ""No!"
+PIDGE mourns ROVER. SENDAK interrupts through the computer.
+SENDAK says: ""Haxus, report in."
+PIDGE says: ""Haxus is gone, and you're next!"
+SENDAK says: ""You've slowed me down, but this ship is mine!"
+SENDAK says: "You will turn yourself over to me immediately!"
+PIDGE says: ""Never!"
+SENDAK says: ""Well, then, maybe your leader can convince you."
+PIDGE hears SHIRO's voice through the computer.
+SHIRO says: ""What do you want?"
+SENDAK says: ""Your friend wanted to hear from you."
+PIDGE says: ""Shiro?"
+SHIRO says: ""Pidge?"
+SHIRO says: "Pidge, don't listen to—"
+SENDAK tortures SHIRO using his prosthetic gauntlet. PIDGE hears SHIRO's screams.
+PIDGE says: ""No!"
+SENDAK says: ""You can make it stop."
+SENDAK says: "Turn yourself in."
+SENDAK says: "His suffering is in your hands."
+The Crystal.
+HUNK and CORAN stand with SHAY and RAX in their home.
+RAX says: ""Is your ship repaired that you may depart our presence?"
+HUNK says: ""Uh..."
+HUNK says: "Are you saying that you want us to leave?"
+RAX says: ""Yes."
+HUNK says: ""Well, it's working, but we can't leave without the Crystal."
+HUNK turns to CORAN.
+HUNK says: ""You come up with any ideas how to get it?"
+CORAN says: ""Actually, yes."
+CORAN grins. His plan is to disguise themselves as a Galra Sentry with HUNK as the legs and CORAN wearing a helmet as he sits on HUNK's shoulders, both of them wrapped in a blanket. They can barely keep upright.
+HUNK says: ""I can't believe I'm the legs again."
+HUNK says: "I'm the one who took down the guard."
+HUNK says: "I should get to be the head."
+CORAN says: ""Shh!"
+CORAN says: "Legs don't talk."
+HUNK and CORAN approach two Sentries guarding the Crystal while wearing their disguise.
+CORAN says: ""Oh, hello, gentlemen, shift's over."
+CORAN says: "Boss needs you back at the guard shack."
+SENTRY says: ""Verify identification code."
+CORAN says: ""Right."
+CORAN says: "I didn't want to have to do this, but I'm going to have to pull rank."
+CORAN says: "You guys are in big trouble, right?"
+CORAN says: "So, hand over those blasters and ID badges."
+The Sentries take aim.
+SENTRY says: ""Verify identification code or be destroyed."
+CORAN says: ""Okay, okay."
+CORAN says: "I've got it right..."
+CORAN says: "here!"
+CORAN throws off the disguise. HUNK blasts the Sentries with his Bayard cannon.
+HUNK says: ""What are you doing?"
+HUNK says: "We got to hurry!"
+CORAN says: ""I'm not just going to pry this out of here like some Galra monster."
+CORAN says: "The Balmera is a sacred being."
+CORAN says: "You have to communicate with it."
+CORAN says: "Let your life forces connect."
+CORAN says: "This is the way it was done in our time."
+HUNK says: ""Whoa."
+HUNK says: "You really know your Balmeras."
+The Balmera responds to CORAN and exposes the Crystal entirely. The Crystal nearly falls over, but CORAN catches it, injuring his spine in the process.
+CORAN says: ""..."
+CORAN says: "..."
+CORAN says: "..."
+CORAN says: "I think I'm broken."
+HUNK sighs; he hears the sound of laser blasters being armed and turns to see they are surrounded by Galra Sentries.
+CORAN says: ""Augh..."
+CORAN says: "Okay, guys!"
+CORAN says: "All right, I hate to do this."
+CORAN says: "Blasters and badges."
+CORAN says: "Come on."
+CORAN says: "Give them up!"
+CORAN falls over from pain. HUNK raises his arms in surrender.
+Broken Soldier.
+PIDGE lurks near the entrance to the Bride in the Castle of Lions and listens as SENDAK speaks to a severely injured and near-unconscious SHIRO.
+SENDAK says: ""I'm impressed that you managed to escape."
+SENDAK says: "Perhaps it would be worth the trip to your planet to see if the rest of your kind have your spirit."
+SENDAK says: "Of course, they will all end up broken, just like you."
+SENDAK says: "Now that we have Voltron, every planet, every race, all share the same fate."
+A Castle Reclaimed.
+The Price of Freedom.
+HUNK and CORAN are locked in a cell on the Balmera.
+CORAN says: ""Quiznak!"
+CORAN says: "I can't believe they saw through our disguise..."
+HUNK and CORAN hear footsteps.
+CORAN says: ""Someone's coming!"
+SHAY appears carrying a Galra Sentry arm.
+HUNK says: ""Shay?"
+SHAY uses the Sentry arm on the cell scanner unlock the cell. The cell barrier disappears.
+SHAY says: ""Make haste to your pod."
+SHAY says: "The Crystal is prepared for departure."
+CORAN says: ""How did you get the Crystal?"
+SHAY says: ""I was assigned to take it to the upper levels, but instead I took it down."
+SHAY says: "Soon, they will discover my ruse."
+SHAY says: "Time is short."
+HUNK says: ""Why are you helping us?"
+HUNK says: "You'll get in trouble."
+SHAY says: ""Because your words touched my heart."
+SHAY says: "I wish for freedom for all Balmera."
+SHAY says: "Perhaps your Voltron can make it so."
+HUNK looks determined. HUNK, CORAN, and SHAY run for the flight pod. RAX meets them there with Sentries armed.
+SHAY says: ""No."
+SHAY says: "Rax, why?"
+RAX says: ""These two bring only trouble to our family."
+RAX says: "It was the only way to protect you."
+HUNK angrily readies his Bayard.
+SHAY says: ""No!"
+SHAY says: "The Balmera will save us."
+SHAY places her hand on the ground to contact the Balmera.
+RAX says: ""Shay, no!"
+The Balmera responds to SHAY and causes rocks to fall from the cave to crush the Sentries. HUNK, CORAN, and SHAY run for the flight pod. Some Sentries survive and capture SHAY.
+RAX says: ""Shay!"
+SHAY says: ""Go!"
+SHAY says: "Make haste!"
+HUNK says: ""Let her go!"
+CORAN says: ""No, Hunk!"
+CORAN says: "We have to go!"
+HUNK hesitates, but more sentries and Galra fighter jets arrive. HUNK enters the Altean flight pod with CORAN.
+HUNK says: ""I'll come back for you, Shay!"
+HUNK says: "I promise!"
+CORAN says: ""If we can't shake these patrols, we might be back here sooner than we want!"
+HUNK and CORAN leave in the flight pod pursued by Galra fighter jets.
+Tiniest Team.
+The Altean Mice infiltrate the Generator Room of the Castle of Lions and take out the last Galra Sentry guarding it. They press the button on the control panel to deactivate the particle barrier. Outside, KEITH and ALLURA watch the barrier disappear.
+KEITH says: ""It worked!"
+ALLURA says: ""They did it!"
+KEITH and ALLURA head inside the Castle.
+The Commander Falls.
+[SENDAK sees PIDGE on the computer of the Castle Bridge. He turns to attack says: "SENDAK is chasing a hologram."
+pursue her out of the Bridge. It is a ruse says: "SENDAK is chasing a hologram."
+[SENDAK sees PIDGE on the computer of the Castle Bridge. He turns to attack says: "PIDGE rushes inside the Bridge to speak to SHIRO."
+pursue her out of the Bridge. It is a ruse says: "PIDGE rushes inside the Bridge to speak to SHIRO."
+PIDGE says: ""Shiro, wake up."
+PIDGE says: "It's me, Pidge—"
+PIDGE is caught by SENDAK's gauntlet.
+SENDAK says: ""You really thought your little hologram trick would work with me?"
+KEITH and ALLURA enter the Bridge. KEITH summons his Bayard to fight.
+SENDAK says: ""Stand back!"
+SENDAK is struck from behind by LANCE's Bayard rifle. LANCE passes out again. SHIRO rushes at SENDAK and is knocked aside. KEITH battles SENDAK. SENDAK throws KEITH and PIDGE severs the energy chain to his gauntlet, rendering it useless.
+SENDAK says: ""No!"
+SENDAK is enraged and battles PIDGE. ALLURA accesses the Bridge's computer. KEITH attacks SENDAK again and SENDAK's catches his Bayard's blade. ALLURA readies the computer.
+ALLURA says: ""Keith, now!"
+KEITH kicks SENDAK into the center of the Bridge and a barrier rises up, trapping him. Afterward, PIDGE frees SHIRO and KEITH checks on LANCE.
+KEITH says: ""Lance, are you okay?"
+KEITH pulls LANCE upright.
+LANCE says: ""We did it."
+LANCE says: "We are a good team."
+LANCE smiles. KEITH smiles in return.
+Fire in the Hole.
+HUNK and CORAN are fleeing from Galra fighter jets on the Balmera.
+CORAN says: ""We can't shake them!"
+CORAN says: "We're not going to make it!"
+HUNK remembers the booster fuel PIDGE installed and motions to press the button.
+CORAN says: ""Uh, it may turn us into a giant fireball."
+HUNK says: ""Maybe, but it's our only chance."
+CORAN hesitates but sees more Galra jets approaching.
+CORAN says: ""Fine."
+CORAN says: "Fire in the hole!"
+HUNK presses the button and the flight pod blasts into the sky. CORAN cheers.
+HUNK says: ""We did it!"
+Family and Crew.
+LANCE is sleeping inside a pod. ALLURA, KEITH, SHIRO, and PIDGE stand by him in the Sleep Chamber.
+ALLURA says: ""After a day in here, he should be fully healed."
+SHIRO approaches PIDGE.
+SHIRO says: ""Pidge, we can't thank you enough for all you did."
+SHIRO says: "I can't help but feel that you were meant to be a part of our team..."
+SHIRO says: "but I understand if you want to leave."
+PIDGE says: ""Dad used to tell me how close he was with his crew members."
+PIDGE says: "They were like family."
+PIDGE says: "Now, I understand what he was talking about."
+SHIRO smiles at PIDGE.
+PIDGE says: ""I'm staying with you guys."
+PIDGE says: "Let's stop Zarkon for all of our families."
+ALLURA and KEITH also smile at PIDGE.
+KEITH says: ""Good to have you back on the team."
+PIDGE smiles fondly at her team. Episode ends.

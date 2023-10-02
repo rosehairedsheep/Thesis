@@ -1,0 +1,849 @@
+Document: ID=Lion Loves to Fit in a Box_Transcript | Steven Universe Wiki | Fandom.html.txt.txt (24 sentences, 279 tokens)
+
+Sentence #1 (3 tokens):
+Open Int.
+
+Tokens:
+[Text=Open CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=VB Lemma=open NamedEntityTag=O]
+[Text=Int CharacterOffsetBegin=5 CharacterOffsetEnd=8 PartOfSpeech=NN Lemma=int NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=8 CharacterOffsetEnd=9 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Int-2)
+dep(Int-2, Open-1)
+punct(Int-2, .-3)
+
+Extracted the following NER entity mentions:
+
+Sentence #2 (3 tokens):
+Beach House.
+
+Tokens:
+[Text=Beach CharacterOffsetBegin=10 CharacterOffsetEnd=15 PartOfSpeech=NNP Lemma=Beach NamedEntityTag=ORGANIZATION]
+[Text=House CharacterOffsetBegin=16 CharacterOffsetEnd=21 PartOfSpeech=NNP Lemma=House NamedEntityTag=ORGANIZATION]
+[Text=. CharacterOffsetBegin=21 CharacterOffsetEnd=22 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, House-2)
+compound(House-2, Beach-1)
+punct(House-2, .-3)
+
+Extracted the following NER entity mentions:
+Beach House	ORGANIZATION	ORGANIZATION:0.8367291779083681
+
+Sentence #3 (16 tokens):
+Lion is seen jumping into a wide yet shallow box and getting comfy in it.
+
+Tokens:
+[Text=Lion CharacterOffsetBegin=23 CharacterOffsetEnd=27 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=28 CharacterOffsetEnd=30 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=seen CharacterOffsetBegin=31 CharacterOffsetEnd=35 PartOfSpeech=VBN Lemma=see NamedEntityTag=O]
+[Text=jumping CharacterOffsetBegin=36 CharacterOffsetEnd=43 PartOfSpeech=VBG Lemma=jump NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=44 CharacterOffsetEnd=48 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=49 CharacterOffsetEnd=50 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=wide CharacterOffsetBegin=51 CharacterOffsetEnd=55 PartOfSpeech=RB Lemma=wide NamedEntityTag=O]
+[Text=yet CharacterOffsetBegin=56 CharacterOffsetEnd=59 PartOfSpeech=RB Lemma=yet NamedEntityTag=O]
+[Text=shallow CharacterOffsetBegin=60 CharacterOffsetEnd=67 PartOfSpeech=JJ Lemma=shallow NamedEntityTag=O]
+[Text=box CharacterOffsetBegin=68 CharacterOffsetEnd=71 PartOfSpeech=NN Lemma=box NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=72 CharacterOffsetEnd=75 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=getting CharacterOffsetBegin=76 CharacterOffsetEnd=83 PartOfSpeech=VBG Lemma=get NamedEntityTag=O]
+[Text=comfy CharacterOffsetBegin=84 CharacterOffsetEnd=89 PartOfSpeech=JJ Lemma=comfy NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=90 CharacterOffsetEnd=92 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=93 CharacterOffsetEnd=95 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=95 CharacterOffsetEnd=96 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, seen-3)
+nsubj:pass(seen-3, Lion-1)
+aux:pass(seen-3, is-2)
+dep(seen-3, jumping-4)
+case(box-10, into-5)
+det(box-10, a-6)
+advmod(shallow-9, wide-7)
+advmod(shallow-9, yet-8)
+amod(box-10, shallow-9)
+obl:into(jumping-4, box-10)
+cc(getting-12, and-11)
+dep(seen-3, getting-12)
+conj:and(jumping-4, getting-12)
+xcomp(getting-12, comfy-13)
+case(it-15, in-14)
+obl:in(getting-12, it-15)
+punct(seen-3, .-16)
+
+Extracted the following NER entity mentions:
+
+Sentence #4 (13 tokens):
+He turns around and spots Steven recording his quirkiness in a video.
+
+Tokens:
+[Text=He CharacterOffsetBegin=97 CharacterOffsetEnd=99 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=turns CharacterOffsetBegin=100 CharacterOffsetEnd=105 PartOfSpeech=VBZ Lemma=turn NamedEntityTag=O]
+[Text=around CharacterOffsetBegin=106 CharacterOffsetEnd=112 PartOfSpeech=RB Lemma=around NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=113 CharacterOffsetEnd=116 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=spots CharacterOffsetBegin=117 CharacterOffsetEnd=122 PartOfSpeech=NNS Lemma=spot NamedEntityTag=O]
+[Text=Steven CharacterOffsetBegin=123 CharacterOffsetEnd=129 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=recording CharacterOffsetBegin=130 CharacterOffsetEnd=139 PartOfSpeech=VBG Lemma=record NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=140 CharacterOffsetEnd=143 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=quirkiness CharacterOffsetBegin=144 CharacterOffsetEnd=154 PartOfSpeech=NN Lemma=quirkiness NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=155 CharacterOffsetEnd=157 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=158 CharacterOffsetEnd=159 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=video CharacterOffsetBegin=160 CharacterOffsetEnd=165 PartOfSpeech=NN Lemma=video NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=165 CharacterOffsetEnd=166 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, turns-2)
+nsubj(turns-2, He-1)
+advmod(turns-2, around-3)
+cc(recording-7, and-4)
+compound(Steven-6, spots-5)
+nsubj(recording-7, Steven-6)
+conj:and(turns-2, recording-7)
+nmod:poss(quirkiness-9, his-8)
+obj(recording-7, quirkiness-9)
+case(video-12, in-10)
+det(video-12, a-11)
+obl:in(recording-7, video-12)
+punct(turns-2, .-13)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.9712335207267869
+He	PERSON	-
+his	PERSON	-
+
+Sentence #5 (14 tokens):
+Lion walks up to a cardboard cylinder and sticks his face into it.
+
+Tokens:
+[Text=Lion CharacterOffsetBegin=167 CharacterOffsetEnd=171 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=walks CharacterOffsetBegin=172 CharacterOffsetEnd=177 PartOfSpeech=VBZ Lemma=walk NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=178 CharacterOffsetEnd=180 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=181 CharacterOffsetEnd=183 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=184 CharacterOffsetEnd=185 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=cardboard CharacterOffsetBegin=186 CharacterOffsetEnd=195 PartOfSpeech=NN Lemma=cardboard NamedEntityTag=O]
+[Text=cylinder CharacterOffsetBegin=196 CharacterOffsetEnd=204 PartOfSpeech=NN Lemma=cylinder NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=205 CharacterOffsetEnd=208 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=sticks CharacterOffsetBegin=209 CharacterOffsetEnd=215 PartOfSpeech=VBZ Lemma=stick NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=216 CharacterOffsetEnd=219 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=face CharacterOffsetBegin=220 CharacterOffsetEnd=224 PartOfSpeech=NN Lemma=face NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=225 CharacterOffsetEnd=229 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=230 CharacterOffsetEnd=232 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=232 CharacterOffsetEnd=233 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, walks-2)
+nsubj(walks-2, Lion-1)
+nsubj(sticks-9, Lion-1)
+compound:prt(walks-2, up-3)
+case(cylinder-7, to-4)
+det(cylinder-7, a-5)
+compound(cylinder-7, cardboard-6)
+obl:to(walks-2, cylinder-7)
+cc(sticks-9, and-8)
+conj:and(walks-2, sticks-9)
+nmod:poss(face-11, his-10)
+obj(sticks-9, face-11)
+case(it-13, into-12)
+obl:into(sticks-9, it-13)
+punct(walks-2, .-14)
+
+Extracted the following NER entity mentions:
+his	PERSON	-
+
+Sentence #6 (14 tokens):
+He then struggles to get it off, before turning towards Steven again.
+
+Tokens:
+[Text=He CharacterOffsetBegin=234 CharacterOffsetEnd=236 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=237 CharacterOffsetEnd=241 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=struggles CharacterOffsetBegin=242 CharacterOffsetEnd=251 PartOfSpeech=VBZ Lemma=struggle NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=252 CharacterOffsetEnd=254 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=get CharacterOffsetBegin=255 CharacterOffsetEnd=258 PartOfSpeech=VB Lemma=get NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=259 CharacterOffsetEnd=261 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=262 CharacterOffsetEnd=265 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=265 CharacterOffsetEnd=266 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=before CharacterOffsetBegin=267 CharacterOffsetEnd=273 PartOfSpeech=IN Lemma=before NamedEntityTag=O]
+[Text=turning CharacterOffsetBegin=274 CharacterOffsetEnd=281 PartOfSpeech=VBG Lemma=turn NamedEntityTag=O]
+[Text=towards CharacterOffsetBegin=282 CharacterOffsetEnd=289 PartOfSpeech=IN Lemma=towards NamedEntityTag=O]
+[Text=Steven CharacterOffsetBegin=290 CharacterOffsetEnd=296 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=again CharacterOffsetBegin=297 CharacterOffsetEnd=302 PartOfSpeech=RB Lemma=again NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=302 CharacterOffsetEnd=303 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, struggles-3)
+nsubj(struggles-3, He-1)
+nsubj:xsubj(get-5, He-1)
+advmod(struggles-3, then-2)
+mark(get-5, to-4)
+xcomp(struggles-3, get-5)
+obj(get-5, it-6)
+compound:prt(get-5, off-7)
+punct(get-5, ,-8)
+mark(turning-10, before-9)
+advcl:before(get-5, turning-10)
+case(Steven-12, towards-11)
+obl:towards(turning-10, Steven-12)
+advmod(turning-10, again-13)
+punct(struggles-3, .-14)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.9793934212719565
+He	PERSON	-
+
+Sentence #7 (13 tokens):
+Lion steps on top of a box with small holes on it.
+
+Tokens:
+[Text=Lion CharacterOffsetBegin=304 CharacterOffsetEnd=308 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=steps CharacterOffsetBegin=309 CharacterOffsetEnd=314 PartOfSpeech=NNS Lemma=step NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=315 CharacterOffsetEnd=317 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=top CharacterOffsetBegin=318 CharacterOffsetEnd=321 PartOfSpeech=NN Lemma=top NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=322 CharacterOffsetEnd=324 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=325 CharacterOffsetEnd=326 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=box CharacterOffsetBegin=327 CharacterOffsetEnd=330 PartOfSpeech=NN Lemma=box NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=331 CharacterOffsetEnd=335 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=small CharacterOffsetBegin=336 CharacterOffsetEnd=341 PartOfSpeech=JJ Lemma=small NamedEntityTag=O]
+[Text=holes CharacterOffsetBegin=342 CharacterOffsetEnd=347 PartOfSpeech=NNS Lemma=hole NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=348 CharacterOffsetEnd=350 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=351 CharacterOffsetEnd=353 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=353 CharacterOffsetEnd=354 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, steps-2)
+compound(steps-2, Lion-1)
+case(box-7, on-3)
+fixed(on-3, top-4)
+fixed(on-3, of-5)
+det(box-7, a-6)
+nmod:on_top_of(steps-2, box-7)
+case(holes-10, with-8)
+amod(holes-10, small-9)
+nmod:with(box-7, holes-10)
+case(it-12, on-11)
+nmod:on(holes-10, it-12)
+punct(steps-2, .-13)
+
+Extracted the following NER entity mentions:
+
+Sentence #8 (18 tokens):
+His legs slip and fall into square holes, getting startled and accidentally splitting the box apart.
+
+Tokens:
+[Text=His CharacterOffsetBegin=355 CharacterOffsetEnd=358 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=legs CharacterOffsetBegin=359 CharacterOffsetEnd=363 PartOfSpeech=NNS Lemma=leg NamedEntityTag=O]
+[Text=slip CharacterOffsetBegin=364 CharacterOffsetEnd=368 PartOfSpeech=VB Lemma=slip NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=369 CharacterOffsetEnd=372 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=fall CharacterOffsetBegin=373 CharacterOffsetEnd=377 PartOfSpeech=VB Lemma=fall NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=378 CharacterOffsetEnd=382 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=square CharacterOffsetBegin=383 CharacterOffsetEnd=389 PartOfSpeech=JJ Lemma=square NamedEntityTag=O]
+[Text=holes CharacterOffsetBegin=390 CharacterOffsetEnd=395 PartOfSpeech=NNS Lemma=hole NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=395 CharacterOffsetEnd=396 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=getting CharacterOffsetBegin=397 CharacterOffsetEnd=404 PartOfSpeech=VBG Lemma=get NamedEntityTag=O]
+[Text=startled CharacterOffsetBegin=405 CharacterOffsetEnd=413 PartOfSpeech=JJ Lemma=startled NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=414 CharacterOffsetEnd=417 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=accidentally CharacterOffsetBegin=418 CharacterOffsetEnd=430 PartOfSpeech=RB Lemma=accidentally NamedEntityTag=O]
+[Text=splitting CharacterOffsetBegin=431 CharacterOffsetEnd=440 PartOfSpeech=VBG Lemma=split NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=441 CharacterOffsetEnd=444 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=box CharacterOffsetBegin=445 CharacterOffsetEnd=448 PartOfSpeech=NN Lemma=box NamedEntityTag=O]
+[Text=apart CharacterOffsetBegin=449 CharacterOffsetEnd=454 PartOfSpeech=RB Lemma=apart NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=454 CharacterOffsetEnd=455 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, slip-3)
+nmod:poss(legs-2, His-1)
+nsubj(slip-3, legs-2)
+nsubj(fall-5, legs-2)
+cc(fall-5, and-4)
+conj:and(slip-3, fall-5)
+case(holes-8, into-6)
+amod(holes-8, square-7)
+obl:into(fall-5, holes-8)
+punct(slip-3, ,-9)
+dep(slip-3, getting-10)
+amod(box-16, startled-11)
+cc(splitting-14, and-12)
+advmod(splitting-14, accidentally-13)
+conj:and(startled-11, splitting-14)
+amod(box-16, splitting-14)
+det(box-16, the-15)
+obj(getting-10, box-16)
+advmod(getting-10, apart-17)
+punct(slip-3, .-18)
+
+Extracted the following NER entity mentions:
+His	PERSON	-
+
+Sentence #9 (19 tokens):
+Lion puts all four of his paws into tissue boxes and begins walking around like they are footwear.
+
+Tokens:
+[Text=Lion CharacterOffsetBegin=456 CharacterOffsetEnd=460 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=puts CharacterOffsetBegin=461 CharacterOffsetEnd=465 PartOfSpeech=VBZ Lemma=put NamedEntityTag=O]
+[Text=all CharacterOffsetBegin=466 CharacterOffsetEnd=469 PartOfSpeech=DT Lemma=all NamedEntityTag=O]
+[Text=four CharacterOffsetBegin=470 CharacterOffsetEnd=474 PartOfSpeech=CD Lemma=four NamedEntityTag=NUMBER NormalizedNamedEntityTag=4.0]
+[Text=of CharacterOffsetBegin=475 CharacterOffsetEnd=477 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=478 CharacterOffsetEnd=481 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=paws CharacterOffsetBegin=482 CharacterOffsetEnd=486 PartOfSpeech=NNS Lemma=paw NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=487 CharacterOffsetEnd=491 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=tissue CharacterOffsetBegin=492 CharacterOffsetEnd=498 PartOfSpeech=NN Lemma=tissue NamedEntityTag=O]
+[Text=boxes CharacterOffsetBegin=499 CharacterOffsetEnd=504 PartOfSpeech=NNS Lemma=box NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=505 CharacterOffsetEnd=508 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=begins CharacterOffsetBegin=509 CharacterOffsetEnd=515 PartOfSpeech=VBZ Lemma=begin NamedEntityTag=O]
+[Text=walking CharacterOffsetBegin=516 CharacterOffsetEnd=523 PartOfSpeech=VBG Lemma=walk NamedEntityTag=O]
+[Text=around CharacterOffsetBegin=524 CharacterOffsetEnd=530 PartOfSpeech=RP Lemma=around NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=531 CharacterOffsetEnd=535 PartOfSpeech=IN Lemma=like NamedEntityTag=O]
+[Text=they CharacterOffsetBegin=536 CharacterOffsetEnd=540 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=541 CharacterOffsetEnd=544 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=footwear CharacterOffsetBegin=545 CharacterOffsetEnd=553 PartOfSpeech=NN Lemma=footwear NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=553 CharacterOffsetEnd=554 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, puts-2)
+nsubj(puts-2, Lion-1)
+nsubj(begins-12, Lion-1)
+det(four-4, all-3)
+obj(puts-2, four-4)
+case(paws-7, of-5)
+nmod:poss(paws-7, his-6)
+nmod:of(four-4, paws-7)
+case(boxes-10, into-8)
+compound(boxes-10, tissue-9)
+obl:into(puts-2, boxes-10)
+cc(begins-12, and-11)
+conj:and(puts-2, begins-12)
+xcomp(begins-12, walking-13)
+advmod(walking-13, around-14)
+mark(footwear-18, like-15)
+nsubj(footwear-18, they-16)
+cop(footwear-18, are-17)
+advcl:like(walking-13, footwear-18)
+punct(puts-2, .-19)
+
+Extracted the following NER entity mentions:
+four	NUMBER	NUMBER:-1.0
+his	PERSON	-
+
+Sentence #10 (9 tokens):
+He then pauses and drops to the ground.
+
+Tokens:
+[Text=He CharacterOffsetBegin=555 CharacterOffsetEnd=557 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=558 CharacterOffsetEnd=562 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=pauses CharacterOffsetBegin=563 CharacterOffsetEnd=569 PartOfSpeech=VBZ Lemma=pause NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=570 CharacterOffsetEnd=573 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=drops CharacterOffsetBegin=574 CharacterOffsetEnd=579 PartOfSpeech=VBZ Lemma=drop NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=580 CharacterOffsetEnd=582 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=583 CharacterOffsetEnd=586 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=ground CharacterOffsetBegin=587 CharacterOffsetEnd=593 PartOfSpeech=NN Lemma=ground NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=593 CharacterOffsetEnd=594 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, pauses-3)
+nsubj(pauses-3, He-1)
+nsubj(drops-5, He-1)
+advmod(pauses-3, then-2)
+cc(drops-5, and-4)
+conj:and(pauses-3, drops-5)
+case(ground-8, to-6)
+det(ground-8, the-7)
+obl:to(drops-5, ground-8)
+punct(pauses-3, .-9)
+
+Extracted the following NER entity mentions:
+He	PERSON	-
+
+Sentence #11 (23 tokens):
+Lion begins charging into the opening of a box and shoving himself inside on three occasions, startling Amethyst at the fridge.
+
+Tokens:
+[Text=Lion CharacterOffsetBegin=595 CharacterOffsetEnd=599 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=begins CharacterOffsetBegin=600 CharacterOffsetEnd=606 PartOfSpeech=VBZ Lemma=begin NamedEntityTag=O]
+[Text=charging CharacterOffsetBegin=607 CharacterOffsetEnd=615 PartOfSpeech=VBG Lemma=charge NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=616 CharacterOffsetEnd=620 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=621 CharacterOffsetEnd=624 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=opening CharacterOffsetBegin=625 CharacterOffsetEnd=632 PartOfSpeech=NN Lemma=opening NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=633 CharacterOffsetEnd=635 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=636 CharacterOffsetEnd=637 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=box CharacterOffsetBegin=638 CharacterOffsetEnd=641 PartOfSpeech=NN Lemma=box NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=642 CharacterOffsetEnd=645 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=shoving CharacterOffsetBegin=646 CharacterOffsetEnd=653 PartOfSpeech=VBG Lemma=shove NamedEntityTag=O]
+[Text=himself CharacterOffsetBegin=654 CharacterOffsetEnd=661 PartOfSpeech=PRP Lemma=himself NamedEntityTag=O]
+[Text=inside CharacterOffsetBegin=662 CharacterOffsetEnd=668 PartOfSpeech=RB Lemma=inside NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=669 CharacterOffsetEnd=671 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=three CharacterOffsetBegin=672 CharacterOffsetEnd=677 PartOfSpeech=CD Lemma=three NamedEntityTag=NUMBER NormalizedNamedEntityTag=3.0]
+[Text=occasions CharacterOffsetBegin=678 CharacterOffsetEnd=687 PartOfSpeech=NNS Lemma=occasion NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=687 CharacterOffsetEnd=688 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=startling CharacterOffsetBegin=689 CharacterOffsetEnd=698 PartOfSpeech=JJ Lemma=startling NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=699 CharacterOffsetEnd=707 PartOfSpeech=NN Lemma=amethyst NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=708 CharacterOffsetEnd=710 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=711 CharacterOffsetEnd=714 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=fridge CharacterOffsetBegin=715 CharacterOffsetEnd=721 PartOfSpeech=NN Lemma=fridge NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=721 CharacterOffsetEnd=722 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, begins-2)
+nsubj(begins-2, Lion-1)
+dep(begins-2, charging-3)
+case(opening-6, into-4)
+det(opening-6, the-5)
+obl:into(charging-3, opening-6)
+case(box-9, of-7)
+det(box-9, a-8)
+nmod:of(opening-6, box-9)
+cc(shoving-11, and-10)
+dep(begins-2, shoving-11)
+conj:and(charging-3, shoving-11)
+obj(shoving-11, himself-12)
+advmod(shoving-11, inside-13)
+case(occasions-16, on-14)
+nummod(occasions-16, three-15)
+obl:on(shoving-11, occasions-16)
+punct(begins-2, ,-17)
+amod(Amethyst-19, startling-18)
+obj(begins-2, Amethyst-19)
+case(fridge-22, at-20)
+det(fridge-22, the-21)
+nmod:at(Amethyst-19, fridge-22)
+punct(begins-2, .-23)
+
+Extracted the following NER entity mentions:
+three	NUMBER	NUMBER:-1.0
+
+Sentence #12 (25 tokens):
+Amethyst then brings out another box from her room, only to be charged at by Lion, pinning her against the Temple Gate.
+
+Tokens:
+[Text=Amethyst CharacterOffsetBegin=723 CharacterOffsetEnd=731 PartOfSpeech=NN Lemma=amethyst NamedEntityTag=O]
+[Text=then CharacterOffsetBegin=732 CharacterOffsetEnd=736 PartOfSpeech=RB Lemma=then NamedEntityTag=O]
+[Text=brings CharacterOffsetBegin=737 CharacterOffsetEnd=743 PartOfSpeech=VBZ Lemma=bring NamedEntityTag=O]
+[Text=out CharacterOffsetBegin=744 CharacterOffsetEnd=747 PartOfSpeech=RP Lemma=out NamedEntityTag=O]
+[Text=another CharacterOffsetBegin=748 CharacterOffsetEnd=755 PartOfSpeech=DT Lemma=another NamedEntityTag=O]
+[Text=box CharacterOffsetBegin=756 CharacterOffsetEnd=759 PartOfSpeech=NN Lemma=box NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=760 CharacterOffsetEnd=764 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=765 CharacterOffsetEnd=768 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=room CharacterOffsetBegin=769 CharacterOffsetEnd=773 PartOfSpeech=NN Lemma=room NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=773 CharacterOffsetEnd=774 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=only CharacterOffsetBegin=775 CharacterOffsetEnd=779 PartOfSpeech=RB Lemma=only NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=780 CharacterOffsetEnd=782 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=783 CharacterOffsetEnd=785 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=charged CharacterOffsetBegin=786 CharacterOffsetEnd=793 PartOfSpeech=VBN Lemma=charge NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=794 CharacterOffsetEnd=796 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=by CharacterOffsetBegin=797 CharacterOffsetEnd=799 PartOfSpeech=IN Lemma=by NamedEntityTag=O]
+[Text=Lion CharacterOffsetBegin=800 CharacterOffsetEnd=804 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=804 CharacterOffsetEnd=805 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=pinning CharacterOffsetBegin=806 CharacterOffsetEnd=813 PartOfSpeech=VBG Lemma=pin NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=814 CharacterOffsetEnd=817 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=against CharacterOffsetBegin=818 CharacterOffsetEnd=825 PartOfSpeech=IN Lemma=against NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=826 CharacterOffsetEnd=829 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Temple CharacterOffsetBegin=830 CharacterOffsetEnd=836 PartOfSpeech=NNP Lemma=Temple NamedEntityTag=CITY]
+[Text=Gate CharacterOffsetBegin=837 CharacterOffsetEnd=841 PartOfSpeech=NNP Lemma=Gate NamedEntityTag=LOCATION]
+[Text=. CharacterOffsetBegin=841 CharacterOffsetEnd=842 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, brings-3)
+nsubj(brings-3, Amethyst-1)
+advmod(brings-3, then-2)
+compound:prt(brings-3, out-4)
+det(box-6, another-5)
+obj(brings-3, box-6)
+case(room-9, from-7)
+nmod:poss(room-9, her-8)
+obl:from(brings-3, room-9)
+punct(brings-3, ,-10)
+advmod(charged-14, only-11)
+mark(charged-14, to-12)
+aux:pass(charged-14, be-13)
+dep(brings-3, charged-14)
+case(Lion-17, at-15)
+case(Lion-17, by-16)
+obl:agent(charged-14, Lion-17)
+punct(charged-14, ,-18)
+dep(charged-14, pinning-19)
+obj(pinning-19, her-20)
+case(Gate-24, against-21)
+det(Gate-24, the-22)
+compound(Gate-24, Temple-23)
+obl:against(pinning-19, Gate-24)
+punct(brings-3, .-25)
+
+Extracted the following NER entity mentions:
+Lion	PERSON	PERSON:0.7080979259745601
+Temple	CITY	LOCATION:0.49996521263573435
+Gate	LOCATION	LOCATION:0.4998465326680364
+her	PERSON	-
+her	PERSON	-
+
+Sentence #13 (2 tokens):
+Trans.
+
+Tokens:
+[Text=Trans CharacterOffsetBegin=843 CharacterOffsetEnd=848 PartOfSpeech=NNP Lemma=Trans NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=848 CharacterOffsetEnd=849 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Trans-1)
+punct(Trans-1, .-2)
+
+Extracted the following NER entity mentions:
+
+Sentence #14 (2 tokens):
+Ext.
+
+Tokens:
+[Text=Ext. CharacterOffsetBegin=850 CharacterOffsetEnd=853 PartOfSpeech=NN Lemma=ext. NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=853 CharacterOffsetEnd=854 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Ext.-1)
+punct(Ext.-1, .-2)
+
+Extracted the following NER entity mentions:
+
+Sentence #15 (4 tokens):
+The Big Donut.
+
+Tokens:
+[Text=The CharacterOffsetBegin=855 CharacterOffsetEnd=858 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Big CharacterOffsetBegin=859 CharacterOffsetEnd=862 PartOfSpeech=JJ Lemma=big NamedEntityTag=MISC]
+[Text=Donut CharacterOffsetBegin=863 CharacterOffsetEnd=868 PartOfSpeech=NNP Lemma=Donut NamedEntityTag=MISC]
+[Text=. CharacterOffsetBegin=868 CharacterOffsetEnd=869 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, Donut-3)
+det(Donut-3, The-1)
+amod(Donut-3, Big-2)
+punct(Donut-3, .-4)
+
+Extracted the following NER entity mentions:
+Big Donut	MISC	MISC:0.5466648890142265
+
+Sentence #16 (21 tokens):
+Setting the camera down somewhere, Steven throws some trash bags out of a dumpster to make room for Lion.
+
+Tokens:
+[Text=Setting CharacterOffsetBegin=870 CharacterOffsetEnd=877 PartOfSpeech=VBG Lemma=set NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=878 CharacterOffsetEnd=881 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=camera CharacterOffsetBegin=882 CharacterOffsetEnd=888 PartOfSpeech=NN Lemma=camera NamedEntityTag=O]
+[Text=down CharacterOffsetBegin=889 CharacterOffsetEnd=893 PartOfSpeech=RP Lemma=down NamedEntityTag=O]
+[Text=somewhere CharacterOffsetBegin=894 CharacterOffsetEnd=903 PartOfSpeech=RB Lemma=somewhere NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=903 CharacterOffsetEnd=904 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Steven CharacterOffsetBegin=905 CharacterOffsetEnd=911 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=throws CharacterOffsetBegin=912 CharacterOffsetEnd=918 PartOfSpeech=VBZ Lemma=throw NamedEntityTag=O]
+[Text=some CharacterOffsetBegin=919 CharacterOffsetEnd=923 PartOfSpeech=DT Lemma=some NamedEntityTag=O]
+[Text=trash CharacterOffsetBegin=924 CharacterOffsetEnd=929 PartOfSpeech=NN Lemma=trash NamedEntityTag=O]
+[Text=bags CharacterOffsetBegin=930 CharacterOffsetEnd=934 PartOfSpeech=NNS Lemma=bag NamedEntityTag=O]
+[Text=out CharacterOffsetBegin=935 CharacterOffsetEnd=938 PartOfSpeech=IN Lemma=out NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=939 CharacterOffsetEnd=941 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=942 CharacterOffsetEnd=943 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=dumpster CharacterOffsetBegin=944 CharacterOffsetEnd=952 PartOfSpeech=NN Lemma=dumpster NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=953 CharacterOffsetEnd=955 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=make CharacterOffsetBegin=956 CharacterOffsetEnd=960 PartOfSpeech=VB Lemma=make NamedEntityTag=O]
+[Text=room CharacterOffsetBegin=961 CharacterOffsetEnd=965 PartOfSpeech=NN Lemma=room NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=966 CharacterOffsetEnd=969 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=Lion CharacterOffsetBegin=970 CharacterOffsetEnd=974 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=974 CharacterOffsetEnd=975 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, throws-8)
+advcl(throws-8, Setting-1)
+det(camera-3, the-2)
+obj(Setting-1, camera-3)
+dep(somewhere-5, down-4)
+advmod(Setting-1, somewhere-5)
+punct(throws-8, ,-6)
+nsubj(throws-8, Steven-7)
+det(bags-11, some-9)
+compound(bags-11, trash-10)
+obj(throws-8, bags-11)
+case(dumpster-15, out-12)
+fixed(out-12, of-13)
+det(dumpster-15, a-14)
+obl:out_of(throws-8, dumpster-15)
+mark(make-17, to-16)
+advcl:to(throws-8, make-17)
+obj(make-17, room-18)
+case(Lion-20, for-19)
+obl:for(make-17, Lion-20)
+punct(throws-8, .-21)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.9989791274562425
+
+Sentence #17 (7 tokens):
+Steven says: "Okay."
+
+Tokens:
+[Text=Steven CharacterOffsetBegin=976 CharacterOffsetEnd=982 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=983 CharacterOffsetEnd=987 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=987 CharacterOffsetEnd=988 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=989 CharacterOffsetEnd=990 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Okay CharacterOffsetBegin=990 CharacterOffsetEnd=994 PartOfSpeech=UH Lemma=okay NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=994 CharacterOffsetEnd=995 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=995 CharacterOffsetEnd=996 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Steven-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-2, Okay-5)
+punct(says-2, .-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.9884268310929921
+
+Sentence #18 (10 tokens):
+Steven says: "Go ahead, Lion."
+
+Tokens:
+[Text=Steven CharacterOffsetBegin=997 CharacterOffsetEnd=1003 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1004 CharacterOffsetEnd=1008 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1008 CharacterOffsetEnd=1009 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1010 CharacterOffsetEnd=1011 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Go CharacterOffsetBegin=1011 CharacterOffsetEnd=1013 PartOfSpeech=VB Lemma=go NamedEntityTag=O]
+[Text=ahead CharacterOffsetBegin=1014 CharacterOffsetEnd=1019 PartOfSpeech=RB Lemma=ahead NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1019 CharacterOffsetEnd=1020 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Lion CharacterOffsetBegin=1021 CharacterOffsetEnd=1025 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1025 CharacterOffsetEnd=1026 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1026 CharacterOffsetEnd=1027 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Steven-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+dep(says-2, Go-5)
+advmod(Go-5, ahead-6)
+punct(Go-5, ,-7)
+dep(Go-5, Lion-8)
+punct(says-2, .-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.982940765240237
+
+Sentence #19 (13 tokens):
+Lion jumps in, landing inside the dumpster with a loud thunk.
+
+Tokens:
+[Text=Lion CharacterOffsetBegin=1028 CharacterOffsetEnd=1032 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=jumps CharacterOffsetBegin=1033 CharacterOffsetEnd=1038 PartOfSpeech=VBZ Lemma=jump NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1039 CharacterOffsetEnd=1041 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1041 CharacterOffsetEnd=1042 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=landing CharacterOffsetBegin=1043 CharacterOffsetEnd=1050 PartOfSpeech=VBG Lemma=land NamedEntityTag=O]
+[Text=inside CharacterOffsetBegin=1051 CharacterOffsetEnd=1057 PartOfSpeech=IN Lemma=inside NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1058 CharacterOffsetEnd=1061 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=dumpster CharacterOffsetBegin=1062 CharacterOffsetEnd=1070 PartOfSpeech=NN Lemma=dumpster NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=1071 CharacterOffsetEnd=1075 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1076 CharacterOffsetEnd=1077 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=loud CharacterOffsetBegin=1078 CharacterOffsetEnd=1082 PartOfSpeech=JJ Lemma=loud NamedEntityTag=O]
+[Text=thunk CharacterOffsetBegin=1083 CharacterOffsetEnd=1088 PartOfSpeech=NN Lemma=thunk NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1088 CharacterOffsetEnd=1089 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, jumps-2)
+nsubj(jumps-2, Lion-1)
+case(landing-5, in-3)
+punct(landing-5, ,-4)
+advcl:in(jumps-2, landing-5)
+case(dumpster-8, inside-6)
+det(dumpster-8, the-7)
+obl:inside(landing-5, dumpster-8)
+case(thunk-12, with-9)
+det(thunk-12, a-10)
+amod(thunk-12, loud-11)
+obl:with(landing-5, thunk-12)
+punct(jumps-2, .-13)
+
+Extracted the following NER entity mentions:
+
+Sentence #20 (25 tokens):
+Steven chuckles as he films Lion curled up comfortably inside, when Lars exits the back door of the shop with more trash bags.
+
+Tokens:
+[Text=Steven CharacterOffsetBegin=1090 CharacterOffsetEnd=1096 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=chuckles CharacterOffsetBegin=1097 CharacterOffsetEnd=1105 PartOfSpeech=VBZ Lemma=chuckle NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1106 CharacterOffsetEnd=1108 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=1109 CharacterOffsetEnd=1111 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=films CharacterOffsetBegin=1112 CharacterOffsetEnd=1117 PartOfSpeech=NNS Lemma=film NamedEntityTag=O]
+[Text=Lion CharacterOffsetBegin=1118 CharacterOffsetEnd=1122 PartOfSpeech=NNP Lemma=Lion NamedEntityTag=O]
+[Text=curled CharacterOffsetBegin=1123 CharacterOffsetEnd=1129 PartOfSpeech=VBD Lemma=curl NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=1130 CharacterOffsetEnd=1132 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=comfortably CharacterOffsetBegin=1133 CharacterOffsetEnd=1144 PartOfSpeech=RB Lemma=comfortably NamedEntityTag=O]
+[Text=inside CharacterOffsetBegin=1145 CharacterOffsetEnd=1151 PartOfSpeech=RB Lemma=inside NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1151 CharacterOffsetEnd=1152 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=when CharacterOffsetBegin=1153 CharacterOffsetEnd=1157 PartOfSpeech=WRB Lemma=when NamedEntityTag=O]
+[Text=Lars CharacterOffsetBegin=1158 CharacterOffsetEnd=1162 PartOfSpeech=NNP Lemma=Lars NamedEntityTag=PERSON]
+[Text=exits CharacterOffsetBegin=1163 CharacterOffsetEnd=1168 PartOfSpeech=NNS Lemma=exit NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1169 CharacterOffsetEnd=1172 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=1173 CharacterOffsetEnd=1177 PartOfSpeech=JJ Lemma=back NamedEntityTag=O]
+[Text=door CharacterOffsetBegin=1178 CharacterOffsetEnd=1182 PartOfSpeech=NN Lemma=door NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1183 CharacterOffsetEnd=1185 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1186 CharacterOffsetEnd=1189 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=shop CharacterOffsetBegin=1190 CharacterOffsetEnd=1194 PartOfSpeech=NN Lemma=shop NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=1195 CharacterOffsetEnd=1199 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=more CharacterOffsetBegin=1200 CharacterOffsetEnd=1204 PartOfSpeech=JJR Lemma=more NamedEntityTag=O]
+[Text=trash CharacterOffsetBegin=1205 CharacterOffsetEnd=1210 PartOfSpeech=NN Lemma=trash NamedEntityTag=O]
+[Text=bags CharacterOffsetBegin=1211 CharacterOffsetEnd=1215 PartOfSpeech=NNS Lemma=bag NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1215 CharacterOffsetEnd=1216 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, chuckles-2)
+nsubj(chuckles-2, Steven-1)
+mark(curled-7, as-3)
+compound(Lion-6, he-4)
+compound(Lion-6, films-5)
+nsubj(curled-7, Lion-6)
+advcl:as(chuckles-2, curled-7)
+compound:prt(curled-7, up-8)
+advmod(inside-10, comfortably-9)
+advmod(curled-7, inside-10)
+punct(curled-7, ,-11)
+dep(curled-7, when-12)
+compound(exits-14, Lars-13)
+dep(when-12, exits-14)
+det(door-17, the-15)
+amod(door-17, back-16)
+dep(exits-14, door-17)
+case(shop-20, of-18)
+det(shop-20, the-19)
+nmod:of(door-17, shop-20)
+case(bags-24, with-21)
+amod(bags-24, more-22)
+compound(bags-24, trash-23)
+nmod:with(door-17, bags-24)
+punct(chuckles-2, .-25)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.9952859493096584
+Lars	PERSON	PERSON:0.9144739223669364
+he	PERSON	-
+
+Sentence #21 (10 tokens):
+Lars says: "*startled* Aaah!"
+
+Tokens:
+[Text=Lars CharacterOffsetBegin=1217 CharacterOffsetEnd=1221 PartOfSpeech=NNP Lemma=Lars NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1222 CharacterOffsetEnd=1226 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1226 CharacterOffsetEnd=1227 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1228 CharacterOffsetEnd=1229 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1229 CharacterOffsetEnd=1230 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=startled CharacterOffsetBegin=1230 CharacterOffsetEnd=1238 PartOfSpeech=JJ Lemma=startled NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1238 CharacterOffsetEnd=1239 PartOfSpeech=HYPH Lemma=* NamedEntityTag=O]
+[Text=Aaah CharacterOffsetBegin=1240 CharacterOffsetEnd=1244 PartOfSpeech=NN Lemma=aaah NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1244 CharacterOffsetEnd=1245 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1245 CharacterOffsetEnd=1246 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Lars-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(startled-6, *-5)
+ccomp(says-2, startled-6)
+punct(Aaah-8, *-7)
+dep(startled-6, Aaah-8)
+punct(says-2, !-9)
+punct(says-2, "-10)
+
+Extracted the following NER entity mentions:
+Lars	PERSON	PERSON:0.9884800029636164
+
+Sentence #22 (7 tokens):
+Lars says: "Again?!"
+
+Tokens:
+[Text=Lars CharacterOffsetBegin=1247 CharacterOffsetEnd=1251 PartOfSpeech=NNP Lemma=Lars NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1252 CharacterOffsetEnd=1256 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1256 CharacterOffsetEnd=1257 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1258 CharacterOffsetEnd=1259 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Again CharacterOffsetBegin=1259 CharacterOffsetEnd=1264 PartOfSpeech=RB Lemma=again NamedEntityTag=O]
+[Text=?! CharacterOffsetBegin=1264 CharacterOffsetEnd=1266 PartOfSpeech=. Lemma=?! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1266 CharacterOffsetEnd=1267 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Lars-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+advmod(says-2, Again-5)
+punct(says-2, ?!-6)
+punct(says-2, "-7)
+
+Extracted the following NER entity mentions:
+Lars	PERSON	PERSON:0.9886758757676831
+
+Sentence #23 (6 tokens):
+Lars says: "!"
+
+Tokens:
+[Text=Lars CharacterOffsetBegin=1268 CharacterOffsetEnd=1272 PartOfSpeech=NNP Lemma=Lars NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1273 CharacterOffsetEnd=1277 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1277 CharacterOffsetEnd=1278 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1279 CharacterOffsetEnd=1280 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1280 CharacterOffsetEnd=1281 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1281 CharacterOffsetEnd=1282 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Lars-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+punct(says-2, !-5)
+punct(says-2, "-6)
+
+Extracted the following NER entity mentions:
+Lars	PERSON	PERSON:0.9888954490973269
+
+Sentence #24 (2 tokens):
+END.
+
+Tokens:
+[Text=END CharacterOffsetBegin=1283 CharacterOffsetEnd=1286 PartOfSpeech=NN Lemma=end NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1286 CharacterOffsetEnd=1287 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, END-1)
+punct(END-1, .-2)
+
+Extracted the following NER entity mentions:
+
+Coreference set:
+	(5,13,[13,14]) -> (5,7,[5,8]), that is: "it" -> "a cardboard cylinder"
+	(6,6,[6,7]) -> (5,7,[5,8]), that is: "it" -> "a cardboard cylinder"
+	(7,12,[12,13]) -> (5,7,[5,8]), that is: "it" -> "a cardboard cylinder"
+
+Coreference set:
+	(6,12,[12,13]) -> (4,6,[5,7]), that is: "Steven" -> "spots Steven"
+	(16,7,[7,8]) -> (4,6,[5,7]), that is: "Steven" -> "spots Steven"
+	(17,1,[1,2]) -> (4,6,[5,7]), that is: "Steven" -> "spots Steven"
+	(18,1,[1,2]) -> (4,6,[5,7]), that is: "Steven" -> "spots Steven"
+	(20,1,[1,2]) -> (4,6,[5,7]), that is: "Steven" -> "spots Steven"
+
+Coreference set:
+	(3,1,[1,2]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+	(3,15,[15,16]) -> (20,6,[4,7]), that is: "it" -> "he films Lion"
+	(5,1,[1,2]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+	(9,1,[1,2]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+	(11,1,[1,2]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+	(16,20,[20,21]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+	(18,8,[8,9]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+	(19,1,[1,2]) -> (20,6,[4,7]), that is: "Lion" -> "he films Lion"
+
+Coreference set:
+	(4,8,[8,9]) -> (4,1,[1,2]), that is: "his" -> "He"
+	(5,10,[10,11]) -> (4,1,[1,2]), that is: "his" -> "He"
+	(6,1,[1,2]) -> (4,1,[1,2]), that is: "He" -> "He"
+	(8,1,[1,2]) -> (4,1,[1,2]), that is: "His" -> "He"
+	(9,6,[6,7]) -> (4,1,[1,2]), that is: "his" -> "He"
+	(10,1,[1,2]) -> (4,1,[1,2]), that is: "He" -> "He"
+	(11,12,[12,13]) -> (4,1,[1,2]), that is: "himself" -> "He"
+
+Coreference set:
+	(21,1,[1,2]) -> (20,13,[13,14]), that is: "Lars" -> "Lars"
+	(22,1,[1,2]) -> (20,13,[13,14]), that is: "Lars" -> "Lars"
+	(23,1,[1,2]) -> (20,13,[13,14]), that is: "Lars" -> "Lars"
+
+Coreference set:
+	(12,20,[20,21]) -> (12,8,[8,9]), that is: "her" -> "her"

@@ -1,0 +1,381 @@
+Document: ID=Rising Tides, Crashing Skies_Transcript | Steven Universe Wiki | Fandom.html.txt.txt (6 sentences, 157 tokens)
+
+Sentence #1 (21 tokens):
+A to Z says: "Community content is available under CC-BY-SA unless otherwise noted."
+
+Tokens:
+[Text=A CharacterOffsetBegin=0 CharacterOffsetEnd=1 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=2 CharacterOffsetEnd=4 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=Z CharacterOffsetBegin=5 CharacterOffsetEnd=6 PartOfSpeech=NN Lemma=z NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=7 CharacterOffsetEnd=11 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=11 CharacterOffsetEnd=12 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=13 CharacterOffsetEnd=14 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Community CharacterOffsetBegin=14 CharacterOffsetEnd=23 PartOfSpeech=NN Lemma=community NamedEntityTag=O]
+[Text=content CharacterOffsetBegin=24 CharacterOffsetEnd=31 PartOfSpeech=NN Lemma=content NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=32 CharacterOffsetEnd=34 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=available CharacterOffsetBegin=35 CharacterOffsetEnd=44 PartOfSpeech=JJ Lemma=available NamedEntityTag=O]
+[Text=under CharacterOffsetBegin=45 CharacterOffsetEnd=50 PartOfSpeech=IN Lemma=under NamedEntityTag=O]
+[Text=CC CharacterOffsetBegin=51 CharacterOffsetEnd=53 PartOfSpeech=NN Lemma=cc NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=53 CharacterOffsetEnd=54 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=BY CharacterOffsetBegin=54 CharacterOffsetEnd=56 PartOfSpeech=RB Lemma=by NamedEntityTag=O]
+[Text=- CharacterOffsetBegin=56 CharacterOffsetEnd=57 PartOfSpeech=HYPH Lemma=- NamedEntityTag=O]
+[Text=SA CharacterOffsetBegin=57 CharacterOffsetEnd=59 PartOfSpeech=NNP Lemma=SA NamedEntityTag=O]
+[Text=unless CharacterOffsetBegin=60 CharacterOffsetEnd=66 PartOfSpeech=IN Lemma=unless NamedEntityTag=O]
+[Text=otherwise CharacterOffsetBegin=67 CharacterOffsetEnd=76 PartOfSpeech=RB Lemma=otherwise NamedEntityTag=O]
+[Text=noted CharacterOffsetBegin=77 CharacterOffsetEnd=82 PartOfSpeech=VBN Lemma=note NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=82 CharacterOffsetEnd=83 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=83 CharacterOffsetEnd=84 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-4)
+nsubj(says-4, A-1)
+case(Z-3, to-2)
+nmod:to(A-1, Z-3)
+punct(says-4, :-5)
+punct(says-4, "-6)
+compound(content-8, Community-7)
+nsubj(available-10, content-8)
+cop(available-10, is-9)
+ccomp(says-4, available-10)
+case(SA-16, under-11)
+compound(SA-16, CC-12)
+punct(SA-16, --13)
+advmod(SA-16, BY-14)
+punct(SA-16, --15)
+obl:under(available-10, SA-16)
+mark(noted-19, unless-17)
+advmod(noted-19, otherwise-18)
+advcl:unless(available-10, noted-19)
+punct(says-4, .-20)
+punct(says-4, "-21)
+
+Extracted the following NER entity mentions:
+
+Sentence #2 (4 tokens):
+Steven Universe character.
+
+Tokens:
+[Text=Steven CharacterOffsetBegin=85 CharacterOffsetEnd=91 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=Universe CharacterOffsetBegin=92 CharacterOffsetEnd=100 PartOfSpeech=NNP Lemma=Universe NamedEntityTag=PERSON]
+[Text=character CharacterOffsetBegin=101 CharacterOffsetEnd=110 PartOfSpeech=NN Lemma=character NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=110 CharacterOffsetEnd=111 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, character-3)
+compound(Universe-2, Steven-1)
+compound(character-3, Universe-2)
+punct(character-3, .-4)
+
+Extracted the following NER entity mentions:
+Steven Universe	PERSON	PERSON:0.8725311789458519
+
+Sentence #3 (18 tokens):
+Pink Diamond says: "Explore Wikis: Universal Conquest Wiki: Let's Go Luna!"
+
+Tokens:
+[Text=Pink CharacterOffsetBegin=112 CharacterOffsetEnd=116 PartOfSpeech=NNP Lemma=Pink NamedEntityTag=ORGANIZATION]
+[Text=Diamond CharacterOffsetBegin=117 CharacterOffsetEnd=124 PartOfSpeech=NNP Lemma=Diamond NamedEntityTag=ORGANIZATION]
+[Text=says CharacterOffsetBegin=125 CharacterOffsetEnd=129 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=129 CharacterOffsetEnd=130 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=131 CharacterOffsetEnd=132 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Explore CharacterOffsetBegin=132 CharacterOffsetEnd=139 PartOfSpeech=VB Lemma=explore NamedEntityTag=O]
+[Text=Wikis CharacterOffsetBegin=140 CharacterOffsetEnd=145 PartOfSpeech=NNP Lemma=Wikis NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=145 CharacterOffsetEnd=146 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Universal CharacterOffsetBegin=147 CharacterOffsetEnd=156 PartOfSpeech=NNP Lemma=Universal NamedEntityTag=O]
+[Text=Conquest CharacterOffsetBegin=157 CharacterOffsetEnd=165 PartOfSpeech=NNP Lemma=Conquest NamedEntityTag=O]
+[Text=Wiki CharacterOffsetBegin=166 CharacterOffsetEnd=170 PartOfSpeech=NNP Lemma=Wiki NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=170 CharacterOffsetEnd=171 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Let CharacterOffsetBegin=172 CharacterOffsetEnd=175 PartOfSpeech=VB Lemma=let NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=175 CharacterOffsetEnd=177 PartOfSpeech=PRP Lemma='s NamedEntityTag=O]
+[Text=Go CharacterOffsetBegin=178 CharacterOffsetEnd=180 PartOfSpeech=VB Lemma=go NamedEntityTag=O]
+[Text=Luna CharacterOffsetBegin=181 CharacterOffsetEnd=185 PartOfSpeech=NNP Lemma=Luna NamedEntityTag=PERSON]
+[Text=! CharacterOffsetBegin=185 CharacterOffsetEnd=186 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=186 CharacterOffsetEnd=187 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Diamond-2, Pink-1)
+nsubj(says-3, Diamond-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+dep(says-3, Explore-6)
+obj(Explore-6, Wikis-7)
+punct(Wikis-7, :-8)
+compound(Conquest-10, Universal-9)
+compound(Wiki-11, Conquest-10)
+dep(Wikis-7, Wiki-11)
+punct(Wikis-7, :-12)
+dep(Wikis-7, Let-13)
+nsubj(Go-15, 's-14)
+ccomp(Let-13, Go-15)
+obj(Go-15, Luna-16)
+punct(says-3, !-17)
+punct(says-3, "-18)
+
+Extracted the following NER entity mentions:
+Pink Diamond	ORGANIZATION	ORGANIZATION:0.8449416260328335
+Luna	PERSON	PERSON:0.8687864031507884
+
+Sentence #4 (85 tokens):
+Explore properties says: "Fandom: Gamepedia: D&D Beyond: Cortex RPG: Muthead: Futhead: Fanatical: Follow Us: Overview: About: Careers: Press: Contact: Terms of Use: Privacy Policy: Global Sitemap: Local Sitemap: Community: Community Central: Support: Help: Do Not Sell My Info: Advertise: Media Kit: Contact: Fandom Apps: Take your favorite fandoms with you and never miss a beat."
+
+Tokens:
+[Text=Explore CharacterOffsetBegin=188 CharacterOffsetEnd=195 PartOfSpeech=VB Lemma=explore NamedEntityTag=O]
+[Text=properties CharacterOffsetBegin=196 CharacterOffsetEnd=206 PartOfSpeech=NNS Lemma=property NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=207 CharacterOffsetEnd=211 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=211 CharacterOffsetEnd=212 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=213 CharacterOffsetEnd=214 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Fandom CharacterOffsetBegin=214 CharacterOffsetEnd=220 PartOfSpeech=NN Lemma=fandom NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=220 CharacterOffsetEnd=221 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Gamepedia CharacterOffsetBegin=222 CharacterOffsetEnd=231 PartOfSpeech=NNP Lemma=Gamepedia NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=231 CharacterOffsetEnd=232 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=D&D CharacterOffsetBegin=233 CharacterOffsetEnd=236 PartOfSpeech=NNP Lemma=D&D NamedEntityTag=O]
+[Text=Beyond CharacterOffsetBegin=237 CharacterOffsetEnd=243 PartOfSpeech=NNP Lemma=Beyond NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=243 CharacterOffsetEnd=244 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Cortex CharacterOffsetBegin=245 CharacterOffsetEnd=251 PartOfSpeech=NN Lemma=cortex NamedEntityTag=O]
+[Text=RPG CharacterOffsetBegin=252 CharacterOffsetEnd=255 PartOfSpeech=NN Lemma=rpg NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=255 CharacterOffsetEnd=256 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Muthead CharacterOffsetBegin=257 CharacterOffsetEnd=264 PartOfSpeech=NNP Lemma=Muthead NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=264 CharacterOffsetEnd=265 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Futhead CharacterOffsetBegin=266 CharacterOffsetEnd=273 PartOfSpeech=NNP Lemma=Futhead NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=273 CharacterOffsetEnd=274 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Fanatical CharacterOffsetBegin=275 CharacterOffsetEnd=284 PartOfSpeech=JJ Lemma=fanatical NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=284 CharacterOffsetEnd=285 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Follow CharacterOffsetBegin=286 CharacterOffsetEnd=292 PartOfSpeech=VB Lemma=follow NamedEntityTag=O]
+[Text=Us CharacterOffsetBegin=293 CharacterOffsetEnd=295 PartOfSpeech=PRP Lemma=we NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=295 CharacterOffsetEnd=296 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Overview CharacterOffsetBegin=297 CharacterOffsetEnd=305 PartOfSpeech=NN Lemma=overview NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=305 CharacterOffsetEnd=306 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=About CharacterOffsetBegin=307 CharacterOffsetEnd=312 PartOfSpeech=RB Lemma=about NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=312 CharacterOffsetEnd=313 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Careers CharacterOffsetBegin=314 CharacterOffsetEnd=321 PartOfSpeech=NNS Lemma=career NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=321 CharacterOffsetEnd=322 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Press CharacterOffsetBegin=323 CharacterOffsetEnd=328 PartOfSpeech=NN Lemma=press NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=328 CharacterOffsetEnd=329 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Contact CharacterOffsetBegin=330 CharacterOffsetEnd=337 PartOfSpeech=NN Lemma=contact NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=337 CharacterOffsetEnd=338 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Terms CharacterOffsetBegin=339 CharacterOffsetEnd=344 PartOfSpeech=NNS Lemma=term NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=345 CharacterOffsetEnd=347 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Use CharacterOffsetBegin=348 CharacterOffsetEnd=351 PartOfSpeech=NNP Lemma=Use NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=351 CharacterOffsetEnd=352 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Privacy CharacterOffsetBegin=353 CharacterOffsetEnd=360 PartOfSpeech=NN Lemma=privacy NamedEntityTag=O]
+[Text=Policy CharacterOffsetBegin=361 CharacterOffsetEnd=367 PartOfSpeech=NN Lemma=policy NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=367 CharacterOffsetEnd=368 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Global CharacterOffsetBegin=369 CharacterOffsetEnd=375 PartOfSpeech=JJ Lemma=global NamedEntityTag=O]
+[Text=Sitemap CharacterOffsetBegin=376 CharacterOffsetEnd=383 PartOfSpeech=NN Lemma=sitemap NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=383 CharacterOffsetEnd=384 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Local CharacterOffsetBegin=385 CharacterOffsetEnd=390 PartOfSpeech=JJ Lemma=local NamedEntityTag=O]
+[Text=Sitemap CharacterOffsetBegin=391 CharacterOffsetEnd=398 PartOfSpeech=NN Lemma=sitemap NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=398 CharacterOffsetEnd=399 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Community CharacterOffsetBegin=400 CharacterOffsetEnd=409 PartOfSpeech=NN Lemma=community NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=409 CharacterOffsetEnd=410 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Community CharacterOffsetBegin=411 CharacterOffsetEnd=420 PartOfSpeech=NNP Lemma=Community NamedEntityTag=O]
+[Text=Central CharacterOffsetBegin=421 CharacterOffsetEnd=428 PartOfSpeech=NNP Lemma=Central NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=428 CharacterOffsetEnd=429 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Support CharacterOffsetBegin=430 CharacterOffsetEnd=437 PartOfSpeech=NN Lemma=support NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=437 CharacterOffsetEnd=438 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Help CharacterOffsetBegin=439 CharacterOffsetEnd=443 PartOfSpeech=NN Lemma=help NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=443 CharacterOffsetEnd=444 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Do CharacterOffsetBegin=445 CharacterOffsetEnd=447 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=Not CharacterOffsetBegin=448 CharacterOffsetEnd=451 PartOfSpeech=RB Lemma=not NamedEntityTag=O]
+[Text=Sell CharacterOffsetBegin=452 CharacterOffsetEnd=456 PartOfSpeech=VB Lemma=sell NamedEntityTag=O]
+[Text=My CharacterOffsetBegin=457 CharacterOffsetEnd=459 PartOfSpeech=PRP$ Lemma=my NamedEntityTag=O]
+[Text=Info CharacterOffsetBegin=460 CharacterOffsetEnd=464 PartOfSpeech=NNP Lemma=Info NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=464 CharacterOffsetEnd=465 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Advertise CharacterOffsetBegin=466 CharacterOffsetEnd=475 PartOfSpeech=VB Lemma=advertise NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=475 CharacterOffsetEnd=476 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Media CharacterOffsetBegin=477 CharacterOffsetEnd=482 PartOfSpeech=NN Lemma=media NamedEntityTag=O]
+[Text=Kit CharacterOffsetBegin=483 CharacterOffsetEnd=486 PartOfSpeech=NN Lemma=kit NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=486 CharacterOffsetEnd=487 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Contact CharacterOffsetBegin=488 CharacterOffsetEnd=495 PartOfSpeech=NN Lemma=contact NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=495 CharacterOffsetEnd=496 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Fandom CharacterOffsetBegin=497 CharacterOffsetEnd=503 PartOfSpeech=NN Lemma=fandom NamedEntityTag=O]
+[Text=Apps CharacterOffsetBegin=504 CharacterOffsetEnd=508 PartOfSpeech=NNS Lemma=app NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=508 CharacterOffsetEnd=509 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=Take CharacterOffsetBegin=510 CharacterOffsetEnd=514 PartOfSpeech=VB Lemma=take NamedEntityTag=O]
+[Text=your CharacterOffsetBegin=515 CharacterOffsetEnd=519 PartOfSpeech=PRP$ Lemma=you NamedEntityTag=O]
+[Text=favorite CharacterOffsetBegin=520 CharacterOffsetEnd=528 PartOfSpeech=JJ Lemma=favorite NamedEntityTag=O]
+[Text=fandoms CharacterOffsetBegin=529 CharacterOffsetEnd=536 PartOfSpeech=NNS Lemma=fandom NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=537 CharacterOffsetEnd=541 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=542 CharacterOffsetEnd=545 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=546 CharacterOffsetEnd=549 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=never CharacterOffsetBegin=550 CharacterOffsetEnd=555 PartOfSpeech=RB Lemma=never NamedEntityTag=O]
+[Text=miss CharacterOffsetBegin=556 CharacterOffsetEnd=560 PartOfSpeech=VBP Lemma=miss NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=561 CharacterOffsetEnd=562 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=beat CharacterOffsetBegin=563 CharacterOffsetEnd=567 PartOfSpeech=NN Lemma=beat NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=567 CharacterOffsetEnd=568 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=568 CharacterOffsetEnd=569 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+amod(properties-2, Explore-1)
+nsubj(says-3, properties-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+obj(says-3, Fandom-6)
+punct(Fandom-6, :-7)
+dep(Fandom-6, Gamepedia-8)
+punct(Gamepedia-8, :-9)
+compound(Beyond-11, D&D-10)
+dep(Gamepedia-8, Beyond-11)
+punct(Gamepedia-8, :-12)
+compound(RPG-14, Cortex-13)
+dep(Gamepedia-8, RPG-14)
+punct(RPG-14, :-15)
+dep(RPG-14, Muthead-16)
+punct(Muthead-16, :-17)
+dep(Muthead-16, Futhead-18)
+punct(Gamepedia-8, :-19)
+dep(Follow-22, Fanatical-20)
+punct(Follow-22, :-21)
+parataxis(Gamepedia-8, Follow-22)
+obj(Follow-22, Us-23)
+punct(Us-23, :-24)
+dep(Us-23, Overview-25)
+punct(Us-23, :-26)
+advmod(Careers-29, About-27)
+punct(Careers-29, :-28)
+dep(Us-23, Careers-29)
+punct(Careers-29, :-30)
+dep(Careers-29, Press-31)
+punct(Press-31, :-32)
+dep(Press-31, Contact-33)
+punct(Contact-33, :-34)
+dep(Contact-33, Terms-35)
+case(Use-37, of-36)
+nmod:of(Terms-35, Use-37)
+punct(Terms-35, :-38)
+compound(Policy-40, Privacy-39)
+dep(Terms-35, Policy-40)
+punct(Policy-40, :-41)
+amod(Sitemap-43, Global-42)
+dep(Policy-40, Sitemap-43)
+punct(Sitemap-43, :-44)
+amod(Sitemap-46, Local-45)
+dep(Sitemap-43, Sitemap-46)
+punct(Policy-40, :-47)
+dep(Policy-40, Community-48)
+punct(Community-48, :-49)
+compound(Central-51, Community-50)
+dep(Community-48, Central-51)
+punct(Community-48, :-52)
+dep(Community-48, Support-53)
+punct(Support-53, :-54)
+dep(Support-53, Help-55)
+punct(Help-55, :-56)
+aux(Sell-59, Do-57)
+advmod(Sell-59, Not-58)
+dep(Help-55, Sell-59)
+nmod:poss(Info-61, My-60)
+obj(Sell-59, Info-61)
+punct(Sell-59, :-62)
+dep(Kit-66, Advertise-63)
+punct(Kit-66, :-64)
+compound(Kit-66, Media-65)
+dep(Sell-59, Kit-66)
+punct(Kit-66, :-67)
+compound(Apps-71, Contact-68)
+punct(Apps-71, :-69)
+compound(Apps-71, Fandom-70)
+dep(Kit-66, Apps-71)
+punct(Apps-71, :-72)
+dep(Apps-71, Take-73)
+nmod:poss(fandoms-76, your-74)
+amod(fandoms-76, favorite-75)
+obj(Take-73, fandoms-76)
+case(you-78, with-77)
+obl:with(Take-73, you-78)
+cc(miss-81, and-79)
+advmod(miss-81, never-80)
+dep(Apps-71, miss-81)
+conj:and(Take-73, miss-81)
+det(beat-83, a-82)
+obj(miss-81, beat-83)
+punct(says-3, .-84)
+punct(says-3, "-85)
+
+Extracted the following NER entity mentions:
+
+Sentence #5 (14 tokens):
+D says: "Steven Universe Wiki is a FANDOM TV Community."
+
+Tokens:
+[Text=D CharacterOffsetBegin=570 CharacterOffsetEnd=571 PartOfSpeech=NN Lemma=d NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=572 CharacterOffsetEnd=576 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=576 CharacterOffsetEnd=577 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=578 CharacterOffsetEnd=579 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Steven CharacterOffsetBegin=579 CharacterOffsetEnd=585 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=Universe CharacterOffsetBegin=586 CharacterOffsetEnd=594 PartOfSpeech=NNP Lemma=Universe NamedEntityTag=PERSON]
+[Text=Wiki CharacterOffsetBegin=595 CharacterOffsetEnd=599 PartOfSpeech=NNP Lemma=Wiki NamedEntityTag=PERSON]
+[Text=is CharacterOffsetBegin=600 CharacterOffsetEnd=602 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=603 CharacterOffsetEnd=604 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=FANDOM CharacterOffsetBegin=605 CharacterOffsetEnd=611 PartOfSpeech=NN Lemma=fandom NamedEntityTag=O]
+[Text=TV CharacterOffsetBegin=612 CharacterOffsetEnd=614 PartOfSpeech=NN Lemma=tv NamedEntityTag=O]
+[Text=Community CharacterOffsetBegin=615 CharacterOffsetEnd=624 PartOfSpeech=NN Lemma=community NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=624 CharacterOffsetEnd=625 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=625 CharacterOffsetEnd=626 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, D-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+compound(Wiki-7, Steven-5)
+compound(Wiki-7, Universe-6)
+nsubj(Community-12, Wiki-7)
+cop(Community-12, is-8)
+det(Community-12, a-9)
+compound(Community-12, FANDOM-10)
+compound(Community-12, TV-11)
+ccomp(says-2, Community-12)
+punct(says-2, .-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Steven Universe Wiki	PERSON	PERSON:0.912201629421131
+
+Sentence #6 (15 tokens):
+D Beyond says: "Steven Universe Wiki is a FANDOM TV Community."
+
+Tokens:
+[Text=D CharacterOffsetBegin=627 CharacterOffsetEnd=628 PartOfSpeech=NN Lemma=d NamedEntityTag=O]
+[Text=Beyond CharacterOffsetBegin=629 CharacterOffsetEnd=635 PartOfSpeech=NNP Lemma=Beyond NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=636 CharacterOffsetEnd=640 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=640 CharacterOffsetEnd=641 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=642 CharacterOffsetEnd=643 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Steven CharacterOffsetBegin=643 CharacterOffsetEnd=649 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=Universe CharacterOffsetBegin=650 CharacterOffsetEnd=658 PartOfSpeech=NNP Lemma=Universe NamedEntityTag=PERSON]
+[Text=Wiki CharacterOffsetBegin=659 CharacterOffsetEnd=663 PartOfSpeech=NNP Lemma=Wiki NamedEntityTag=PERSON]
+[Text=is CharacterOffsetBegin=664 CharacterOffsetEnd=666 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=667 CharacterOffsetEnd=668 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=FANDOM CharacterOffsetBegin=669 CharacterOffsetEnd=675 PartOfSpeech=NN Lemma=fandom NamedEntityTag=O]
+[Text=TV CharacterOffsetBegin=676 CharacterOffsetEnd=678 PartOfSpeech=NN Lemma=tv NamedEntityTag=O]
+[Text=Community CharacterOffsetBegin=679 CharacterOffsetEnd=688 PartOfSpeech=NN Lemma=community NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=688 CharacterOffsetEnd=689 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=689 CharacterOffsetEnd=690 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-3)
+compound(Beyond-2, D-1)
+nsubj(says-3, Beyond-2)
+punct(says-3, :-4)
+punct(says-3, "-5)
+compound(Wiki-8, Steven-6)
+compound(Wiki-8, Universe-7)
+nsubj(Community-13, Wiki-8)
+cop(Community-13, is-9)
+det(Community-13, a-10)
+compound(Community-13, FANDOM-11)
+compound(Community-13, TV-12)
+ccomp(says-3, Community-13)
+punct(says-3, .-14)
+punct(says-3, "-15)
+
+Extracted the following NER entity mentions:
+Steven Universe Wiki	PERSON	PERSON:0.8374170778867257
+
+Coreference set:
+	(6,8,[6,9]) -> (5,7,[5,8]), that is: "Steven Universe Wiki" -> "Steven Universe Wiki"
+
+Coreference set:
+	(4,23,[23,24]) -> (3,14,[14,15]), that is: "Us" -> "'s"

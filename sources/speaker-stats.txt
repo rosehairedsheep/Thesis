@@ -1,0 +1,112 @@
+ADV:
+male tokens/percentages: 154665, 76.62145291693088
+female tokens/percentages: 40130, 19.88050887761573
+nonbinary tokens/percentages: 7061, 3.4980382054533923
+male speakers/percentages: 139, 71.64948453608247
+female speakers/percentages: 52, 26.804123711340207
+nonbinary speakers/percentages: 3, 1.5463917525773196
+ATL:
+male tokens/percentages: 60961, 70.9087948261623
+female tokens/percentages: 25010, 29.091205173837693
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 67, 74.44444444444444
+female speakers/percentages: 23, 25.555555555555554
+nonbinary speakers/percentages: 0, 0.0
+CLW:
+male tokens/percentages: 16746, 80.80876320995995
+female tokens/percentages: 3977, 19.191236790040055
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 35, 81.3953488372093
+female speakers/percentages: 8, 18.6046511627907
+nonbinary speakers/percentages: 0, 0.0
+DUC:
+male tokens/percentages: 92311, 73.16166563634347
+female tokens/percentages: 33863, 26.838334363656536
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 63, 69.23076923076923
+female speakers/percentages: 28, 30.76923076923077
+nonbinary speakers/percentages: 0, 0.0
+FUT:
+male tokens/percentages: 151706, 76.88206645956123
+female tokens/percentages: 45617, 23.117933540438774
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 132, 75.42857142857143
+female speakers/percentages: 43, 24.571428571428573
+nonbinary speakers/percentages: 0, 0.0
+GRA:
+male tokens/percentages: 92036, 71.41826195593976
+female tokens/percentages: 36833, 28.581738044060245
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 58, 78.37837837837837
+female speakers/percentages: 16, 21.62162162162162
+nonbinary speakers/percentages: 0, 0.0
+GUM:
+male tokens/percentages: 214360, 79.64628074608011
+female tokens/percentages: 54780, 20.353719253919895
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 112, 75.67567567567568
+female speakers/percentages: 36, 24.324324324324326
+nonbinary speakers/percentages: 0, 0.0
+KOR:
+male tokens/percentages: 49194, 58.602656501280606
+female tokens/percentages: 34751, 41.3973434987194
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 47, 67.14285714285714
+female speakers/percentages: 23, 32.857142857142854
+nonbinary speakers/percentages: 0, 0.0
+MLP:
+male tokens/percentages: 94575, 20.48465735444143
+female tokens/percentages: 367112, 79.51534264555858
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 87, 44.61538461538462
+female speakers/percentages: 108, 55.38461538461539
+nonbinary speakers/percentages: 0, 0.0
+OWL:
+male tokens/percentages: 11846, 32.57796600847038
+female tokens/percentages: 24516, 67.42203399152962
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 14, 51.85185185185185
+female speakers/percentages: 13, 48.148148148148145
+nonbinary speakers/percentages: 0, 0.0
+PPG:
+male tokens/percentages: 4360, 13.17897409545688
+female tokens/percentages: 28723, 86.82102590454312
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 11, 36.666666666666664
+female speakers/percentages: 19, 63.33333333333333
+nonbinary speakers/percentages: 0, 0.0
+RAM:
+male tokens/percentages: 45046, 83.5639817460023
+female tokens/percentages: 8601, 15.95555225763366
+nonbinary tokens/percentages: 259, 0.4804659963640411
+male speakers/percentages: 48, 84.21052631578947
+female speakers/percentages: 8, 14.035087719298245
+nonbinary speakers/percentages: 1, 1.7543859649122806
+SHE:
+male tokens/percentages: 21022, 23.279403785034827
+female tokens/percentages: 67989, 75.28985747981794
+nonbinary tokens/percentages: 1292, 1.4307387351472265
+male speakers/percentages: 14, 33.33333333333333
+female speakers/percentages: 27, 64.28571428571429
+nonbinary speakers/percentages: 1, 2.380952380952381
+SPO:
+male tokens/percentages: 241854, 93.5670568937102
+female tokens/percentages: 16628, 6.4329431062898
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 97, 86.60714285714286
+female speakers/percentages: 15, 13.392857142857142
+nonbinary speakers/percentages: 0, 0.0
+STU:
+male tokens/percentages: 117967, 51.78943024470766
+female tokens/percentages: 107478, 47.18458877347639
+nonbinary tokens/percentages: 2337, 1.0259809818159469
+male speakers/percentages: 25, 34.24657534246575
+female speakers/percentages: 44, 60.273972602739725
+nonbinary speakers/percentages: 4, 5.47945205479452
+VOL:
+male tokens/percentages: 35506, 72.93455486627501
+female tokens/percentages: 13176, 27.065445133724992
+nonbinary tokens/percentages: 0, 0.0
+male speakers/percentages: 25, 71.42857142857143
+female speakers/percentages: 10, 28.57142857142857
+nonbinary speakers/percentages: 0, 0.0

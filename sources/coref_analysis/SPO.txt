@@ -1,0 +1,6712 @@
+STATS:
+[1927, 152, 154, 3]
+
+
+
+speaker: SQUIDWARD
+addressee: FRANK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: JUDGE
+addressee: SQUIDWARD
+
+speaker: JUDGE
+addressee: SQUIDWARD
+
+speaker: JUDGE
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: BOTH
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: KAREN
+addressee: SQUIDWARD
+
+speaker: DEAD EYE PLANKTON
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: MONROE
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: LARRY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SCOOTER
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: SANDY
+addressee: FRANK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SANDY
+addressee: GARY
+
+speaker: SANDY
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SANDY
+addressee: GARY
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: IMITATION KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: IMITATION KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: IMITATION KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: IMITATION KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: IMITATION KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: HAROLD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: HAROLD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MAYOR CHEESEHEAD
+
+speaker: PECOS PATRICK
+addressee: MAYOR CHEESEHEAD
+
+speaker: SANDY
+addressee: GARY
+
+speaker: SANDY
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: NAT
+addressee: FRANKIE BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MONTY
+
+speaker: SQUIDWARD
+addressee: MONTY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: HAROLD
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: FRANK
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: LARRY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: LRH
+addressee: SQUIDWARD
+
+speaker: SANDY
+addressee: LRH
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: LRH
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MERMAID MAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: KAREN
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PLANKTON
+
+speaker: DEAD EYE PLANKTON
+addressee: PLANKTON
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: PATCHY
+addressee: ROBIN WILLIAMS
+
+speaker: PATCHY
+addressee: ROBIN WILLIAMS
+
+speaker: PATCHY
+addressee: ROBIN WILLIAMS
+
+speaker: PATCHY
+addressee: ROBIN WILLIAMS
+
+speaker: PATCHY
+addressee: ROBIN WILLIAMS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: FRANKIE BILLY
+addressee: MR. KRABS
+
+speaker: WILLIAM KRABS
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: TOM
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRANKIE BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUILVIA
+
+speaker: SQUIDWARD
+addressee: SQUILVIA
+
+speaker: SQUIDWARD
+addressee: SQUILVIA
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: POLICE
+addressee: MRS. PUFF
+
+speaker: POLICE
+addressee: MRS. PUFF
+
+speaker: POLICE
+addressee: MRS. PUFF
+
+speaker: POLICE
+addressee: MRS. PUFF
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: UNCLE CAPTAIN BLUE
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: OFFICER NANCY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: MRS. PUFF
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: REALISTIC FISH HEAD
+addressee: PATRICK
+
+speaker: REALISTIC FISH HEAD
+addressee: PATRICK
+
+speaker: REALISTIC FISH HEAD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: GENE SCALLOP
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT PETERSON
+
+speaker: SQUIDWARD
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GENE SCALLOP
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GENE SCALLOP
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: JUDGE
+addressee: MR. KRABS
+
+speaker: JUDGE
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MERMAID MAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MERMAID MAN
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: FRANKIE BILLY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRANK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: KAREN
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SANDY
+
+speaker: PEARL
+addressee: THE FLYING DUTCHMAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: THE FLYING DUTCHMAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: THE FLYING DUTCHMAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: LORD POLTERGEIST
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SADIE
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SADIE
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: TOM
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: REALISTIC FISH HEAD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRANKIE BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: HAROLD
+addressee: PATRICK
+
+speaker: JOHNNY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: GUS
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: LARRY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: LARRY
+addressee: SPONGEBOB
+
+speaker: LARRY
+addressee: SPONGEBOB
+
+speaker: LARRY
+addressee: SPONGEBOB
+
+speaker: LARRY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: LARRY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: CLETUS
+addressee: PATRICK
+
+speaker: CLETUS
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: LARRY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: HAROLD
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: HAROLD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: TOM
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUILLIAM
+addressee: NICK
+
+speaker: SQUILLIAM
+addressee: NICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: NICK
+addressee: SQUILLIAM
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: BILL
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: GORDON
+addressee: SQUIDWARD
+
+speaker: GORDON
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: GORDON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KING
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KING
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KING
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: NAT
+
+speaker: KAREN
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: NAT
+
+speaker: KAREN
+addressee: NAT
+
+speaker: KAREN
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: LARRY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: LARRY
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: FRANKIE BILLY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PEARL
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: SANDALS
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: WARDEN
+addressee: SPONGEBOB
+
+speaker: WARDEN
+addressee: SPONGEBOB
+
+speaker: WARDEN
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: DARK KNIGHT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: DARK KNIGHT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: DARK KNIGHT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: KING
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: KING
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: KING
+addressee: SPONGEBOB
+
+speaker: KING
+addressee: SPONGEBOB
+
+speaker: KING
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: KING
+addressee: SPONGEBOB
+
+speaker: SQUIDLY
+addressee: SPONGEBOB
+
+speaker: SQUIDLY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRANKIE BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: FRANKIE BILLY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SADIE
+addressee: BILLY
+
+speaker: SQUIDWARD
+addressee: BILLY
+
+speaker: SQUIDWARD
+addressee: BILLY
+
+speaker: SADIE
+addressee: BILLY
+
+speaker: SADIE
+addressee: BILLY
+
+speaker: SADIE
+addressee: BILLY
+
+speaker: SQUIDWARD
+addressee: BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: FRED
+addressee: SPONGEBOB
+
+speaker: FRANKIE BILLY
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: PECOS PATRICK
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: SQUILLIAM
+
+speaker: SQUIDWARD
+addressee: MUSIC SCHOOL HEADMISTRESS
+
+speaker: SQUIDWARD
+addressee: BILLY
+
+speaker: SQUIDWARD
+addressee: BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MS. PRISS
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: THE FLYING DUTCHMAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: OFFICER NANCY
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: REALISTIC FISH HEAD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: FRED
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: LARRY
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: LARRY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: BARNACLE BOY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SANDALS
+addressee: CRAIG
+
+speaker: CRAIG
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DOCTOR GILL GILLIAM
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: FRED
+addressee: KIDS
+
+speaker: REALISTIC FISH HEAD
+addressee: KIDS
+
+speaker: SQUIDWARD
+addressee: KIDS
+
+speaker: TOM
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: GARY
+addressee: SPONGEBOB
+
+speaker: WILLIAM KRABS
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: KING
+addressee: SQUIDWARD
+
+speaker: KING
+addressee: SQUIDWARD
+
+speaker: KING
+addressee: SQUIDWARD
+
+speaker: KING
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: HAROLD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: OLD MAN JENKINS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: JIM
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: JIM
+
+speaker: SQUIDWARD
+addressee: JIM
+
+speaker: SQUIDWARD
+addressee: JIM
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: HAROLD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: REALISTIC FISH HEAD
+addressee: SPONGEBOB
+
+speaker: REALISTIC FISH HEAD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SADIE
+
+speaker: DEAD EYE PLANKTON
+addressee: SADIE
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: HOWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: HOWARD
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: POLICE
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDALS
+
+speaker: DEAD EYE PLANKTON
+addressee: SANDALS
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: SQUIDWARD
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: HAROLD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: REG
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: REG
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: MRS. PUFF
+
+speaker: PECOS PATRICK
+addressee: MRS. PUFF
+
+speaker: PECOS PATRICK
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: OFFICER NANCY
+addressee: MR. KRABS
+
+speaker: OFFICER NANCY
+addressee: MR. KRABS
+
+speaker: OFFICER NANCY
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: NICK
+addressee: MR. KRABS
+
+speaker: NICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SCOOTER
+addressee: PATRICK
+
+speaker: SADIE
+addressee: PATRICK
+
+speaker: SPONGEBUCK
+addressee: KRABS
+
+speaker: SPONGEBUCK
+addressee: PATRICK
+
+speaker: SPONGEBUCK
+addressee: PATRICK
+
+speaker: SPONGEBUCK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: NAT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: NAT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: NAT
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: KAREN
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: KAREN
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: KAREN
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: SQUIDWARD
+addressee: KRABS
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KEVIN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KEVIN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SQUIDWARD
+
+speaker: SANDY
+addressee: SQUIDWARD
+
+speaker: SANDY
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: STANLEY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: PECOS PATRICK
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: PECOS PATRICK
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: STANLEY
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: HAROLD
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: HAROLD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: GRAMMA
+addressee: GARY
+
+speaker: GRAMMA
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: KAREN
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: KAREN
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: JUDGE
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: JUDGE
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: JUDGE
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: CHARLES
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: OFFICER JOHN
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: BILLY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: RODERICK
+addressee: SPONGEBOB
+
+speaker: RODERICK
+addressee: SPONGEBOB
+
+speaker: RODERICK
+addressee: SPONGEBOB
+
+speaker: RODERICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: RODERICK
+addressee: SPONGEBOB
+
+speaker: RODERICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: TOM
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: TOM
+
+speaker: POLICE
+addressee: PATRICK
+
+speaker: POLICE
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: KAREN
+addressee: SPONGEBOB
+
+speaker: KAREN
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: NANCY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: FRED
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: LARRY
+
+speaker: MRS. SQUAREPANTS
+addressee: SANDY
+
+speaker: SCOOTER
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SCOOTER
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SANDY
+addressee: SQUIDWARD
+
+speaker: SANDY
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: PEARL
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: OFFICER JOHN
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: DEAD EYE PLANKTON
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: GARY
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: DEAD EYE PLANKTON
+addressee: SANDY
+
+speaker: DEAD EYE PLANKTON
+addressee: SANDY
+
+speaker: DEAD EYE PLANKTON
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: KAREN
+addressee: SANDY
+
+speaker: KAREN
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: LORD REGINALD
+
+speaker: PECOS PATRICK
+addressee: LORD REGINALD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: KAREN
+
+speaker: DEAD EYE PLANKTON
+addressee: PLANKTON
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: GARY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MAN RAY
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: OLD MAN JENKINS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: GARY
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SANDY
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: TOM
+addressee: SQUIDWARD
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SQUIDWARD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MRS. PUFF
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: FRED
+
+speaker: PECOS PATRICK
+addressee: FRED
+
+speaker: PECOS PATRICK
+addressee: FRED
+
+speaker: PECOS PATRICK
+addressee: FRED
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SAM
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: SQUIDWARD
+addressee: SAM
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SAM
+
+speaker: PECOS PATRICK
+addressee: SAM
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: SANDY
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: POLICE
+addressee: MR. KRABS
+
+speaker: SANDY
+addressee: MR. KRABS
+
+speaker: POLICE
+addressee: MR. KRABS
+
+speaker: POLICE
+addressee: MR. KRABS
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PLANKTON
+
+speaker: DEAD EYE PLANKTON
+addressee: PLANKTON
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PLANKTON
+
+speaker: SANDY
+addressee: PLANKTON
+
+speaker: SANDY
+addressee: PLANKTON
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: PECOS PATRICK
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: PECOS PATRICK
+addressee: PATRICK
+
+speaker: DEAD EYE PLANKTON
+addressee: SPONGEBOB
+
+speaker: DEAD EYE PLANKTON
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: MR. KRABS
+
+speaker: SQUIDWARD
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: MERMAID MAN
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: HAROLD
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: SPONGEBOB
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: PATRICK
+
+speaker: ALTERNATE-UNIVERSE SPONGEBOB
+addressee: OFFICER JOHN
+
+speaker: STRANGLER
+addressee: SPONGEBOB

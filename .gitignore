@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+code/.DS_Store
+.DS_Store
+code/.RData
+code/.Rhistory

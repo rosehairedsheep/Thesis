@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Related Work}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Bechdel-Wallace Test}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Co-reference Analysis}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Data}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Corpus Profile}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Collection and Types}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Data Wrangling}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Methods}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Gender Analysis}{10}{subsection.4.1}%
+\contentsline {paragraph}{Gender Definition and Data Collection:}{10}{section*.6}%
+\contentsline {paragraph}{Metrics and Statistics:}{11}{section*.7}%
+\contentsline {subsection}{\numberline {4.2}Co-reference Analysis}{12}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Study}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Setup}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Results and Discussion}{16}{subsection.5.2}%
+\contentsline {paragraph}{Gender Analysis:}{16}{section*.8}%
+\contentsline {paragraph}{Co-reference Analysis:}{21}{section*.9}%
+\contentsline {section}{\numberline {6}Conclusion}{22}{section.6}%

@@ -1,0 +1,4444 @@
+STATS:
+[484, 573, 147, 276]
+
+
+
+speaker: YANCY FRY SR
+addressee: BARKER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: FLEXO
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: FLEXO
+addressee: FARNSWORTH
+
+speaker: FLEXO
+addressee: FARNSWORTH
+
+speaker: FLEXO
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: OLD MAN WATERFALL
+addressee: LEELA
+
+speaker: OLD MAN WATERFALL
+addressee: LEELA
+
+speaker: OLD MAN WATERFALL
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: FLEXO
+addressee: BENDER
+
+speaker: FLEXO
+addressee: BENDER
+
+speaker: FLEXO
+addressee: BENDER
+
+speaker: FLEXO
+addressee: BENDER
+
+speaker: IGNER
+addressee: MOM
+
+speaker: LEELA
+addressee: LARRY
+
+speaker: LEELA
+addressee: LARRY
+
+speaker: YANCY FRY SR
+addressee: LARRY
+
+speaker: LEELA
+addressee: MOM
+
+speaker: BENDER
+addressee: MOM
+
+speaker: BENDER
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: LARRY
+addressee: MOM
+
+speaker: LARRY
+addressee: MOM
+
+speaker: LEELA
+addressee: MOM
+
+speaker: LEELA
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: HERMES
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MOM
+
+speaker: LEELA
+addressee: PROFESSOR FARNSWORTH
+
+speaker: CUBERT
+addressee: PROFESSOR FARNSWORTH
+
+speaker: CUBERT
+addressee: PROFESSOR FARNSWORTH
+
+speaker: BENDER
+addressee: PROFESSOR FARNSWORTH
+
+speaker: BENDER
+addressee: PROFESSOR FARNSWORTH
+
+speaker: ELZAR
+addressee: BENDER
+
+speaker: KIF
+addressee: MRS. WONG
+
+speaker: KIF
+addressee: MRS. WONG
+
+speaker: AMY
+addressee: BENDER
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: ZOID
+addressee: MRS. WONG
+
+speaker: LEELA
+addressee: MRS. WONG
+
+speaker: AMY
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: AMY
+addressee: KIF
+
+speaker: AMY
+addressee: KIF
+
+speaker: LEELA
+addressee: KIF
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: POOPENMEYER
+addressee: WERNSTROM
+
+speaker: WERNSTROM
+addressee: POOPENMEYER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: WERNSTROM
+
+speaker: PROFESSOR FARNSWORTH
+addressee: WERNSTROM
+
+speaker: PROFESSOR FARNSWORTH
+addressee: WERNSTROM
+
+speaker: AMY
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: MUNDA
+addressee: LEELA
+
+speaker: MUNDA
+addressee: MORRIS
+
+speaker: LEELA
+addressee: SALLY
+
+speaker: SALLY
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: SALLY
+addressee: LEELA
+
+speaker: SALLY
+addressee: LEELA
+
+speaker: SALLY
+addressee: LEELA
+
+speaker: SALLY
+addressee: LEELA
+
+speaker: LEELA
+addressee: SALLY
+
+speaker: LEELA
+addressee: SALLY
+
+speaker: ZOID
+addressee: CUBERT
+
+speaker: ZOID
+addressee: CUBERT
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: BANJO
+addressee: FARNSWORTH
+
+speaker: BANJO
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: BANJO
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: SCRUFFY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: SALESMAN
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: FRY
+
+speaker: HERMES
+addressee: FRY
+
+speaker: LEELA
+addressee: FRY
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: LEELA
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: IPGEE
+addressee: LEELA
+
+speaker: MORGAN
+addressee: LEELA
+
+speaker: MORGAN
+addressee: LEELA
+
+speaker: MORGAN
+addressee: LEELA
+
+speaker: MORGAN
+addressee: LEELA
+
+speaker: MORGAN
+addressee: LEELA
+
+speaker: MORGAN
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: HERMES
+addressee: BENDER
+
+speaker: AMY
+addressee: BENDER
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZOID
+addressee: MOM
+
+speaker: OLD MAN WATERFALL
+addressee: PROFESSOR FARNSWORTH
+
+speaker: ZOID
+addressee: PROFESSOR FARNSWORTH
+
+speaker: ZOID
+addressee: PROFESSOR FARNSWORTH
+
+speaker: ZOID
+addressee: PROFESSOR FARNSWORTH
+
+speaker: ZOID
+addressee: PROFESSOR FARNSWORTH
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: HERMES
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: MOMON
+addressee: ZOIDBERG
+
+speaker: MOMON
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: MOMON
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: MOMON
+addressee: ZOIDBERG
+
+speaker: MOMON
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: GLURMO
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: ZAPP
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: ZOID
+addressee: FARNSWORTH
+
+speaker: SALESMAN
+addressee: PETUNIA
+
+speaker: LEELA
+addressee: PETUNIA
+
+speaker: ZAPP BRANNIGAN
+addressee: PETUNIA
+
+speaker: ZOID
+addressee: PROFESSOR FARNSWORTH
+
+speaker: BENDER
+addressee: PROFESSOR FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: SCRUFFY
+
+speaker: YANCY FRY SR
+addressee: SCRUFFY
+
+speaker: LEELA
+addressee: SCRUFFY
+
+speaker: LEELA
+addressee: SCRUFFY
+
+speaker: LEELA
+addressee: SCRUFFY
+
+speaker: LEELA
+addressee: SCRUFFY
+
+speaker: LEELA
+addressee: SCRUFFY
+
+speaker: YANCY FRY SR
+addressee: SCRUFFY
+
+speaker: BENDER
+addressee: SCRUFFY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: ZAPP BRANNIGAN
+addressee: NIXON
+
+speaker: ZAPP BRANNIGAN
+addressee: NIXON
+
+speaker: LEELA
+addressee: NIXON
+
+speaker: PROFESSOR FARNSWORTH
+addressee: NIXON
+
+speaker: AMY
+addressee: NIXON
+
+speaker: AMY
+addressee: NIXON
+
+speaker: KIF
+addressee: NIXON
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: CUBERT
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: YANCY FRY SR
+addressee: CUBERT
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: HERMES
+addressee: CUBERT
+
+speaker: HERMES
+addressee: CUBERT
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: PROFESSOR FARNSWORTH
+addressee: CUBERT
+
+speaker: DWIGHT
+addressee: CUBERT
+
+speaker: HERMES
+addressee: CUBERT
+
+speaker: HERMES
+addressee: DWIGHT
+
+speaker: PROFESSOR FARNSWORTH
+addressee: DWIGHT
+
+speaker: PROFESSOR FARNSWORTH
+addressee: DWIGHT
+
+speaker: PROFESSOR FARNSWORTH
+addressee: DWIGHT
+
+speaker: PROFESSOR FARNSWORTH
+addressee: DWIGHT
+
+speaker: HERMES
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: DWIGHT
+addressee: FARNSWORTH
+
+speaker: DWIGHT
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: CUBERT
+addressee: FARNSWORTH
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: NIXON
+addressee: ZAPP
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ZAPP
+
+speaker: LEELA
+addressee: ZAPP
+
+speaker: LEELA
+addressee: ZAPP
+
+speaker: LEELA
+addressee: ZAPP
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: LEELA
+addressee: ALCAZAR
+
+speaker: REVEREND PREACHERBOT
+addressee: ALCAZAR
+
+speaker: YANCY FRY SR
+addressee: ALCAZAR
+
+speaker: OLD MAN WATERFALL
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: ALCAZAR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ALCAZAR
+addressee: LEELA
+
+speaker: ALCAZAR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ALCAZAR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: REVEREND PREACHERBOT
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: URL
+addressee: LEELA
+
+speaker: SMITTY
+addressee: LEELA
+
+speaker: URL
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MRS. ASTOR
+
+speaker: YANCY FRY SR
+addressee: MRS. ASTOR
+
+speaker: LEELA
+addressee: MRS. ASTOR
+
+speaker: LEELA
+addressee: MRS. ASTOR
+
+speaker: VOGEL
+addressee: LEELA
+
+speaker: VOGEL
+addressee: LEELA
+
+speaker: DWAYNE
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: MUNDA
+addressee: LEELA
+
+speaker: BENDER
+addressee: AMY
+
+speaker: LEELA
+addressee: VOGEL
+
+speaker: LEELA
+addressee: VOGEL
+
+speaker: AMY
+addressee: BENDER
+
+speaker: RAOUL
+addressee: BENDER
+
+speaker: LEELA
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: ELZAR
+addressee: AMY
+
+speaker: CLAMPS
+addressee: JOEY
+
+speaker: CLAMPS
+addressee: JOEY
+
+speaker: CLAMPS
+addressee: JOEY
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: ELZAR
+addressee: LEELA
+
+speaker: URL
+addressee: LEELA
+
+speaker: DONBOT
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: DONBOT
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: SMITTY
+addressee: BENDER
+
+speaker: DONBOT
+addressee: BENDER
+
+speaker: DONBOT
+addressee: BENDER
+
+speaker: CLAMPS
+addressee: BENDER
+
+speaker: CLAMPS
+addressee: BENDER
+
+speaker: DONBOT
+addressee: BENDER
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: ELZAR
+addressee: BENDER
+
+speaker: ELZAR
+addressee: BENDER
+
+speaker: ELZAR
+addressee: BENDER
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: PROFESSOR FARNSWORTH
+
+speaker: LEELA
+addressee: PROFESSOR FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: HERMES
+addressee: AMY
+
+speaker: AMY
+addressee: PROFESSOR FARNSWORTH
+
+speaker: AMY
+addressee: PROFESSOR FARNSWORTH
+
+speaker: LEELA
+addressee: ZOIDBERG
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: IGNER
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: FNOG
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: ZOID
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: NIXON
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: NIXON
+addressee: MORBO
+
+speaker: NIXON
+addressee: MORBO
+
+speaker: BENDER
+addressee: MORBO
+
+speaker: NIXON
+addressee: MORBO
+
+speaker: YANCY FRY SR
+addressee: MORBO
+
+speaker: NIXON
+addressee: MORBO
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: NIXON
+
+speaker: LEELA
+addressee: NIXON
+
+speaker: LEELA
+addressee: NIXON
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: ZOID
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: MORBO
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: SANTA
+
+speaker: BENDER
+addressee: GORE
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: GORE
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: HERMES
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ZOIDBERG
+
+speaker: LEELA
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: AMY
+addressee: KIF
+
+speaker: BENDER
+addressee: KIF
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LINDA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: AMY
+
+speaker: REVEREND PREACHERBOT
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: LINDA
+
+speaker: OSIRAN
+addressee: LEELA
+
+speaker: OSIRAN
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: WOMAN
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: ZAPP
+
+speaker: LEELA
+addressee: LIU
+
+speaker: LEELA
+addressee: LIU
+
+speaker: YANCY FRY SR
+addressee: LIU
+
+speaker: LEELA
+addressee: MOM
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LIU
+
+speaker: YANCY FRY SR
+addressee: LIU
+
+speaker: YANCY FRY SR
+addressee: LIU
+
+speaker: YANCY FRY SR
+addressee: LIU
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: LIU
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: LIU
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: LIU
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: ZOID
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: MOMON
+addressee: BENDER
+
+speaker: MOMON
+addressee: MOM
+
+speaker: YANCY FRY SR
+addressee: MOM
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: ELZAR
+
+speaker: YANCY FRY SR
+addressee: ELZAR
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: STEVE CASTLE
+
+speaker: YANCY FRY SR
+addressee: STEVE CASTLE
+
+speaker: BENDER
+addressee: CALCULON
+
+speaker: BENDER
+addressee: CALCULON
+
+speaker: ZOID
+addressee: CALCULON
+
+speaker: ZOID
+addressee: CALCULON
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: ZOID
+addressee: BENDER
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ROBERTO
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: ROBERTO
+
+speaker: LEELA
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: RON WHITEY
+addressee: LEELA
+
+speaker: RON WHITEY
+addressee: LEELA
+
+speaker: SMITTY
+addressee: ZOIDBERG
+
+speaker: ROBERTO
+addressee: ZOIDBERG
+
+speaker: ROBERTO
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: AMY
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: WOMAN
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: URL
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: HERMES
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: AMY
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: AMY
+addressee: ZOIDBERG
+
+speaker: LEELA
+addressee: ZOIDBERG
+
+speaker: BECK
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BECK
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: MILDRED
+
+speaker: YANCY FRY SR
+addressee: MILDRED
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MILDRED
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: TRUMAN
+addressee: ZOIDBERG
+
+speaker: TRUMAN
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: SALESMAN
+addressee: SAL
+
+speaker: AMY
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: LABARBARA
+addressee: LEELA
+
+speaker: HERMES
+addressee: AMY
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: HATTIE
+addressee: BENDER
+
+speaker: AMY
+addressee: DR. CAHILL
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ZAPP BRANNIGAN
+
+speaker: LEELA
+addressee: ZAPP BRANNIGAN
+
+speaker: GLAB
+addressee: KIF
+
+speaker: LEELA
+addressee: AMY
+
+speaker: SALESMAN
+addressee: SAL
+
+speaker: YANCY FRY SR
+addressee: SALESMAN
+
+speaker: BENDER
+addressee: FLEXO
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FLEXO
+
+speaker: BENDER
+addressee: FLEXO
+
+speaker: BENDER
+addressee: FLEXO
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: IGNER
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: MOMON
+addressee: MOM
+
+speaker: WALT
+addressee: MOM
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: NDND
+addressee: LRRR
+
+speaker: NDND
+addressee: LRRR
+
+speaker: NDND
+addressee: LRRR
+
+speaker: NDND
+addressee: LRRR
+
+speaker: LEELA
+addressee: LRRR
+
+speaker: WELLES
+addressee: LRRR
+
+speaker: NDND
+addressee: LRRR
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: NDND
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: NDND
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: LRRR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: NDND
+addressee: LEELA
+
+speaker: NDND
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: LEELA
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: BENDER
+addressee: MICHELLE
+
+speaker: BENDER
+addressee: MICHELLE
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MICHELLE
+
+speaker: LEELA
+addressee: MICHELLE
+
+speaker: YANCY FRY SR
+addressee: MICHELLE
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MICHELLE
+
+speaker: PROFESSOR FARNSWORTH
+addressee: MICHELLE
+
+speaker: HERMES
+addressee: FARNSWORTH
+
+speaker: AMY
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: IPGEE
+addressee: AMY
+
+speaker: IPGEE
+addressee: AMY
+
+speaker: IPGEE
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: MICHELLE
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: MICHELLE
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: MICHELLE
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: ELZAR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: VOGEL
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: ADLAI
+addressee: LEELA
+
+speaker: LEELA
+addressee: ADLAI
+
+speaker: LEELA
+addressee: ADLAI
+
+speaker: BENDER
+addressee: ADLAI
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: HERMES
+addressee: BENDER
+
+speaker: HERMES
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BEV
+addressee: BENDER
+
+speaker: BEV
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BEV
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BEV
+addressee: BENDER
+
+speaker: BENDER
+addressee: BEV
+
+speaker: BENDER
+addressee: BEV
+
+speaker: YANCY FRY SR
+addressee: BEV
+
+speaker: YANCY FRY SR
+addressee: BEV
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: COILETTE
+addressee: LEELA
+
+speaker: COILETTE
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: COILETTE
+
+speaker: YANCY FRY SR
+addressee: COILETTE
+
+speaker: YANCY FRY SR
+addressee: COILETTE
+
+speaker: LEELA
+addressee: COILETTE
+
+speaker: LEELA
+addressee: COILETTE
+
+speaker: PROFESSOR FARNSWORTH
+addressee: COILETTE
+
+speaker: PROFESSOR FARNSWORTH
+addressee: COILETTE
+
+speaker: LEELA
+addressee: COILETTE
+
+speaker: COILETTE
+addressee: CALCULON
+
+speaker: COILETTE
+addressee: CALCULON
+
+speaker: COILETTE
+addressee: CALCULON
+
+speaker: LEELA
+addressee: AMY
+
+speaker: COILETTE
+addressee: AMY
+
+speaker: COILETTE
+addressee: AMY
+
+speaker: CALCULON
+addressee: AMY
+
+speaker: CALCULON
+addressee: AMY
+
+speaker: CALCULON
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: LEELA
+addressee: ZOIDBERG
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: EDNA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: AMY
+
+speaker: OLD MAN WATERFALL
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: EDNA
+
+speaker: YANCY FRY SR
+addressee: EDNA
+
+speaker: YANCY FRY SR
+addressee: EDNA
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: EDNA
+addressee: ZOIDBERG
+
+speaker: EDNA
+addressee: ZOIDBERG
+
+speaker: EDNA
+addressee: ZOIDBERG
+
+speaker: EDNA
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: EDNA
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: ZOIDBERG
+
+speaker: ZAPP BRANNIGAN
+addressee: FEMPUTER
+
+speaker: ZAPP BRANNIGAN
+addressee: ZAPP
+
+speaker: LEELA
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: LEONARDO
+addressee: FARNSWORTH
+
+speaker: LEONARDO
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: BENDER
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ANIMATRONIO
+
+speaker: YANCY FRY SR
+addressee: ANIMATRONIO
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: NIKOLAI
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: AMY
+addressee: FARNSWORTH
+
+speaker: NIKOLAI
+addressee: ZOIDBERG
+
+speaker: NIKOLAI
+addressee: ZOIDBERG
+
+speaker: HERMES
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HEATHER
+addressee: LEELA
+
+speaker: HEATHER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: MUNDA
+addressee: LEELA
+
+speaker: MUNDA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: MUNDA
+addressee: LEELA
+
+speaker: MORRIS
+addressee: MUNDA
+
+speaker: LEELA
+addressee: MUNDA
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: MUNDA
+addressee: FARNSWORTH
+
+speaker: MUNDA
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: FARNSWORTH
+
+speaker: MUNDA
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: MORRIS
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: AMY
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: ZOID
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: HERMES
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: MUNDA
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: ROBERTO
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: AMY
+addressee: PROFESSOR FARNSWORTH
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: PICKLES
+addressee: BENDER
+
+speaker: PICKLES
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PICKLES
+addressee: BENDER
+
+speaker: PICKLES
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PICKLES
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: PICKLES
+addressee: BENDER
+
+speaker: URL
+addressee: SMITTY
+
+speaker: YANCY FRY SR
+addressee: CHIEF O'MANNAHAN
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: MORBO
+addressee: LINDA
+
+speaker: ELZAR
+addressee: LINDA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ZOIDBERG
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: AMY
+addressee: MRS. WONG
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: COUNTESS
+
+speaker: BENDER
+addressee: COUNTESS
+
+speaker: BENDER
+addressee: COUNTESS
+
+speaker: KIF
+addressee: ZAPP BRANNIGAN
+
+speaker: YANCY FRY SR
+addressee: MRS. WONG
+
+speaker: AMY
+addressee: MRS. WONG
+
+speaker: YANCY FRY SR
+addressee: MRS. WONG
+
+speaker: YANCY FRY SR
+addressee: MRS. WONG
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: SAL
+
+speaker: LEELA
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: ZOID
+addressee: AMY
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: CHAZ
+addressee: ELZAR
+
+speaker: YANCY FRY SR
+addressee: NIBBLER
+
+speaker: LEELA
+addressee: SALLY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: HERMES
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: URL
+addressee: PROFESSOR FARNSWORTH
+
+speaker: MOMON
+addressee: PROFESSOR FARNSWORTH
+
+speaker: CUBERT
+addressee: PROFESSOR FARNSWORTH
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ZOIDBERG
+
+speaker: TATE
+addressee: ZOIDBERG
+
+speaker: OLD MAN WATERFALL
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: BUBBLEGUM
+
+speaker: LEELA
+addressee: BUBBLEGUM
+
+speaker: LEELA
+addressee: BUBBLEGUM
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: SHATNER
+
+speaker: NIMOY
+addressee: SHATNER
+
+speaker: ZAPP BRANNIGAN
+addressee: TAKEI
+
+speaker: ZAPP BRANNIGAN
+addressee: TAKEI
+
+speaker: LEELA
+addressee: TAKEI
+
+speaker: ZAPP BRANNIGAN
+addressee: KIF
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: NIMOY
+addressee: LEELA
+
+speaker: NICHOLS
+addressee: LEELA
+
+speaker: MELLLVAR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: NIMOY
+addressee: MELLLVAR
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: ZOID
+addressee: BENDER
+
+speaker: CLAMPS
+addressee: URL
+
+speaker: LEELA
+addressee: JOEY
+
+speaker: BENDER
+addressee: JOEY
+
+speaker: BENDER
+addressee: DONBOT
+
+speaker: CLAMPS
+addressee: DONBOT
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: UMBRIEL
+
+speaker: YANCY FRY SR
+addressee: UMBRIEL
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: TRAVERS
+addressee: LEELA
+
+speaker: TRAVERS
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: NIXON
+
+speaker: LEELA
+addressee: NIXON
+
+speaker: BENDER
+addressee: TRAVERS
+
+speaker: LEELA
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: NIXON
+addressee: AMY
+
+speaker: DOCTOR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: FRY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: YANCY
+
+speaker: YANCY FRY SR
+addressee: YANCY
+
+speaker: YANCY FRY SR
+addressee: YANCY
+
+speaker: THOG
+addressee: LEELA
+
+speaker: COMMENTATOR
+addressee: LEELA
+
+speaker: HERMES
+addressee: ANGUS MCZONGO
+
+speaker: YANCY FRY SR
+addressee: ANGUS MCZONGO
+
+speaker: LEELA
+addressee: ANGUS MCZONGO
+
+speaker: LEELA
+addressee: ANGUS MCZONGO
+
+speaker: LEELA
+addressee: ANGUS MCZONGO
+
+speaker: HERMES
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: ZOID
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: GUENTER
+
+speaker: LEELA
+addressee: GUENTER
+
+speaker: LEELA
+addressee: GUENTER
+
+speaker: VERNON
+addressee: MR. WONG
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: PROFESSOR FARNSWORTH
+
+speaker: LEELA
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: AMY
+addressee: ZOIDBERG
+
+speaker: LEELA
+addressee: ZOIDBERG
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: PROFESSOR FARNSWORTH
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: RANGER PARK
+
+speaker: BENDER
+addressee: RANGER PARK
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: ZOID
+addressee: ZOIDBERG
+
+speaker: SALESMAN
+addressee: LRRR
+
+speaker: SALESMAN
+addressee: LRRR
+
+speaker: BENDER
+addressee: LRRR
+
+speaker: YANCY FRY SR
+addressee: LRRR
+
+speaker: YANCY FRY SR
+addressee: LRRR
+
+speaker: LRRR
+addressee: BENDER
+
+speaker: ZAPP BRANNIGAN
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: KIF
+addressee: AMY
+
+speaker: ZOID
+addressee: AMY
+
+speaker: SMITTY
+addressee: KIF
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: LEELA
+addressee: POOPENMEYER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: BENDER
+
+speaker: PETUNIA
+addressee: BENDER
+
+speaker: LEELA
+addressee: SANTA
+
+speaker: LEELA
+addressee: SANTA
+
+speaker: BENDER
+addressee: SANTA
+
+speaker: BENDER
+addressee: SANTA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HERMES
+addressee: LINDA
+
+speaker: ZOID
+addressee: LINDA
+
+speaker: YANCY FRY SR
+addressee: LINDA
+
+speaker: LEELA
+addressee: LINDA
+
+speaker: ZOID
+addressee: LINDA
+
+speaker: AMY
+addressee: LINDA
+
+speaker: ZAPP BRANNIGAN
+addressee: LINDA
+
+speaker: YANCY FRY SR
+addressee: LINDA
+
+speaker: YANCY FRY SR
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: YANCY FRY SR
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: BENDER
+addressee: LINDA
+
+speaker: YANCY FRY SR
+addressee: LINDA
+
+speaker: SCRUFFY
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: NIBBLER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: NIBBLER
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: NIBBLER
+addressee: AMY
+
+speaker: AMY
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: NIBBLER
+addressee: FARNSWORTH
+
+speaker: AMY
+addressee: FARNSWORTH
+
+speaker: NIBBLER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: NIBBLER
+addressee: LEELA
+
+speaker: NIBBLER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: NIBBLER
+addressee: LEELA
+
+speaker: KIF
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: HERMES
+addressee: AMY
+
+speaker: SCRUFFY
+addressee: BLEK
+
+speaker: LEELA
+addressee: BLEK
+
+speaker: SCRUFFY
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: ABNER DOUBLEDEAL
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: HERMES
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BLEK
+addressee: WOMAN
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: AMY
+
+speaker: LEELA
+addressee: AMY
+
+speaker: BENDER
+addressee: NIBBLER
+
+speaker: BENDER
+addressee: NIBBLER
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: AMY
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: NIBBLER
+
+speaker: LEELA
+addressee: NIBBLER
+
+speaker: LEELA
+addressee: RAOUL
+
+speaker: HERMES
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: BENDER
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: BEELER
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: HERMES
+addressee: ZOIDBERG
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: ZOIDBERG
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: SANTA
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: HERMES
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: ZOID
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: YANCY FRY SR
+addressee: LEONARDO
+
+speaker: BENDER
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: YANCY FRY SR
+addressee: FARNSWORTH
+
+speaker: LEONARDO
+addressee: FARNSWORTH
+
+speaker: LEONARDO
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: ANIMATRONIO
+
+speaker: YANCY FRY SR
+addressee: ANIMATRONIO
+
+speaker: ZAPP BRANNIGAN
+addressee: AMBASSADOR MERVIN
+
+speaker: ZOID
+addressee: AMBASSADOR MERVIN
+
+speaker: ZOID
+addressee: OLD MAN WATERFALL
+
+speaker: ZAPP BRANNIGAN
+addressee: LINDA
+
+speaker: MORBO
+addressee: LINDA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: AMY
+
+speaker: ZAPP BRANNIGAN
+addressee: KIF
+
+speaker: ZAPP BRANNIGAN
+addressee: KIF
+
+speaker: YANCY FRY SR
+addressee: LRRR
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LRRR
+
+speaker: AMY
+addressee: LRRR
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: LEELA
+addressee: CUBERT
+
+speaker: WERNSTROM
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: NIXON
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: ZOID
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: ZOID
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: ZOID
+addressee: FARNSWORTH
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: BENDER
+addressee: LEELA
+
+speaker: IGNER
+addressee: LEELA
+
+speaker: MOMON
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: MOMON
+addressee: LEELA
+
+speaker: MOMON
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: BENDER
+addressee: AMY
+
+speaker: BENDER
+addressee: LISA
+
+speaker: BENDER
+addressee: LISA
+
+speaker: BENDER
+addressee: LISA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LISA
+
+speaker: BENDER
+addressee: LISA
+
+speaker: BENDER
+addressee: LISA
+
+speaker: BENDER
+addressee: LISA
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: LEELA
+addressee: AMY
+
+speaker: PROFESSOR FARNSWORTH
+addressee: LEELA
+
+speaker: PROFESSOR FARNSWORTH
+addressee: FARNSWORTH
+
+speaker: BENDER
+addressee: ZOIDBERG
+
+speaker: PROFESSOR FARNSWORTH
+addressee: AMY
+
+speaker: YANCY FRY SR
+addressee: BENDER
+
+speaker: BENDER
+addressee: BENDER
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: LEELA
+
+speaker: LEELA
+addressee: LEELA
+
+speaker: YANCY FRY SR
+addressee: BEELER

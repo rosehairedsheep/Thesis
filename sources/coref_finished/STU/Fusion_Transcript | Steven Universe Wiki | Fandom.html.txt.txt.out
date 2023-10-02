@@ -1,0 +1,1256 @@
+Document: ID=Fusion_Transcript | Steven Universe Wiki | Fandom.html.txt.txt (26 sentences, 449 tokens)
+
+Sentence #1 (38 tokens):
+The episode opens with the faces of Garnet, Pearl and Amethyst, and a scribble on a chalkboard reading "The Crystal Gems", before the "Crystal" is replaced with "Classroom".
+
+Tokens:
+[Text=The CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=episode CharacterOffsetBegin=4 CharacterOffsetEnd=11 PartOfSpeech=NN Lemma=episode NamedEntityTag=O]
+[Text=opens CharacterOffsetBegin=12 CharacterOffsetEnd=17 PartOfSpeech=VBZ Lemma=open NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=18 CharacterOffsetEnd=22 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=23 CharacterOffsetEnd=26 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=faces CharacterOffsetBegin=27 CharacterOffsetEnd=32 PartOfSpeech=NNS Lemma=face NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=33 CharacterOffsetEnd=35 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=36 CharacterOffsetEnd=42 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=42 CharacterOffsetEnd=43 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Pearl CharacterOffsetBegin=44 CharacterOffsetEnd=49 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=50 CharacterOffsetEnd=53 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=54 CharacterOffsetEnd=62 PartOfSpeech=NNP Lemma=Amethyst NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=62 CharacterOffsetEnd=63 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=64 CharacterOffsetEnd=67 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=68 CharacterOffsetEnd=69 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=scribble CharacterOffsetBegin=70 CharacterOffsetEnd=78 PartOfSpeech=NN Lemma=scribble NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=79 CharacterOffsetEnd=81 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=82 CharacterOffsetEnd=83 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=chalkboard CharacterOffsetBegin=84 CharacterOffsetEnd=94 PartOfSpeech=NN Lemma=chalkboard NamedEntityTag=O]
+[Text=reading CharacterOffsetBegin=95 CharacterOffsetEnd=102 PartOfSpeech=NN Lemma=reading NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=103 CharacterOffsetEnd=104 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=104 CharacterOffsetEnd=107 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Crystal CharacterOffsetBegin=108 CharacterOffsetEnd=115 PartOfSpeech=NNP Lemma=Crystal NamedEntityTag=MISC]
+[Text=Gems CharacterOffsetBegin=116 CharacterOffsetEnd=120 PartOfSpeech=NNPS Lemma=Gems NamedEntityTag=MISC]
+[Text=" CharacterOffsetBegin=120 CharacterOffsetEnd=121 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=121 CharacterOffsetEnd=122 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=before CharacterOffsetBegin=123 CharacterOffsetEnd=129 PartOfSpeech=IN Lemma=before NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=130 CharacterOffsetEnd=133 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=134 CharacterOffsetEnd=135 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Crystal CharacterOffsetBegin=135 CharacterOffsetEnd=142 PartOfSpeech=NNP Lemma=Crystal NamedEntityTag=MISC]
+[Text=" CharacterOffsetBegin=142 CharacterOffsetEnd=143 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=144 CharacterOffsetEnd=146 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=replaced CharacterOffsetBegin=147 CharacterOffsetEnd=155 PartOfSpeech=VBN Lemma=replace NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=156 CharacterOffsetEnd=160 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=161 CharacterOffsetEnd=162 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Classroom CharacterOffsetBegin=162 CharacterOffsetEnd=171 PartOfSpeech=NNP Lemma=Classroom NamedEntityTag=MISC]
+[Text=" CharacterOffsetBegin=171 CharacterOffsetEnd=172 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=172 CharacterOffsetEnd=173 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, replaced-33)
+det(episode-2, The-1)
+nsubj(opens-3, episode-2)
+csubj:pass(replaced-33, opens-3)
+case(faces-6, with-4)
+det(faces-6, the-5)
+obl:with(opens-3, faces-6)
+case(Garnet-8, of-7)
+nmod:of(faces-6, Garnet-8)
+punct(Garnet-8, ,-9)
+nmod:of(faces-6, Pearl-10)
+conj:and(Garnet-8, Pearl-10)
+cc(Amethyst-12, and-11)
+nmod:of(faces-6, Amethyst-12)
+conj:and(Garnet-8, Amethyst-12)
+punct(Garnet-8, ,-13)
+cc(scribble-16, and-14)
+det(scribble-16, a-15)
+nmod:of(faces-6, scribble-16)
+conj:and(Garnet-8, scribble-16)
+case(reading-20, on-17)
+det(reading-20, a-18)
+compound(reading-20, chalkboard-19)
+nmod:on(scribble-16, reading-20)
+punct(reading-20, "-21)
+det(Gems-24, The-22)
+compound(Gems-24, Crystal-23)
+dep(reading-20, Gems-24)
+punct(reading-20, "-25)
+punct(Garnet-8, ,-26)
+case(Crystal-30, before-27)
+det(Crystal-30, the-28)
+punct(Crystal-30, "-29)
+nmod:before(Garnet-8, Crystal-30)
+punct(Crystal-30, "-31)
+aux:pass(replaced-33, is-32)
+case(Classroom-36, with-34)
+punct(Classroom-36, "-35)
+obl:with(replaced-33, Classroom-36)
+punct(Classroom-36, "-37)
+punct(replaced-33, .-38)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.5220946855977057
+Crystal Gems	MISC	MISC:0.9854869602663567
+Crystal	MISC	MISC:0.7133107353916773
+Classroom	MISC	MISC:0.9679185438183968
+
+Sentence #2 (9 tokens):
+Altogether says: "The Classroom Gems!"
+
+Tokens:
+[Text=Altogether CharacterOffsetBegin=174 CharacterOffsetEnd=184 PartOfSpeech=RB Lemma=altogether NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=185 CharacterOffsetEnd=189 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=189 CharacterOffsetEnd=190 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=191 CharacterOffsetEnd=192 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=192 CharacterOffsetEnd=195 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Classroom CharacterOffsetBegin=196 CharacterOffsetEnd=205 PartOfSpeech=NNP Lemma=Classroom NamedEntityTag=O]
+[Text=Gems CharacterOffsetBegin=206 CharacterOffsetEnd=210 PartOfSpeech=NNPS Lemma=Gems NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=210 CharacterOffsetEnd=211 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=211 CharacterOffsetEnd=212 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+advmod(says-2, Altogether-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(Gems-7, The-5)
+compound(Gems-7, Classroom-6)
+dep(says-2, Gems-7)
+punct(says-2, !-8)
+punct(says-2, "-9)
+
+Extracted the following NER entity mentions:
+
+Sentence #3 (25 tokens):
+Garnet breaks the title card with her rocket gauntlet, as she stands before a chalkboard with "Special Lesson" written on it.
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=213 CharacterOffsetEnd=219 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=breaks CharacterOffsetBegin=220 CharacterOffsetEnd=226 PartOfSpeech=VBZ Lemma=break NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=227 CharacterOffsetEnd=230 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=title CharacterOffsetBegin=231 CharacterOffsetEnd=236 PartOfSpeech=NN Lemma=title NamedEntityTag=O]
+[Text=card CharacterOffsetBegin=237 CharacterOffsetEnd=241 PartOfSpeech=NN Lemma=card NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=242 CharacterOffsetEnd=246 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=247 CharacterOffsetEnd=250 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=rocket CharacterOffsetBegin=251 CharacterOffsetEnd=257 PartOfSpeech=NN Lemma=rocket NamedEntityTag=O]
+[Text=gauntlet CharacterOffsetBegin=258 CharacterOffsetEnd=266 PartOfSpeech=NN Lemma=gauntlet NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=266 CharacterOffsetEnd=267 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=268 CharacterOffsetEnd=270 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=she CharacterOffsetBegin=271 CharacterOffsetEnd=274 PartOfSpeech=PRP Lemma=she NamedEntityTag=O]
+[Text=stands CharacterOffsetBegin=275 CharacterOffsetEnd=281 PartOfSpeech=VBZ Lemma=stand NamedEntityTag=O]
+[Text=before CharacterOffsetBegin=282 CharacterOffsetEnd=288 PartOfSpeech=IN Lemma=before NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=289 CharacterOffsetEnd=290 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=chalkboard CharacterOffsetBegin=291 CharacterOffsetEnd=301 PartOfSpeech=NN Lemma=chalkboard NamedEntityTag=O]
+[Text=with CharacterOffsetBegin=302 CharacterOffsetEnd=306 PartOfSpeech=IN Lemma=with NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=307 CharacterOffsetEnd=308 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Special CharacterOffsetBegin=308 CharacterOffsetEnd=315 PartOfSpeech=JJ Lemma=special NamedEntityTag=O]
+[Text=Lesson CharacterOffsetBegin=316 CharacterOffsetEnd=322 PartOfSpeech=NN Lemma=lesson NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=322 CharacterOffsetEnd=323 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+[Text=written CharacterOffsetBegin=324 CharacterOffsetEnd=331 PartOfSpeech=VBN Lemma=write NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=332 CharacterOffsetEnd=334 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=it CharacterOffsetBegin=335 CharacterOffsetEnd=337 PartOfSpeech=PRP Lemma=it NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=337 CharacterOffsetEnd=338 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, breaks-2)
+nsubj(breaks-2, Garnet-1)
+det(card-5, the-3)
+compound(card-5, title-4)
+obj(breaks-2, card-5)
+case(gauntlet-9, with-6)
+nmod:poss(gauntlet-9, her-7)
+compound(gauntlet-9, rocket-8)
+obl:with(breaks-2, gauntlet-9)
+punct(breaks-2, ,-10)
+mark(stands-13, as-11)
+nsubj(stands-13, she-12)
+advcl:as(breaks-2, stands-13)
+case(chalkboard-16, before-14)
+det(chalkboard-16, a-15)
+obl:before(stands-13, chalkboard-16)
+case(Lesson-20, with-17)
+punct(Lesson-20, "-18)
+amod(Lesson-20, Special-19)
+nmod:with(chalkboard-16, Lesson-20)
+punct(Lesson-20, "-21)
+acl(chalkboard-16, written-22)
+case(it-24, on-23)
+obl:on(written-22, it-24)
+punct(breaks-2, .-25)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9813821989881298
+her	PERSON	-
+she	PERSON	-
+
+Sentence #4 (14 tokens):
+Garnet says: "*yelling* Hello, this is Garnet!"
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=339 CharacterOffsetEnd=345 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=346 CharacterOffsetEnd=350 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=350 CharacterOffsetEnd=351 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=352 CharacterOffsetEnd=353 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=353 CharacterOffsetEnd=354 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=yelling CharacterOffsetBegin=354 CharacterOffsetEnd=361 PartOfSpeech=VBG Lemma=yell NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=361 CharacterOffsetEnd=362 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=Hello CharacterOffsetBegin=363 CharacterOffsetEnd=368 PartOfSpeech=UH Lemma=hello NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=368 CharacterOffsetEnd=369 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=this CharacterOffsetBegin=370 CharacterOffsetEnd=374 PartOfSpeech=DT Lemma=this NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=375 CharacterOffsetEnd=377 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=378 CharacterOffsetEnd=384 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=384 CharacterOffsetEnd=385 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=385 CharacterOffsetEnd=386 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(yelling-6, *-5)
+dep(says-2, yelling-6)
+obj(yelling-6, *-7)
+discourse(Garnet-12, Hello-8)
+punct(Garnet-12, ,-9)
+nsubj(Garnet-12, this-10)
+cop(Garnet-12, is-11)
+ccomp(yelling-6, Garnet-12)
+punct(says-2, !-13)
+punct(says-2, "-14)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9443883095594108
+
+Sentence #5 (18 tokens):
+Garnet says: "And today, I'm gonna be teaching you about fusion!"
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=387 CharacterOffsetEnd=393 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=394 CharacterOffsetEnd=398 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=398 CharacterOffsetEnd=399 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=400 CharacterOffsetEnd=401 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=And CharacterOffsetBegin=401 CharacterOffsetEnd=404 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=today CharacterOffsetBegin=405 CharacterOffsetEnd=410 PartOfSpeech=NN Lemma=today NamedEntityTag=DATE NormalizedNamedEntityTag=THIS P1D Timex=<TIMEX3 alt_value="THIS P1D" anchorTimeID="t0" temporalFunction="true" tid="t1" type="DATE" valueFromFunction="tf0">today</TIMEX3>]
+[Text=, CharacterOffsetBegin=410 CharacterOffsetEnd=411 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=412 CharacterOffsetEnd=413 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=413 CharacterOffsetEnd=415 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=gon CharacterOffsetBegin=416 CharacterOffsetEnd=419 PartOfSpeech=VBG Lemma=gon NamedEntityTag=O]
+[Text=na CharacterOffsetBegin=419 CharacterOffsetEnd=421 PartOfSpeech=TO Lemma=na NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=422 CharacterOffsetEnd=424 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=teaching CharacterOffsetBegin=425 CharacterOffsetEnd=433 PartOfSpeech=VBG Lemma=teach NamedEntityTag=O]
+[Text=you CharacterOffsetBegin=434 CharacterOffsetEnd=437 PartOfSpeech=PRP Lemma=you NamedEntityTag=O]
+[Text=about CharacterOffsetBegin=438 CharacterOffsetEnd=443 PartOfSpeech=IN Lemma=about NamedEntityTag=O]
+[Text=fusion CharacterOffsetBegin=444 CharacterOffsetEnd=450 PartOfSpeech=NN Lemma=fusion NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=450 CharacterOffsetEnd=451 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=451 CharacterOffsetEnd=452 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(gon-10, And-5)
+obl:tmod(gon-10, today-6)
+punct(gon-10, ,-7)
+nsubj(gon-10, I-8)
+nsubj:xsubj(teaching-13, I-8)
+aux(gon-10, 'm-9)
+conj:and(says-2, gon-10)
+mark(teaching-13, na-11)
+aux(teaching-13, be-12)
+xcomp(gon-10, teaching-13)
+obj(teaching-13, you-14)
+case(fusion-16, about-15)
+obl:about(teaching-13, fusion-16)
+punct(says-2, !-17)
+punct(says-2, "-18)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9683835561036273
+today	DATE	DATE:-1.0
+
+Sentence #6 (25 tokens):
+A lens flare shimmers from Garnet's visors, and the scene transition to Garnet, Pearl and Amethyst dancing in a dance studio.
+
+Tokens:
+[Text=A CharacterOffsetBegin=453 CharacterOffsetEnd=454 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=lens CharacterOffsetBegin=455 CharacterOffsetEnd=459 PartOfSpeech=NN Lemma=lens NamedEntityTag=O]
+[Text=flare CharacterOffsetBegin=460 CharacterOffsetEnd=465 PartOfSpeech=NN Lemma=flare NamedEntityTag=O]
+[Text=shimmers CharacterOffsetBegin=466 CharacterOffsetEnd=474 PartOfSpeech=VBZ Lemma=shimmer NamedEntityTag=O]
+[Text=from CharacterOffsetBegin=475 CharacterOffsetEnd=479 PartOfSpeech=IN Lemma=from NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=480 CharacterOffsetEnd=486 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text='s CharacterOffsetBegin=486 CharacterOffsetEnd=488 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=visors CharacterOffsetBegin=489 CharacterOffsetEnd=495 PartOfSpeech=NNS Lemma=visor NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=495 CharacterOffsetEnd=496 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=497 CharacterOffsetEnd=500 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=501 CharacterOffsetEnd=504 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=scene CharacterOffsetBegin=505 CharacterOffsetEnd=510 PartOfSpeech=NN Lemma=scene NamedEntityTag=O]
+[Text=transition CharacterOffsetBegin=511 CharacterOffsetEnd=521 PartOfSpeech=NN Lemma=transition NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=522 CharacterOffsetEnd=524 PartOfSpeech=IN Lemma=to NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=525 CharacterOffsetEnd=531 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=531 CharacterOffsetEnd=532 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Pearl CharacterOffsetBegin=533 CharacterOffsetEnd=538 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=PERSON]
+[Text=and CharacterOffsetBegin=539 CharacterOffsetEnd=542 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=543 CharacterOffsetEnd=551 PartOfSpeech=NNP Lemma=Amethyst NamedEntityTag=O]
+[Text=dancing CharacterOffsetBegin=552 CharacterOffsetEnd=559 PartOfSpeech=VBG Lemma=dance NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=560 CharacterOffsetEnd=562 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=563 CharacterOffsetEnd=564 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=dance CharacterOffsetBegin=565 CharacterOffsetEnd=570 PartOfSpeech=NN Lemma=dance NamedEntityTag=O]
+[Text=studio CharacterOffsetBegin=571 CharacterOffsetEnd=577 PartOfSpeech=NN Lemma=studio NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=577 CharacterOffsetEnd=578 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, shimmers-4)
+det(flare-3, A-1)
+compound(flare-3, lens-2)
+nsubj(shimmers-4, flare-3)
+case(visors-8, from-5)
+nmod:poss(visors-8, Garnet-6)
+case(Garnet-6, 's-7)
+obl:from(shimmers-4, visors-8)
+punct(shimmers-4, ,-9)
+cc(transition-13, and-10)
+det(transition-13, the-11)
+compound(transition-13, scene-12)
+conj:and(shimmers-4, transition-13)
+case(Garnet-15, to-14)
+nmod:to(transition-13, Garnet-15)
+punct(Garnet-15, ,-16)
+nmod:to(transition-13, Pearl-17)
+conj:and(Garnet-15, Pearl-17)
+cc(Amethyst-19, and-18)
+nmod:to(transition-13, Amethyst-19)
+conj:and(Garnet-15, Amethyst-19)
+acl(transition-13, dancing-20)
+case(studio-24, in-21)
+det(studio-24, a-22)
+compound(studio-24, dance-23)
+obl:in(dancing-20, studio-24)
+punct(shimmers-4, .-25)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.8621928308892166
+Garnet	PERSON	PERSON:0.9208967228082104
+Pearl	PERSON	PERSON:0.33781708846556907
+
+Sentence #7 (21 tokens):
+Garnet says: "A fusion is made when two or more Gems combine into one, like me."
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=579 CharacterOffsetEnd=585 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=586 CharacterOffsetEnd=590 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=590 CharacterOffsetEnd=591 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=592 CharacterOffsetEnd=593 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=A CharacterOffsetBegin=593 CharacterOffsetEnd=594 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=fusion CharacterOffsetBegin=595 CharacterOffsetEnd=601 PartOfSpeech=NN Lemma=fusion NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=602 CharacterOffsetEnd=604 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=made CharacterOffsetBegin=605 CharacterOffsetEnd=609 PartOfSpeech=VBN Lemma=make NamedEntityTag=O]
+[Text=when CharacterOffsetBegin=610 CharacterOffsetEnd=614 PartOfSpeech=WRB Lemma=when NamedEntityTag=O]
+[Text=two CharacterOffsetBegin=615 CharacterOffsetEnd=618 PartOfSpeech=CD Lemma=two NamedEntityTag=NUMBER NormalizedNamedEntityTag=>=2.0]
+[Text=or CharacterOffsetBegin=619 CharacterOffsetEnd=621 PartOfSpeech=CC Lemma=or NamedEntityTag=O]
+[Text=more CharacterOffsetBegin=622 CharacterOffsetEnd=626 PartOfSpeech=JJR Lemma=more NamedEntityTag=O]
+[Text=Gems CharacterOffsetBegin=627 CharacterOffsetEnd=631 PartOfSpeech=NNPS Lemma=Gems NamedEntityTag=MISC]
+[Text=combine CharacterOffsetBegin=632 CharacterOffsetEnd=639 PartOfSpeech=VBP Lemma=combine NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=640 CharacterOffsetEnd=644 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=one CharacterOffsetBegin=645 CharacterOffsetEnd=648 PartOfSpeech=CD Lemma=one NamedEntityTag=NUMBER NormalizedNamedEntityTag=1.0]
+[Text=, CharacterOffsetBegin=648 CharacterOffsetEnd=649 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=like CharacterOffsetBegin=650 CharacterOffsetEnd=654 PartOfSpeech=IN Lemma=like NamedEntityTag=O]
+[Text=me CharacterOffsetBegin=655 CharacterOffsetEnd=657 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=657 CharacterOffsetEnd=658 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=658 CharacterOffsetEnd=659 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(fusion-6, A-5)
+nsubj:pass(made-8, fusion-6)
+aux:pass(made-8, is-7)
+ccomp(says-2, made-8)
+advmod(combine-14, when-9)
+nummod(Gems-13, two-10)
+cc(more-12, or-11)
+conj:or(two-10, more-12)
+nummod(Gems-13, more-12)
+nsubj(combine-14, Gems-13)
+advcl(made-8, combine-14)
+case(one-16, into-15)
+obl:into(combine-14, one-16)
+punct(combine-14, ,-17)
+case(me-19, like-18)
+obl:like(combine-14, me-19)
+punct(says-2, .-20)
+punct(says-2, "-21)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9569278517323023
+two	NUMBER	NUMBER:-1.0
+Gems	MISC	MISC:0.5924413554708337
+one	NUMBER	NUMBER:-1.0
+
+Sentence #8 (13 tokens):
+Garnet unfuses into Ruby and Sapphire, and they start dancing too.
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=660 CharacterOffsetEnd=666 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=unfuses CharacterOffsetBegin=667 CharacterOffsetEnd=674 PartOfSpeech=VBZ Lemma=unfuse NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=675 CharacterOffsetEnd=679 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=Ruby CharacterOffsetBegin=680 CharacterOffsetEnd=684 PartOfSpeech=NNP Lemma=Ruby NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=685 CharacterOffsetEnd=688 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Sapphire CharacterOffsetBegin=689 CharacterOffsetEnd=697 PartOfSpeech=NNP Lemma=Sapphire NamedEntityTag=ORGANIZATION]
+[Text=, CharacterOffsetBegin=697 CharacterOffsetEnd=698 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=699 CharacterOffsetEnd=702 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=they CharacterOffsetBegin=703 CharacterOffsetEnd=707 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=start CharacterOffsetBegin=708 CharacterOffsetEnd=713 PartOfSpeech=VBP Lemma=start NamedEntityTag=O]
+[Text=dancing CharacterOffsetBegin=714 CharacterOffsetEnd=721 PartOfSpeech=VBG Lemma=dance NamedEntityTag=O]
+[Text=too CharacterOffsetBegin=722 CharacterOffsetEnd=725 PartOfSpeech=RB Lemma=too NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=725 CharacterOffsetEnd=726 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, unfuses-2)
+nsubj(unfuses-2, Garnet-1)
+case(Ruby-4, into-3)
+obl:into(unfuses-2, Ruby-4)
+cc(Sapphire-6, and-5)
+obl:into(unfuses-2, Sapphire-6)
+conj:and(Ruby-4, Sapphire-6)
+punct(unfuses-2, ,-7)
+cc(start-10, and-8)
+nsubj(start-10, they-9)
+conj:and(unfuses-2, start-10)
+xcomp(start-10, dancing-11)
+advmod(dancing-11, too-12)
+punct(unfuses-2, .-13)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.8032043866565779
+Sapphire	ORGANIZATION	ORGANIZATION:0.43806592037887543
+
+Sentence #9 (12 tokens):
+Pearl says: "Fusion is very difficult to do."
+
+Tokens:
+[Text=Pearl CharacterOffsetBegin=727 CharacterOffsetEnd=732 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=733 CharacterOffsetEnd=737 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=737 CharacterOffsetEnd=738 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=739 CharacterOffsetEnd=740 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Fusion CharacterOffsetBegin=740 CharacterOffsetEnd=746 PartOfSpeech=NNP Lemma=Fusion NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=747 CharacterOffsetEnd=749 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=very CharacterOffsetBegin=750 CharacterOffsetEnd=754 PartOfSpeech=RB Lemma=very NamedEntityTag=O]
+[Text=difficult CharacterOffsetBegin=755 CharacterOffsetEnd=764 PartOfSpeech=JJ Lemma=difficult NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=765 CharacterOffsetEnd=767 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=do CharacterOffsetBegin=768 CharacterOffsetEnd=770 PartOfSpeech=VB Lemma=do NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=770 CharacterOffsetEnd=771 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=771 CharacterOffsetEnd=772 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Pearl-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(difficult-8, Fusion-5)
+nsubj:xsubj(do-10, Fusion-5)
+cop(difficult-8, is-6)
+advmod(difficult-8, very-7)
+ccomp(says-2, difficult-8)
+mark(do-10, to-9)
+xcomp(difficult-8, do-10)
+punct(says-2, .-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+
+Sentence #10 (18 tokens):
+Pearl says: "Gems must be in perfect sync physically, mentally, and emotionally."
+
+Tokens:
+[Text=Pearl CharacterOffsetBegin=773 CharacterOffsetEnd=778 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=779 CharacterOffsetEnd=783 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=783 CharacterOffsetEnd=784 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=785 CharacterOffsetEnd=786 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Gems CharacterOffsetBegin=786 CharacterOffsetEnd=790 PartOfSpeech=NNS Lemma=gem NamedEntityTag=O]
+[Text=must CharacterOffsetBegin=791 CharacterOffsetEnd=795 PartOfSpeech=MD Lemma=must NamedEntityTag=O]
+[Text=be CharacterOffsetBegin=796 CharacterOffsetEnd=798 PartOfSpeech=VB Lemma=be NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=799 CharacterOffsetEnd=801 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=perfect CharacterOffsetBegin=802 CharacterOffsetEnd=809 PartOfSpeech=JJ Lemma=perfect NamedEntityTag=O]
+[Text=sync CharacterOffsetBegin=810 CharacterOffsetEnd=814 PartOfSpeech=NN Lemma=sync NamedEntityTag=O]
+[Text=physically CharacterOffsetBegin=815 CharacterOffsetEnd=825 PartOfSpeech=RB Lemma=physically NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=825 CharacterOffsetEnd=826 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=mentally CharacterOffsetBegin=827 CharacterOffsetEnd=835 PartOfSpeech=RB Lemma=mentally NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=835 CharacterOffsetEnd=836 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=837 CharacterOffsetEnd=840 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=emotionally CharacterOffsetBegin=841 CharacterOffsetEnd=852 PartOfSpeech=RB Lemma=emotionally NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=852 CharacterOffsetEnd=853 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=853 CharacterOffsetEnd=854 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Pearl-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(sync-10, Gems-5)
+aux(sync-10, must-6)
+cop(sync-10, be-7)
+case(sync-10, in-8)
+amod(sync-10, perfect-9)
+ccomp(says-2, sync-10)
+advmod(sync-10, physically-11)
+punct(sync-10, ,-12)
+advmod(sync-10, mentally-13)
+punct(sync-10, ,-14)
+cc(emotionally-16, and-15)
+ccomp(says-2, emotionally-16)
+conj:and(sync-10, emotionally-16)
+punct(says-2, .-17)
+punct(says-2, "-18)
+
+Extracted the following NER entity mentions:
+
+Sentence #11 (16 tokens):
+Ruby and Sapphire fuse back into Garnet, while Pearl and Amethyst fuse into Opal.
+
+Tokens:
+[Text=Ruby CharacterOffsetBegin=855 CharacterOffsetEnd=859 PartOfSpeech=NNP Lemma=Ruby NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=860 CharacterOffsetEnd=863 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Sapphire CharacterOffsetBegin=864 CharacterOffsetEnd=872 PartOfSpeech=NNP Lemma=Sapphire NamedEntityTag=PERSON]
+[Text=fuse CharacterOffsetBegin=873 CharacterOffsetEnd=877 PartOfSpeech=NN Lemma=fuse NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=878 CharacterOffsetEnd=882 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=883 CharacterOffsetEnd=887 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=888 CharacterOffsetEnd=894 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=894 CharacterOffsetEnd=895 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=while CharacterOffsetBegin=896 CharacterOffsetEnd=901 PartOfSpeech=IN Lemma=while NamedEntityTag=O]
+[Text=Pearl CharacterOffsetBegin=902 CharacterOffsetEnd=907 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=CITY]
+[Text=and CharacterOffsetBegin=908 CharacterOffsetEnd=911 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=912 CharacterOffsetEnd=920 PartOfSpeech=NNP Lemma=Amethyst NamedEntityTag=O]
+[Text=fuse CharacterOffsetBegin=921 CharacterOffsetEnd=925 PartOfSpeech=NN Lemma=fuse NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=926 CharacterOffsetEnd=930 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=Opal CharacterOffsetBegin=931 CharacterOffsetEnd=935 PartOfSpeech=NNP Lemma=Opal NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=935 CharacterOffsetEnd=936 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, fuse-4)
+compound(fuse-4, Ruby-1)
+cc(Sapphire-3, and-2)
+conj:and(Ruby-1, Sapphire-3)
+compound(fuse-4, Sapphire-3)
+advmod(fuse-4, back-5)
+case(Garnet-7, into-6)
+obl:into(back-5, Garnet-7)
+punct(fuse-4, ,-8)
+case(fuse-13, while-9)
+compound(fuse-13, Pearl-10)
+cc(Amethyst-12, and-11)
+conj:and(Pearl-10, Amethyst-12)
+compound(fuse-13, Amethyst-12)
+obl:while(fuse-4, fuse-13)
+case(Opal-15, into-14)
+nmod:into(fuse-13, Opal-15)
+punct(fuse-4, .-16)
+
+Extracted the following NER entity mentions:
+Sapphire	PERSON	PERSON:0.4588498535859858
+Garnet	PERSON	PERSON:0.8632178175625032
+Pearl	CITY	LOCATION:0.4763677591899648
+Opal	PERSON	PERSON:0.8468411390837507
+
+Sentence #12 (40 tokens):
+Garnet says: "*takes off her visors* The new forms have extra body parts, and the combined heights and strengths of the fusers, but fusion is hard for Gems that have trouble collaborating."
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=937 CharacterOffsetEnd=943 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=944 CharacterOffsetEnd=948 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=948 CharacterOffsetEnd=949 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=950 CharacterOffsetEnd=951 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=951 CharacterOffsetEnd=952 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=takes CharacterOffsetBegin=952 CharacterOffsetEnd=957 PartOfSpeech=VBZ Lemma=take NamedEntityTag=O]
+[Text=off CharacterOffsetBegin=958 CharacterOffsetEnd=961 PartOfSpeech=RP Lemma=off NamedEntityTag=O]
+[Text=her CharacterOffsetBegin=962 CharacterOffsetEnd=965 PartOfSpeech=PRP$ Lemma=she NamedEntityTag=O]
+[Text=visors CharacterOffsetBegin=966 CharacterOffsetEnd=972 PartOfSpeech=NNS Lemma=visor NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=972 CharacterOffsetEnd=973 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=974 CharacterOffsetEnd=977 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=new CharacterOffsetBegin=978 CharacterOffsetEnd=981 PartOfSpeech=JJ Lemma=new NamedEntityTag=O]
+[Text=forms CharacterOffsetBegin=982 CharacterOffsetEnd=987 PartOfSpeech=NNS Lemma=form NamedEntityTag=O]
+[Text=have CharacterOffsetBegin=988 CharacterOffsetEnd=992 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=extra CharacterOffsetBegin=993 CharacterOffsetEnd=998 PartOfSpeech=JJ Lemma=extra NamedEntityTag=O]
+[Text=body CharacterOffsetBegin=999 CharacterOffsetEnd=1003 PartOfSpeech=NN Lemma=body NamedEntityTag=O]
+[Text=parts CharacterOffsetBegin=1004 CharacterOffsetEnd=1009 PartOfSpeech=NNS Lemma=part NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1009 CharacterOffsetEnd=1010 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1011 CharacterOffsetEnd=1014 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1015 CharacterOffsetEnd=1018 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=combined CharacterOffsetBegin=1019 CharacterOffsetEnd=1027 PartOfSpeech=VBN Lemma=combine NamedEntityTag=O]
+[Text=heights CharacterOffsetBegin=1028 CharacterOffsetEnd=1035 PartOfSpeech=NNS Lemma=height NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1036 CharacterOffsetEnd=1039 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=strengths CharacterOffsetBegin=1040 CharacterOffsetEnd=1049 PartOfSpeech=NNS Lemma=strength NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1050 CharacterOffsetEnd=1052 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1053 CharacterOffsetEnd=1056 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=fusers CharacterOffsetBegin=1057 CharacterOffsetEnd=1063 PartOfSpeech=NNS Lemma=fuser NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1063 CharacterOffsetEnd=1064 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=but CharacterOffsetBegin=1065 CharacterOffsetEnd=1068 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=fusion CharacterOffsetBegin=1069 CharacterOffsetEnd=1075 PartOfSpeech=NN Lemma=fusion NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=1076 CharacterOffsetEnd=1078 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=hard CharacterOffsetBegin=1079 CharacterOffsetEnd=1083 PartOfSpeech=JJ Lemma=hard NamedEntityTag=O]
+[Text=for CharacterOffsetBegin=1084 CharacterOffsetEnd=1087 PartOfSpeech=IN Lemma=for NamedEntityTag=O]
+[Text=Gems CharacterOffsetBegin=1088 CharacterOffsetEnd=1092 PartOfSpeech=NNS Lemma=gem NamedEntityTag=O]
+[Text=that CharacterOffsetBegin=1093 CharacterOffsetEnd=1097 PartOfSpeech=WDT Lemma=that NamedEntityTag=O]
+[Text=have CharacterOffsetBegin=1098 CharacterOffsetEnd=1102 PartOfSpeech=VBP Lemma=have NamedEntityTag=O]
+[Text=trouble CharacterOffsetBegin=1103 CharacterOffsetEnd=1110 PartOfSpeech=NN Lemma=trouble NamedEntityTag=O]
+[Text=collaborating CharacterOffsetBegin=1111 CharacterOffsetEnd=1124 PartOfSpeech=VBG Lemma=collaborate NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1124 CharacterOffsetEnd=1125 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1125 CharacterOffsetEnd=1126 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(takes-6, *-5)
+ccomp(says-2, takes-6)
+compound:prt(takes-6, off-7)
+nmod:poss(visors-9, her-8)
+obj(takes-6, visors-9)
+nsubj(forms-13, *-10)
+det(forms-13, The-11)
+amod(forms-13, new-12)
+dep(visors-9, forms-13)
+acl(forms-13, have-14)
+amod(parts-17, extra-15)
+compound(parts-17, body-16)
+obj(have-14, parts-17)
+punct(takes-6, ,-18)
+dep(takes-6, and-19)
+det(heights-22, the-20)
+amod(heights-22, combined-21)
+dep(and-19, heights-22)
+cc(strengths-24, and-23)
+dep(and-19, strengths-24)
+conj:and(heights-22, strengths-24)
+case(fusers-27, of-25)
+det(fusers-27, the-26)
+nmod:of(heights-22, fusers-27)
+punct(heights-22, ,-28)
+cc(hard-32, but-29)
+nsubj(hard-32, fusion-30)
+cop(hard-32, is-31)
+dep(and-19, hard-32)
+conj:but(heights-22, hard-32)
+case(Gems-34, for-33)
+obl:for(hard-32, Gems-34)
+obj(collaborating-38, Gems-34)
+ref(Gems-34, that-35)
+aux(collaborating-38, have-36)
+nsubj(collaborating-38, trouble-37)
+acl:relcl(Gems-34, collaborating-38)
+punct(says-2, .-39)
+punct(says-2, "-40)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9549478258553036
+her	PERSON	-
+
+Sentence #13 (15 tokens):
+Opal quickly unfuses back into Pearl and Amethyst, both angry at each other.
+
+Tokens:
+[Text=Opal CharacterOffsetBegin=1127 CharacterOffsetEnd=1131 PartOfSpeech=NNP Lemma=Opal NamedEntityTag=PERSON]
+[Text=quickly CharacterOffsetBegin=1132 CharacterOffsetEnd=1139 PartOfSpeech=RB Lemma=quickly NamedEntityTag=O]
+[Text=unfuses CharacterOffsetBegin=1140 CharacterOffsetEnd=1147 PartOfSpeech=VBZ Lemma=unfuse NamedEntityTag=O]
+[Text=back CharacterOffsetBegin=1148 CharacterOffsetEnd=1152 PartOfSpeech=RB Lemma=back NamedEntityTag=O]
+[Text=into CharacterOffsetBegin=1153 CharacterOffsetEnd=1157 PartOfSpeech=IN Lemma=into NamedEntityTag=O]
+[Text=Pearl CharacterOffsetBegin=1158 CharacterOffsetEnd=1163 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1164 CharacterOffsetEnd=1167 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=1168 CharacterOffsetEnd=1176 PartOfSpeech=NNP Lemma=Amethyst NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1176 CharacterOffsetEnd=1177 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=both CharacterOffsetBegin=1178 CharacterOffsetEnd=1182 PartOfSpeech=CC Lemma=both NamedEntityTag=O]
+[Text=angry CharacterOffsetBegin=1183 CharacterOffsetEnd=1188 PartOfSpeech=JJ Lemma=angry NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=1189 CharacterOffsetEnd=1191 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=each CharacterOffsetBegin=1192 CharacterOffsetEnd=1196 PartOfSpeech=DT Lemma=each NamedEntityTag=O]
+[Text=other CharacterOffsetBegin=1197 CharacterOffsetEnd=1202 PartOfSpeech=JJ Lemma=other NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1202 CharacterOffsetEnd=1203 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, unfuses-3)
+nsubj(unfuses-3, Opal-1)
+advmod(unfuses-3, quickly-2)
+advmod(unfuses-3, back-4)
+case(Pearl-6, into-5)
+obl:into(unfuses-3, Pearl-6)
+cc(Amethyst-8, and-7)
+obl:into(unfuses-3, Amethyst-8)
+conj:and(Pearl-6, Amethyst-8)
+punct(unfuses-3, ,-9)
+cc:preconj(angry-11, both-10)
+xcomp(unfuses-3, angry-11)
+case(other-14, at-12)
+det(other-14, each-13)
+obl:at(angry-11, other-14)
+punct(unfuses-3, .-15)
+
+Extracted the following NER entity mentions:
+Opal	PERSON	PERSON:0.8222462033803685
+
+Sentence #14 (11 tokens):
+Pearl says: "I'm great at collaborating!"
+
+Tokens:
+[Text=Pearl CharacterOffsetBegin=1204 CharacterOffsetEnd=1209 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1210 CharacterOffsetEnd=1214 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1214 CharacterOffsetEnd=1215 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1216 CharacterOffsetEnd=1217 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1217 CharacterOffsetEnd=1218 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text='m CharacterOffsetBegin=1218 CharacterOffsetEnd=1220 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=great CharacterOffsetBegin=1221 CharacterOffsetEnd=1226 PartOfSpeech=JJ Lemma=great NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=1227 CharacterOffsetEnd=1229 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=collaborating CharacterOffsetBegin=1230 CharacterOffsetEnd=1243 PartOfSpeech=VBG Lemma=collaborate NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1243 CharacterOffsetEnd=1244 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1244 CharacterOffsetEnd=1245 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Pearl-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(great-7, I-5)
+cop(great-7, 'm-6)
+ccomp(says-2, great-7)
+case(collaborating-9, at-8)
+obl:at(great-7, collaborating-9)
+punct(says-2, !-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+
+Sentence #15 (13 tokens):
+Amethyst says: "*folds arms* Yeah, right."
+
+Tokens:
+[Text=Amethyst CharacterOffsetBegin=1246 CharacterOffsetEnd=1254 PartOfSpeech=NN Lemma=amethyst NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1255 CharacterOffsetEnd=1259 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1259 CharacterOffsetEnd=1260 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1261 CharacterOffsetEnd=1262 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1262 CharacterOffsetEnd=1263 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=folds CharacterOffsetBegin=1263 CharacterOffsetEnd=1268 PartOfSpeech=VBZ Lemma=fold NamedEntityTag=O]
+[Text=arms CharacterOffsetBegin=1269 CharacterOffsetEnd=1273 PartOfSpeech=NNS Lemma=arm NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1273 CharacterOffsetEnd=1274 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=1275 CharacterOffsetEnd=1279 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1279 CharacterOffsetEnd=1280 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=right CharacterOffsetBegin=1281 CharacterOffsetEnd=1286 PartOfSpeech=UH Lemma=right NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1286 CharacterOffsetEnd=1287 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1287 CharacterOffsetEnd=1288 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Amethyst-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(folds-6, *-5)
+ccomp(says-2, folds-6)
+obj(folds-6, arms-7)
+nsubj(Yeah-9, *-8)
+xcomp(folds-6, Yeah-9)
+punct(Yeah-9, ,-10)
+discourse(Yeah-9, right-11)
+punct(says-2, .-12)
+punct(says-2, "-13)
+
+Extracted the following NER entity mentions:
+
+Sentence #16 (8 tokens):
+Pearl and Amethyst begin fuming in anger.
+
+Tokens:
+[Text=Pearl CharacterOffsetBegin=1289 CharacterOffsetEnd=1294 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1295 CharacterOffsetEnd=1298 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=1299 CharacterOffsetEnd=1307 PartOfSpeech=NNP Lemma=Amethyst NamedEntityTag=O]
+[Text=begin CharacterOffsetBegin=1308 CharacterOffsetEnd=1313 PartOfSpeech=VBP Lemma=begin NamedEntityTag=O]
+[Text=fuming CharacterOffsetBegin=1314 CharacterOffsetEnd=1320 PartOfSpeech=VBG Lemma=fume NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1321 CharacterOffsetEnd=1323 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=anger CharacterOffsetBegin=1324 CharacterOffsetEnd=1329 PartOfSpeech=NN Lemma=anger NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1329 CharacterOffsetEnd=1330 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, begin-4)
+nsubj(begin-4, Pearl-1)
+cc(Amethyst-3, and-2)
+conj:and(Pearl-1, Amethyst-3)
+nsubj(begin-4, Amethyst-3)
+xcomp(begin-4, fuming-5)
+case(anger-7, in-6)
+obl:in(fuming-5, anger-7)
+punct(begin-4, .-8)
+
+Extracted the following NER entity mentions:
+
+Sentence #17 (11 tokens):
+Garnet says: "But I get along fine."
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=1331 CharacterOffsetEnd=1337 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1338 CharacterOffsetEnd=1342 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1342 CharacterOffsetEnd=1343 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1344 CharacterOffsetEnd=1345 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=But CharacterOffsetBegin=1345 CharacterOffsetEnd=1348 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=I CharacterOffsetBegin=1349 CharacterOffsetEnd=1350 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=get CharacterOffsetBegin=1351 CharacterOffsetEnd=1354 PartOfSpeech=VBP Lemma=get NamedEntityTag=O]
+[Text=along CharacterOffsetBegin=1355 CharacterOffsetEnd=1360 PartOfSpeech=IN Lemma=along NamedEntityTag=O]
+[Text=fine CharacterOffsetBegin=1361 CharacterOffsetEnd=1365 PartOfSpeech=JJ Lemma=fine NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1365 CharacterOffsetEnd=1366 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1366 CharacterOffsetEnd=1367 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+cc(get-7, But-5)
+nsubj(get-7, I-6)
+ccomp(says-2, get-7)
+case(fine-9, along-8)
+obl:along(get-7, fine-9)
+punct(says-2, .-10)
+punct(says-2, "-11)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9496079626200932
+
+Sentence #18 (23 tokens):
+Garnet flicks on a screen, showing a montage of various fusions, such as Opal, Sugilite, Alexandrite and Stevonnie.
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=1368 CharacterOffsetEnd=1374 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=flicks CharacterOffsetBegin=1375 CharacterOffsetEnd=1381 PartOfSpeech=NNS Lemma=flick NamedEntityTag=O]
+[Text=on CharacterOffsetBegin=1382 CharacterOffsetEnd=1384 PartOfSpeech=IN Lemma=on NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1385 CharacterOffsetEnd=1386 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=1387 CharacterOffsetEnd=1393 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1393 CharacterOffsetEnd=1394 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=showing CharacterOffsetBegin=1395 CharacterOffsetEnd=1402 PartOfSpeech=VBG Lemma=show NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=1403 CharacterOffsetEnd=1404 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=montage CharacterOffsetBegin=1405 CharacterOffsetEnd=1412 PartOfSpeech=NN Lemma=montage NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=1413 CharacterOffsetEnd=1415 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=various CharacterOffsetBegin=1416 CharacterOffsetEnd=1423 PartOfSpeech=JJ Lemma=various NamedEntityTag=O]
+[Text=fusions CharacterOffsetBegin=1424 CharacterOffsetEnd=1431 PartOfSpeech=NNS Lemma=fusion NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1431 CharacterOffsetEnd=1432 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=such CharacterOffsetBegin=1433 CharacterOffsetEnd=1437 PartOfSpeech=JJ Lemma=such NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1438 CharacterOffsetEnd=1440 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=Opal CharacterOffsetBegin=1441 CharacterOffsetEnd=1445 PartOfSpeech=NNP Lemma=Opal NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=1445 CharacterOffsetEnd=1446 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Sugilite CharacterOffsetBegin=1447 CharacterOffsetEnd=1455 PartOfSpeech=NNP Lemma=Sugilite NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1455 CharacterOffsetEnd=1456 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Alexandrite CharacterOffsetBegin=1457 CharacterOffsetEnd=1468 PartOfSpeech=NNP Lemma=Alexandrite NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1469 CharacterOffsetEnd=1472 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Stevonnie CharacterOffsetBegin=1473 CharacterOffsetEnd=1482 PartOfSpeech=NNP Lemma=Stevonnie NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=1482 CharacterOffsetEnd=1483 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, flicks-2)
+compound(flicks-2, Garnet-1)
+case(screen-5, on-3)
+det(screen-5, a-4)
+nmod:on(flicks-2, screen-5)
+punct(flicks-2, ,-6)
+acl(flicks-2, showing-7)
+det(montage-9, a-8)
+obj(showing-7, montage-9)
+case(fusions-12, of-10)
+amod(fusions-12, various-11)
+nmod:of(montage-9, fusions-12)
+punct(fusions-12, ,-13)
+case(Opal-16, such-14)
+fixed(such-14, as-15)
+nmod:such_as(fusions-12, Opal-16)
+punct(Opal-16, ,-17)
+nmod:such_as(fusions-12, Sugilite-18)
+conj:and(Opal-16, Sugilite-18)
+punct(Opal-16, ,-19)
+nmod:such_as(fusions-12, Alexandrite-20)
+conj:and(Opal-16, Alexandrite-20)
+cc(Stevonnie-22, and-21)
+nmod:such_as(fusions-12, Stevonnie-22)
+conj:and(Opal-16, Stevonnie-22)
+punct(flicks-2, .-23)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.7237895835537791
+Opal	PERSON	PERSON:0.6492594812086443
+Stevonnie	PERSON	PERSON:0.5486452112738891
+
+Sentence #19 (12 tokens):
+Garnet says: "There are many reasons to fuse."
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=1484 CharacterOffsetEnd=1490 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1491 CharacterOffsetEnd=1495 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1495 CharacterOffsetEnd=1496 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1497 CharacterOffsetEnd=1498 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=There CharacterOffsetBegin=1498 CharacterOffsetEnd=1503 PartOfSpeech=EX Lemma=there NamedEntityTag=O]
+[Text=are CharacterOffsetBegin=1504 CharacterOffsetEnd=1507 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=many CharacterOffsetBegin=1508 CharacterOffsetEnd=1512 PartOfSpeech=JJ Lemma=many NamedEntityTag=O]
+[Text=reasons CharacterOffsetBegin=1513 CharacterOffsetEnd=1520 PartOfSpeech=NNS Lemma=reason NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1521 CharacterOffsetEnd=1523 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=fuse CharacterOffsetBegin=1524 CharacterOffsetEnd=1528 PartOfSpeech=VB Lemma=fuse NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1528 CharacterOffsetEnd=1529 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1529 CharacterOffsetEnd=1530 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+expl(are-6, There-5)
+ccomp(says-2, are-6)
+amod(reasons-8, many-7)
+nsubj(fuse-10, reasons-8)
+mark(fuse-10, to-9)
+ccomp(are-6, fuse-10)
+punct(says-2, .-11)
+punct(says-2, "-12)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9326234840485833
+
+Sentence #20 (22 tokens):
+Steven says: "*raises his hand* Yeah, but, what's the best reason to fuse?"
+
+Tokens:
+[Text=Steven CharacterOffsetBegin=1531 CharacterOffsetEnd=1537 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1538 CharacterOffsetEnd=1542 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1542 CharacterOffsetEnd=1543 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1544 CharacterOffsetEnd=1545 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1545 CharacterOffsetEnd=1546 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=raises CharacterOffsetBegin=1546 CharacterOffsetEnd=1552 PartOfSpeech=VBZ Lemma=raise NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=1553 CharacterOffsetEnd=1556 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=hand CharacterOffsetBegin=1557 CharacterOffsetEnd=1561 PartOfSpeech=NN Lemma=hand NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1561 CharacterOffsetEnd=1562 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=Yeah CharacterOffsetBegin=1563 CharacterOffsetEnd=1567 PartOfSpeech=UH Lemma=yeah NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1567 CharacterOffsetEnd=1568 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=but CharacterOffsetBegin=1569 CharacterOffsetEnd=1572 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1572 CharacterOffsetEnd=1573 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=what CharacterOffsetBegin=1574 CharacterOffsetEnd=1578 PartOfSpeech=WP Lemma=what NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1578 CharacterOffsetEnd=1580 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1581 CharacterOffsetEnd=1584 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=best CharacterOffsetBegin=1585 CharacterOffsetEnd=1589 PartOfSpeech=JJS Lemma=best NamedEntityTag=O]
+[Text=reason CharacterOffsetBegin=1590 CharacterOffsetEnd=1596 PartOfSpeech=NN Lemma=reason NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1597 CharacterOffsetEnd=1599 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=fuse CharacterOffsetBegin=1600 CharacterOffsetEnd=1604 PartOfSpeech=VB Lemma=fuse NamedEntityTag=O]
+[Text=? CharacterOffsetBegin=1604 CharacterOffsetEnd=1605 PartOfSpeech=. Lemma=? NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1605 CharacterOffsetEnd=1606 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Steven-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+nsubj(raises-6, *-5)
+ccomp(says-2, raises-6)
+nmod:poss(hand-8, his-7)
+obj(raises-6, hand-8)
+nsubj(Yeah-10, *-9)
+xcomp(raises-6, Yeah-10)
+punct(raises-6, ,-11)
+cc(what-14, but-12)
+punct(what-14, ,-13)
+ccomp(says-2, what-14)
+conj:but(raises-6, what-14)
+cop(what-14, 's-15)
+det(reason-18, the-16)
+amod(reason-18, best-17)
+nsubj(what-14, reason-18)
+mark(fuse-20, to-19)
+acl:to(reason-18, fuse-20)
+punct(says-2, ?-21)
+punct(says-2, "-22)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.987308334369252
+his	PERSON	-
+
+Sentence #21 (13 tokens):
+The screen poofs away as the Gems turn to look at Steven.
+
+Tokens:
+[Text=The CharacterOffsetBegin=1607 CharacterOffsetEnd=1610 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=screen CharacterOffsetBegin=1611 CharacterOffsetEnd=1617 PartOfSpeech=NN Lemma=screen NamedEntityTag=O]
+[Text=poofs CharacterOffsetBegin=1618 CharacterOffsetEnd=1623 PartOfSpeech=NNS Lemma=poof NamedEntityTag=O]
+[Text=away CharacterOffsetBegin=1624 CharacterOffsetEnd=1628 PartOfSpeech=RB Lemma=away NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1629 CharacterOffsetEnd=1631 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1632 CharacterOffsetEnd=1635 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=Gems CharacterOffsetBegin=1636 CharacterOffsetEnd=1640 PartOfSpeech=NNS Lemma=gem NamedEntityTag=O]
+[Text=turn CharacterOffsetBegin=1641 CharacterOffsetEnd=1645 PartOfSpeech=VBP Lemma=turn NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=1646 CharacterOffsetEnd=1648 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=look CharacterOffsetBegin=1649 CharacterOffsetEnd=1653 PartOfSpeech=VB Lemma=look NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=1654 CharacterOffsetEnd=1656 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=Steven CharacterOffsetBegin=1657 CharacterOffsetEnd=1663 PartOfSpeech=NNP Lemma=Steven NamedEntityTag=PERSON]
+[Text=. CharacterOffsetBegin=1663 CharacterOffsetEnd=1664 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, poofs-3)
+det(poofs-3, The-1)
+compound(poofs-3, screen-2)
+advmod(poofs-3, away-4)
+mark(turn-8, as-5)
+det(Gems-7, the-6)
+nsubj(turn-8, Gems-7)
+nsubj:xsubj(look-10, Gems-7)
+advcl:as(away-4, turn-8)
+mark(look-10, to-9)
+xcomp(turn-8, look-10)
+case(Steven-12, at-11)
+obl:at(look-10, Steven-12)
+punct(poofs-3, .-13)
+
+Extracted the following NER entity mentions:
+Steven	PERSON	PERSON:0.9873928510930086
+
+Sentence #22 (16 tokens):
+Garnet says: "Hmm..."
+Garnet says: "That's easy."
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=1665 CharacterOffsetEnd=1671 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1672 CharacterOffsetEnd=1676 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1676 CharacterOffsetEnd=1677 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1678 CharacterOffsetEnd=1679 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Hmm CharacterOffsetBegin=1679 CharacterOffsetEnd=1682 PartOfSpeech=UH Lemma=hmm NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1682 CharacterOffsetEnd=1685 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1685 CharacterOffsetEnd=1686 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=1687 CharacterOffsetEnd=1693 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1694 CharacterOffsetEnd=1698 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1698 CharacterOffsetEnd=1699 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1700 CharacterOffsetEnd=1701 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=That CharacterOffsetBegin=1701 CharacterOffsetEnd=1705 PartOfSpeech=DT Lemma=that NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=1705 CharacterOffsetEnd=1707 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=easy CharacterOffsetBegin=1708 CharacterOffsetEnd=1712 PartOfSpeech=JJ Lemma=easy NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1712 CharacterOffsetEnd=1713 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1713 CharacterOffsetEnd=1714 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+discourse(says-9, Hmm-5)
+punct(says-9, ...-6)
+punct(says-9, "-7)
+nsubj(says-9, Garnet-8)
+ccomp(says-2, says-9)
+punct(says-9, :-10)
+punct(says-9, "-11)
+nsubj(easy-14, That-12)
+cop(easy-14, 's-13)
+ccomp(says-9, easy-14)
+punct(says-2, .-15)
+punct(says-2, "-16)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9318389134289051
+Garnet	PERSON	PERSON:0.9743256083451111
+
+Sentence #23 (39 tokens):
+Garnet says: "The best reason is..."
+Garnet picks Pearl and Amethyst up and twirls them around, as the three of them fuse in...
+Alexandrite says: "*posing* Love!"
+
+Tokens:
+[Text=Garnet CharacterOffsetBegin=1715 CharacterOffsetEnd=1721 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=says CharacterOffsetBegin=1722 CharacterOffsetEnd=1726 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1726 CharacterOffsetEnd=1727 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1728 CharacterOffsetEnd=1729 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=The CharacterOffsetBegin=1729 CharacterOffsetEnd=1732 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=best CharacterOffsetBegin=1733 CharacterOffsetEnd=1737 PartOfSpeech=JJS Lemma=best NamedEntityTag=O]
+[Text=reason CharacterOffsetBegin=1738 CharacterOffsetEnd=1744 PartOfSpeech=NN Lemma=reason NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=1745 CharacterOffsetEnd=1747 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1747 CharacterOffsetEnd=1750 PartOfSpeech=, Lemma=... NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1750 CharacterOffsetEnd=1751 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Garnet CharacterOffsetBegin=1752 CharacterOffsetEnd=1758 PartOfSpeech=NNP Lemma=Garnet NamedEntityTag=PERSON]
+[Text=picks CharacterOffsetBegin=1759 CharacterOffsetEnd=1764 PartOfSpeech=VBZ Lemma=pick NamedEntityTag=O]
+[Text=Pearl CharacterOffsetBegin=1765 CharacterOffsetEnd=1770 PartOfSpeech=NNP Lemma=Pearl NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1771 CharacterOffsetEnd=1774 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=Amethyst CharacterOffsetBegin=1775 CharacterOffsetEnd=1783 PartOfSpeech=NNP Lemma=Amethyst NamedEntityTag=O]
+[Text=up CharacterOffsetBegin=1784 CharacterOffsetEnd=1786 PartOfSpeech=RP Lemma=up NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=1787 CharacterOffsetEnd=1790 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=twirls CharacterOffsetBegin=1791 CharacterOffsetEnd=1797 PartOfSpeech=VBZ Lemma=twirl NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1798 CharacterOffsetEnd=1802 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=around CharacterOffsetBegin=1803 CharacterOffsetEnd=1809 PartOfSpeech=RB Lemma=around NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=1809 CharacterOffsetEnd=1810 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1811 CharacterOffsetEnd=1813 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1814 CharacterOffsetEnd=1817 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=three CharacterOffsetBegin=1818 CharacterOffsetEnd=1823 PartOfSpeech=CD Lemma=three NamedEntityTag=NUMBER NormalizedNamedEntityTag=3.0]
+[Text=of CharacterOffsetBegin=1824 CharacterOffsetEnd=1826 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=them CharacterOffsetBegin=1827 CharacterOffsetEnd=1831 PartOfSpeech=PRP Lemma=they NamedEntityTag=O]
+[Text=fuse CharacterOffsetBegin=1832 CharacterOffsetEnd=1836 PartOfSpeech=NN Lemma=fuse NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=1837 CharacterOffsetEnd=1839 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=... CharacterOffsetBegin=1839 CharacterOffsetEnd=1842 PartOfSpeech=NFP Lemma=... NamedEntityTag=O]
+[Text=Alexandrite CharacterOffsetBegin=1843 CharacterOffsetEnd=1854 PartOfSpeech=NNP Lemma=Alexandrite NamedEntityTag=O]
+[Text=says CharacterOffsetBegin=1855 CharacterOffsetEnd=1859 PartOfSpeech=VBZ Lemma=say NamedEntityTag=O]
+[Text=: CharacterOffsetBegin=1859 CharacterOffsetEnd=1860 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1861 CharacterOffsetEnd=1862 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1862 CharacterOffsetEnd=1863 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=posing CharacterOffsetBegin=1863 CharacterOffsetEnd=1869 PartOfSpeech=VBG Lemma=pose NamedEntityTag=O]
+[Text=* CharacterOffsetBegin=1869 CharacterOffsetEnd=1870 PartOfSpeech=NFP Lemma=* NamedEntityTag=O]
+[Text=Love CharacterOffsetBegin=1871 CharacterOffsetEnd=1875 PartOfSpeech=NN Lemma=love NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1875 CharacterOffsetEnd=1876 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1876 CharacterOffsetEnd=1877 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, says-2)
+nsubj(says-2, Garnet-1)
+punct(says-2, :-3)
+punct(says-2, "-4)
+det(reason-7, The-5)
+amod(reason-7, best-6)
+nsubj(is-8, reason-7)
+ccomp(says-2, is-8)
+punct(is-8, ...-9)
+punct(is-8, "-10)
+nsubj(picks-12, Garnet-11)
+nsubj(twirls-18, Garnet-11)
+ccomp(is-8, picks-12)
+obj(picks-12, Pearl-13)
+cc(Amethyst-15, and-14)
+obj(picks-12, Amethyst-15)
+conj:and(Pearl-13, Amethyst-15)
+compound:prt(picks-12, up-16)
+cc(twirls-18, and-17)
+ccomp(is-8, twirls-18)
+conj:and(picks-12, twirls-18)
+obj(twirls-18, them-19)
+advmod(twirls-18, around-20)
+punct(picks-12, ,-21)
+case(them-26, as-22)
+det(them-26, the-23)
+det:qmod(them-26, three-24)
+fixed(three-24, of-25)
+obl:as(picks-12, them-26)
+dep(says-31, fuse-27)
+mark(says-31, in-28)
+punct(says-31, ...-29)
+nsubj(says-31, Alexandrite-30)
+dep(them-26, says-31)
+punct(says-31, :-32)
+punct(says-31, "-33)
+nsubj(posing-35, *-34)
+dep(says-31, posing-35)
+nsubj(Love-37, *-36)
+xcomp(posing-35, Love-37)
+punct(says-2, !-38)
+punct(says-2, "-39)
+
+Extracted the following NER entity mentions:
+Garnet	PERSON	PERSON:0.9418386202542776
+Garnet	PERSON	PERSON:0.94483793046882
+three	NUMBER	NUMBER:-1.0
+
+Sentence #24 (12 tokens):
+The school bell rings as the words "Class Dismissed!"
+
+Tokens:
+[Text=The CharacterOffsetBegin=1878 CharacterOffsetEnd=1881 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=school CharacterOffsetBegin=1882 CharacterOffsetEnd=1888 PartOfSpeech=NN Lemma=school NamedEntityTag=O]
+[Text=bell CharacterOffsetBegin=1889 CharacterOffsetEnd=1893 PartOfSpeech=NN Lemma=bell NamedEntityTag=O]
+[Text=rings CharacterOffsetBegin=1894 CharacterOffsetEnd=1899 PartOfSpeech=VBZ Lemma=ring NamedEntityTag=O]
+[Text=as CharacterOffsetBegin=1900 CharacterOffsetEnd=1902 PartOfSpeech=IN Lemma=as NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=1903 CharacterOffsetEnd=1906 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=words CharacterOffsetBegin=1907 CharacterOffsetEnd=1912 PartOfSpeech=NNS Lemma=word NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1913 CharacterOffsetEnd=1914 PartOfSpeech=`` Lemma=" NamedEntityTag=O]
+[Text=Class CharacterOffsetBegin=1914 CharacterOffsetEnd=1919 PartOfSpeech=NNP Lemma=Class NamedEntityTag=O]
+[Text=Dismissed CharacterOffsetBegin=1920 CharacterOffsetEnd=1929 PartOfSpeech=NNP Lemma=Dismissed NamedEntityTag=O]
+[Text=! CharacterOffsetBegin=1929 CharacterOffsetEnd=1930 PartOfSpeech=. Lemma=! NamedEntityTag=O]
+[Text=" CharacterOffsetBegin=1930 CharacterOffsetEnd=1931 PartOfSpeech='' Lemma=" NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, rings-4)
+det(bell-3, The-1)
+compound(bell-3, school-2)
+nsubj(rings-4, bell-3)
+case(Dismissed-10, as-5)
+det(words-7, the-6)
+dep(Dismissed-10, words-7)
+punct(Dismissed-10, "-8)
+compound(Dismissed-10, Class-9)
+obl:as(rings-4, Dismissed-10)
+punct(rings-4, !-11)
+punct(rings-4, "-12)
+
+Extracted the following NER entity mentions:
+
+Sentence #25 (3 tokens):
+are shown.
+
+Tokens:
+[Text=are CharacterOffsetBegin=1932 CharacterOffsetEnd=1935 PartOfSpeech=VBP Lemma=be NamedEntityTag=O]
+[Text=shown CharacterOffsetBegin=1936 CharacterOffsetEnd=1941 PartOfSpeech=VBN Lemma=show NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1941 CharacterOffsetEnd=1942 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, shown-2)
+aux:pass(shown-2, are-1)
+punct(shown-2, .-3)
+
+Extracted the following NER entity mentions:
+
+Sentence #26 (2 tokens):
+END.
+
+Tokens:
+[Text=END CharacterOffsetBegin=1943 CharacterOffsetEnd=1946 PartOfSpeech=NN Lemma=end NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=1946 CharacterOffsetEnd=1947 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+
+Dependency Parse (enhanced plus plus dependencies):
+root(ROOT-0, END-1)
+punct(END-1, .-2)
+
+Extracted the following NER entity mentions:
+
+Coreference set:
+	(23,7,[5,8]) -> (20,18,[16,21]), that is: "The best reason" -> "the best reason to fuse"
+
+Coreference set:
+	(20,7,[7,8]) -> (20,5,[5,6]), that is: "his" -> "*"
+
+Coreference set:
+	(11,3,[3,4]) -> (8,6,[6,7]), that is: "Sapphire" -> "Sapphire"
+
+Coreference set:
+	(23,30,[30,31]) -> (18,20,[20,21]), that is: "Alexandrite" -> "Alexandrite"
+
+Coreference set:
+	(3,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(3,7,[7,8]) -> (6,6,[6,8]), that is: "her" -> "Garnet 's"
+	(3,12,[12,13]) -> (6,6,[6,8]), that is: "she" -> "Garnet 's"
+	(4,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(4,12,[12,13]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(5,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(5,8,[8,9]) -> (6,6,[6,8]), that is: "I" -> "Garnet 's"
+	(7,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(7,19,[19,20]) -> (6,6,[6,8]), that is: "me" -> "Garnet 's"
+	(8,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(11,7,[7,8]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(12,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(12,8,[8,9]) -> (6,6,[6,8]), that is: "her" -> "Garnet 's"
+	(17,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(17,6,[6,7]) -> (6,6,[6,8]), that is: "I" -> "Garnet 's"
+	(18,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(19,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(22,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(22,8,[8,9]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(23,1,[1,2]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+	(23,11,[11,12]) -> (6,6,[6,8]), that is: "Garnet" -> "Garnet 's"
+
+Coreference set:
+	(21,12,[12,13]) -> (20,1,[1,2]), that is: "Steven" -> "Steven"
+
+Coreference set:
+	(23,26,[26,27]) -> (23,19,[19,20]), that is: "them" -> "them"
+
+Coreference set:
+	(6,17,[17,18]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(9,1,[1,2]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(10,1,[1,2]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(11,10,[10,11]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(13,6,[6,7]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(14,1,[1,2]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(14,5,[5,6]) -> (1,10,[10,11]), that is: "I" -> "Pearl"
+	(16,1,[1,2]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+	(23,13,[13,14]) -> (1,10,[10,11]), that is: "Pearl" -> "Pearl"
+
+Coreference set:
+	(11,15,[15,16]) -> (18,16,[14,17]), that is: "Opal" -> "such as Opal"
+	(13,1,[1,2]) -> (18,16,[14,17]), that is: "Opal" -> "such as Opal"

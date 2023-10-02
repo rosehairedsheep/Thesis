@@ -1,0 +1,15 @@
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,depparse,coref -fileList filelist.txt
+
+find $(pwd) -type f > filelist.txt
+
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse,coref -coref.algorithm neural -fileList filelist.txt
+
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse,coref -coref.algorithm statistical -coref.statisical.pairwiseScoreThresholds 0,0.5,0,0  -fileList filelist.txt
+
+java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,depparse,coref -coref.algorithm statistical -fileList filelist.txt
+
+BIBLIOGRAPHY
+pdflatex main.tex
+bibtex main
+pdflatex main.tex
+pdflatex main.tex

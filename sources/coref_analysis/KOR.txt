@@ -1,0 +1,2989 @@
+STATS:
+[211, 242, 334, 208]
+
+
+
+speaker: AMON
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: TARRLOK
+addressee: AMON
+
+speaker: WU
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: TOPH
+
+speaker: TOPH
+addressee: KORRA
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: MAKO
+addressee: WU
+
+speaker: RAIKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: LIN
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: KYA
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: ESKA
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: BUMI
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: BUMI
+addressee: KORRA
+
+speaker: BUMI
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: BUMI
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: SENNA
+addressee: KORRA
+
+speaker: TONRAQ
+addressee: KORRA
+
+speaker: TONRAQ
+addressee: KORRA
+
+speaker: SENNA
+addressee: KORRA
+
+speaker: SENNA
+addressee: KORRA
+
+speaker: SENNA
+addressee: KORRA
+
+speaker: TONRAQ
+addressee: KORRA
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: PEMA
+addressee: MEELO
+
+speaker: TONRAQ
+addressee: MEELO
+
+speaker: TONRAQ
+addressee: MEELO
+
+speaker: PEMA
+addressee: JINORA
+
+speaker: KYA
+addressee: TONRAQ
+
+speaker: TENZIN
+addressee: TONRAQ
+
+speaker: KYA
+addressee: TONRAQ
+
+speaker: BUMI
+addressee: TONRAQ
+
+speaker: KYA
+addressee: TONRAQ
+
+speaker: BUMI
+addressee: TONRAQ
+
+speaker: MAKO
+addressee: TONRAQ
+
+speaker: KYA
+addressee: TONRAQ
+
+speaker: BUMI
+addressee: TONRAQ
+
+speaker: KYA
+addressee: TONRAQ
+
+speaker: TENZIN
+addressee: TONRAQ
+
+speaker: BUMI
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: SENNA
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: PEMA
+addressee: KYA
+
+speaker: LIN
+addressee: KAI
+
+speaker: TENZIN
+addressee: KAI
+
+speaker: TENZIN
+addressee: KAI
+
+speaker: LIN
+addressee: KAI
+
+speaker: LIN
+addressee: KAI
+
+speaker: KORRA
+addressee: KAI
+
+speaker: TENZIN
+addressee: KAI
+
+speaker: KORRA
+addressee: RYU
+
+speaker: KORRA
+addressee: RYU
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: PEMA
+addressee: MAKO
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: RYU'S MOTHER
+addressee: KORRA
+
+speaker: RYU'S MOTHER
+addressee: KORRA
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ZUKO
+addressee: TU
+
+speaker: LIN
+addressee: JINORA
+
+speaker: RAIKO
+addressee: IROH
+
+speaker: VARRICK
+addressee: SHIRO SHINOBI
+
+speaker: LIN
+addressee: SHIRO SHINOBI
+
+speaker: ESKA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: MEELO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: LU
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: LIN
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: AIWEI
+addressee: LIN
+
+speaker: AIWEI
+addressee: LIN
+
+speaker: AIWEI
+addressee: LIN
+
+speaker: AIWEI
+addressee: LIN
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: OPAL
+addressee: LIN
+
+speaker: OPAL
+addressee: LIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: TOPH
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: JINORA
+addressee: OPAL
+
+speaker: JINORA
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: OPAL
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: RAAVA
+addressee: KORRA
+
+speaker: RAAVA
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: KORRA
+addressee: RAAVA
+
+speaker: RAIKO
+addressee: BOLIN
+
+speaker: LIN
+addressee: RAIKO
+
+speaker: KORRA
+addressee: KUVIRA
+
+speaker: KORRA
+addressee: KUVIRA
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: LIN
+addressee: TENZIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: BUMI
+addressee: KYA
+
+speaker: KORRA
+addressee: SUYIN
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: LIN
+addressee: MEELO
+
+speaker: LIN
+addressee: MEELO
+
+speaker: KORRA
+addressee: MEELO
+
+speaker: KORRA
+addressee: MEELO
+
+speaker: LIN
+addressee: CHOW
+
+speaker: LIN
+addressee: MAKO
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: ZUKO
+addressee: MAKO
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: IROH
+
+speaker: KORRA
+addressee: IROH
+
+speaker: KORRA
+addressee: IROH
+
+speaker: KORRA
+addressee: IROH
+
+speaker: KORRA
+addressee: IROH
+
+speaker: JINORA
+addressee: KAI
+
+speaker: LIN
+addressee: ZAHEER
+
+speaker: TENZIN
+addressee: ZAHEER
+
+speaker: KUVIRA
+addressee: KORRA
+
+speaker: KUVIRA
+addressee: KORRA
+
+speaker: JINORA
+addressee: KORRA
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: JINORA
+addressee: KUVIRA
+
+speaker: OPAL
+addressee: JINORA
+
+speaker: OPAL
+addressee: JINORA
+
+speaker: JINORA
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: KORRA
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: KORRA
+addressee: OPAL
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: MEELO
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: LIN BEIFONG
+
+speaker: LIN
+addressee: LIN BEIFONG
+
+speaker: ASAMI
+addressee: LIN BEIFONG
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: HOTAH
+addressee: KORRA
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: KORRA
+addressee: HOTAH
+
+speaker: KORRA
+addressee: HOTAH
+
+speaker: KORRA
+addressee: HOTAH
+
+speaker: KORRA
+addressee: HOTAH
+
+speaker: KORRA
+addressee: HOTAH
+
+speaker: IKKI
+addressee: TENZIN
+
+speaker: BUMI
+addressee: KYA
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: ASAMI
+addressee: VARRICK
+
+speaker: ESKA
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: HOTAH
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: HOTAH
+addressee: BOLIN
+
+speaker: ESKA
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: MAKO
+addressee: VARRICK
+
+speaker: PEMA
+addressee: BOLIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: DAW
+addressee: LIN
+
+speaker: KORRA
+addressee: BUMI
+
+speaker: KYA
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: KORRA
+addressee: BUMI
+
+speaker: KORRA
+addressee: BUMI
+
+speaker: ASAMI
+addressee: BUMI
+
+speaker: BUMI
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: LIN
+addressee: ASAMI
+
+speaker: BUMI
+addressee: IKKI
+
+speaker: BUMI
+addressee: IKKI
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: AIWEI
+addressee: MAKO
+
+speaker: SUYIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: LIN
+addressee: AIWEI
+
+speaker: KORRA
+addressee: AIWEI
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: BARAZ
+addressee: BOLIN
+
+speaker: BARAZ
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: BARAZ
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: BARAZ
+addressee: BOLIN
+
+speaker: BUMI
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: VARRICK
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: KORRA
+addressee: VARRICK
+
+speaker: ASAMI
+addressee: VARRICK
+
+speaker: KORRA
+addressee: VARRICK
+
+speaker: KORRA
+addressee: VARRICK
+
+speaker: WU
+addressee: VARRICK
+
+speaker: WU
+addressee: VARRICK
+
+speaker: ASAMI
+addressee: VARRICK
+
+speaker: ASAMI
+addressee: VARRICK
+
+speaker: MAKO
+addressee: VARRICK
+
+speaker: MAKO
+addressee: VARRICK
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: KAI
+addressee: JINORA
+
+speaker: KAI
+addressee: JINORA
+
+speaker: KAI
+addressee: JINORA
+
+speaker: KAI
+addressee: JINORA
+
+speaker: DAW
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: MAKO
+addressee: TOZA
+
+speaker: MAKO
+addressee: TOZA
+
+speaker: LIN
+addressee: TOZA
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: TARRLOK
+addressee: MAKO
+
+speaker: TARRLOK
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: TARRLOK
+addressee: MAKO
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: LIN
+
+speaker: TENZIN
+addressee: IKKI
+
+speaker: AMON
+addressee: KORRA
+
+speaker: AMON
+addressee: KORRA
+
+speaker: VAATU
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TONRAQ
+addressee: RAIKO
+
+speaker: BUMI
+addressee: LIN
+
+speaker: TONRAQ
+addressee: LIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: GHAZAN
+addressee: BOLIN
+
+speaker: GHAZAN
+addressee: BOLIN
+
+speaker: OPAL
+addressee: JINORA
+
+speaker: SUYIN
+addressee: JINORA
+
+speaker: LIN
+addressee: ZAHEER
+
+speaker: LIN
+addressee: MEELO
+
+speaker: ASAMI
+addressee: HIROSHI
+
+speaker: LIN
+addressee: KORRA
+
+speaker: VARRICK
+addressee: KORRA
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: KORRA
+addressee: KATARA
+
+speaker: KATARA
+addressee: KORRA
+
+speaker: KATARA
+addressee: KORRA
+
+speaker: KATARA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: SENNA
+addressee: KORRA
+
+speaker: ASAMI
+addressee: UNALAQ
+
+speaker: VAATU
+addressee: UNALAQ
+
+speaker: VAATU
+addressee: UNALAQ
+
+speaker: KYA
+addressee: KORRA
+
+speaker: TONRAQ
+addressee: VAATU
+
+speaker: TONRAQ
+addressee: VAATU
+
+speaker: TONRAQ
+addressee: VAATU
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: AMON
+addressee: KORRA
+
+speaker: IROH
+addressee: ASAMI
+
+speaker: AMON
+addressee: ASAMI
+
+speaker: KORRA
+addressee: IROH
+
+speaker: KYA
+addressee: TENZIN
+
+speaker: VAATU
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: BUMI
+addressee: JINORA
+
+speaker: TENZIN
+addressee: JINORA
+
+speaker: TENZIN
+addressee: JINORA
+
+speaker: KORRA
+addressee: UNALAQ
+
+speaker: IROH
+addressee: UNALAQ
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TARRLOK
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: MEELO
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: TARRLOK
+addressee: MAKO
+
+speaker: MEELO
+addressee: ASAMI
+
+speaker: TARRLOK
+addressee: ASAMI
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: KORRA
+addressee: TARRLOK
+
+speaker: KORRA
+addressee: TARRLOK
+
+speaker: KORRA
+addressee: TARRLOK
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: IKKI
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: TONRAQ
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: BOLIN
+
+speaker: MEELO
+addressee: BOLIN
+
+speaker: ESKA
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: UNALAQ
+addressee: MAKO
+
+speaker: UNALAQ
+addressee: MAKO
+
+speaker: UNALAQ
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: UNALAQ
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: UNALAQ
+addressee: TONRAQ
+
+speaker: ESKA
+addressee: JINORA
+
+speaker: KORRA
+addressee: JINORA
+
+speaker: UNALAQ
+addressee: JINORA
+
+speaker: MAKO
+addressee: JINORA
+
+speaker: TENZIN
+addressee: ASAMI
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: TENZIN
+addressee: ASAMI
+
+speaker: TENZIN
+addressee: ASAMI
+
+speaker: TENZIN
+addressee: HIROSHI SATO
+
+speaker: PEMA
+addressee: HIROSHI SATO
+
+speaker: TENZIN
+addressee: HIROSHI SATO
+
+speaker: ASAMI
+addressee: TENZIN
+
+speaker: PEMA
+addressee: TENZIN
+
+speaker: PEMA
+addressee: TENZIN
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: TENZIN
+addressee: LIN
+
+speaker: TENZIN
+addressee: LIN
+
+speaker: TENZIN
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: TENZIN
+addressee: LIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: DESNA
+addressee: ESKA
+
+speaker: UNALAQ
+addressee: ESKA
+
+speaker: NUKTUK
+addressee: UNALAQ
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: VARRICK
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: MAKO
+addressee: VARRICK
+
+speaker: MAKO
+addressee: NUKTUK
+
+speaker: MAKO
+addressee: NUKTUK
+
+speaker: LIN
+addressee: NUKTUK
+
+speaker: ASAMI
+addressee: NUKTUK
+
+speaker: KORRA
+addressee: LIN BEIFONG
+
+speaker: KORRA
+addressee: LIN BEIFONG
+
+speaker: KORRA
+addressee: LIN BEIFONG
+
+speaker: PEMA
+addressee: KORRA
+
+speaker: KATARA
+addressee: KORRA
+
+speaker: KATARA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: KATARA
+addressee: IKKI
+
+speaker: KORRA
+addressee: IKKI
+
+speaker: TOZA
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MEELO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: TENZIN
+addressee: SHIRO SHINOBI
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: LIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: IKKI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: UNALAQ
+addressee: DESNA
+
+speaker: UNALAQ
+addressee: DESNA
+
+speaker: UNALAQ
+addressee: DESNA
+
+speaker: ESKA
+addressee: DESNA
+
+speaker: UNALAQ
+addressee: DESNA
+
+speaker: TENZIN
+addressee: JINORA
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: KYA
+addressee: JINORA
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: PEMA
+addressee: KORRA
+
+speaker: IKKI
+addressee: KORRA
+
+speaker: KYA
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: JINORA
+addressee: KORRA
+
+speaker: JINORA
+addressee: KORRA
+
+speaker: LIN
+addressee: ASAMI
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: IKKI
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: LIN
+addressee: TAHNO
+
+speaker: MAKO
+addressee: SHIRO SHINOBI
+
+speaker: MAKO
+addressee: SHIRO SHINOBI
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: JINORA
+addressee: BUMI
+
+speaker: GUN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: KAI
+addressee: JINORA
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: NUKTUK
+addressee: MAKO
+
+speaker: MAKO
+addressee: CHOW
+
+speaker: GUN
+addressee: BOLIN
+
+speaker: KORRA
+addressee: BOLIN
+
+speaker: GUN
+addressee: BOLIN
+
+speaker: GUN
+addressee: BOLIN
+
+speaker: GUN
+addressee: BOLIN
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: KORRA
+addressee: KUVIRA
+
+speaker: KORRA
+addressee: KUVIRA
+
+speaker: KORRA
+addressee: KUVIRA
+
+speaker: KORRA
+addressee: KUVIRA
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: KUVIRA
+addressee: BOLIN
+
+speaker: KUVIRA
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: HIROSHI
+
+speaker: ASAMI
+addressee: HIROSHI
+
+speaker: ASAMI
+addressee: HIROSHI
+
+speaker: ASAMI
+addressee: HIROSHI
+
+speaker: ASAMI
+addressee: HIROSHI
+
+speaker: KUVIRA
+addressee: SUYIN
+
+speaker: KUVIRA
+addressee: SUYIN
+
+speaker: KUVIRA
+addressee: SUYIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: JINORA
+addressee: KORRA
+
+speaker: JINORA
+addressee: KORRA
+
+speaker: MEELO
+addressee: KORRA
+
+speaker: LIN
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: SUYIN
+addressee: OPAL
+
+speaker: SUYIN
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: KUVIRA
+addressee: OPAL
+
+speaker: HIROSHI
+addressee: ASAMI
+
+speaker: HIROSHI
+addressee: ASAMI
+
+speaker: HIROSHI
+addressee: ASAMI
+
+speaker: HIROSHI
+addressee: ASAMI
+
+speaker: HIROSHI
+addressee: ASAMI
+
+speaker: KUVIRA
+addressee: ASAMI
+
+speaker: KUVIRA
+addressee: ASAMI
+
+speaker: KUVIRA
+addressee: ASAMI
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: YAKONE
+addressee: TARRLOK
+
+speaker: MAKO
+addressee: TARRLOK
+
+speaker: IROH
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: ARIK
+
+speaker: ASAMI
+addressee: ARIK
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: ARIK
+addressee: KORRA
+
+speaker: TONRAQ
+addressee: KORRA
+
+speaker: ZUKO
+addressee: KORRA
+
+speaker: ZUKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: LIN
+
+speaker: TONRAQ
+addressee: LIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: MAKO
+addressee: BOLIN
+
+speaker: MAKO
+addressee: GHAZAN
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ZAHEER
+addressee: GHAZAN
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: LIN
+addressee: ASAMI
+
+speaker: MAKO
+addressee: TENZIN
+
+speaker: TENZIN
+addressee: KAI
+
+speaker: TONRAQ
+addressee: YIN
+
+speaker: ZAHEER
+addressee: P'LI
+
+speaker: ZAHEER
+addressee: P'LI
+
+speaker: ZAHEER
+addressee: P'LI
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: ESKA
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: UNALAQ
+
+speaker: ASAMI
+addressee: UNALAQ
+
+speaker: UNALAQ
+addressee: TENZIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: UNALAQ
+addressee: TENZIN
+
+speaker: TONRAQ
+addressee: TENZIN
+
+speaker: KATARA
+addressee: TENZIN
+
+speaker: KATARA
+addressee: TENZIN
+
+speaker: KATARA
+addressee: TENZIN
+
+speaker: KATARA
+addressee: TENZIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: UNALAQ
+addressee: TENZIN
+
+speaker: UNALAQ
+addressee: TENZIN
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: ASAMI
+
+speaker: UNALAQ
+addressee: ASAMI
+
+speaker: UNALAQ
+addressee: ASAMI
+
+speaker: UNALAQ
+addressee: ASAMI
+
+speaker: UNALAQ
+addressee: ASAMI
+
+speaker: TONRAQ
+addressee: ASAMI
+
+speaker: BUMI
+addressee: ASAMI
+
+speaker: UNALAQ
+addressee: ASAMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: KORRA
+addressee: BUMI
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: IKKI
+
+speaker: KORRA
+addressee: IKKI
+
+speaker: KATARA
+addressee: IKKI
+
+speaker: JINORA
+addressee: IKKI
+
+speaker: KYA
+addressee: IKKI
+
+speaker: KYA
+addressee: IKKI
+
+speaker: TENZIN
+addressee: IKKI
+
+speaker: KORRA
+addressee: IKKI
+
+speaker: TONRAQ
+addressee: IKKI
+
+speaker: TONRAQ
+addressee: UNALAQ
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: RAIKO
+addressee: LIN BEIFONG
+
+speaker: RAAVA
+addressee: JAYA
+
+speaker: RAAVA
+addressee: JAYA
+
+speaker: WAN
+addressee: JAYA
+
+speaker: WAN
+addressee: JAYA
+
+speaker: VAATU
+addressee: RAAVA
+
+speaker: VAATU
+addressee: RAAVA
+
+speaker: JAYA
+addressee: RAAVA
+
+speaker: JAYA
+addressee: RAAVA
+
+speaker: WAN
+addressee: RAAVA
+
+speaker: JAYA
+addressee: RAAVA
+
+speaker: WAN
+addressee: RAAVA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: SUYIN
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: KORRA
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: VARRICK
+addressee: BOLIN
+
+speaker: WU
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: NUKTUK
+addressee: MAKO
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: WU
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: DAW
+addressee: IKKI
+
+speaker: ASAMI
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: LIN
+addressee: BOLIN
+
+speaker: OPAL
+addressee: BOLIN
+
+speaker: ASAMI
+addressee: VARRICK
+
+speaker: ASAMI
+addressee: VARRICK
+
+speaker: MAKO
+addressee: VARRICK
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: ASAMI
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: AIWEI
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: MAKO
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: LIN
+addressee: SUYIN
+
+speaker: KORRA
+addressee: SUYIN
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: LIN
+addressee: MAKO
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: SUYIN
+addressee: KORRA
+
+speaker: MEELO
+addressee: KORRA
+
+speaker: LIN
+addressee: BUMI
+
+speaker: TONRAQ
+addressee: ZAHEER
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: SUYIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: TENZIN
+addressee: LIN
+
+speaker: KORRA
+addressee: LIN
+
+speaker: KORRA
+addressee: JINORA
+
+speaker: KAI
+addressee: JINORA
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: JINORA
+addressee: TENZIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: KORRA
+addressee: TENZIN
+
+speaker: KORRA
+addressee: VAATU
+
+speaker: KORRA
+addressee: VAATU
+
+speaker: RAAVA
+addressee: BUMI
+
+speaker: TENZIN
+addressee: BUMI
+
+speaker: BUMI
+addressee: KYA
+
+speaker: BUMI
+addressee: KYA
+
+speaker: BUMI
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: JINORA
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: KYA
+
+speaker: TENZIN
+addressee: UNALAQ
+
+speaker: TENZIN
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: JINORA
+addressee: RAAVA
+
+speaker: JINORA
+addressee: RAAVA
+
+speaker: ESKA
+addressee: BOLIN
+
+speaker: VAATU
+addressee: BOLIN
+
+speaker: ESKA
+addressee: BOLIN
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: WAN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: LIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: TENZIN
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: HUNTSMAN
+addressee: WAN
+
+speaker: RAAVA
+addressee: WAN
+
+speaker: VAATU
+addressee: WAN
+
+speaker: RAAVA
+addressee: VAATU
+
+speaker: WAN
+addressee: VAATU
+
+speaker: RAAVA
+addressee: VAATU
+
+speaker: WAN
+addressee: VAATU
+
+speaker: RAAVA
+addressee: VAATU
+
+speaker: RAAVA
+addressee: VAATU
+
+speaker: RAAVA
+addressee: VAATU
+
+speaker: KORRA
+addressee: VAATU
+
+speaker: HUNTSMAN
+addressee: JAYA
+
+speaker: HUNTSMAN
+addressee: JAYA
+
+speaker: HUNTSMAN
+addressee: JAYA
+
+speaker: HUNTSMAN
+addressee: JAYA
+
+speaker: ASAMI
+addressee: LIN
+
+speaker: ASAMI
+addressee: LIN
+
+speaker: MAKO
+addressee: LIN
+
+speaker: MAKO
+addressee: LIN
+
+speaker: ASAMI
+addressee: KORRA
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: LIN
+addressee: MAKO
+
+speaker: TOPH
+addressee: SUYIN
+
+speaker: MAKO
+addressee: WU
+
+speaker: WU
+addressee: MAKO
+
+speaker: TOPH
+addressee: LIN BEIFONG
+
+speaker: TOPH
+addressee: LIN BEIFONG
+
+speaker: TOPH
+addressee: LIN BEIFONG
+
+speaker: TOPH
+addressee: LIN BEIFONG
+
+speaker: TOPH
+addressee: LIN BEIFONG
+
+speaker: TOPH
+addressee: LIN BEIFONG
+
+speaker: TOPH
+addressee: BOLIN
+
+speaker: TOPH
+addressee: BOLIN
+
+speaker: TOPH
+addressee: OPAL
+
+speaker: TOPH
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: TOPH
+addressee: OPAL
+
+speaker: TOPH
+addressee: OPAL
+
+speaker: RAIKO
+addressee: KORRA
+
+speaker: RAIKO
+addressee: KORRA
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: SUYIN
+addressee: LIN
+
+speaker: MAKO
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: ZAHEER
+addressee: KORRA
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: KORRA
+addressee: MAKO
+
+speaker: RAIKO
+addressee: KUVIRA
+
+speaker: LIN
+addressee: KUVIRA
+
+speaker: KAI
+addressee: KUVIRA
+
+speaker: LIN
+addressee: KAI
+
+speaker: KAI
+addressee: OPAL
+
+speaker: TENZIN
+addressee: TONRAQ
+
+speaker: KORRA
+addressee: TONRAQ
+
+speaker: LIN
+addressee: OPAL
+
+speaker: LIN
+addressee: OPAL
+
+speaker: WU
+addressee: ASAMI
+
+speaker: WU
+addressee: ASAMI
+
+speaker: MAKO
+addressee: ASAMI
+
+speaker: LIN
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: ASAMI
+addressee: MAKO
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: MAKO
+addressee: WU
+
+speaker: TENZIN
+addressee: LIN BEIFONG
+
+speaker: WU
+addressee: MAKO
+
+speaker: LIN
+addressee: VARRICK
+
+speaker: RAIKO
+addressee: KORRA
+
+speaker: TOPH
+addressee: KATARA
+
+speaker: IKKI
+addressee: MEELO
+
+speaker: JINORA
+addressee: MEELO
+
+speaker: JINORA
+addressee: MEELO
+
+speaker: JINORA
+addressee: MEELO
+
+speaker: KORRA
+addressee: TOPH
+
+speaker: IKKI
+addressee: TU
+
+speaker: IKKI
+addressee: TU
+
+speaker: PEMA
+addressee: IKKI
+
+speaker: MEELO
+addressee: IKKI
+
+speaker: MEELO
+addressee: IKKI
+
+speaker: TU
+addressee: IKKI
+
+speaker: MEELO
+addressee: IKKI

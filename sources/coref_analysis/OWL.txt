@@ -1,0 +1,1339 @@
+STATS:
+[15, 100, 103, 227]
+
+
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: EDRIC
+addressee: TINY NOSE
+
+speaker: EDRIC
+addressee: TINY NOSE
+
+speaker: EMIRA
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: EDRIC
+addressee: TINY NOSE
+
+speaker: EMIRA
+addressee: TINY NOSE
+
+speaker: EMIRA
+addressee: TINY NOSE
+
+speaker: EMIRA
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: BEAST EDA
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: EDRIC
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: EMIRA
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: AMITY
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: LUZ
+addressee: TINY NOSE
+
+speaker: BEAST EDA
+addressee: TINY NOSE
+
+speaker: HOOTY
+addressee: TINY NOSE
+
+speaker: EDRIC
+addressee: EMIRA
+
+speaker: AMITY
+addressee: EMIRA
+
+speaker: AMITY
+addressee: EMIRA
+
+speaker: AMITY
+addressee: EMIRA
+
+speaker: BEAST EDA
+addressee: KING
+
+speaker: BEAST EDA
+addressee: KING
+
+speaker: KING
+addressee: LUZ
+
+speaker: HOOTY
+addressee: LUZ
+
+speaker: HOOTY
+addressee: LUZ
+
+speaker: HOOTY
+addressee: KING
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: WILLOW
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: LUZ
+addressee: KING
+
+speaker: LUZ
+addressee: KING
+
+speaker: LUZ
+addressee: KING
+
+speaker: LUZ
+addressee: KING
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: VINEY
+addressee: LUZ
+
+speaker: VINEY
+addressee: LUZ
+
+speaker: VINEY
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: WILLOW
+addressee: GUS
+
+speaker: LUZ
+addressee: PRINCIPAL BUMP
+
+speaker: VINEY
+addressee: PRINCIPAL BUMP
+
+speaker: LUZ
+addressee: WILLOW
+
+speaker: GUS
+addressee: WILLOW
+
+speaker: GUS
+addressee: WILLOW
+
+speaker: LUZ
+addressee: VINEY
+
+speaker: LUZ
+addressee: VINEY
+
+speaker: LUZ
+addressee: VINEY
+
+speaker: BEAST EDA
+addressee: WILLOW
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: LILITH
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: LILITH
+addressee: LUZ
+
+speaker: LILITH
+addressee: LUZ
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: WILLOW
+addressee: EDA
+
+speaker: GUS
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: GUS
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: AMITY
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: AMITY
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: ADEGAST
+
+speaker: KING
+addressee: LUZ
+
+speaker: HOOTY
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: ADEGAST
+addressee: LUZ
+
+speaker: LUZ
+addressee: WILLOW
+
+speaker: LUZ
+addressee: WILLOW
+
+speaker: WILLOW
+addressee: GUS
+
+speaker: WILLOW
+addressee: GUS
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: TIBBLES
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: TIBBLES
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: TIBBLES
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: TIBBLES
+addressee: EDA
+
+speaker: TIBBLES
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: GUS
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: TIBBLES
+
+speaker: BEAST EDA
+addressee: TIBBLES
+
+speaker: PINIET
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: PINIET
+addressee: LUZ
+
+speaker: PINIET
+addressee: LUZ
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: PINIET
+
+speaker: GUS
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: TIBBLES
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: TIBBLES
+addressee: LUZ
+
+speaker: TIBBLES
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: TIBBLES
+
+speaker: KING
+addressee: TIBBLES
+
+speaker: LUZ
+addressee: TIBBLES
+
+speaker: LUZ
+addressee: GUS
+
+speaker: KING
+addressee: GUS
+
+speaker: KING
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: LUZ
+addressee: CAMILA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: AMITY
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: KING
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: LUZ
+addressee: AMITY
+
+speaker: BOSCHA
+addressee: WILLOW
+
+speaker: GUS
+addressee: WILLOW
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: LILITH
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: LILITH
+
+speaker: BEAST EDA
+addressee: LILITH
+
+speaker: WILLOW
+addressee: BOSCHA
+
+speaker: LUZ
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: LUZ
+addressee: WILLOW
+
+speaker: LUZ
+addressee: MATTHOLOMULE
+
+speaker: LUZ
+addressee: MATTHOLOMULE
+
+speaker: MATTHOLOMULE
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: WILLOW
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: WILLOW
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: LUZ
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: HOOTY
+
+speaker: AMITY
+addressee: WILLOW
+
+speaker: AMITY
+addressee: WILLOW
+
+speaker: AMITY
+addressee: WILLOW
+
+speaker: AMITY
+addressee: WILLOW
+
+speaker: GUS
+addressee: WILLOW
+
+speaker: LUZ
+addressee: WILLOW
+
+speaker: GUS
+addressee: WILLOW
+
+speaker: KING
+addressee: BOSCHA
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: BOSCHA
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: ROSELLE
+addressee: EDA
+
+speaker: ROSELLE
+addressee: EDA
+
+speaker: ROSELLE
+addressee: EDA
+
+speaker: ROSELLE
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: HOOTY
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: EDA
+
+speaker: LILITH
+addressee: EMPEROR BELOS
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: KING
+addressee: LUZ
+
+speaker: LILITH
+addressee: LUZ
+
+speaker: LILITH
+addressee: EDA
+
+speaker: GUS
+addressee: KIKIMORA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: KING
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: AMITY
+addressee: LUZ
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: EMIRA
+addressee: EDA
+
+speaker: EMIRA
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: EMIRA
+addressee: EDA
+
+speaker: EDRIC
+addressee: EMIRA
+
+speaker: EDRIC
+addressee: EMIRA
+
+speaker: LUZ
+addressee: EDRIC
+
+speaker: BEAST EDA
+addressee: EDRIC
+
+speaker: BEAST EDA
+addressee: EDRIC
+
+speaker: BEAST EDA
+addressee: EDRIC
+
+speaker: AMITY
+addressee: EDRIC
+
+speaker: BEAST EDA
+addressee: EDRIC
+
+speaker: GUS
+addressee: EDA
+
+speaker: KING
+addressee: EDA
+
+speaker: GUS
+addressee: EDA
+
+speaker: GUS
+addressee: EDA
+
+speaker: GUS
+addressee: EDA
+
+speaker: BOSCHA
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: GUS
+
+speaker: BEAST EDA
+addressee: GUS
+
+speaker: AMITY
+addressee: GUS
+
+speaker: KING
+addressee: GUS
+
+speaker: AMITY
+addressee: GUS
+
+speaker: AMITY
+addressee: GUS
+
+speaker: LUZ
+addressee: GUS
+
+speaker: AMITY
+addressee: WILLOW
+
+speaker: AMITY
+addressee: WILLOW
+
+speaker: LUZ
+addressee: WILLOW
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: LUZ
+addressee: EDA
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: KIKIMORA
+addressee: LUZ
+
+speaker: KIKIMORA
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: GUS
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: WILLOW
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: BEAST EDA
+addressee: LUZ
+
+speaker: HOOTY
+addressee: LUZ
+
+speaker: KING
+addressee: HOOTY
+
+speaker: BEAST EDA
+addressee: HOOTY
+
+speaker: KING
+addressee: HOOTY
+
+speaker: KING
+addressee: HOOTY
+
+speaker: LILITH
+addressee: HOOTY
+
+speaker: LUZ
+addressee: HOOTY
+
+speaker: BEAST EDA
+addressee: HOOTY
+
+speaker: LILITH
+addressee: HOOTY
+
+speaker: LILITH
+addressee: HOOTY
+
+speaker: BEAST EDA
+addressee: HOOTY
+
+speaker: LILITH
+addressee: HOOTY
+
+speaker: LILITH
+addressee: HOOTY
+
+speaker: LUZ
+addressee: HOOTY
+
+speaker: LILITH
+addressee: HOOTY
